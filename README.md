@@ -1,4 +1,15 @@
-# TODO add back DATASETS/EXAMPLES
+# Notes 
+ Educational school project which is based off "On Learning Meaningful Assert Statements for Unit Test Cases", reference paper can be found [here](https://arxiv.org/pdf/2002.05800.pdf). The paper introduces a Neural Machine Translation (NMT) based approach called Atlas (AuTomatic Learning of Assert Statements) to automante (some) unit test creation. 
+
+ #Notes 
+
+## Focal vs Test Method 
+A "focal method" refers to a specific method within the production code that is being tested by a particular assert statement in a test method.
+1. Test Method: This is a method specifically created to test some functionality within your code. Test methods typically contain assertions that check whether the code being tested behaves as expected.
+2. Focal Method: The "focal method" is the method in the production code (the actual codebase you're testing) that the test method is focused on testing. In other words, it's the method whose behavior is being verified by the assert statement in the test method.
+
+
+
 # ATLAS - Deep Learning Assert Statements
 ATLAS, our neural machine translation based approach, automatically learns how to generate assert statements for a given test and focal method.
 ATLAS provides instructions, datasets, and a deep learning infrastructure (based on [seq2seq](https://google.github.io/seq2seq/)) that aims at learning how to *translate* a test and focal method into an appropriate and accurate assert statement.

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { METHOD_2 ( ) ; return statement . METHOD_1 ( ) ; }
+org . junit . Assert . assertThat ( stmt . METHOD_1 ( ) , org . hamcrest . core . Is . is ( 0 ) ) 

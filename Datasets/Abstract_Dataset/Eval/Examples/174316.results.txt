@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File file = com . streamsets . pipeline . lib . util . IDENT_0 . METHOD_1 ( ) ; java . io . IDENT_1 IDENT_2 = new java . io . METHOD_2 ( file ) ; com . streamsets . pipeline . lib . parser . avro . IDENT_3 IDENT_4 = new com . streamsets . pipeline . lib . parser . avro . METHOD_3 ( IDENT_2 , 200 , true ) ; "<AssertPlaceHolder>" ; } length ( ) { return in . METHOD_4 ( ) . size ( ) ; }
+org . junit . Assert . assertEquals ( file . length ( ) , IDENT_4 . length ( ) ) 

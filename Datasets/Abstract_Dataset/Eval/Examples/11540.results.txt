@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . data . test . domain . IDENT_1 IDENT_2 = new org . apache . IDENT_0 . data . test . domain . METHOD_1 ( "foo" , "bar" ) ; IDENT_2 = IDENT_3 . save ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } save ( IDENT_4 ) { if ( context . METHOD_2 ( entity ) ) { METHOD_3 ( ) . METHOD_4 ( entity ) ; return entity ; } return METHOD_3 ( ) . METHOD_5 ( entity ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . jboss . IDENT_0 . IDENT_1 . ui . command . IDENT_2 > list = org . jboss . IDENT_0 . IDENT_3 . util . Lists . toList ( IDENT_4 . METHOD_1 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return registry . METHOD_2 ( org . jboss . IDENT_0 . IDENT_1 . ui . command . IDENT_2 . class ) ; }
+org . junit . Assert . assertEquals ( 6 , list . size ( ) ) 

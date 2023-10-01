@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { java . util . List < javax . IDENT_1 . model . IDENT_2 > IDENT_3 = METHOD_2 ( ) . METHOD_3 ( ) ; boolean result = ( IDENT_3 . size ( ) ) <= 1 ; return result ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_0 ( ) ) 

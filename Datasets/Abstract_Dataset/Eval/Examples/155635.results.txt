@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . IDENT_0 < org . IDENT_1 . IDENT_2 . IDENT_3 > IDENT_4 = METHOD_1 ( ) ; java . util . Iterator < org . IDENT_1 . IDENT_2 . IDENT_3 > iterator = IDENT_4 . iterator ( ) ; "<AssertPlaceHolder>" ; iterator . next ( ) ; } METHOD_1 ( ) { java . lang . String input = STRING_0 ; return org . IDENT_1 . IDENT_2 . IDENT_5 . builder ( ) . build ( ) . METHOD_2 ( input ) ; }
+org . junit . Assert . assertNotNull ( iterator . next ( ) ) 

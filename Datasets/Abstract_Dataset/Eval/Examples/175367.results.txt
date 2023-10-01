@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . IDENT_1 . support . maven . IDENT_2 IDENT_3 = new io . IDENT_0 . IDENT_1 . support . maven . METHOD_1 ( ) ; com . fasterxml . jackson . databind . IDENT_4 IDENT_5 = IDENT_3 . METHOD_2 ( METHOD_3 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { java . net . URL IDENT_6 = getClass ( ) . getResource ( IDENT_7 ) ; org . junit . Assert . assertNotNull ( IDENT_6 ) ; java . net . URI IDENT_8 = IDENT_6 . METHOD_4 ( ) ; return new java . io . File ( IDENT_8 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_5 ) 

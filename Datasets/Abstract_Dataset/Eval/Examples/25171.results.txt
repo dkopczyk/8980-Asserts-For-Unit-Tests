@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . tomcat . IDENT_0 . server . IDENT_1 t = new org . apache . tomcat . IDENT_0 . server . METHOD_1 ( STRING_0 ) ; java . util . Map < java . lang . String , java . lang . String > result = t . match ( new org . apache . tomcat . IDENT_0 . server . METHOD_1 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_2 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , result . size ( ) ) 

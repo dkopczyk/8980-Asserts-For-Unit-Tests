@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Collection < org . onosproject . IDENT_0 . net . IDENT_1 . IDENT_2 . IDENT_3 > IDENT_4 = new java . util . ArrayList ( ) ; org . onosproject . IDENT_0 . net . IDENT_1 . IDENT_2 . IDENT_5 IDENT_6 = IDENT_7 . METHOD_1 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( METHOD_2 ) != null ) { return com . google . common . collect . Lists . newArrayList ( METHOD_2 ) ; } return com . google . common . collect . Lists . newArrayList ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_6 . METHOD_2 ( ) ) 

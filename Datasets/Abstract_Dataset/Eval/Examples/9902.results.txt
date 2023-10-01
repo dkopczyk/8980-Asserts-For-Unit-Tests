@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . commons . IDENT_0 . IDENT_1 p = new org . apache . commons . IDENT_0 . adapter . METHOD_1 ( org . apache . commons . IDENT_0 . core . IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } test ( ) { return ( ( count ) OP_0 ) > 0 ; }
+org . junit . Assert . assertTrue ( ( ! ( p . test ( ) ) ) ) 

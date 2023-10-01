@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . v4 . IDENT_1 e = new org . IDENT_0 . v4 . METHOD_1 ( STRING_0 ) ; e . add ( STRING_1 , java . util . Arrays . asList ( STRING_2 , STRING_3 ) ) ; java . lang . String IDENT_2 = STRING_4 ; "<AssertPlaceHolder>" ; } render ( ) { return render ( java . util . Locale . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 , e . render ( ) ) 

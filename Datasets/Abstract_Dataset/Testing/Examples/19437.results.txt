@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int t = INT_0 ; t = METHOD_1 ( t ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( T ) { return METHOD_1 ( object , s , p ) ; }
+org . junit . Assert . assertEquals ( INT_0 , t ) 

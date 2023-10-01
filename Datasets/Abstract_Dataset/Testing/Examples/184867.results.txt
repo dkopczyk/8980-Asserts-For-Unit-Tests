@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . client . IDENT_0 . grid . IDENT_1 . IDENT_2 < java . lang . Integer > IDENT_3 = new com . vaadin . client . IDENT_0 . grid . IDENT_1 . METHOD_1 ( 3 , 4 , 2 , 3 , 1 ) ; IDENT_3 . METHOD_2 ( ( IDENT_4 , IDENT_5 ) -> IDENT_4 . compareTo ( IDENT_5 ) ) ; "<AssertPlaceHolder>" ; } asList ( ) { return IDENT_6 ; }
+org . junit . Assert . assertTrue ( java . util . Arrays . equals ( IDENT_3 . asList ( ) . toArray ( ) , new java . lang . Integer [ ] { 1 , 2 , 3 , 3 , 4 } ) ) 

@@ -1,0 +1,2 @@
+write ( ) { com . asakusafw . runtime . io . json . value . IDENT_0 adapter = builder . build ( ) ; com . asakusafw . runtime . io . json . value . IDENT_1 writer = new com . asakusafw . runtime . io . json . value . METHOD_0 ( ) ; adapter . write ( new com . asakusafw . runtime . value . METHOD_1 ( 2.0 ) , writer ) ; "<AssertPlaceHolder>" ; } get ( ) { if ( IDENT_2 ) { return next ; } throw new java . io . IOException ( ) ; }
+org . junit . Assert . assertThat ( writer . get ( ) , is ( 2.0 ) ) 

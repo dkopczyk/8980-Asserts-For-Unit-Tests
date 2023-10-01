@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . Object [ ] IDENT_1 = new java . lang . Object [ ] { } ; br . com . IDENT_2 . IDENT_3 . validator . IDENT_4 message = new br . com . IDENT_2 . IDENT_3 . validator . METHOD_1 ( STRING_1 , IDENT_0 , IDENT_1 ) ; "<AssertPlaceHolder>" ; } getMessage ( ) { return message . getMessage ( ) ; }
+org . junit . Assert . assertThat ( message . getMessage ( ) , org . hamcrest . Matchers . is ( IDENT_0 ) ) 

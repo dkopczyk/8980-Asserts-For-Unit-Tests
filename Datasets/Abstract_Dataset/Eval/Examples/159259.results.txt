@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscarehr . IDENT_0 . IDENT_1 . IDENT_2 . model . IDENT_3 entity = new org . oscarehr . IDENT_0 . IDENT_1 . IDENT_2 . model . METHOD_1 ( ) ; org . oscarehr . common . dao . utils . IDENT_4 . METHOD_2 ( entity ) ; entity . setId ( 1 ) ; dao . METHOD_3 ( entity ) ; "<AssertPlaceHolder>" ; } getId ( ) { return this . id ; }
+org . junit . Assert . assertNotNull ( entity . getId ( ) ) 

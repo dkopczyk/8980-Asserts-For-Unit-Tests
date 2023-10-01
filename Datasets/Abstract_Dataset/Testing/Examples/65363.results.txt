@@ -1,0 +1,2 @@
+METHOD_0 ( ) { t . METHOD_1 ( INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return count ; }
+org . junit . Assert . assertTrue ( ( ( t . METHOD_2 ( ) ) == INT_0 ) ) 

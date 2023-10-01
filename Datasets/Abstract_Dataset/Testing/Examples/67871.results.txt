@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( org . exist . util . IDENT_0 . IDENT_1 . METHOD_2 ( INT_0 ) , METHOD_3 ( INT_1 ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . Long ) { return map . get ( k ) ; }
+org . junit . Assert . assertEquals ( METHOD_4 ( org . exist . util . IDENT_0 . IDENT_1 . METHOD_2 ( INT_0 ) ) , METHOD_3 ( INT_1 ) ) 

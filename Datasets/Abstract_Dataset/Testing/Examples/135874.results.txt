@@ -1,0 +1,2 @@
+METHOD_0 ( ) { channel . METHOD_1 ( new org . springframework . integration . message . IDENT_0 < org . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 > ( new org . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_2 ( ) ) , INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( 2 , listener . METHOD_3 ( ) ) 

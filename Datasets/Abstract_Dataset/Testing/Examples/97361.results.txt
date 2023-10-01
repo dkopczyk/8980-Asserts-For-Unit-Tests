@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . util . List < java . lang . String > > headers = new java . util . HashMap ( ) ; headers . put ( STRING_0 , java . util . Collections . < java . lang . String > emptyList ( ) ) ; org . jsoup . helper . IDENT_0 . Response res = new org . jsoup . helper . IDENT_0 . Response ( ) ; res . METHOD_1 ( headers ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return METHOD_2 ; }
+org . junit . Assert . assertEquals ( 0 , res . METHOD_2 ( ) . size ( ) ) 

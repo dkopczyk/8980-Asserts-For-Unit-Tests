@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . liferay . data . engine . service . test . IDENT_0 . METHOD_1 ( IDENT_1 , IDENT_2 , STRING_0 , STRING_1 , IDENT_3 ) ; com . liferay . data . engine . service . test . IDENT_0 . METHOD_1 ( IDENT_1 , IDENT_2 , STRING_2 , STRING_3 , IDENT_3 ) ; int IDENT_4 = METHOD_2 ( IDENT_2 , "name" ) ; com . liferay . portal . search . test . util . IDENT_5 . METHOD_3 ( 3 , TimeUnit . IDENT_6 , ( ) -> { "<AssertPlaceHolder>" ; return null ; } ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_4 ) 

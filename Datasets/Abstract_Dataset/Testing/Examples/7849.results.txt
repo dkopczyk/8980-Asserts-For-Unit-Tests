@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = java . lang . System . currentTimeMillis ( ) ; org . apache . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = IDENT_3 . IDENT_5 . apply ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_0 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_4 . METHOD_1 ( ) ) 

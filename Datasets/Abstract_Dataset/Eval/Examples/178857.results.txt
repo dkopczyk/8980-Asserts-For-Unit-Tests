@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . junit . filter . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . junit . filter . IDENT_4 . IDENT_5 . METHOD_1 ( ) { @ org . IDENT_0 . junit . filter . IDENT_4 . Override public boolean METHOD_2 ( ) { return false ; } } ; java . util . Collection < java . lang . Class < ? > > classes = new org . IDENT_0 . junit . filter . IDENT_4 . METHOD_3 ( IDENT_3 ) . find ( ) ; "<AssertPlaceHolder>" ; } size ( ) { METHOD_4 ( ) ; return tokens . length ; }
+org . junit . Assert . assertEquals ( 7 , classes . size ( ) ) 

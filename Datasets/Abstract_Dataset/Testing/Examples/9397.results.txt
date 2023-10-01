@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . cloud . network . IDENT_0 . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( " " ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( org . apache . commons . lang . StringUtils . METHOD_2 ( IDENT_4 ) ) { return null ; } com . cloud . network . IDENT_0 . IDENT_1 IDENT_5 = IDENT_6 . METHOD_3 ( IDENT_4 ) ; if ( IDENT_5 == null ) { throw new com . cloud . exception . METHOD_4 ( java . lang . String . format ( STRING_0 , IDENT_4 ) ) ; } return IDENT_5 ; }
+org . junit . Assert . assertNull ( IDENT_2 ) 

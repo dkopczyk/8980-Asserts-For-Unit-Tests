@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . IDENT_1 . engine . IDENT_2 . IDENT_3 IDENT_4 = this . IDENT_5 . METHOD_1 ( org . IDENT_0 . IDENT_1 . engine . IDENT_2 . IDENT_6 . IDENT_7 ) . METHOD_2 ( org . IDENT_0 . IDENT_1 . engine . IDENT_2 . IDENT_6 . IDENT_8 ) . METHOD_3 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return ( a ) -> a . METHOD_4 ( ) ; }
+org . junit . Assert . assertThat ( IDENT_4 . METHOD_4 ( ) , org . hamcrest . Matchers . is ( true ) ) 

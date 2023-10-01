@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; long actual = parser . METHOD_1 ( IDENT_0 ) ; long expected = INT_0 ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . lang . String [ ] arr = element . split ( STRING_1 ) ; if ( ( arr . length ) == 2 ) { return java . lang . Long . valueOf ( arr [ 1 ] ) ; } else { return 1L ; } }
+org . junit . Assert . assertEquals ( expected , actual ) 

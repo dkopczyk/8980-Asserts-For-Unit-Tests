@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . test . IDENT_1 . logger . info ( STRING_0 ) ; IDENT_0 . test . IDENT_1 . em . METHOD_1 ( ) ; javax . persistence . Query query = IDENT_0 . test . IDENT_1 . em . METHOD_2 ( STRING_1 ) ; query . METHOD_3 ( STRING_2 , IDENT_2 ) ; IDENT_0 . model . IDENT_3 IDENT_4 = ( ( IDENT_0 . model . IDENT_3 ) ( query . METHOD_4 ( ) ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

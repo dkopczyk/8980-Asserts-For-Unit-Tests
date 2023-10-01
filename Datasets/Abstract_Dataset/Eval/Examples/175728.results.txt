@@ -1,0 +1,2 @@
+METHOD_0 ( ) { properties . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . IDENT_0 ; }
+org . junit . Assert . assertEquals ( STRING_0 , properties . METHOD_2 ( ) ) 

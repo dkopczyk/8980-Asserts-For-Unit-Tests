@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( org . IDENT_0 . database . IDENT_1 . session ) == null ) { org . IDENT_0 . database . IDENT_1 . session = org . IDENT_0 . database . IDENT_1 . METHOD_2 ( ) . METHOD_3 ( ) ; org . IDENT_0 . database . IDENT_1 . session . METHOD_4 ( ) ; } return org . IDENT_0 . database . IDENT_1 . session ; }
+org . junit . Assert . assertSame ( org . IDENT_0 . database . IDENT_1 . METHOD_1 ( ) , org . IDENT_0 . database . IDENT_1 . METHOD_1 ( ) ) 

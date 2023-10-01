@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] input = new byte [ ] { ( ( byte ) ( 255 ) ) , ( ( byte ) ( 255 ) ) , ( ( byte ) ( 255 ) ) , ( ( byte ) ( 255 ) ) , ( ( byte ) ( 8 ) ) } ; io . netty . buffer . IDENT_0 in = io . netty . buffer . IDENT_1 . METHOD_1 ( input ) ; final int IDENT_2 = in . METHOD_2 ( ) ; try { io . netty . handler . codec . IDENT_3 . IDENT_4 . METHOD_3 ( in , 0 ) ; } finally { "<AssertPlaceHolder>" ; in . METHOD_4 ( ) ; } } METHOD_2 ( ) { return buffer . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( METHOD_2 , in . METHOD_2 ( ) ) 

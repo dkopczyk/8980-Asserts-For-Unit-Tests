@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . camunda . bpm . engine . batch . IDENT_0 batch = helper . METHOD_1 ( 1 ) ; IDENT_1 . METHOD_2 ( batch . getId ( ) ) ; helper . METHOD_3 ( batch ) ; org . camunda . bpm . engine . runtime . IDENT_2 IDENT_3 = helper . METHOD_4 ( batch ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return ( state ) == ( org . camunda . bpm . engine . impl . IDENT_4 . event . IDENT_5 . METHOD_6 ( ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_3 . METHOD_5 ( ) ) 

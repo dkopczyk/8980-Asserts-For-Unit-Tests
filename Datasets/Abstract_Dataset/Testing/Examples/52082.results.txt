@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nd4j . linalg . api . ndarray . INDArray ret = org . nd4j . linalg . factory . Nd4j . create ( new int [ ] { 4 , 2 } ) ; "<AssertPlaceHolder>" ; } length ( ) { return IDENT_0 . length ; }
+org . junit . Assert . assertEquals ( ret . length ( ) , 8 ) 

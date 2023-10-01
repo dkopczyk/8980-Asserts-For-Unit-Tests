@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . cloud . IDENT_0 . IDENT_1 IDENT_2 = com . google . cloud . IDENT_0 . IDENT_1 . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( this ) == ( com . google . IDENT_3 . admin . v1 . IDENT_4 . IDENT_5 ) ? new com . google . IDENT_3 . admin . v1 . IDENT_4 . Builder ( ) : new com . google . IDENT_3 . admin . v1 . IDENT_4 . Builder ( ) . METHOD_4 ( this ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_2 . METHOD_3 ( ) . build ( ) ) 

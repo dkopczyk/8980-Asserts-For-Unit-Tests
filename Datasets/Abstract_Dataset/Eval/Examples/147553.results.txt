@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ca . IDENT_0 . IDENT_1 . IDENT_2 . model . user . IDENT_3 IDENT_4 = IDENT_5 . read ( STRING_0 ) ; "<AssertPlaceHolder>" ; IDENT_5 . delete ( STRING_0 ) ; IDENT_5 . read ( STRING_0 ) ; } read ( java . lang . String ) { ca . IDENT_0 . IDENT_1 . IDENT_2 . model . IDENT_6 IDENT_7 = IDENT_8 . METHOD_1 ( uri ) ; if ( IDENT_7 == null ) { throw new ca . IDENT_0 . IDENT_1 . IDENT_2 . exceptions . METHOD_2 ( ( STRING_1 + uri ) ) ; } return read ( uri , IDENT_7 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . String > exp = new java . util . HashMap < java . lang . String , java . lang . String > ( ) ; exp . put ( "name" , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return METHOD_1 ( com . IDENT_0 . internal . IDENT_1 . model . IDENT_2 . IDENT_3 ) ; }
+org . junit . Assert . assertEquals ( exp , config . METHOD_0 ( ) ) 

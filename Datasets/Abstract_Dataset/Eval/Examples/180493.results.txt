@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . set ( "" ) ; org . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 strategy = new org . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) ; org . IDENT_2 . core . repository . IDENT_6 state = METHOD_2 ( org . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_7 . IDENT_8 ) ; boolean IDENT_9 = strategy . METHOD_3 ( state , METHOD_4 ( org . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_7 . IDENT_10 ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return new org . IDENT_2 . core . user . METHOD_5 ( string ) ; }
+org . junit . Assert . assertFalse ( IDENT_9 ) 

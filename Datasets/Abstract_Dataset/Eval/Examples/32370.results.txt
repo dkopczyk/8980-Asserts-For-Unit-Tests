@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = ( ( cloud . IDENT_1 . IDENT_2 . helpers . data . IDENT_3 . IDENT_4 ) + ( IDENT_5 . IDENT_6 ) ) + 1 ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String ) { return IDENT_0 . substring ( 0 , IDENT_0 . METHOD_1 ( cloud . IDENT_1 . IDENT_2 . IDENT_7 . IDENT_5 . IDENT_6 ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 . IDENT_4 , cloud . IDENT_1 . IDENT_2 . IDENT_7 . IDENT_5 . METHOD_0 ( IDENT_0 ) ) 

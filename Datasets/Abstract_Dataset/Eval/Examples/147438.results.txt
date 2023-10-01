@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . IDENT_0 IDENT_1 = IDENT_2 . METHOD_1 ( ( STRING_0 + ( expr ) ) ) ; try { java . sql . ResultSet rs = IDENT_1 . METHOD_2 ( ) ; rs . next ( ) ; java . lang . String val = rs . getString ( 1 ) ; "<AssertPlaceHolder>" ; } catch ( java . sql . IDENT_3 e ) { org . IDENT_4 . test . IDENT_5 . METHOD_3 ( IDENT_1 ) ; } } getString ( java . lang . String ) { throw org . IDENT_4 . IDENT_6 . METHOD_4 ( this . getClass ( ) , STRING_1 ) ; }
+org . junit . Assert . assertEquals ( expected , val ) 

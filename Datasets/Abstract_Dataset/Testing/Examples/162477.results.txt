@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < java . lang . String > set = new java . util . HashSet ( ) ; IDENT_0 . IDENT_1 . model . IDENT_2 . IDENT_3 . METHOD_1 ( set , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . Set , java . lang . String ) { if ( IDENT_4 != null ) { IDENT_0 . IDENT_1 . model . IDENT_2 . IDENT_3 . METHOD_2 ( IDENT_4 , set ) ; } }
+org . junit . Assert . assertArrayEquals ( new java . lang . String [ ] { "foo" } , set . toArray ( ) ) 

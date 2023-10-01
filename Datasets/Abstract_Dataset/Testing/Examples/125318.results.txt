@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int c = de . IDENT_0 . IDENT_1 . core . IDENT_2 . METHOD_1 ( INT_0 , 10 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int , int ) { return a OP_0 b ; }
+org . junit . Assert . assertEquals ( 3 , c , 0 ) 

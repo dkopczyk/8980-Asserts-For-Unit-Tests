@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; com . flow . platform . api . domain . node . Node mock = new com . flow . platform . api . domain . node . Node ( STRING_0 , STRING_0 ) ; IDENT_0 . save ( mock , com . flow . platform . api . IDENT_1 . IDENT_2 . build ( IDENT_3 . IDENT_4 . name ( ) , STRING_1 ) , true ) ; } METHOD_1 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertTrue ( IDENT_3 . IDENT_4 . METHOD_1 ( ) ) 

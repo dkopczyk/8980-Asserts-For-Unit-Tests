@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Exception exception = null ; try { driver . METHOD_1 ( org . openqa . selenium . IDENT_0 . METHOD_2 ( METHOD_2 ) ) ; } catch ( org . openqa . selenium . IDENT_1 e ) { exception = e ; } "<AssertPlaceHolder>" ; } METHOD_1 ( org . openqa . selenium . IDENT_0 ) { return IDENT_2 . METHOD_1 ( this ) ; }
+org . junit . Assert . assertNull ( exception ) 

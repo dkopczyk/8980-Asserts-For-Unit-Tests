@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . IDENT_0 . IDENT_1 . conversie . IDENT_2 . logging . IDENT_3 logging = new nl . IDENT_0 . IDENT_1 . conversie . IDENT_2 . logging . METHOD_1 ( new java . util . IDENT_4 < nl . IDENT_0 . IDENT_1 . conversie . model . logging . IDENT_5 > ( ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( logging ) 

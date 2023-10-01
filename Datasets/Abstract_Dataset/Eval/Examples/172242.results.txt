@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . mongodb . examples . IDENT_0 . domain . IDENT_1 c = new org . springframework . data . mongodb . examples . IDENT_0 . domain . METHOD_1 ( ) ; c . METHOD_2 ( STRING_0 ) ; c . METHOD_3 ( STRING_1 ) ; IDENT_2 . save ( c ) ; java . util . List < org . springframework . data . mongodb . examples . IDENT_0 . domain . METHOD_1 > results = IDENT_2 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . headers . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , results . size ( ) ) 

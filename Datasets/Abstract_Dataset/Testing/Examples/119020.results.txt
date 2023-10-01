@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . brp . bijhouding . bericht . model . IDENT_0 bericht = METHOD_1 ( METHOD_2 ( java . util . Collections . emptyList ( ) ) ) ; final java . lang . String IDENT_1 = STRING_0 ; bericht . METHOD_3 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( IDENT_1 , bericht . METHOD_4 ( ) ) 

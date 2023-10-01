@@ -1,0 +1,2 @@
+test ( ) { fr . IDENT_0 . IDENT_1 . IDENT_2 . jenkins . IDENT_3 jenkins = new fr . IDENT_0 . IDENT_1 . IDENT_2 . jenkins . METHOD_0 ( STRING_0 , "" , "" ) ; java . util . List < fr . IDENT_0 . IDENT_1 . IDENT_2 . hudson . domain . IDENT_4 > IDENT_5 = jenkins . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return false ; }
+org . junit . Assert . assertFalse ( IDENT_5 . isEmpty ( ) ) 

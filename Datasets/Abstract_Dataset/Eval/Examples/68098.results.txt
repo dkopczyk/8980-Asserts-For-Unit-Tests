@@ -1,0 +1,2 @@
+METHOD_0 ( java . lang . String , int , int ) { "<AssertPlaceHolder>" ; } METHOD_1 ( int , int ) { return new net . sf . IDENT_0 . util . METHOD_2 ( bytes , ( ( this . start ) + start ) , ( ( this . start ) + end ) ) ; }
+org . junit . Assert . assertEquals ( s , b . METHOD_1 ( x , y ) . toString ( ) ) 

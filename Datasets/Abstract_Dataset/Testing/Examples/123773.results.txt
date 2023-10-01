@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final boolean IDENT_0 = IDENT_1 . METHOD_1 ( null , context , this . IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( nl . bzk . brp . model . IDENT_3 . IDENT_4 , nl . bzk . brp . business . IDENT_5 . IDENT_6 , nl . bzk . brp . business . IDENT_5 . IDENT_7 ) { IDENT_8 = new nl . bzk . brp . IDENT_9 . business . IDENT_5 . METHOD_2 ( ) ; METHOD_3 ( IDENT_10 , IDENT_8 ) ; return true ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

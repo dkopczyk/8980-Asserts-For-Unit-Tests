@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . reflect . Field field = com . github . IDENT_0 . core . util . IDENT_1 . METHOD_1 ( com . github . IDENT_0 . core . util . IDENT_2 . IDENT_3 . class , "a" ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class , java . lang . String ) { return com . github . IDENT_0 . core . util . IDENT_1 . METHOD_1 ( clazz , IDENT_4 , clazz ) ; }
+org . junit . Assert . assertNotNull ( field ) 

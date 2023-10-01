@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . put ( 1 , 1 , ( ( byte ) ( 1 ) ) , INT_0 ) ; METHOD_1 ( ) ; IDENT_1 . remove ( 1 , null , ( ( byte ) ( 2 ) ) , INT_0 ) ; METHOD_2 ( INT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { int t = 0 ; for ( ; t < IDENT_2 ; t ++ ) { if ( IDENT_0 . equals ( IDENT_1 ) ) break ; java . lang . Thread . sleep ( 1 ) ; } }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_1 ) 

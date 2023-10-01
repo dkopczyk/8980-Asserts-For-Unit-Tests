@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; java . io . File file = new java . io . File ( IDENT_0 . METHOD_2 ( ) . getProperty ( STRING_1 ) , STRING_2 ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . String ) { return super . METHOD_2 ( ) . getProperty ( property ) ; }
+org . junit . Assert . assertTrue ( file . exists ( ) ) 

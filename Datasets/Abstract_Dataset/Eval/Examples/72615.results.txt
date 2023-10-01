@@ -1,0 +1,2 @@
+METHOD_0 ( ) { edu . IDENT_0 . IDENT_1 . graph . IDENT_2 < java . lang . String > g = new edu . IDENT_0 . IDENT_1 . graph . IDENT_2 < java . lang . String > ( ) ; edu . IDENT_0 . IDENT_1 . graph . Set < edu . IDENT_0 . IDENT_1 . graph . IDENT_3 < java . lang . String > > IDENT_4 = g . METHOD_1 ( 0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . length ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_4 . size ( ) ) 

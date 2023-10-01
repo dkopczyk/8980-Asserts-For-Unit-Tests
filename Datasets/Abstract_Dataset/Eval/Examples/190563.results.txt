@@ -1,0 +1,2 @@
+METHOD_0 ( ) { headers . add ( STRING_0 , "value" ) ; "<AssertPlaceHolder>" ; } contains ( java . lang . IDENT_0 ) { return delegate . contains ( name ) ; }
+org . junit . Assert . assertTrue ( headers . contains ( STRING_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . data . internal . controller . IDENT_1 < java . util . List < org . IDENT_0 . data . IDENT_2 > > controller = ( ( org . IDENT_0 . data . internal . controller . IDENT_1 < java . util . List < org . IDENT_0 . data . IDENT_2 > > ) ( this . IDENT_3 . METHOD_1 ( ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return true ; }
+org . junit . Assert . assertTrue ( controller . METHOD_2 ( ) ) 

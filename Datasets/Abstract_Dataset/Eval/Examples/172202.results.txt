@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . IDENT_0 . IDENT_1 . Person person = repository . METHOD_1 ( IDENT_2 . getId ( ) . toString ( ) ) ; org . springframework . util . Assert . METHOD_2 ( org . springframework . data . IDENT_0 . IDENT_1 . Person . class , person ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( IDENT_3 extends java . io . IDENT_4 ) { return operations . METHOD_3 ( id , IDENT_5 . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertThat ( repository . METHOD_1 ( IDENT_2 . getId ( ) . toString ( ) ) , is ( IDENT_2 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { params . METHOD_1 ( false ) ; params . METHOD_2 ( new com . github . IDENT_0 . IDENT_1 . options . METHOD_3 ( STRING_0 ) . METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertThat ( params . METHOD_4 ( ) , org . hamcrest . Matchers . equalTo ( false ) ) 

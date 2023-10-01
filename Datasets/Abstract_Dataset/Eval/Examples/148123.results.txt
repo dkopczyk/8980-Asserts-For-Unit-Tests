@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . springframework . IDENT_1 . IDENT_2 . render . IDENT_3 IDENT_4 = new org . springframework . IDENT_1 . IDENT_2 . render . METHOD_1 ( IDENT_0 ) ; org . springframework . IDENT_1 . IDENT_2 . servlet . view . IDENT_5 view = new org . springframework . IDENT_1 . IDENT_2 . servlet . view . METHOD_2 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_4 ( ) . METHOD_5 ( ) ; }
+org . junit . Assert . assertThat ( view . METHOD_3 ( ) , org . hamcrest . Matchers . is ( IDENT_0 ) ) 

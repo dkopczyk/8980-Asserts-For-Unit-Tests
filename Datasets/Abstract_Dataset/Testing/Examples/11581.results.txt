@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . data . impl . property . IDENT_1 < java . lang . Boolean > p = org . apache . IDENT_0 . data . impl . property . Properties . METHOD_1 ( org . apache . IDENT_0 . data . impl . property . IDENT_2 . class . METHOD_2 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . reflect . Field ) { return new org . apache . IDENT_0 . data . impl . property . IDENT_3 < IDENT_4 > ( field ) ; }
+org . junit . Assert . assertNotNull ( p ) 

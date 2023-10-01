@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] bytes = com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( "" ) ; com . IDENT_0 . IDENT_1 . IDENT_3 parser = new com . IDENT_0 . IDENT_1 . METHOD_2 ( com . IDENT_0 . IDENT_1 . IDENT_4 . LOG ) ; com . IDENT_0 . IDENT_1 . IDENT_5 IDENT_6 = parser . parse ( bytes , 0 , bytes . length ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_6 . METHOD_3 ( ) . size ( ) ) 

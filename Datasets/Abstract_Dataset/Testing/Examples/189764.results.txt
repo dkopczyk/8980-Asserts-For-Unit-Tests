@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] a = new byte [ INT_0 ] ; long size = org . jboss . IDENT_0 . IDENT_1 . METHOD_1 ( a ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object ) { if ( ( org . jboss . IDENT_0 . IDENT_1 . IDENT_2 ) == null ) { org . jboss . IDENT_0 . IDENT_3 . METHOD_2 ( ) ; if ( ( org . jboss . IDENT_0 . IDENT_1 . IDENT_2 ) == null ) { throw new java . lang . IllegalStateException ( STRING_0 ) ; } } return org . jboss . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( obj ) ; }
+org . junit . Assert . assertTrue ( ( size >= INT_0 ) ) 

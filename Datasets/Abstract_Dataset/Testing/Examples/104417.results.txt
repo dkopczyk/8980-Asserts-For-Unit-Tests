@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Double a = - FLOAT_0 ; double IDENT_0 = METHOD_1 ( a ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( double ) { METHOD_2 ( ( input > 0.0 ) , STRING_0 , input ) ; return java . lang . Math . METHOD_1 ( input ) ; }
+org . junit . Assert . assertEquals ( 2.0 , METHOD_1 , 0 ) 

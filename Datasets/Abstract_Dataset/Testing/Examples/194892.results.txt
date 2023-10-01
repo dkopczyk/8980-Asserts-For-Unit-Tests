@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < nl . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 > records = file . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 10 , records . size ( ) ) 

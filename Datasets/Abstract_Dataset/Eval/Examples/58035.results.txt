@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . collections . api . list . ImmutableList < java . lang . Integer > IDENT_0 = this . METHOD_1 ( 3 , 3 , 3 , 2 , 2 , 1 ) ; java . util . List < java . lang . Integer > list = IDENT_0 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this ; }
+org . junit . Assert . assertSame ( IDENT_0 , list ) 

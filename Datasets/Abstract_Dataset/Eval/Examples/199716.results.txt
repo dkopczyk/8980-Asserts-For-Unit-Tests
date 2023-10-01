@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . time . IDENT_0 date = java . time . IDENT_0 . of ( INT_0 , IDENT_1 . IDENT_2 , 4 ) ; java . lang . Integer IDENT_3 = date . query ( new com . IDENT_4 . java . date . query . METHOD_1 ( ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( new java . lang . Integer ( 1 ) , IDENT_3 ) 

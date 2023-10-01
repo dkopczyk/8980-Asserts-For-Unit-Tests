@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . core . interceptor . rest . IDENT_2 client = new com . IDENT_0 . IDENT_1 . core . interceptor . rest . METHOD_1 ( ) ; client . METHOD_2 ( ) . METHOD_3 ( IDENT_3 . IDENT_4 , IDENT_5 . IDENT_6 ) ; org . apache . commons . IDENT_7 . methods . IDENT_8 get = new org . apache . commons . IDENT_7 . methods . METHOD_4 ( STRING_0 ) ; int status = client . METHOD_5 ( get ) ; System . out . println ( get . METHOD_6 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return params ; }
+org . junit . Assert . assertEquals ( 200 , status ) 

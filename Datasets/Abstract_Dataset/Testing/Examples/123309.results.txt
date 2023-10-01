@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . IDENT_0 . IDENT_1 . conversie . model . IDENT_2 . element . IDENT_3 IDENT_4 = new nl . IDENT_0 . IDENT_1 . conversie . model . IDENT_2 . element . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertFalse ( IDENT_4 . METHOD_2 ( ) ) 

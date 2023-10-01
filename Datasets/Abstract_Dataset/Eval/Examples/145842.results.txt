@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return this . document ; }
+org . junit . Assert . assertEquals ( document , image . METHOD_1 ( ) ) 

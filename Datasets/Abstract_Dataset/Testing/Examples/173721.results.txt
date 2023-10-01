@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . tests . model . IDENT_1 . IDENT_2 < java . lang . String > IDENT_3 = METHOD_1 ( STRING_0 ) ; IDENT_3 . set ( IDENT_4 . util . IDENT_5 . list ( "a" , "b" ) ) ; IDENT_6 . METHOD_2 ( IDENT_7 ) . METHOD_3 ( "b" ) . in ( IDENT_3 ) ; IDENT_7 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } get ( ) { return org . IDENT_0 . widgets . IDENT_8 . METHOD_5 ( ) ; }
+org . junit . Assert . assertThat ( IDENT_3 . get ( ) , org . hamcrest . Matchers . contains ( "b" , "a" ) ) 

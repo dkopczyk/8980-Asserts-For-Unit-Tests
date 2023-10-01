@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . reflect . Method method = com . alibaba . dubbo . common . utils . IDENT_0 . class . METHOD_1 ( STRING_0 , long . class ) ; "<AssertPlaceHolder>" ; java . lang . Object value = com . alibaba . dubbo . common . utils . IDENT_1 . METHOD_2 ( STRING_1 , method . METHOD_3 ( ) [ 0 ] , method . METHOD_4 ( ) [ 0 ] ) ; method . invoke ( new com . alibaba . dubbo . common . utils . METHOD_5 ( ) , value ) ; }
+org . junit . Assert . assertNotNull ( method ) 

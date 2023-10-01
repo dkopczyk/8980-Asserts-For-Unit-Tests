@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( false , false , false ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( nl . bzk . migratiebrp . synchronisatie . dal . domein . brp . kern . entity . IDENT_0 , nl . bzk . migratiebrp . bericht . model . sync . impl . IDENT_1 ) { final nl . bzk . migratiebrp . bericht . model . sync . IDENT_2 . IDENT_3 IDENT_4 = IDENT_5 . METHOD_3 ( ) ; if ( IDENT_4 == null ) { return false ; } return IDENT_6 . METHOD_4 ( ) . isEmpty ( ) ; }
+org . junit . Assert . assertFalse ( subject . METHOD_2 ( IDENT_4 , IDENT_5 ) ) 

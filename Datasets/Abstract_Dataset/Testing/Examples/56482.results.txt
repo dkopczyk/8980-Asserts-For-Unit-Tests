@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . sun . IDENT_0 . impl . kernel . IDENT_1 . IDENT_2 runner = new com . sun . IDENT_0 . impl . kernel . IDENT_1 . METHOD_1 ( INT_0 ) ; IDENT_3 . METHOD_2 ( runner , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertTrue ( runner . METHOD_3 ( ) ) 

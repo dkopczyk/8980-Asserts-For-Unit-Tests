@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( STRING_0 ) ) . thenReturn ( null ) ; when ( IDENT_1 . METHOD_2 ( STRING_1 , STRING_2 ) ) . thenReturn ( java . util . Collections . singletonList ( IDENT_2 ) ) ; command . METHOD_3 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; verify ( IDENT_0 ) . METHOD_4 ( ) ; } METHOD_5 ( ) { return length ; }
+org . junit . Assert . assertEquals ( 0 , command . METHOD_5 ( ) ) 

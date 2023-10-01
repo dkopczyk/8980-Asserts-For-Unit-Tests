@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = METHOD_1 ( ) ; IDENT_0 = IDENT_1 . create ( IDENT_0 ) ; IDENT_1 . delete ( java . lang . Long . METHOD_2 ( IDENT_0 . getId ( ) ) ) ; IDENT_0 = null ; "<AssertPlaceHolder>" ; } METHOD_3 ( long ) { return IDENT_2 . METHOD_4 ( org . sagebionetworks . repo . model . IDENT_3 . dao . IDENT_4 . IDENT_5 , org . sagebionetworks . repo . model . IDENT_3 . dao . Long . class , IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_1 . METHOD_3 ( IDENT_6 ) ) 

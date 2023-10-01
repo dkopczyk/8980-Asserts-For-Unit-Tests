@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . IDENT_1 buf = ( ( com . eclipsesource . IDENT_0 . IDENT_1 ) ( IDENT_0 . METHOD_1 ( ( STRING_0 + STRING_1 ) ) ) ) ; com . eclipsesource . IDENT_0 . IDENT_1 result = ( ( com . eclipsesource . IDENT_0 . utils . IDENT_2 ) ( com . eclipsesource . IDENT_0 . utils . IDENT_3 . getValue ( buf ) ) ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; buf . close ( ) ; result . close ( ) ; } METHOD_3 ( ) { IDENT_0 . METHOD_4 ( ) ; METHOD_5 ( ) ; return IDENT_4 . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( 100 , result . METHOD_3 ( ) ) 

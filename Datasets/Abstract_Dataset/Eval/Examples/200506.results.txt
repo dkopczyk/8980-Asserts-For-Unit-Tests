@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . commons . lang3 . tuple . IDENT_0 < java . lang . String , java . lang . String , java . lang . String > IDENT_1 = org . apache . commons . lang3 . tuple . IDENT_0 . METHOD_1 ( org . apache . commons . lang3 . tuple . IDENT_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_1 ) 

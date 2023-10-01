@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 IDENT_6 = IDENT_7 . METHOD_1 ( ) . METHOD_2 ( ) ; com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . models . IDENT_8 IDENT_9 = METHOD_2 . create ( null , INT_0 , 1 , 0L ) ; long id = IDENT_9 . getId ( ) ; METHOD_2 . delete ( id ) ; "<AssertPlaceHolder>" ; } find ( java . util . Map ) { return find ( null , IDENT_10 ) ; }
+org . junit . Assert . assertNull ( METHOD_2 . find ( id ) ) 

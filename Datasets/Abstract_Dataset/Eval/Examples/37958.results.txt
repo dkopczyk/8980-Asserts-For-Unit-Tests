@@ -1,0 +1,2 @@
+type ( ) { org . IDENT_0 . model . IDENT_1 IDENT_2 = mock ( org . IDENT_0 . model . IDENT_1 . class ) ; IDENT_3 . METHOD_0 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } getType ( ) { return type ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_3 . getType ( ) ) 

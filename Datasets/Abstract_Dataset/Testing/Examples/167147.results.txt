@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String json = STRING_0 ; info . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_2 . IDENT_3 obj = new info . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 . METHOD_1 ( json ) ; "<AssertPlaceHolder>" ; } serialize ( ) { throw new info . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_2 . exception . METHOD_2 ( STRING_1 ) ; }
+org . junit . Assert . assertEquals ( json , obj . serialize ( ) ) 

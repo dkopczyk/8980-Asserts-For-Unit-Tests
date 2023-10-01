@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( ( ( IDENT_0 . IDENT_1 . IDENT_2 . core . entry . IDENT_3 . IDENT_4 ) + STRING_0 ) ) ; vo = METHOD_1 ( ) ; IDENT_5 = METHOD_2 ( ) ; resource = METHOD_3 ( ) ; int count = IDENT_6 . METHOD_0 ( IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( IDENT_0 . IDENT_1 . IDENT_2 . core . api . IDENT_8 ) { return METHOD_4 ( ) . METHOD_0 ( IDENT_7 ) ; }
+org . junit . Assert . assertTrue ( ( count > 0 ) ) 

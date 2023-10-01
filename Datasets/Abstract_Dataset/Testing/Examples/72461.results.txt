@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = org . jboss . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . from ( STRING_0 , STRING_1 ) ; org . jboss . IDENT_0 . IDENT_1 . manager . request . IDENT_5 IDENT_6 = IDENT_7 . METHOD_1 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertEquals ( 2 , METHOD_1 . METHOD_2 ( ) . size ( ) ) 

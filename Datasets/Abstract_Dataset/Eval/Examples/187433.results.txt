@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < javax . IDENT_0 . IDENT_1 . spi . IDENT_2 < ? > > beans = IDENT_3 . METHOD_1 ( new javax . IDENT_0 . util . IDENT_4 < org . jboss . IDENT_5 . tests . IDENT_6 . IDENT_7 < ? > > ( ) { } . getType ( ) ) ; System . err . println ( ( STRING_0 + beans ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return 0 ; }
+org . junit . Assert . assertEquals ( 2 , beans . size ( ) ) 

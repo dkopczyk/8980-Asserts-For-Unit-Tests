@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] IDENT_0 = new int [ INT_0 ] ; int [ ] IDENT_1 = new int [ INT_0 ] ; IDENT_2 . METHOD_1 ( new org . apache . lucene . index . METHOD_2 ( STRING_0 , STRING_1 ) ) ; "<AssertPlaceHolder>" ; } read ( int [ ] , int [ ] ) { int count = 0 ; for ( int i = 0 ; i < ( IDENT_0 . length ) ; ++ i ) { if ( next ( ) ) { IDENT_0 [ i ] = this . doc ( ) ; IDENT_1 [ i ] = this . METHOD_3 ( ) ; ++ count ; } else { break ; } } return count ; }
+org . junit . Assert . assertEquals ( 4 , IDENT_2 . read ( IDENT_0 , IDENT_1 ) ) 

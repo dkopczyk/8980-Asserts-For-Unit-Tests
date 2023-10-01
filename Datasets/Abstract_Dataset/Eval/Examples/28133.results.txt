@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String config = STRING_0 + ( ( ( STRING_1 + STRING_2 ) + STRING_3 ) + STRING_4 ) ; org . IDENT_0 . config . IDENT_1 IDENT_2 = parse ( config , config ) ; org . IDENT_0 . config . Entry entry = IDENT_2 . IDENT_3 . get ( 0 ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return value ; }
+org . junit . Assert . assertEquals ( "value" , entry . getValue ( ) ) 

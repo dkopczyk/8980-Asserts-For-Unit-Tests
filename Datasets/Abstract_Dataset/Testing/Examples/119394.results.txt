@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . brp . domain . IDENT_0 . IDENT_1 record = METHOD_1 ( Element . IDENT_2 ) ; final nl . bzk . brp . domain . IDENT_0 . IDENT_3 . IDENT_4 IDENT_5 = new nl . bzk . brp . domain . IDENT_0 . IDENT_3 . METHOD_2 ( IDENT_6 , IDENT_7 , nl . bzk . IDENT_8 . dal . domein . brp . IDENT_9 . IDENT_10 . IDENT_11 ) ; "<AssertPlaceHolder>" ; } apply ( T ) { return IDENT_12 . apply ( input ) ; }
+org . junit . Assert . assertTrue ( IDENT_5 . apply ( record ) ) 

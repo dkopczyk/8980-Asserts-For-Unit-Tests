@@ -1,0 +1,2 @@
+METHOD_0 ( ) { new com . googlecode . IDENT_0 . METHOD_1 ( IDENT_1 ) { { METHOD_2 ( ) ; METHOD_3 ( ) . text ( "" ) ; end ( ) ; } } ; java . lang . String result = writer . METHOD_4 ( ) . toString ( ) ; java . lang . String expected = "\n" + ( ( STRING_0 + STRING_1 ) + STRING_2 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return write ( new java . io . StringWriter ( ) ) . METHOD_4 ( ) . toString ( ) ; }
+org . junit . Assert . assertEquals ( expected , result ) 

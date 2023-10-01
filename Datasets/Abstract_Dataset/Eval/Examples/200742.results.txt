@@ -1,0 +1,2 @@
+METHOD_0 ( ) { factory . method . IDENT_0 factory = ( ( factory . method . IDENT_0 ) ( IDENT_1 . METHOD_1 ( STRING_0 ) ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( factory ) 

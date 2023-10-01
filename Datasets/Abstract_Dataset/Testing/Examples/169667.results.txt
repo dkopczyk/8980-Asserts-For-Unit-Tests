@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jsoup . parser . IDENT_0 parser = org . jsoup . parser . IDENT_0 . METHOD_1 ( ) ; parser . METHOD_2 ( 10 ) ; org . jsoup . nodes . Document document = parser . METHOD_3 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return error ; }
+org . junit . Assert . assertEquals ( 0 , parser . METHOD_4 ( ) . size ( ) ) 

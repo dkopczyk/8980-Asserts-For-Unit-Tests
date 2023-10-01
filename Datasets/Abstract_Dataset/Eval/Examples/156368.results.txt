@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . plan . db . IDENT_1 . db . METHOD_1 ( new com . IDENT_0 . plan . db . METHOD_2 ( com . IDENT_0 . plan . db . IDENT_1 . IDENT_2 ) ) ; com . IDENT_0 . plan . db . Collection < com . IDENT_0 . plan . IDENT_3 . info . server . IDENT_4 > found = com . IDENT_0 . plan . db . IDENT_1 . db . query ( com . IDENT_0 . plan . db . IDENT_5 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_6 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( found . isEmpty ( ) ) 

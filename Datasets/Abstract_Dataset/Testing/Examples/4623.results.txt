@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . antlr . IDENT_0 . IDENT_1 s = org . antlr . IDENT_0 . IDENT_1 . of ( 20 , INT_0 ) ; s . add ( 50 , INT_1 ) ; s . add ( 5 , 5 ) ; java . lang . String IDENT_2 = STRING_0 ; java . lang . String result = java . lang . String . valueOf ( s . toList ( ) ) ; "<AssertPlaceHolder>" ; } toList ( ) { throw new java . lang . METHOD_1 ( STRING_1 ) ; }
+org . junit . Assert . assertEquals ( result , IDENT_2 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 expResult = org . openscience . cdk . IDENT_1 . getInstance ( ) . newInstance ( org . openscience . cdk . interfaces . IDENT_0 . class ) ; handler . METHOD_1 ( expResult ) ; org . openscience . cdk . interfaces . IDENT_0 result = handler . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 . get ( ( ( IDENT_2 . size ( ) ) - 1 ) ) ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

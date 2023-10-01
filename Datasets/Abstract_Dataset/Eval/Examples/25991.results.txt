@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . IDENT_1 . IDENT_2 element = driver . METHOD_1 ( STRING_0 ) ; element . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return io . IDENT_0 . IDENT_1 . IDENT_3 . execute ( this , io . IDENT_0 . IDENT_1 . IDENT_4 . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertTrue ( driver . METHOD_3 ( ) ) 

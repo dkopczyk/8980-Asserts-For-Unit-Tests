@@ -1,0 +1,2 @@
+simple ( ) { org . IDENT_0 . maven . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . maven . IDENT_1 . METHOD_0 ( ) ; long IDENT_4 = 1 ; IDENT_3 . METHOD_1 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_4 , IDENT_3 . METHOD_2 ( ) ) 

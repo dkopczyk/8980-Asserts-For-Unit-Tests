@@ -1,0 +1,2 @@
+value ( ) { java . lang . Integer value = 1 ; io . IDENT_0 . future . IDENT_1 < java . lang . Integer > future = io . IDENT_0 . future . IDENT_1 . value ( value ) ; "<AssertPlaceHolder>" ; } get ( io . IDENT_0 . future . IDENT_1 ) { return future . get ( IDENT_2 . IDENT_3 ) ; }
+org . junit . Assert . assertEquals ( value , get ( future ) ) 

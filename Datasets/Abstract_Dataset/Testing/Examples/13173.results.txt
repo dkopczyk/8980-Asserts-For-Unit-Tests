@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new org . apache . IDENT_0 . IDENT_1 . METHOD_1 ( 0 , 0 , 0 , 0 , false , org . apache . IDENT_0 . IDENT_4 . Constants . IDENT_5 , java . awt . IDENT_6 . IDENT_7 ) ; IDENT_8 . METHOD_2 ( IDENT_3 ) ; IDENT_9 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { IDENT_10 . METHOD_4 ( true ) ; try { IDENT_10 . output ( IDENT_11 ) ; IDENT_11 . METHOD_5 ( ) ; } catch ( java . io . IOException IDENT_12 ) { throw new org . xml . IDENT_13 . METHOD_6 ( IDENT_12 ) ; } }
+org . junit . Assert . assertNull ( line ) 

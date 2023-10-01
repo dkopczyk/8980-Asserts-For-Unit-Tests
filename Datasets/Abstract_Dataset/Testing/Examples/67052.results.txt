@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . control . IDENT_1 < java . lang . String , java . lang . Integer > result = com . baeldung . IDENT_0 . IDENT_2 . IDENT_3 . METHOD_1 ( 50 ) ; java . lang . String error = result . METHOD_2 ( ) . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int ) { if ( IDENT_4 < INT_0 ) { return io . IDENT_0 . control . IDENT_1 . METHOD_2 ( STRING_0 ) ; } else { return io . IDENT_0 . control . IDENT_1 . METHOD_4 ( IDENT_4 ) ; } }
+org . junit . Assert . assertEquals ( STRING_0 , error ) 

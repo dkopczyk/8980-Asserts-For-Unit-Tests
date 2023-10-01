@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . baeldung . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new com . baeldung . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; int IDENT_5 = IDENT_4 . METHOD_2 ( ) . size ( ) ; IDENT_4 . METHOD_3 ( METHOD_1 . IDENT_6 , new com . baeldung . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_4 ( 1 , 1 ) ) ; int IDENT_7 = IDENT_4 . METHOD_2 ( ) . size ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return internal . length ; }
+org . junit . Assert . assertTrue ( ( IDENT_5 > IDENT_7 ) ) 

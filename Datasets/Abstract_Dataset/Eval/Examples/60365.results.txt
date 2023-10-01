@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . widgets . grid . IDENT_1 group = new org . eclipse . IDENT_0 . widgets . grid . METHOD_1 ( grid , org . eclipse . swt . IDENT_2 . IDENT_3 ) ; group . METHOD_2 ( false ) ; org . eclipse . IDENT_0 . widgets . grid . IDENT_4 column = new org . eclipse . IDENT_0 . widgets . grid . METHOD_3 ( group , org . eclipse . swt . IDENT_2 . IDENT_3 ) ; column . METHOD_4 ( false ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return ( METHOD_6 ( ) ) != null ; }
+org . junit . Assert . assertFalse ( column . METHOD_5 ( ) ) 

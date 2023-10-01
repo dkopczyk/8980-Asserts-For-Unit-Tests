@@ -1,0 +1,2 @@
+METHOD_0 ( ) { create ( STRING_0 , IDENT_0 . params . IDENT_1 . IDENT_2 . class ) . invoke ( IDENT_3 , context ) ; verify ( IDENT_3 ) . METHOD_1 ( java . util . Optional . empty ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ! ( this . IDENT_4 . isEmpty ( ) ) ; }
+org . junit . Assert . assertFalse ( validation . METHOD_2 ( ) ) 

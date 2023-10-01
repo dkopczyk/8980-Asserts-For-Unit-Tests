@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( mock . METHOD_1 ( eq ( IDENT_0 . IDENT_1 ) , anyString ( ) ) ) . thenReturn ( METHOD_2 ( IDENT_0 . IDENT_1 , " " ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { org . junit . Assert . assertEquals ( true , bean . METHOD_3 ( ) ) ; }
+org . junit . Assert . assertEquals ( false , bean . METHOD_3 ( ) ) 

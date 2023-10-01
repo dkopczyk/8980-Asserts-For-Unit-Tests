@@ -1,0 +1,2 @@
+METHOD_0 ( ) { dataset = new edu . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; dataset . setId ( INT_0 ) ; edu . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = IDENT_6 . METHOD_2 ( new edu . IDENT_0 . IDENT_1 . IDENT_2 . engine . command . impl . METHOD_3 ( null , dataset ) ) ; "<AssertPlaceHolder>" ; } setId ( java . lang . Long ) { this . id = id ; }
+org . junit . Assert . assertNull ( IDENT_5 ) 

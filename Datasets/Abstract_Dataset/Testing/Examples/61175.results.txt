@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . template . IDENT_0 IDENT_1 = new org . eclipse . rap . rwt . template . METHOD_1 ( template ) ; org . eclipse . rap . json . IDENT_2 json = IDENT_1 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return values . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , json . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jena . atlas . iterator . Iterator < ? > IDENT_0 = org . apache . jena . atlas . iterator . IDENT_1 . iterator ( 5 ) ; int x = org . apache . jena . atlas . iterator . IDENT_2 . METHOD_1 ( IDENT_0 , 4 ) ; "<AssertPlaceHolder>" ; } iterator ( int ) { return java . util . stream . IDENT_3 . range ( 1 , ( n + 1 ) ) . iterator ( ) ; }
+org . junit . Assert . assertEquals ( 4 , x ) 

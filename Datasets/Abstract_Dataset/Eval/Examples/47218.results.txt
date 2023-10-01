@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . HashMap < java . lang . String , com . couchbase . client . IDENT_0 > IDENT_1 = new java . util . HashMap < java . lang . String , com . couchbase . client . IDENT_0 > ( ) ; IDENT_1 . put ( "test" , client ) ; com . couchbase . IDENT_2 . cache . IDENT_3 manager = new com . couchbase . IDENT_2 . cache . METHOD_1 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . IDENT_4 ; }
+org . junit . Assert . assertEquals ( IDENT_1 , manager . METHOD_2 ( ) ) 

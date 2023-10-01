@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String text = STRING_0 ; IDENT_0 . METHOD_1 ( IDENT_1 . IDENT_2 , Boolean . IDENT_3 ) ; IDENT_0 . METHOD_2 ( text ) ; org . eclipse . swt . widgets . IDENT_4 IDENT_5 = METHOD_3 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } getText ( ) { METHOD_4 ( ) ; return getText ( 0 ) ; }
+org . junit . Assert . assertEquals ( text , IDENT_5 . getText ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . jdbc . IDENT_0 . IDENT_1 IDENT_2 = org . neo4j . jdbc . IDENT_0 . IDENT_3 . newInstance ( false , METHOD_1 ( ) , "" ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ! ( this . session . METHOD_3 ( ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 . METHOD_2 ( ) ) 

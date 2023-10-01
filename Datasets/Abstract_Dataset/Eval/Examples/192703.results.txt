@@ -1,0 +1,2 @@
+test ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_0 ( STRING_0 , "a" ) ; org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 . LOG . debug ( STRING_1 , IDENT_4 ) ; java . lang . Boolean result = ( ( java . lang . Boolean ) ( IDENT_4 . execute ( STRING_2 ) ) ) ; "<AssertPlaceHolder>" ; } execute ( java . lang . IDENT_6 ) { IDENT_7 . execute ( org . IDENT_0 . base . IDENT_8 . METHOD_1 ( command ) ) ; }
+org . junit . Assert . assertTrue ( result ) 

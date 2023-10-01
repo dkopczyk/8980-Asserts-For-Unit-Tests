@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( org . IDENT_1 . android . IDENT_2 . IDENT_3 . connection . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { final org . IDENT_1 . android . network . IDENT_5 IDENT_0 = IDENT_6 . METHOD_3 ( ) ; if ( ( IDENT_0 . METHOD_1 ( ) ) == ( org . IDENT_1 . android . network . IDENT_7 . IDENT_8 ) ) { return METHOD_4 ( ) ; } else { return ( IDENT_0 . METHOD_1 ( ) ) == ( org . IDENT_1 . android . network . IDENT_7 . IDENT_9 ) ; } }
+org . junit . Assert . assertFalse ( service . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . kernel . impl . util . collection . IDENT_0 IDENT_1 = new org . neo4j . kernel . impl . util . collection . METHOD_1 ( ( ) -> null ) ; "<AssertPlaceHolder>" ; } next ( ) { return false ; }
+org . junit . Assert . assertFalse ( IDENT_1 . next ( ) ) 

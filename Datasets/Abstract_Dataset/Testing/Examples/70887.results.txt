@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . finra . herd . model . api . xml . IDENT_0 IDENT_1 = IDENT_2 . METHOD_1 ( new org . finra . herd . model . api . xml . METHOD_2 ( org . finra . herd . service . IDENT_3 . METHOD_3 ( ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . finra . herd . model . api . xml . METHOD_2 ) { return IDENT_2 . METHOD_1 ( request ) ; }
+org . junit . Assert . assertEquals ( new org . finra . herd . model . api . xml . METHOD_4 ( org . finra . herd . service . IDENT_3 . METHOD_3 ( ) ) , IDENT_1 ) 

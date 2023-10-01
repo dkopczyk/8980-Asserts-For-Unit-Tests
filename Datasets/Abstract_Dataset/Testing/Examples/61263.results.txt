@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . swt . events . IDENT_0 listener = new org . eclipse . swt . events . METHOD_1 ( ) { @ org . eclipse . swt . events . Override public void METHOD_2 ( org . eclipse . swt . events . IDENT_1 event ) { log += org . eclipse . swt . events . IDENT_2 . IDENT_3 ; } } ; shell . METHOD_3 ( listener ) ; shell . close ( ) ; "<AssertPlaceHolder>" ; } close ( ) { shell . close ( ) ; }
+org . junit . Assert . assertEquals ( org . eclipse . swt . events . IDENT_2 . IDENT_3 , log ) 

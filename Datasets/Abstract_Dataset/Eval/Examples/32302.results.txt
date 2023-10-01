@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . utils . IDENT_2 . METHOD_1 ( IDENT_3 , false ) ; repo = com . IDENT_0 . IDENT_1 . utils . IDENT_2 . METHOD_2 ( IDENT_3 , false ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( IDENT_4 ) == null ) throw new org . eclipse . jgit . errors . METHOD_4 ( ) ; return IDENT_4 ; }
+org . junit . Assert . assertEquals ( IDENT_3 , repo . METHOD_3 ( ) ) 

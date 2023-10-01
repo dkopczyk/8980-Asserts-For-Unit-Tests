@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . fasterxml . jackson . databind . IDENT_0 json = parse ( ( STRING_0 + ( ( ( ( ( ( ( ( ( STRING_1 + STRING_2 1 ) + STRING_3 ) + STRING_4 ) + STRING_5 ) + STRING_6 ) + STRING_7 ) + STRING_2 ) + STRING_8 ) + STRING_9 ) ) ) ; java . util . Set < com . IDENT_1 . schema . IDENT_2 > IDENT_3 = schema . validate ( json ) ; METHOD_1 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } size ( ) { throw new java . lang . METHOD_2 ( org . IDENT_4 . IDENT_5 . core . util . IDENT_6 . msg ) ; }
+org . junit . Assert . assertEquals ( STRING_2 0 , 10 , IDENT_3 . size ( ) ) 

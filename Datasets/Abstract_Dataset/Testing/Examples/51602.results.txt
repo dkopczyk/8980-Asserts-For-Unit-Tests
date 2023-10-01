@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = STRING_1 ; int IDENT_2 = 1 ; java . util . Collection < java . lang . String > IDENT_3 = IDENT_4 . METHOD_1 ( IDENT_0 , IDENT_2 ) ; System . out . println ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } iterator ( ) { return new org . nd4j . linalg . collection . IDENT_5 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_3 . iterator ( ) . next ( ) ) 

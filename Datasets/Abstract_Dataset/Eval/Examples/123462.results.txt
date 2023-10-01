@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( final nl . IDENT_0 . IDENT_1 . IDENT_2 req : nl . IDENT_0 . IDENT_1 . IDENT_2 . values ( ) ) { final java . lang . String IDENT_3 = req . name ( ) . replaceAll ( STRING_0 , "" ) . METHOD_1 ( ) ; final java . lang . String IDENT_4 = req . getCode ( ) . replaceAll ( STRING_1 , "" ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } } getCode ( ) { return code ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_4 ) 

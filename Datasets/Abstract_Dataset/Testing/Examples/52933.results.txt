@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . commit ( "/" , STRING_0 , null , null ) ; long IDENT_1 = IDENT_0 . METHOD_1 ( "/" , null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . lang . String ) { org . apache . jackrabbit . oak . spi . state . IDENT_2 node = METHOD_2 ( IDENT_3 , path ) ; if ( node . exists ( ) ) { return node . METHOD_1 ( Long . MAX_VALUE ) ; } else { throw new org . apache . jackrabbit . IDENT_0 . api . METHOD_3 ( ( ( STRING_1 + IDENT_3 ) + path ) ) ; } }
+org . junit . Assert . assertEquals ( 1 , IDENT_1 ) 

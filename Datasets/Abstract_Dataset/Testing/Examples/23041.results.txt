@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . jms . meta . IDENT_1 first = new org . apache . IDENT_0 . jms . meta . METHOD_1 ( IDENT_2 ) ; org . apache . IDENT_0 . jms . meta . METHOD_1 IDENT_3 = new org . apache . IDENT_0 . jms . meta . METHOD_1 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } compareTo ( org . apache . IDENT_0 . jms . meta . IDENT_5 ) { return IDENT_6 . compareTo ( other . IDENT_6 ) ; }
+org . junit . Assert . assertFalse ( ( ( first . compareTo ( IDENT_3 ) ) == 0 ) ) 

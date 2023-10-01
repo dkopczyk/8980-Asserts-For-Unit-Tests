@@ -1,0 +1,2 @@
+METHOD_0 ( ) { matcher = org . openmrs . test . matchers . IDENT_0 . METHOD_1 ( STRING_0 ) ; item . METHOD_2 ( STRING_0 , STRING_1 ) ; item . METHOD_2 ( STRING_2 , STRING_3 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . springframework . validation . IDENT_1 ) { if ( ( field ) == null ) { return item . METHOD_1 ( ) ; } else if ( ( code ) == null ) { return item . METHOD_1 ( field ) ; } else { return item . METHOD_4 ( field ) . stream ( ) . map ( IDENT_2 :: getCode ) . METHOD_5 ( code :: equals ) ; } }
+org . junit . Assert . assertTrue ( matcher . METHOD_3 ( item ) ) 

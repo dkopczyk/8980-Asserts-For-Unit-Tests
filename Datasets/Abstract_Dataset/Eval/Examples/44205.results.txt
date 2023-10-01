@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . ws . rs . core . IDENT_0 IDENT_1 = IDENT_2 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( header == null ) { throw new java . lang . IllegalArgumentException ( ) ; } return org . IDENT_3 . core . impl . header . IDENT_4 . METHOD_2 ( header ) ; }
+org . junit . Assert . assertEquals ( new javax . ws . rs . core . METHOD_3 ( "foo" , "bar" ) , IDENT_1 ) 

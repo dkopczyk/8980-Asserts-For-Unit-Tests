@@ -1,0 +1,2 @@
+METHOD_0 ( ) { hudson . IDENT_0 IDENT_1 = new hudson . METHOD_1 ( new java . io . File ( IDENT_2 , STRING_0 ) ) ; boolean result = IDENT_3 . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( hudson . model . Node ) { if ( ( ! ( IDENT_4 ) ) && ( METHOD_3 ( node ) ) ) { hudson . plugins . IDENT_5 . IDENT_6 . LOG . log ( IDENT_7 . IDENT_8 , STRING_1 , node . METHOD_4 ( ) ) ; return false ; } else { return true ; } }
+org . junit . Assert . assertEquals ( true , result ) 

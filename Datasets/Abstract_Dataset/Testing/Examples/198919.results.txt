@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( new java . io . File ( STRING_0 ) . METHOD_2 ( ) ) ; IDENT_0 . run ( ) ; java . util . List < org . apache . nifi . util . IDENT_1 > IDENT_2 = IDENT_0 . METHOD_3 ( IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; java . lang . String data = new java . lang . String ( IDENT_0 . METHOD_4 ( IDENT_2 . get ( 0 ) ) ) ; System . out . println ( ( STRING_1 + data ) ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_2 . size ( ) ) == 1 ) ) 

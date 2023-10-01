@@ -1,0 +1,2 @@
+METHOD_0 ( ) { builder . setProperty ( IDENT_0 . IDENT_1 , true ) ; IDENT_2 . child ( STRING_0 ) . child ( STRING_1 ) ; builder . setProperty ( IDENT_0 . IDENT_3 , asList ( STRING_2 ) , Type . IDENT_4 ) ; METHOD_1 ( ) ; java . util . List < java . lang . String > IDENT_5 = IDENT_6 . METHOD_2 ( STRING_3 , builder ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( size ) == 0 ; }
+org . junit . Assert . assertTrue ( IDENT_5 . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . datastore . v1 . IDENT_0 key = METHOD_1 ( STRING_0 , STRING_1 ) . build ( ) ; org . apache . beam . sdk . io . IDENT_1 . datastore . IDENT_2 . IDENT_3 IDENT_4 = new org . apache . beam . sdk . io . IDENT_1 . datastore . IDENT_2 . METHOD_2 ( ) ; com . google . datastore . v1 . IDENT_5 IDENT_6 = METHOD_3 ( key ) . build ( ) ; "<AssertPlaceHolder>" ; } apply ( IDENT_7 ) { if ( type . METHOD_4 ( input ) ) { return METHOD_5 ( ( ( T ) ( input ) ) ) ; } return input ; }
+org . junit . Assert . assertEquals ( IDENT_4 . apply ( key ) , IDENT_6 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object input = STRING_0 ; java . lang . Object IDENT_0 = STRING_1 ; java . lang . String result = org . IDENT_1 . IDENT_2 . web . el . IDENT_3 . METHOD_1 ( input ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object ) { return org . IDENT_1 . IDENT_2 . web . util . IDENT_4 . METHOD_2 ( input ) ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . CoreMatchers . is ( IDENT_0 ) ) 

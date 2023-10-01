@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( org . mockito . Mockito . anyString ( ) ) ) . thenReturn ( METHOD_2 ( 1 , STRING_0 ) ) ; org . IDENT_1 . IDENT_1 . IDENT_2 . IDENT_3 . services . IDENT_4 . IDENT_5 model = this . IDENT_6 . METHOD_3 ( 1L ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( long ) { return ( ( org . IDENT_1 . IDENT_1 . IDENT_2 . IDENT_3 . services . IDENT_4 . IDENT_5 ) ( this . METHOD_4 ( ) . METHOD_1 ( java . lang . String . valueOf ( IDENT_7 ) ) ) ) ; }
+org . junit . Assert . assertNotNull ( model ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object IDENT_0 = org . eclipse . rap . rwt . IDENT_1 . METHOD_1 ( org . eclipse . rap . rwt . IDENT_2 . IDENT_3 . class ) ; java . lang . Object IDENT_4 = org . eclipse . rap . rwt . IDENT_1 . METHOD_1 ( org . eclipse . rap . rwt . IDENT_2 . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class ) { return org . eclipse . rap . rwt . IDENT_1 . METHOD_2 ( type , org . eclipse . rap . rwt . IDENT_5 . METHOD_3 ( ) ) ; }
+org . junit . Assert . assertSame ( IDENT_0 , IDENT_4 ) 

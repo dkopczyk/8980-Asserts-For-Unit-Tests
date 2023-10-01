@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . IDENT_1 . IDENT_2 item = new com . eclipsesource . IDENT_0 . IDENT_1 . METHOD_1 ( "foo" ) ; java . lang . String name = item . getName ( ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( "foo" , name ) 

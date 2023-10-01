@@ -1,0 +1,2 @@
+METHOD_0 ( ) { dataset . METHOD_1 ( ) . METHOD_2 ( IDENT_0 . IDENT_1 . IDENT_2 ) ; edu . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 IDENT_7 = null ; try { IDENT_7 = IDENT_8 . METHOD_3 ( new edu . IDENT_3 . IDENT_4 . IDENT_5 . engine . command . impl . METHOD_4 ( IDENT_9 , dataset ) ) ; } catch ( edu . IDENT_3 . IDENT_4 . IDENT_5 . engine . command . exception . IDENT_10 ex ) { System . out . println ( ( STRING_0 + ( ex . getMessage ( ) ) ) ) ; } "<AssertPlaceHolder>" ; } getMessage ( ) { return message ; }
+org . junit . Assert . assertNotNull ( IDENT_7 ) 

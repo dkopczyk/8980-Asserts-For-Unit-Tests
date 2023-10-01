@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . nio . file . Path file = edu . illinois . library . cantaloupe . test . IDENT_0 . METHOD_1 ( STRING_0 ) ; try ( javax . IDENT_1 . stream . IDENT_2 is = javax . IDENT_1 . IDENT_3 . METHOD_2 ( file . METHOD_3 ( ) ) ) { instance . METHOD_4 ( is ) ; "<AssertPlaceHolder>" ; } } METHOD_5 ( ) { METHOD_6 ( ) ; return IDENT_4 ; }
+org . junit . Assert . assertEquals ( 5 , instance . METHOD_5 ( ) ) 

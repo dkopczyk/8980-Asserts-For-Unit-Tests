@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 expected = new IDENT_0 . METHOD_1 ( 1.0 , 1.0 , 1.0 , 1.0 , 1.0 , 1.0 ) ; config . METHOD_2 ( expected ) ; IDENT_0 . IDENT_1 actual = config . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertThat ( actual , is ( expected ) ) 

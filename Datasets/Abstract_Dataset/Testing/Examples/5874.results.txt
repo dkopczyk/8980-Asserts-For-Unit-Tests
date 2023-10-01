@@ -1,0 +1,2 @@
+METHOD_0 ( ) { filter = org . apache . activemq . artemis . core . filter . impl . IDENT_0 . METHOD_1 ( new org . apache . activemq . artemis . api . core . METHOD_2 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } match ( org . apache . activemq . artemis . api . core . Message ) { return match ( new org . apache . activemq . artemis . core . filter . impl . IDENT_0 . METHOD_3 ( message ) ) ; }
+org . junit . Assert . assertFalse ( filter . match ( message ) ) 

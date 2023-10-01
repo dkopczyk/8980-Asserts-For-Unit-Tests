@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . common . IDENT_2 val = org . IDENT_0 . IDENT_1 . common . IDENT_2 . of ( org . IDENT_0 . IDENT_1 . common . IDENT_3 . of ( FLOAT_0 ) , org . IDENT_0 . IDENT_1 . common . IDENT_3 . of ( FLOAT_1 ) , INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( val . METHOD_0 ( ) , INT_0 ) 

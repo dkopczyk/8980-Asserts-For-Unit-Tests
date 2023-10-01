@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . security . auth . IDENT_0 . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( ) ; javax . security . auth . IDENT_0 . IDENT_1 IDENT_4 = new javax . security . auth . IDENT_0 . METHOD_2 ( IDENT_5 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertFalse ( IDENT_2 . equals ( IDENT_4 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . conf . Configuration conf = new org . apache . hadoop . conf . Configuration ( ) ; conf . set ( STRING_0 , STRING_1 ) ; org . apache . hadoop . conf . Configuration . METHOD_1 ( STRING_0 , new java . lang . String [ ] { STRING_2 } ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { name = METHOD_2 ( name ) ; return METHOD_3 ( METHOD_4 ( ) . getProperty ( name ) ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , conf . get ( STRING_2 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = new com . IDENT_1 . api . http . METHOD_1 ( ) . METHOD_2 ( ) . METHOD_3 ( ( ) -> java . lang . Thread . METHOD_4 ( ) . METHOD_5 ( ) ) . get ( ) ; "<AssertPlaceHolder>" ; } get ( ) { if ( ! ( IDENT_2 ) ) { IDENT_2 = true ; try { response = METHOD_6 ( future . get ( ) , url , method . METHOD_7 ( ) ) ; } catch ( java . lang . Exception e ) { throw new java . util . concurrent . METHOD_8 ( e ) ; } } return response ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

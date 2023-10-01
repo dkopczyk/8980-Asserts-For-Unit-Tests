@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . metrics . IDENT_2 . IDENT_3 IDENT_4 = METHOD_1 ( com . IDENT_0 . IDENT_1 . metrics . IDENT_5 . IDENT_6 , STRING_0 ) ; com . IDENT_0 . IDENT_1 . metrics . IDENT_2 . IDENT_3 IDENT_7 = METHOD_1 ( com . IDENT_0 . IDENT_1 . metrics . IDENT_5 . IDENT_8 , STRING_0 ) ; IDENT_7 . close ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( com . IDENT_0 . IDENT_1 . metrics . IDENT_9 ) { return metrics . METHOD_3 ( ) . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( 1 , METHOD_2 ( IDENT_4 ) ) 

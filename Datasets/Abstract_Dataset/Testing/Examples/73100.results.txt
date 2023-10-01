@@ -1,0 +1,2 @@
+id ( ) { byte b = IDENT_0 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return - 1 ; }
+org . junit . Assert . assertThat ( b , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( ( ( byte ) ( - 1 ) ) ) ) ) 

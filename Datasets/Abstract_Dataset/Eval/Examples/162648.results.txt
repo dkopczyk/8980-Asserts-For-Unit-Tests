@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new org . oscm . app . IDENT_1 . METHOD_1 ( IDENT_2 ) ; IDENT_0 . METHOD_2 ( STRING_0 ) ; java . lang . String IDENT_3 = IDENT_0 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return props . METHOD_4 ( org . oscm . app . IDENT_1 . METHOD_1 . IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_3 ) 

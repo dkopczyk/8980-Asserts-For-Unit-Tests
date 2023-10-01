@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . util . IDENT_1 . hash . IDENT_2 < java . lang . Integer , java . lang . String > IDENT_3 = new com . IDENT_0 . util . IDENT_1 . hash . METHOD_1 ( ) ; for ( int i = 0 ; i < INT_0 ; ++ i ) { IDENT_3 . put ( i , java . lang . Integer . toString ( i ) ) ; } int i = 0 ; for ( java . lang . Integer key : IDENT_3 . METHOD_0 ( ) ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( ( i ++ ) , key . METHOD_2 ( ) ) 

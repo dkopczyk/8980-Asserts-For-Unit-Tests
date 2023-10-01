@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( rs . METHOD_1 ( 1 ) ) . thenReturn ( new java . sql . METHOD_2 ( new java . util . Date ( ) . getTime ( ) ) ) ; "<AssertPlaceHolder>" ; } apply ( java . lang . Class , java . lang . Object ) { return null ; }
+org . junit . Assert . assertEquals ( java . sql . METHOD_2 . class , handler . apply ( rs , 1 ) . getClass ( ) ) 

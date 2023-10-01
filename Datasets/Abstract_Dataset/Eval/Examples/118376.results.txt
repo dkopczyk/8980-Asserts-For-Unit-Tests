@@ -1,0 +1,2 @@
+test ( ) { final info . IDENT_0 . IDENT_1 . query . column . impl . IDENT_2 IDENT_3 = new info . IDENT_0 . IDENT_1 . query . column . impl . METHOD_0 ( "test" ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( ( this . IDENT_4 ) + STRING_0 ) + ( this . column . METHOD_1 ( ) ) ; }
+org . junit . Assert . assertEquals ( "test" , IDENT_3 . METHOD_1 ( ) ) 

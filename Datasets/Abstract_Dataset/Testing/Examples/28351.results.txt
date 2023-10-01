@@ -1,0 +1,2 @@
+METHOD_0 ( ) { fr . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 node = IDENT_4 . IDENT_5 ; org . IDENT_6 . entity . IDENT_7 IDENT_8 = mock ( org . IDENT_6 . entity . IDENT_7 . class ) ; boolean result = IDENT_9 . METHOD_1 ( IDENT_8 , node ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( fr . IDENT_0 . IDENT_1 . listener . IDENT_10 , fr . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 ) { return IDENT_11 . METHOD_2 ( ) . apply ( this , IDENT_12 ) ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . Matchers . equalTo ( true ) ) 

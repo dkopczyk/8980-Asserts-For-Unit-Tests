@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . internal . IDENT_0 . IDENT_1 expected = new org . oscm . internal . IDENT_0 . METHOD_1 ( ) ; m . METHOD_2 ( expected ) ; org . oscm . internal . IDENT_0 . METHOD_1 s = m . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( expected , s ) 

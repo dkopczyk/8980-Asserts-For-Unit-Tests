@@ -1,0 +1,2 @@
+load ( ) { IDENT_0 . IDENT_1 . IDENT_2 . jpa . IDENT_3 IDENT_4 = new IDENT_0 . IDENT_1 . IDENT_2 . jpa . METHOD_0 ( "test" ) ; em . METHOD_1 ( IDENT_4 ) ; IDENT_0 . IDENT_1 . IDENT_2 . jpa . METHOD_0 actual = dao . METHOD_2 ( IDENT_4 . getId ( ) ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertNotNull ( actual ) 

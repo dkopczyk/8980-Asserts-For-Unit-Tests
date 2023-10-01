@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( com . google . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 ) ) . thenReturn ( com . google . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_5 ) ; com . google . IDENT_1 . IDENT_2 . IDENT_6 metadata = IDENT_7 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_8 . METHOD_3 ( IDENT_9 ) ; }
+org . junit . Assert . assertEquals ( metadata , com . google . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_5 ) 

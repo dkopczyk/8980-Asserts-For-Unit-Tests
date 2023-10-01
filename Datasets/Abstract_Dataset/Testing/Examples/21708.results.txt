@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . olingo . IDENT_0 . proxy . IDENT_1 . IDENT_2 . types . IDENT_3 IDENT_4 = container . METHOD_1 ( ) . METHOD_2 ( 1000 ) ; IDENT_4 . METHOD_3 ( null ) ; try { container . METHOD_4 ( ) ; org . junit . Assert . fail ( ) ; } catch ( org . apache . olingo . ext . proxy . api . IDENT_5 e ) { "<AssertPlaceHolder>" ; } service . METHOD_5 ( ) . METHOD_6 ( ) ; } METHOD_2 ( IDENT_6 extends java . io . IDENT_7 ) { return METHOD_2 ( key , IDENT_8 ) ; }
+org . junit . Assert . assertNotNull ( e ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream IDENT_0 = IDENT_1 . METHOD_1 ( new java . lang . Long ( 1 ) ) ; IDENT_0 = IDENT_1 . METHOD_1 ( new java . lang . Long ( 1 ) ) ; if ( ( IDENT_0 . read ( ) ) == ( - 1 ) ) "<AssertPlaceHolder>" ; } read ( ) { return IDENT_2 . read ( ) ; }
+org . junit . Assert . assertTrue ( false ) 

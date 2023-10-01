@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( STRING_0 ) ; when ( IDENT_1 . METHOD_2 ( ) ) . thenReturn ( java . util . Collections . singletonList ( new org . IDENT_2 . IDENT_3 . METHOD_3 ( STRING_0 ) ) ) ; java . util . List < org . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 > IDENT_6 = IDENT_7 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return ( ( IDENT_8 . getValue ( ) ) - ( IDENT_9 . getValue ( ) ) ) + 1L ; }
+org . junit . Assert . assertThat ( IDENT_6 . size ( ) , org . hamcrest . Matchers . is ( 0 ) ) 

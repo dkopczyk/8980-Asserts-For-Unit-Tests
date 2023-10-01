@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] data = org . IDENT_0 . IDENT_1 . sdk . helper . Utils . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . io . InputStream is = org . IDENT_0 . IDENT_1 . sdk . helper . Utils . class . METHOD_2 ( ) . getResourceAsStream ( IDENT_2 ) ; byte [ ] data = com . google . common . io . IDENT_3 . toByteArray ( is ) ; try { is . close ( ) ; } catch ( java . io . IOException ex ) { } return data ; }
+org . junit . Assert . assertNotNull ( data ) 

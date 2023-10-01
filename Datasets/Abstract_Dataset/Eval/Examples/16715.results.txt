@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . rya . streams . IDENT_0 . IDENT_1 executor = new org . apache . rya . streams . IDENT_0 . kafka . METHOD_1 ( mock ( org . apache . rya . streams . kafka . IDENT_2 . IDENT_3 . class ) , mock ( org . apache . rya . streams . kafka . IDENT_4 . class ) ) ; executor . METHOD_2 ( ) ; try { final java . util . Set < java . util . UUID > IDENT_5 = executor . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } finally { executor . METHOD_4 ( ) ; } } isEmpty ( ) { return ( IDENT_6 ) == null ; }
+org . junit . Assert . assertTrue ( IDENT_5 . isEmpty ( ) ) 

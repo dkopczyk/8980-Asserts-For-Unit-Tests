@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 instance = new IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 . METHOD_1 ( ) ; long expResult = Long . MAX_VALUE ; long result = instance . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

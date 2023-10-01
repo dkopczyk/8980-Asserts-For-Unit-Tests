@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . netty . handler . codec . IDENT_0 . IDENT_1 headers = io . netty . handler . codec . IDENT_0 . newInstance ( ) ; headers . add ( "name" , "value" ) ; headers . set ( headers ) ; "<AssertPlaceHolder>" ; } size ( ) { return delegate . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , headers . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { else if ( object instanceof org . IDENT_0 . IDENT_1 . IDENT_2 ) { final org . IDENT_0 . IDENT_1 . IDENT_2 other = ( ( org . IDENT_0 . IDENT_1 . IDENT_2 ) ( object ) ) ; if ( ( IDENT_3 ) == null ) { return ( other . IDENT_3 ) == null ; } return IDENT_3 . equals ( other . IDENT_3 ) ; } else { return false ; } }
+org . junit . Assert . assertFalse ( base . equals ( null ) ) 

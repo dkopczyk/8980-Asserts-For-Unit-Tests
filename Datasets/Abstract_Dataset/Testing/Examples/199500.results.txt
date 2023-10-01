@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final javax . ws . rs . core . Response response = client . target ( STRING_0 ) . request ( ) . get ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( response . getStatus ( ) , org . hamcrest . CoreMatchers . is ( 200 ) ) 

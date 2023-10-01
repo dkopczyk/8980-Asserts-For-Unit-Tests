@@ -1,0 +1,2 @@
+METHOD_0 ( ) { list . METHOD_1 ( IDENT_0 . IDENT_1 , Boolean . IDENT_2 ) ; list . METHOD_1 ( IDENT_0 . IDENT_1 , Boolean . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { if ( ( IDENT_4 ) == null ) return null ; return ( ( java . lang . String ) ( IDENT_4 . get ( key ) ) ) ; }
+org . junit . Assert . assertEquals ( Boolean . IDENT_2 , list . METHOD_2 ( IDENT_0 . IDENT_1 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { headers . delegate ( ) . add ( STRING_0 , "value" ) ; headers . delegate ( ) . add ( STRING_1 , "value" ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return new java . util . HashSet < java . lang . IDENT_0 > ( delegate . METHOD_1 ( ) ) ; }
+org . junit . Assert . assertEquals ( new java . util . HashSet ( java . util . Arrays . asList ( STRING_0 , STRING_1 ) ) , headers . METHOD_1 ( ) ) 

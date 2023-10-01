@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = STRING_1 ; io . github . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 adapter = METHOD_1 ( IDENT_0 , IDENT_1 , false ) ; java . util . Optional < java . lang . Long > result = adapter . METHOD_2 ( ) ; verify ( IDENT_7 , METHOD_3 ( ) ) . METHOD_2 ( anyString ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { throw new java . lang . METHOD_4 ( STRING_2 ) ; }
+org . junit . Assert . assertEquals ( java . util . Optional . empty ( ) , result ) 

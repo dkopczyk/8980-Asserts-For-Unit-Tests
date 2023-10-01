@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( service . put ( STRING_0 , "value" ) ) ; METHOD_1 ( service . delete ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . concurrent . IDENT_0 ) { try { return f . get ( ) ; } catch ( java . lang . IDENT_1 e ) { java . lang . Thread . METHOD_2 ( ) . METHOD_3 ( ) ; throw new java . lang . IllegalStateException ( e ) ; } catch ( java . util . concurrent . IDENT_2 e ) { throw new java . lang . IllegalStateException ( e ) ; } }
+org . junit . Assert . assertFalse ( METHOD_1 ( service . contains ( STRING_0 ) ) ) 

@@ -1,0 +1,2 @@
+process ( ) { java . util . List < java . lang . String > IDENT_0 = java . util . Arrays . asList ( STRING_0 ) ; for ( java . lang . String input : IDENT_0 ) { "<AssertPlaceHolder>" ; } } METHOD_0 ( java . lang . Object ) { return org . xwiki . xml . IDENT_1 . METHOD_0 ( content ) ; }
+org . junit . Assert . assertEquals ( org . xwiki . xml . IDENT_1 . METHOD_0 ( input ) , filter . process ( input ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . String > IDENT_0 = new java . util . HashMap ( ) ; org . apache . ambari . server . configuration . Configuration configuration = new org . apache . ambari . server . configuration . Configuration ( ) ; org . apache . ambari . server . utils . IDENT_1 . METHOD_1 ( IDENT_0 , configuration ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( this . IDENT_2 . isEmpty ( ) ) && ( IDENT_3 . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_0 . isEmpty ( ) ) 

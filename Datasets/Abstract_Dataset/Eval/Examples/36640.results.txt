@@ -1,0 +1,2 @@
+METHOD_0 ( ) { br . com . IDENT_0 . IDENT_1 . table . IDENT_2 table = IDENT_3 . METHOD_1 ( ) . table ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( this . IDENT_4 ) == null ) { this . IDENT_4 = layout . METHOD_2 ( ) ; } return this . IDENT_4 ; }
+org . junit . Assert . assertEquals ( table . METHOD_2 ( ) , 3 ) 

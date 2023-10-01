@@ -1,0 +1,2 @@
+METHOD_0 ( ) { name . IDENT_0 . IDENT_1 . shared . model . IDENT_2 IDENT_3 = IDENT_4 . METHOD_1 ( name . IDENT_0 . IDENT_1 . client . IDENT_5 . IDENT_6 . IDENT_7 ) ; IDENT_8 . METHOD_0 ( new name . IDENT_0 . IDENT_1 . client . IDENT_5 . event . METHOD_2 ( IDENT_3 ) ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( name . IDENT_0 . IDENT_1 . client . IDENT_5 . event . METHOD_2 ) { METHOD_3 ( ) . METHOD_4 ( event . METHOD_5 ( ) ) ; }
+org . junit . Assert . assertSame ( IDENT_3 , IDENT_8 . IDENT_3 ) 

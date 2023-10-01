@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . services . metadata . provider . IDENT_1 IDENT_2 = METHOD_1 ( ) ; java . util . List < org . IDENT_0 . commons . IDENT_3 . metadata . IDENT_4 > IDENT_5 = IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_6 . size ( ) ; }
+org . junit . Assert . assertThat ( IDENT_5 . size ( ) , org . hamcrest . CoreMatchers . is ( 3 ) ) 

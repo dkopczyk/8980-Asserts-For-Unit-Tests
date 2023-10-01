@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 ) ; IDENT_0 . execute ( new org . springframework . transaction . support . METHOD_2 ( ) { @ org . springframework . data . neo4j . IDENT_1 . Override public void METHOD_3 ( org . springframework . transaction . IDENT_2 status ) { org . springframework . data . neo4j . examples . IDENT_3 . domain . User user = IDENT_4 . METHOD_4 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } } ) ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( STRING_1 , user . getName ( ) ) 

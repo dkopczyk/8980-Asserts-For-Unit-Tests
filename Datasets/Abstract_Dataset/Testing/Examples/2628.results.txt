@@ -1,0 +1,2 @@
+METHOD_0 ( ) { gov . IDENT_0 . IDENT_1 . text . IDENT_2 . IDENT_3 instance = new gov . IDENT_0 . IDENT_1 . text . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . result ; }
+org . junit . Assert . assertNull ( instance . METHOD_2 ( ) ) 

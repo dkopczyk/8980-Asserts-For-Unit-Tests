@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( org . IDENT_0 . event . IDENT_1 event : org . IDENT_0 . IDENT_2 . service . IDENT_3 . METHOD_1 ( 5 ) ) { IDENT_4 . METHOD_2 ( event ) ; } "<AssertPlaceHolder>" ; } METHOD_3 ( ) { org . IDENT_0 . IDENT_2 . service . List < org . IDENT_0 . event . IDENT_1 > events = new org . IDENT_0 . IDENT_2 . service . IDENT_5 < org . IDENT_0 . event . IDENT_1 > ( ) ; events . addAll ( IDENT_6 . values ( ) ) ; return events ; }
+org . junit . Assert . assertEquals ( 5 , IDENT_4 . METHOD_3 ( ) . size ( ) ) 

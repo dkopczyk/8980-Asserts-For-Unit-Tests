@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . kie . workbench . common . IDENT_0 . client . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = mock ( org . kie . workbench . common . IDENT_0 . client . IDENT_1 . IDENT_2 . IDENT_3 . class ) ; final java . lang . String IDENT_5 = STRING_0 ; when ( IDENT_4 . getName ( ) ) . thenReturn ( IDENT_5 ) ; doReturn ( IDENT_4 ) . when ( IDENT_6 ) . METHOD_1 ( ) ; final java . lang . String IDENT_7 = IDENT_6 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return super . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_5 , IDENT_7 ) 

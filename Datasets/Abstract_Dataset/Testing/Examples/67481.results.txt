@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . evosuite . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 obj = mock ( org . evosuite . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . class ) ; when ( obj . toString ( ) ) . thenReturn ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( IDENT_5 ) + STRING_1 ) + ( IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , obj . toString ( ) ) 

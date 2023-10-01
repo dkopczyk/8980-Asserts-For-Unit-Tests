@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String string = STRING_0 ; java . io . ByteArrayInputStream is = new java . io . ByteArrayInputStream ( string . getBytes ( ) ) ; java . lang . String result = com . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_1 ( is ) ; "<AssertPlaceHolder>" ; } is ( java . lang . String ) { return ( com . IDENT_0 . IDENT_1 . configuration . IDENT_3 . IDENT_4 ) == null ? IDENT_4 == null : com . IDENT_0 . IDENT_1 . configuration . IDENT_3 . IDENT_4 . equals ( IDENT_4 ) ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . Matchers . is ( string ) ) 

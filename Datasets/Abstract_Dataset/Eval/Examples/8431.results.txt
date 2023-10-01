@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { org . apache . camel . IDENT_0 IDENT_1 = new org . apache . camel . impl . METHOD_2 ( ) ; org . apache . camel . IDENT_2 IDENT_3 = IDENT_1 . METHOD_3 ( ) . METHOD_4 ( java . io . InputStream . class , org . springframework . core . io . IDENT_4 . class ) ; return IDENT_3 ; }
+org . junit . Assert . assertNotNull ( METHOD_1 ( ) ) 

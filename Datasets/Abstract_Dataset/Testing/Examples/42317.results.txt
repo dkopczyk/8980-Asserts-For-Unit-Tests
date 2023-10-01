@@ -1,0 +1,2 @@
+METHOD_0 ( ) { connection = new org . IDENT_0 . IDENT_1 . METHOD_1 ( driver , url , properties ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertNull ( connection . METHOD_2 ( ) ) 

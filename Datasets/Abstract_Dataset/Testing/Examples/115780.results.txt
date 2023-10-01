@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( this . IDENT_0 . METHOD_2 ( STRING_0 ) ) . METHOD_3 ( new net . IDENT_1 . IDENT_2 . model . database . METHOD_4 ( ) ) ; try { IDENT_3 . METHOD_5 ( delete ( STRING_1 ) . header ( STRING_2 , STRING_3 ) ) . METHOD_6 ( status ( ) . METHOD_7 ( ) ) ; } catch ( java . lang . Exception e ) { e . printStackTrace ( ) ; "<AssertPlaceHolder>" ; } } delete ( java . lang . Long ) { repository . METHOD_8 ( id ) ; }
+org . junit . Assert . assertTrue ( false ) 

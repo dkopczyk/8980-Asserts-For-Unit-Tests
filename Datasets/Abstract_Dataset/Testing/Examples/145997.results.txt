@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . di . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . Field field = new org . pentaho . di . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . Field ( ) ; java . lang . System . setProperty ( IDENT_4 . IDENT_5 , STRING_0 ) ; field . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( null , field . METHOD_2 ( ) ) 

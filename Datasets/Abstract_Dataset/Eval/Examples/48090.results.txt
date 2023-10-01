@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 p = METHOD_1 ( ) ; int IDENT_3 = 0 ; for ( int field = 0 ; field < INT_0 ; field ++ ) { int IDENT_4 = INT_1 / INT_0 ; java . util . List < org . IDENT_0 . core . beans . IDENT_5 > data = org . IDENT_0 . utils . TestUtils . METHOD_2 ( ( STRING_0 + field ) , STRING_1 , IDENT_4 ) ; p . METHOD_3 ( data ) ; IDENT_3 += IDENT_4 ; "<AssertPlaceHolder>" ; } } METHOD_4 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( p . METHOD_4 ( ) , IDENT_3 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Integer t = INT_0 ; t = METHOD_1 ( t , org . apache . IDENT_0 . a . IDENT_1 . Integer . class ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( new java . lang . Integer ( INT_0 ) , t ) 

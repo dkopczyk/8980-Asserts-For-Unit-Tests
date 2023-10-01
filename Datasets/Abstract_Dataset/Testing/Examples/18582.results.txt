@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . security . auth . IDENT_0 subject = new javax . security . auth . METHOD_1 ( ) ; org . apache . jackrabbit . oak . spi . security . authentication . IDENT_1 ctx = new org . apache . jackrabbit . oak . spi . security . authentication . METHOD_2 ( "name" , subject ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return subject ; }
+org . junit . Assert . assertEquals ( subject , ctx . METHOD_3 ( ) ) 

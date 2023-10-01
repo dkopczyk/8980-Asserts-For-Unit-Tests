@@ -1,0 +1,2 @@
+METHOD_0 ( ) { expect ( mock . METHOD_1 ( ) ) . andReturn ( true ) ; replay ( mock ) ; final fr . gouv . vitam . common . logging . IDENT_0 logger = fr . gouv . vitam . common . logging . IDENT_1 . getInstance ( STRING_0 ) ; "<AssertPlaceHolder>" ; verify ( mock ) ; } METHOD_1 ( ) { return true ; }
+org . junit . Assert . assertTrue ( logger . METHOD_1 ( ) ) 

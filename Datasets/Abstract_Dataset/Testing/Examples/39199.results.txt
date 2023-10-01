@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 simple = org . openscience . cdk . graph . IDENT_1 . simple ( ) ; org . openscience . cdk . graph . IDENT_2 IDENT_3 = new org . openscience . cdk . graph . METHOD_1 ( simple , simple . METHOD_2 ( 0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . openscience . cdk . interfaces . IDENT_4 ) { return METHOD_3 ( container . indexOf ( end ) ) ; }
+org . junit . Assert . assertArrayEquals ( new int [ 0 ] , IDENT_3 . METHOD_3 ( null ) ) 

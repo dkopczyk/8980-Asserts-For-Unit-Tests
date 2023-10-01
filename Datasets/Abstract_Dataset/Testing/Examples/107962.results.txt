@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . liferay . IDENT_0 . media . image . model . IDENT_1 IDENT_2 = METHOD_1 ( ) ; IDENT_3 . remove ( IDENT_2 ) ; com . liferay . IDENT_0 . media . image . model . IDENT_1 IDENT_4 = IDENT_3 . METHOD_2 ( IDENT_2 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertNull ( IDENT_4 ) 

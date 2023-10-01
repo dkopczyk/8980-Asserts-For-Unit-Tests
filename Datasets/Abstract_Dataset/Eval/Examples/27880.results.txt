@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; byte [ ] IDENT_1 = new byte [ 20 ] ; java . lang . String s = java . lang . String . format ( IDENT_0 , IDENT_2 . protocol . IDENT_3 . METHOD_1 ( IDENT_1 ) , IDENT_2 . protocol . IDENT_3 . METHOD_1 ( IDENT_1 ) ) ; IDENT_2 . IDENT_4 . IDENT_5 uri = IDENT_2 . IDENT_4 . IDENT_6 . parser ( ) . parse ( s ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 . IDENT_7 . IDENT_8 . METHOD_3 ( IDENT_9 . mock . IDENT_10 . id ) ; }
+org . junit . Assert . assertArrayEquals ( IDENT_1 , uri . METHOD_2 ( ) . getBytes ( ) ) 

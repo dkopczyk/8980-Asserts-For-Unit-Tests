@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . bzk . brp . web . IDENT_0 IDENT_1 = new nl . bzk . brp . web . METHOD_1 ( new nl . bzk . brp . business . dto . METHOD_2 ( java . util . Collections . < nl . bzk . brp . model . validatie . IDENT_2 > emptyList ( ) ) ) { } ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_3 ; }
+org . junit . Assert . assertNull ( IDENT_1 . METHOD_3 ( ) ) 

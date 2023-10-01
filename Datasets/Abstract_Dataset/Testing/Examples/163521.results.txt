@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . IDENT_0 . IDENT_1 cs = new org . oscm . IDENT_0 . METHOD_1 ( ) ; cs . METHOD_2 ( STRING_0 ) ; cs . METHOD_3 ( IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { final java . lang . String value = IDENT_4 . getValue ( ) ; if ( value == null ) { return 0 ; } try { return java . lang . Integer . METHOD_5 ( value ) ; } catch ( java . lang . IDENT_5 e ) { throw new org . oscm . internal . types . exception . METHOD_6 ( ( STRING_1 + ( METHOD_7 ( ) ) ) , e ) ; } }
+org . junit . Assert . assertEquals ( 0 , cs . METHOD_4 ( ) ) 

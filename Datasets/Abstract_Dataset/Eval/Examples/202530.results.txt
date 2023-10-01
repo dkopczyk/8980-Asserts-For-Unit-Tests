@@ -1,0 +1,2 @@
+METHOD_0 ( ) { double [ ] IDENT_0 = new double [ ] { FLOAT_0 , 1 } ; double [ ] IDENT_1 = new double [ ] { 1 , FLOAT_0 } ; double [ ] IDENT_2 = new double [ ] { 2 , 1 } ; int result = org . oscm . app . vmware . business . IDENT_3 . IDENT_4 . METHOD_1 ( new double [ ] [ ] { IDENT_0 , IDENT_1 } , IDENT_2 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( result == 0 ) ) 

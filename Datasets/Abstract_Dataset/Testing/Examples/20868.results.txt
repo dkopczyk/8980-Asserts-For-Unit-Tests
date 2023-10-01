@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Double IDENT_0 = ( ( java . lang . Double ) ( org . apache . IDENT_1 . IDENT_2 . common . utils . IDENT_3 . run ( STRING_0 , new org . apache . IDENT_1 . IDENT_4 . IDENT_2 . HashMap ( ) ) ) ) ; "<AssertPlaceHolder>" ; } run ( java . lang . String , java . util . Map ) { return org . apache . IDENT_1 . IDENT_2 . common . utils . IDENT_3 . run ( expression , IDENT_5 , org . apache . IDENT_1 . IDENT_2 . IDENT_6 . Context . METHOD_1 ( ) ) ; }
+org . junit . Assert . assertNull ( IDENT_0 ) 

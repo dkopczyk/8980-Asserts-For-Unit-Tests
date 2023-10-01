@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final io . vertx . core . json . IDENT_0 data = this . METHOD_1 ( STRING_0 ) ; final io . vertx . IDENT_1 . IDENT_2 . IDENT_3 obj = io . vertx . IDENT_1 . IDENT_2 . IDENT_4 . METHOD_2 ( data , io . vertx . IDENT_1 . IDENT_2 . IDENT_3 . class ) ; System . out . println ( obj ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( io . vertx . core . json . IDENT_0 , java . lang . Class ) { return io . vertx . IDENT_1 . IDENT_2 . IDENT_5 . METHOD_2 ( data , clazz , "" ) ; }
+org . junit . Assert . assertNotNull ( obj ) 

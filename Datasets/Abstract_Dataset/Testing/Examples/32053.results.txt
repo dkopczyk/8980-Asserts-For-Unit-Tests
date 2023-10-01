@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String s = net . sf . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( 4 ) . METHOD_2 ( java . lang . String . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Class ) { return java . lang . IDENT_3 . valueOf ( ( ( char ) ( random . METHOD_3 ( IDENT_3 . MAX_VALUE ) ) ) ) ; }
+org . junit . Assert . assertEquals ( 4 , s . length ( ) ) 

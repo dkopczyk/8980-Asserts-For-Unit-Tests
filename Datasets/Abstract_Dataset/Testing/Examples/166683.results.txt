@@ -1,0 +1,2 @@
+param ( ) { IDENT_0 . param ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String ) { java . lang . String [ ] values = IDENT_1 . get ( name ) ; if ( ( values == null ) || ( ( values . length ) == 0 ) ) { return null ; } return values [ 0 ] ; }
+org . junit . Assert . assertThat ( IDENT_0 . request . METHOD_0 ( STRING_0 ) , org . hamcrest . CoreMatchers . is ( STRING_1 ) ) 

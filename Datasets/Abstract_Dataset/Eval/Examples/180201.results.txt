@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final IDENT_0 . IDENT_1 . IDENT_2 state = new IDENT_0 . IDENT_1 . queue . METHOD_1 ( ) ; final long j = ( Integer . MAX_VALUE ) + 1L ; for ( long i = 0 ; i < j ; i ++ ) { IDENT_3 . METHOD_2 ( state ) ; } "<AssertPlaceHolder>" ; } size ( ) { return size ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_3 . size ( ) ) == j ) ) 

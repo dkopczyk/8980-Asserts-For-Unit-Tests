@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } test ( org . talend . IDENT_0 . api . IDENT_1 . IDENT_2 ) { if ( parameters == null ) { return false ; } return ( ( ( parameters . METHOD_1 ( ) ) == null ) && ( ! ( org . apache . commons . lang3 . StringUtils . isEmpty ( parameters . METHOD_2 ( ) ) ) ) ) && ( org . apache . commons . lang3 . StringUtils . isEmpty ( parameters . METHOD_3 ( ) ) ) ; }
+org . junit . Assert . assertFalse ( strategy . test ( null ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 a = new IDENT_0 . IDENT_1 . METHOD_1 ( 0.0 , FLOAT_0 ) ; IDENT_0 . IDENT_1 . METHOD_1 b = new IDENT_0 . IDENT_1 . METHOD_1 ( FLOAT_1 , FLOAT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( IDENT_0 . IDENT_1 . METHOD_1 ) { return java . lang . Math . METHOD_3 ( ( ( java . lang . Math . METHOD_4 ( ( ( IDENT_3 . x ) - ( this . x ) ) , 2 ) ) + ( java . lang . Math . METHOD_4 ( ( ( IDENT_3 . y ) - ( this . y ) ) , 2 ) ) ) ) ; }
+org . junit . Assert . assertThat ( a . METHOD_2 ( b ) , org . hamcrest . core . Is . is ( FLOAT_1 ) ) 

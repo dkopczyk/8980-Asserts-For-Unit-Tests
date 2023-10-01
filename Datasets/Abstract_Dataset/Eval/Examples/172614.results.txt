@@ -1,0 +1,2 @@
+METHOD_0 ( ) { connection . METHOD_1 ( STRING_0 , 1 , STRING_1 ) ; connection . METHOD_1 ( STRING_0 , 2 , STRING_2 ) ; connection . METHOD_1 ( STRING_0 , 3 , STRING_3 ) ; java . util . Set < java . lang . String > IDENT_0 = connection . METHOD_2 ( STRING_0 , STRING_4 , "2" ) ; "<AssertPlaceHolder>" ; } iterator ( ) { java . util . List < IDENT_1 > list = content ( ) ; METHOD_3 ( list ) ; return new METHOD_4 ( list . iterator ( ) ) ; }
+org . junit . Assert . assertEquals ( STRING_2 , METHOD_2 . iterator ( ) . next ( ) ) 

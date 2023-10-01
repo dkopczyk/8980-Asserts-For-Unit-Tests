@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( template , org . jboss . IDENT_1 . meta . IDENT_2 . IDENT_3 . IDENT_4 ) ; IDENT_0 . METHOD_1 ( template , org . jboss . IDENT_1 . meta . IDENT_2 . IDENT_3 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . jboss . IDENT_1 . meta . IDENT_6 ) { return METHOD_3 ( template ) ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_0 . METHOD_2 ( template ) ) 

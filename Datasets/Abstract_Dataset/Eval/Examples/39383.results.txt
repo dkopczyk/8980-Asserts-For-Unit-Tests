@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 IDENT_1 = ( ( org . openscience . cdk . interfaces . IDENT_0 ) ( METHOD_1 ( ) ) ) ; IDENT_1 . METHOD_2 ( IDENT_2 . IDENT_3 ) ; org . openscience . cdk . interfaces . IDENT_0 IDENT_4 = ( ( org . openscience . cdk . interfaces . IDENT_0 ) ( IDENT_1 . METHOD_3 ( ) ) ) ; IDENT_1 . METHOD_2 ( IDENT_2 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return this . IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_2 . IDENT_3 , METHOD_3 . METHOD_4 ( ) ) 

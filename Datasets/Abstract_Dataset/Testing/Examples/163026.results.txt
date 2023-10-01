@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . app . domain . IDENT_0 IDENT_1 = new org . oscm . app . domain . METHOD_1 ( ) ; java . util . Properties IDENT_2 = new java . util . Properties ( ) ; java . util . HashMap < java . lang . String , org . oscm . app . IDENT_3 . data . IDENT_4 > map = IDENT_1 . METHOD_2 ( IDENT_2 , STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , map . size ( ) ) 

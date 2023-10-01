@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . grpc . IDENT_1 obj = IDENT_2 . METHOD_1 ( STRING_0 , io . IDENT_0 . grpc . IDENT_1 . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_3 ; }
+org . junit . Assert . assertTrue ( "1" . equals ( ( ( io . IDENT_0 . grpc . IDENT_1 ) ( obj ) ) . METHOD_2 ( ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . IDENT_0 . ui . IDENT_1 s = new com . vaadin . IDENT_0 . ui . METHOD_1 ( ) ; s . METHOD_2 ( true ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_2 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( s . isEmpty ( ) ) 

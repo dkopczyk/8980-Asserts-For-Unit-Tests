@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final short [ ] array = null ; org . apache . commons . lang3 . IDENT_0 . METHOD_1 ( array , 1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object [ ] , int ) { if ( array == null ) { return ; } org . apache . commons . lang3 . IDENT_0 . METHOD_1 ( array , 0 , array . length , offset ) ; }
+org . junit . Assert . assertNull ( array ) 

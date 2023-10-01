@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream is = org . apache . poi . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( STRING_0 ) ; org . apache . poi . IDENT_0 . IDENT_3 doc = new org . apache . poi . IDENT_0 . METHOD_2 ( is ) ; is . close ( ) ; "<AssertPlaceHolder>" ; doc . close ( ) ; } close ( ) { container . close ( ) ; }
+org . junit . Assert . assertNotNull ( doc ) 

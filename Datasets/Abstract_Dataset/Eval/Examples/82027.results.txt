@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String original = STRING_0 ; java . lang . String IDENT_0 = STRING_1 ; java . lang . String expected = STRING_2 ; org . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 helper = new org . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String , java . lang . String ) { int index = original . indexOf ( IDENT_0 ) ; if ( index != ( - 1 ) ) { return original . substring ( 0 , index ) ; } return original ; }
+org . junit . Assert . assertEquals ( expected , helper . METHOD_2 ( original , IDENT_0 ) ) 

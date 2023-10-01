@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . ibm . ws . security . IDENT_0 . common . IDENT_1 > IDENT_2 = new java . util . ArrayList < com . ibm . ws . security . IDENT_0 . common . IDENT_1 > ( ) ; java . util . List < javax . security . auth . IDENT_3 . IDENT_4 > IDENT_5 = IDENT_6 . METHOD_1 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return data . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_5 . isEmpty ( ) ) 

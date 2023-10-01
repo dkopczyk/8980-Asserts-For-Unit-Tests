@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Integer > IDENT_3 = com . IDENT_0 . IDENT_1 . IDENT_4 . apply ( 1 , 2 , 3 ) ; com . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Integer > that = com . IDENT_0 . IDENT_1 . IDENT_4 . apply ( 1 , 4 ) ; boolean actual = IDENT_3 . startsWith ( that ) ; boolean expected = false ; "<AssertPlaceHolder>" ; } startsWith ( com . IDENT_0 . IDENT_1 . IDENT_2 ) { return false ; }
+org . junit . Assert . assertThat ( actual , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( expected ) ) ) 

@@ -1,0 +1,2 @@
+test ( ) { METHOD_0 ( context ( ) ) ; org . osgi . framework . IDENT_0 IDENT_1 = context ( ) . METHOD_1 ( METHOD_2 ( ) . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; IDENT_1 . start ( ) ; org . apache . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_4 ( context ( ) , IDENT_1 ) ; } METHOD_3 ( ) { return url ; }
+org . junit . Assert . assertNotNull ( IDENT_1 ) 

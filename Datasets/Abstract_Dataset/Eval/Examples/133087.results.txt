@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File f = org . IDENT_0 . IDENT_1 . IDENT_2 . me ( ) . METHOD_1 ( STRING_0 , java . io . File . class ) ; java . lang . String path = org . IDENT_0 . IDENT_1 . IDENT_2 . me ( ) . METHOD_1 ( f , java . lang . String . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object , java . lang . Class ) { return METHOD_2 ( IDENT_3 , ( null == IDENT_3 ? null : IDENT_3 . getClass ( ) ) , IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( f . getAbsolutePath ( ) , path ) 

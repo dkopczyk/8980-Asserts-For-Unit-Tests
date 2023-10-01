@@ -1,0 +1,2 @@
+METHOD_0 ( ) { runner . METHOD_1 ( METHOD_2 ( org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . class . getName ( ) ) ) ; org . IDENT_0 . IDENT_1 . IDENT_6 results = runner . METHOD_3 ( org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . class . getName ( ) ) ; "<AssertPlaceHolder>" ; } getName ( ) { return module . getName ( ) ; }
+org . junit . Assert . assertThat ( size ( results ) , org . hamcrest . CoreMatchers . is ( 2 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . command . domain . entity . IDENT_3 IDENT_4 = METHOD_1 ( ) ; IDENT_5 . save ( IDENT_4 ) ; IDENT_5 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_4 . getId ( ) ) != null ) ) 

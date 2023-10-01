@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . IDENT_1 . IDENT_2 . web . token . transaction . IDENT_3 IDENT_4 = IDENT_3 . IDENT_5 ; org . IDENT_1 . IDENT_2 . web . token . transaction . IDENT_6 info = new org . IDENT_1 . IDENT_2 . web . token . transaction . METHOD_1 ( IDENT_0 , IDENT_4 ) ; boolean output = info . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_7 . METHOD_2 ( ) ; }
+org . junit . Assert . assertThat ( output , org . hamcrest . CoreMatchers . is ( true ) ) 

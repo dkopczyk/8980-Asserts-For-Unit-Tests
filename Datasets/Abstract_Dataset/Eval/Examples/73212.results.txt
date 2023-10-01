@@ -1,0 +1,2 @@
+( ) { org . json . simple . JSONObject json = METHOD_0 ( STRING_0 , STRING_1 ) ; java . lang . String IDENT_0 = ( ( java . lang . String ) ( json . get ( IDENT_1 . IDENT_2 . IDENT_3 ) ) ) ; com . fujitsu . dc . common . auth . token . IDENT_4 IDENT_5 = com . fujitsu . dc . common . auth . token . IDENT_4 . parse ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return this . schema ; }
+org . junit . Assert . assertNotNull ( IDENT_5 . METHOD_1 ( ) ) 

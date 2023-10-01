@@ -1,0 +1,2 @@
+METHOD_0 ( ) { driver . get ( IDENT_0 . IDENT_1 ) ; java . util . List < org . openqa . selenium . IDENT_2 > body = driver . METHOD_1 ( org . openqa . selenium . IDENT_3 . METHOD_2 ( STRING_0 ) ) ; java . util . List < org . openqa . selenium . IDENT_2 > IDENT_4 = driver . METHOD_1 ( org . openqa . selenium . IDENT_3 . METHOD_3 ( STRING_1 ) ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return options . get ( key ) ; }
+org . junit . Assert . assertEquals ( body . get ( 0 ) . hashCode ( ) , IDENT_4 . get ( 0 ) . hashCode ( ) ) 

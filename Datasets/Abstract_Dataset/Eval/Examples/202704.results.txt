@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . IDENT_0 . IDENT_1 . jpa . IDENT_2 > IDENT_3 = IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_3 . size ( ) ) == 10 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . jenkins . plugins . IDENT_1 . IDENT_2 . IDENT_3 i = new com . IDENT_0 . jenkins . plugins . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; final java . lang . String actual = i . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ! ( METHOD_3 ( ) ) ) { return "" ; } final long now = METHOD_4 ( ) ; final long IDENT_4 = now - ( IDENT_5 ) ; final long IDENT_6 = TimeUnit . IDENT_7 . METHOD_5 ( IDENT_4 ) ; return hudson . IDENT_8 . METHOD_6 ( IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( "" , actual ) 

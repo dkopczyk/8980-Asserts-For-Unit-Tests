@@ -1,0 +1,2 @@
+METHOD_0 ( ) { parameters . put ( STRING_0 , new java . util . ArrayList ( ) ) ; parameters . get ( STRING_0 ) . add ( "" ) ; org . IDENT_0 . IDENT_1 . IDENT_2 . metadata . sync . IDENT_3 IDENT_4 = IDENT_5 . METHOD_1 ( parameters ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return version ; }
+org . junit . Assert . assertNull ( IDENT_4 . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = org . oscm . app . vmware . IDENT_2 . IDENT_3 . METHOD_1 ( IDENT_0 ) ; java . lang . String IDENT_4 = org . oscm . app . vmware . IDENT_5 . IDENT_6 . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return new java . lang . String ( org . oscm . app . vmware . IDENT_5 . IDENT_6 . METHOD_2 ( IDENT_1 . getBytes ( ) ) ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_4 ) 

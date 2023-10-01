@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Class < ? > IDENT_0 = com . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( new IDENT_4 . IDENT_5 . hadoop . METHOD_2 ( new IDENT_4 . IDENT_6 . hadoop . METHOD_3 ( ) , "" ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( org . apache . hadoop . conf . Configuration . class , IDENT_0 ) 

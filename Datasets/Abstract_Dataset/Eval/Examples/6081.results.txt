@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . activemq . artemis . core . client . impl . IDENT_0 buffer = METHOD_1 ( 3 , 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , INT_0 , 12 , INT_1 , INT_2 , 15 ) ; for ( int i = 1 ; i <= 15 ; i ++ ) { "<AssertPlaceHolder>" ; } try { buffer . METHOD_2 ( ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( java . lang . IDENT_1 e ) { } } METHOD_3 ( ) { return buffer . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( i , buffer . METHOD_3 ( ) ) 

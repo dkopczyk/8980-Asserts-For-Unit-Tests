@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . ByteArrayOutputStream IDENT_0 = new java . io . ByteArrayOutputStream ( ) ; IDENT_1 . METHOD_1 ( IDENT_0 ) ; IDENT_0 . close ( ) ; byte [ ] expected = new byte [ ] { INT_0 , 2 , 5 , INT_1 } ; "<AssertPlaceHolder>" ; } close ( ) { try { super . close ( ) ; } finally { file . delete ( ) ; } }
+org . junit . Assert . assertTrue ( java . util . Arrays . equals ( expected , IDENT_0 . toByteArray ( ) ) ) 

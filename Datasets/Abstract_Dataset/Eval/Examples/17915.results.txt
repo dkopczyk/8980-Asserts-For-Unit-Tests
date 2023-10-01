@@ -1,0 +1,2 @@
+simple ( ) { java . util . List < java . lang . String > IDENT_0 = org . apache . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . util . IDENT_5 . split ( STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_6 . size ( ) ; }
+org . junit . Assert . assertThat ( IDENT_0 . size ( ) , org . hamcrest . CoreMatchers . is ( 3 ) ) 

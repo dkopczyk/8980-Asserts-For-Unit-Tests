@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . amazon . IDENT_1 . http . nio . netty . internal . IDENT_2 IDENT_3 = new IDENT_0 . amazon . IDENT_1 . http . nio . netty . internal . METHOD_1 ( ) ; java . util . Map < io . netty . channel . IDENT_4 , java . lang . Object > IDENT_5 = new java . util . HashMap ( ) ; IDENT_5 . put ( IDENT_4 . IDENT_6 , Boolean . IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return java . util . Collections . METHOD_3 ( options ) ; }
+org . junit . Assert . assertEquals ( IDENT_5 , METHOD_2 . METHOD_2 ( ) ) 

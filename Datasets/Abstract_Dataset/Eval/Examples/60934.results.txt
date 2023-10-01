@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . internal . service . IDENT_0 context = new org . eclipse . rap . rwt . internal . service . METHOD_1 ( mock ( javax . servlet . http . IDENT_1 . class ) , mock ( javax . servlet . http . IDENT_2 . class ) , IDENT_3 ) ; org . eclipse . rap . rwt . internal . application . IDENT_4 found = context . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { org . eclipse . rap . rwt . IDENT_5 . METHOD_3 ( ) ; return org . eclipse . rap . rwt . internal . service . IDENT_6 . METHOD_2 ( ) ; }
+org . junit . Assert . assertNull ( found ) 

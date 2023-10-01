@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final T instance = getInstance ( org . apache . IDENT_0 . IDENT_1 . api . IDENT_2 . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( org . apache . IDENT_0 . IDENT_1 . api . IDENT_2 . IDENT_3 . IDENT_4 , instance . getName ( ) ) 

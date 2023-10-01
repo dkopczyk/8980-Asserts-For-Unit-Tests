@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] b = new byte [ 1 ] ; "<AssertPlaceHolder>" ; } METHOD_1 ( byte [ ] ) { return org . davidmoten . IDENT_0 . jdbc . IDENT_1 . METHOD_2 ( bytes ) ; }
+org . junit . Assert . assertEquals ( b , org . davidmoten . IDENT_0 . jdbc . IDENT_1 . METHOD_1 ( b ) ) 

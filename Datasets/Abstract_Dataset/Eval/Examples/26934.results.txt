@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . IDENT_0 . helper . IDENT_1 instance = new org . openscience . IDENT_0 . helper . METHOD_1 ( 15 ) ; int expResult = 15 ; int result = instance . getValue ( ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return this . value ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

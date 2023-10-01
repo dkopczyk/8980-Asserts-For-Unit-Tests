@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String s = IDENT_0 . amazon . IDENT_1 . utils . IDENT_2 . METHOD_1 ( new java . io . InputStream ( ) { @ IDENT_0 . amazon . IDENT_1 . utils . Override public int read ( ) throws java . io . IOException { return - 1 ; } } ) ; "<AssertPlaceHolder>" ; } read ( ) { pipeline ( ) . read ( ) ; return this ; }
+org . junit . Assert . assertEquals ( "" , s ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; driver ( ) . METHOD_2 ( org . openqa . selenium . IDENT_0 . id ( STRING_0 ) ) . METHOD_3 ( ) ; java . util . List < org . openqa . selenium . IDENT_1 > elements = driver ( ) . METHOD_4 ( org . openqa . selenium . IDENT_0 . id ( STRING_1 ) ) ; "<AssertPlaceHolder>" ; } id ( java . lang . String ) { if ( id == null ) throw new java . lang . IllegalArgumentException ( STRING_2 ) ; return new io . IDENT_2 . server . model . IDENT_0 . METHOD_5 ( id ) ; }
+org . junit . Assert . assertEquals ( elements . size ( ) , 1 ) 

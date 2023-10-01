@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . streams . catalog . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . streams . catalog . METHOD_1 ( STRING_0 , null , null , null ) ; java . lang . String str = IDENT_3 . toString ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( STRING_1 + STRING_2 ) + ( properties ) ) + STRING_3 ; }
+org . junit . Assert . assertEquals ( STRING_0 , str ) 

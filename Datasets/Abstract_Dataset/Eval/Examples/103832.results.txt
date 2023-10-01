@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean empty = IDENT_0 . isEmpty ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return METHOD_1 ( ) . METHOD_2 ( this :: IDENT_1 ) ; }
+org . junit . Assert . assertTrue ( empty ) 

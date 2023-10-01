@@ -1,0 +1,2 @@
+METHOD_0 ( ) { short [ ] array = new short [ ] { 1 , 2 , 3 } ; array = com . liferay . portal . kernel . util . IDENT_0 . remove ( array , ( ( short ) ( 3 ) ) ) ; "<AssertPlaceHolder>" ; } remove ( boolean [ ] , boolean ) { return com . liferay . portal . kernel . util . IDENT_0 . remove ( array , value ) ; }
+org . junit . Assert . assertArrayEquals ( new short [ ] { 1 , 2 } , array ) 

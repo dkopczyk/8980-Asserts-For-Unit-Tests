@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . System . setProperty ( IDENT_0 . IDENT_1 , STRING_0 ) ; org . apache . IDENT_2 . IDENT_0 IDENT_3 = new org . apache . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . apache . IDENT_2 . manager . IDENT_4 . IDENT_5 . METHOD_2 ( org . apache . IDENT_2 . mapreduce . IDENT_6 . IDENT_7 . METHOD_3 ( ) ) ; }
+org . junit . Assert . assertThat ( IDENT_3 . METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( false ) ) ) 

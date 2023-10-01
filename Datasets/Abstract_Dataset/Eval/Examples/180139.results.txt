@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < com . tinkerpop . IDENT_0 . domain . classes . Person , java . lang . Long > IDENT_1 = IDENT_2 . METHOD_1 ( ) ; java . util . Map < com . tinkerpop . IDENT_0 . domain . classes . Person , java . lang . Long > IDENT_3 = com . google . common . collect . IDENT_4 . METHOD_2 ( ) ; IDENT_3 . put ( IDENT_5 , 1L ) ; IDENT_3 . put ( IDENT_6 , 1L ) ; "<AssertPlaceHolder>" ; } put ( T , java . lang . Object ) { throw new java . lang . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_1 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . METHOD_1 ( IDENT_4 . IDENT_5 ) ; IDENT_3 . METHOD_2 ( org . IDENT_0 . IDENT_1 . IDENT_6 . IDENT_7 , false ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return listener . METHOD_3 ( ) ; }
+org . junit . Assert . assertNull ( IDENT_3 . METHOD_3 ( ) ) 

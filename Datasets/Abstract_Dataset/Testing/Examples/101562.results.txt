@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 + ( ( STRING_1 + STRING_2 ) + STRING_3 ) ; org . kie . api . runtime . IDENT_1 IDENT_2 = new org . kie . internal . utils . METHOD_1 ( ) . METHOD_2 ( IDENT_0 , IDENT_3 . IDENT_4 ) . build ( ) . METHOD_3 ( ) ; IDENT_2 . insert ( STRING_4 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return 0 ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_2 . METHOD_4 ( ) ) 

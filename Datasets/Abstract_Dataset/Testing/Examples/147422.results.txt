@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( false ) ; METHOD_2 ( ) ; IDENT_0 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { java . sql . IDENT_1 stmt = IDENT_0 . METHOD_5 ( ) ; java . sql . ResultSet rs = stmt . METHOD_6 ( STRING_0 ) ; rs . next ( ) ; int result = rs . METHOD_7 ( 1 ) ; rs . close ( ) ; return result ; }
+org . junit . Assert . assertEquals ( 0 , METHOD_4 ( ) ) 

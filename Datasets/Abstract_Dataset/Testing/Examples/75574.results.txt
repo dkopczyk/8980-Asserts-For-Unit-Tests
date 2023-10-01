@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . IDENT_1 . persistence . IDENT_2 . model . IDENT_3 > IDENT_4 = this . IDENT_5 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; logger . info ( STRING_0 , IDENT_4 ) ; logger . info ( STRING_1 , this . IDENT_5 . find ( IDENT_6 . getId ( ) ) ) ; this . IDENT_5 . METHOD_2 ( ) ; } size ( ) { return list . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_4 . size ( ) ) == 1 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . setName ( new org . kie . workbench . common . IDENT_1 . api . property . IDENT_1 . METHOD_1 ( "name" ) ) ; IDENT_2 . setName ( new org . kie . workbench . common . IDENT_1 . api . property . IDENT_1 . METHOD_1 ( "name" ) ) ; "<AssertPlaceHolder>" ; } setName ( org . kie . workbench . common . IDENT_1 . api . property . IDENT_1 . METHOD_1 ) { this . name = name ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_2 ) 

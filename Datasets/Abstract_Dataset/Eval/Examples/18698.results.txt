@@ -1,0 +1,2 @@
+METHOD_0 ( ) { set . add ( INT_0 ) ; "<AssertPlaceHolder>" ; } contains ( java . lang . String ) { return options . containsKey ( key ) ; }
+org . junit . Assert . assertTrue ( set . contains ( INT_0 ) ) 

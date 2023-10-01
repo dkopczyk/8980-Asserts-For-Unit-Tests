@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object result = IDENT_0 . IDENT_1 . run ( STRING_0 ) ; java . util . Map < java . lang . String , java . lang . String > map = new java . util . HashMap < java . lang . String , java . lang . String > ( ) ; map . put ( "name" , STRING_1 ) ; "<AssertPlaceHolder>" ; } put ( java . lang . String , byte [ ] ) { if ( null != ( IDENT_2 . METHOD_1 ( IDENT_3 , bytes ) ) ) throw new java . lang . RuntimeException ( STRING_2 ) ; }
+org . junit . Assert . assertEquals ( map , result ) 

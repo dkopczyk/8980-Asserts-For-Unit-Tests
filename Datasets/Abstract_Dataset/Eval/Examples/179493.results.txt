@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . tinkerpop . IDENT_0 . IDENT_1 v = graph . METHOD_1 ( new java . lang . Long ( 1 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Object ) { if ( id instanceof java . lang . Long ) return ( ( java . lang . Long ) ( id ) ) ; long IDENT_2 = - 1L ; if ( id != null ) { try { IDENT_2 = java . lang . Long . METHOD_3 ( id . toString ( ) ) ; } catch ( final java . lang . IDENT_3 e ) { IDENT_2 = - 1L ; } } return IDENT_2 ; }
+org . junit . Assert . assertEquals ( 1L , handler . METHOD_2 ( v ) ) 

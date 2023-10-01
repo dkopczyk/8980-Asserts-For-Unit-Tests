@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object c = new com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) . p ( STRING_0 , STRING_1 ) . p ( "value" , STRING_2 ) . p ( STRING_3 , STRING_4 ) ; java . util . Map < java . lang . String , java . lang . Object > d = METHOD_2 ( c ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Object ) { final com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 e = METHOD_3 ( config ) ; return e . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( com . google . common . collect . ImmutableMap . of ( STRING_4 , STRING_2 ) , d ) 

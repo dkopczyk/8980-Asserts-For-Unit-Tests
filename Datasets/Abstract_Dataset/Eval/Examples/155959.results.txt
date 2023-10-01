@@ -1,0 +1,2 @@
+METHOD_0 ( ) { android . content . IDENT_0 provider = new android . content . METHOD_1 ( STRING_0 , STRING_1 ) ; android . IDENT_1 . IDENT_2 IDENT_3 = new android . IDENT_1 . METHOD_2 ( ) ; IDENT_3 . provider = provider ; IDENT_4 . METHOD_3 ( IDENT_3 ) ; IDENT_5 . METHOD_4 ( INT_0 , provider ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( int ) { org . IDENT_6 . IDENT_7 . IDENT_8 . IDENT_9 IDENT_10 = IDENT_11 . get ( IDENT_12 ) ; if ( IDENT_10 == null ) return null ; return IDENT_10 . info ; }
+org . junit . Assert . assertSame ( IDENT_3 , IDENT_5 . METHOD_5 ( INT_0 ) ) 

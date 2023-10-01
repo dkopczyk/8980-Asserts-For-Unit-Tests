@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = "" ; java . lang . String IDENT_1 = "" ; java . lang . String IDENT_2 = IDENT_3 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( org . pentaho . di . core . util . IDENT_4 . isEmpty ( IDENT_5 ) ) { return IDENT_5 ; } return IDENT_5 . replaceAll ( STRING_0 , " " ) . trim ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_2 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . count ( ) ) . thenReturn ( INT_0 ) ; final ac . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new ac . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( IDENT_0 , IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_0 . count ( ) ; }
+org . junit . Assert . assertEquals ( INT_0 , IDENT_5 . METHOD_2 ( ) ) 

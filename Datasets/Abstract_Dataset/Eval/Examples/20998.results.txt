@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . execute ( METHOD_1 ( STRING_0 ) ) ; final java . lang . String expected = STRING_1 ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return out . toString ( ) . replace ( java . lang . System . METHOD_3 ( ) , "" ) ; }
+org . junit . Assert . assertTrue ( METHOD_2 ( ) . startsWith ( expected ) ) 

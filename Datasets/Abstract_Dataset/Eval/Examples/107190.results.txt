@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . joda . time . IDENT_0 IDENT_1 = new org . joda . time . METHOD_1 ( INT_0 , 1 , 15 , 0 , 0 , 0 , 0 ) ; com . IDENT_2 . java . date . IDENT_3 IDENT_4 = new com . IDENT_2 . java . date . METHOD_2 ( IDENT_1 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_5 . get ( IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( new java . lang . Integer ( 1 ) , IDENT_4 . METHOD_4 ( ) ) 

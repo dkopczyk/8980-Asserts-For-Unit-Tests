@@ -1,0 +1,2 @@
+verify ( ) { final java . lang . String IDENT_0 = STRING_0 ; final java . util . Date date = IDENT_1 . METHOD_0 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . math . BigDecimal ) { if ( v == null ) { return null ; } final java . text . IDENT_2 IDENT_3 = new java . text . METHOD_2 ( ) ; IDENT_3 . METHOD_3 ( STRING_1 ) ; return new java . text . METHOD_4 ( STRING_2 , IDENT_3 ) . format ( v ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_1 . METHOD_1 ( date ) ) 

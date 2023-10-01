@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } instance ( ) { return org . apache . tinkerpop . IDENT_0 . util . iterator . IDENT_1 . INSTANCE ; }
+org . junit . Assert . assertFalse ( org . apache . tinkerpop . IDENT_0 . util . iterator . IDENT_1 . instance ( ) . hasNext ( ) ) 

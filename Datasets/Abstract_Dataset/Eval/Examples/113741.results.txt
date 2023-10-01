@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . github . IDENT_0 . impl . io . IDENT_1 in = new com . github . IDENT_0 . impl . io . METHOD_1 ( new java . io . ByteArrayInputStream ( new byte [ 2 ] ) ) ; in . read ( new byte [ 2 ] , 1 , 1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( 1 , in . METHOD_2 ( ) , 0L ) 

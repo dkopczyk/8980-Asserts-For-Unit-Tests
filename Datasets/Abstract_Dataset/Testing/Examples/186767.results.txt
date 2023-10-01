@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . StringWriter writer = com . IDENT_0 . IDENT_1 . template . IDENT_2 . METHOD_1 ( STRING_0 ) . METHOD_2 ( java . util . Locale . METHOD_3 ( STRING_1 ) ) . build ( ) ; com . IDENT_0 . IDENT_1 . template . IDENT_3 . LOGGER . info ( STRING_2 , writer . toString ( ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return super . toString ( ) . toLowerCase ( ) ; }
+org . junit . Assert . assertTrue ( "" . equals ( writer . toString ( ) ) ) 

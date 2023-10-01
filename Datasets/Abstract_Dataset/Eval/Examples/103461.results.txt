@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( any ( org . IDENT_1 . common . services . project . model . IDENT_2 . class ) ) ) . thenReturn ( false ) ; this . IDENT_3 . init ( ) ; verify ( IDENT_4 , times ( 1 ) ) . METHOD_2 ( ) ; verify ( IDENT_5 , METHOD_3 ( ) ) . METHOD_2 ( ) ; verify ( view ) . METHOD_4 ( IDENT_4 . METHOD_2 ( ) . METHOD_5 ( ) ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return METHOD_6 ( ) . METHOD_7 ( this :: IDENT_6 ) ; }
+org . junit . Assert . assertTrue ( IDENT_3 . isEmpty ( ) ) 

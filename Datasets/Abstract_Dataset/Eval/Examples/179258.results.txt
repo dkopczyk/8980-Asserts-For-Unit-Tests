@@ -1,0 +1,2 @@
+METHOD_0 ( ) { uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . core . data . IDENT_3 p = IDENT_4 . get ( 1 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Object ) { return map . get ( key ) ; }
+org . junit . Assert . assertNotNull ( p ) 

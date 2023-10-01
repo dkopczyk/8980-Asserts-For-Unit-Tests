@@ -1,0 +1,2 @@
+METHOD_0 ( ) { buf . append ( "" ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . lang . StringBuilder sb = new java . lang . StringBuilder ( ) ; if ( IDENT_0 ) { sb . append ( buffer , pos , ( ( buffer . length ) - ( pos ) ) ) ; } sb . append ( buffer , 0 , pos ) ; return sb . toString ( ) ; }
+org . junit . Assert . assertEquals ( "" , buf . METHOD_1 ( ) ) 

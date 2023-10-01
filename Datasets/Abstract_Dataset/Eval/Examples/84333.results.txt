@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( context . METHOD_1 ( ) ) . thenReturn ( true ) ; org . springframework . test . util . IDENT_0 . METHOD_2 ( IDENT_1 , STRING_0 , METHOD_3 ( STRING_1 , asList ( STRING_2 ) ) ) ; boolean result = IDENT_1 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return ( context . METHOD_1 ( ) ) && ( METHOD_5 ( ) ) ; }
+org . junit . Assert . assertTrue ( result ) 

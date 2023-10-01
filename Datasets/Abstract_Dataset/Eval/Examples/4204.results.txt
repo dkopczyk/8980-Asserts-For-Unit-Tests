@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] expected = new int [ ] { 1 , 2 , 3 , 5 , 8 , INT_0 } ; com . IDENT_0 . stream . IDENT_1 stream = com . IDENT_0 . stream . IDENT_1 . of ( 1 , 2 , 3 , 5 , 8 , INT_0 ) . METHOD_1 ( com . IDENT_0 . stream . IDENT_2 . < java . lang . Integer > METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } toArray ( ) { return com . IDENT_0 . stream . internal . IDENT_3 . METHOD_3 ( iterator ) ; }
+org . junit . Assert . assertThat ( stream . toArray ( ) , org . hamcrest . Matchers . is ( expected ) ) 

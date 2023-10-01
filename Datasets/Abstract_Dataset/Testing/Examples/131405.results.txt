@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . netty . channel . IDENT_0 pipeline = new io . netty . channel . IDENT_1 . METHOD_1 ( ) . pipeline ( ) ; "<AssertPlaceHolder>" ; } first ( ) { io . netty . channel . IDENT_2 first = METHOD_2 ( ) ; if ( first == null ) { return null ; } return first . handler ( ) ; }
+org . junit . Assert . assertNull ( pipeline . first ( ) ) 

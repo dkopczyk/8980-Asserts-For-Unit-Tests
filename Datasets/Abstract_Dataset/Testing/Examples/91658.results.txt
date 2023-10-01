@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long value = INT_0 ; java . lang . StringBuilder sb = new java . lang . StringBuilder ( ) ; IDENT_0 . METHOD_1 ( null , IDENT_1 , sb , new java . util . ArrayList < com . IDENT_2 . IDENT_3 . stmt . IDENT_4 > ( ) , value ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( ( getClass ( ) . METHOD_2 ( ) ) + STRING_0 ) + ( field . getName ( ) ) ) + STRING_1 ) + ( field . METHOD_3 ( ) . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertEquals ( ( ( java . lang . Long . toString ( value ) ) + " " ) , sb . toString ( ) ) 

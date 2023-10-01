@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String expected = STRING_0 ; java . lang . String actual = IDENT_0 . IDENT_1 . selenium . IDENT_2 . utils . IDENT_3 . METHOD_1 ( STRING_1 ) ; System . out . println ( ( ( ( ( STRING_2 + expected ) + STRING_3 ) + actual ) + "]" ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( actual , org . hamcrest . CoreMatchers . equalTo ( expected ) ) 

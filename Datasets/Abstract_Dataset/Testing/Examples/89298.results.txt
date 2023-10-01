@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; java . lang . String id = "" ; eu . IDENT_0 . IDENT_1 . IDENT_2 instance = new eu . IDENT_0 . IDENT_1 . IDENT_3 . METHOD_1 ( ) ; java . net . URL expResult = null ; java . net . URL result = instance . METHOD_2 ( id ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return IDENT_4 . get ( id ) ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

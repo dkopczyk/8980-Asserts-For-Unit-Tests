@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; this . IDENT_1 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . IDENT_2 ; }
+org . junit . Assert . assertThat ( this . IDENT_1 . METHOD_2 ( ) , org . hamcrest . core . Is . is ( IDENT_0 ) ) 

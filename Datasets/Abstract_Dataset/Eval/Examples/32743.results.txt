@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . function . IDENT_1 IDENT_2 = new IDENT_0 . function . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( true ) ; IDENT_0 . function . METHOD_1 result = METHOD_3 ( IDENT_2 , IDENT_0 . function . METHOD_1 . class ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return b ; }
+org . junit . Assert . assertEquals ( true , result . METHOD_4 ( ) ) 

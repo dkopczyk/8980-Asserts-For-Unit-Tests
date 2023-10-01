@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String msg = STRING_0 ; IDENT_0 . METHOD_1 ( msg ) ; "<AssertPlaceHolder>" ; } getMessage ( ) { return message ; }
+org . junit . Assert . assertEquals ( msg , IDENT_0 . getMessage ( ) ) 

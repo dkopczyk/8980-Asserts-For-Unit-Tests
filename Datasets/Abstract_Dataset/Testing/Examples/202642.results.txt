@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . mockito . Mockito . when ( context . getString ( IDENT_0 . string . IDENT_1 ) ) . thenReturn ( STRING_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( context . getString ( IDENT_0 . string . IDENT_1 ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) 

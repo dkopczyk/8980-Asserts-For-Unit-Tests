@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . as . cli . IDENT_0 . IDENT_1 . test . IDENT_2 . METHOD_1 ( STRING_0 , STRING_1 ) ; org . jboss . as . cli . IDENT_0 . IDENT_1 . test . IDENT_2 . METHOD_1 ( STRING_2 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { IDENT_3 . METHOD_2 ( ctx , buffer , buffer . length ( ) , IDENT_4 ) ; return IDENT_4 . get ( 0 ) ; }
+org . junit . Assert . assertEquals ( java . util . Arrays . asList ( STRING_1 ) , METHOD_2 ( null ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 IDENT_2 ; IDENT_2 = new IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { IDENT_0 . METHOD_1 IDENT_2 ; IDENT_2 = new IDENT_0 . METHOD_1 ( ) ; org . junit . Assert . assertTrue ( IDENT_2 . METHOD_0 ( ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_0 ( ) ) 

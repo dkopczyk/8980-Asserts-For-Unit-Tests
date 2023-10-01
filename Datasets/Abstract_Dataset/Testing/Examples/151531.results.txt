@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . querydsl . core . group . Map < java . lang . Integer , com . querydsl . core . group . IDENT_0 > results = com . querydsl . core . group . IDENT_1 . transform ( METHOD_1 ( IDENT_2 ) . as ( IDENT_3 , set ( IDENT_4 ) ) ) ; "<AssertPlaceHolder>" ; } size ( ) { query ( store , store . IDENT_5 . size ( ) . METHOD_2 ( 0 ) ) ; }
+org . junit . Assert . assertEquals ( 4 , results . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ca . IDENT_0 . IDENT_1 . IDENT_2 . model . IDENT_3 . IDENT_4 . IDENT_5 read = IDENT_6 . read ( INT_0 ) ; ca . IDENT_0 . IDENT_1 . IDENT_2 . model . project . IDENT_7 IDENT_8 = IDENT_9 . read ( INT_1 ) ; ca . IDENT_0 . IDENT_1 . IDENT_2 . model . IDENT_3 . IDENT_4 . IDENT_10 METHOD_0 = IDENT_6 . METHOD_0 ( read , IDENT_8 ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertNotNull ( METHOD_0 . getId ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( null ) ; final java . util . List < java . io . File > matches = IDENT_0 . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { IDENT_2 . METHOD_3 ( ) . METHOD_4 ( ) ; try { return IDENT_3 . size ( ) ; } finally { IDENT_2 . METHOD_3 ( ) . METHOD_5 ( ) ; } }
+org . junit . Assert . assertEquals ( 2 , matches . size ( ) ) 

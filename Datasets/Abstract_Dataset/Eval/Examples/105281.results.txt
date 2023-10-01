@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String as = STRING_0 ; java . lang . String res = STRING_1 ; int IDENT_0 = 0 ; java . math . BigInteger IDENT_1 = new java . math . BigInteger ( as ) ; java . math . BigInteger result = IDENT_1 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( ( ( getClass ( ) . getName ( ) ) + STRING_2 ) + ( IDENT_2 ) ) + STRING_3 ) + ( IDENT_3 ) ) + "]" ; }
+org . junit . Assert . assertEquals ( res , result . toString ( ) ) 

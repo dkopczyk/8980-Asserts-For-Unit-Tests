@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return offset ; }
+org . junit . Assert . assertEquals ( 0L , results . METHOD_0 ( ) ) 

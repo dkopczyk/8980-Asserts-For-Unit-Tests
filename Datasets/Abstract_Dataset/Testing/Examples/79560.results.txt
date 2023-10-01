@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . tx . executor . batch . IDENT_1 IDENT_2 = new com . IDENT_0 . tx . executor . batch . METHOD_1 ( database , 3 , 10 , new com . IDENT_0 . tx . executor . batch . IDENT_3 . METHOD_2 ( 4 ) ) ; IDENT_2 . execute ( ) ; try ( org . neo4j . IDENT_4 . IDENT_5 tx = database . METHOD_3 ( ) ) { "<AssertPlaceHolder>" ; } } METHOD_4 ( org . neo4j . IDENT_4 . IDENT_6 ) { return com . IDENT_0 . common . util . IDENT_7 . count ( database . METHOD_5 ( ) ) ; }
+org . junit . Assert . assertEquals ( 8 , METHOD_4 ( database ) ) 

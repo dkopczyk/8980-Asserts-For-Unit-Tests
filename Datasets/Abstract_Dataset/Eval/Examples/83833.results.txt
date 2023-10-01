@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . IDENT_0 . impl . IDENT_1 config = org . apache . hadoop . IDENT_0 . impl . IDENT_1 . create ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( IDENT_2 . METHOD_1 ( 0 ) ) == ( - 1 ) ; }
+org . junit . Assert . assertTrue ( config . isEmpty ( ) ) 

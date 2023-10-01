@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . beam . sdk . IDENT_0 . IDENT_1 . core . IDENT_2 . provider . IDENT_3 IDENT_4 = org . apache . beam . sdk . IDENT_0 . IDENT_1 . core . IDENT_2 . provider . IDENT_3 . METHOD_1 ( ) . build ( ) ; "<AssertPlaceHolder>" ; } build ( ) { return IDENT_5 ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

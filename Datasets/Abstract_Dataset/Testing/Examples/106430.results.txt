@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String filter = STRING_0 ; IDENT_0 . IDENT_1 . persistence . IDENT_2 . IDENT_3 [ ] IDENT_4 = new IDENT_0 . IDENT_1 . persistence . IDENT_2 . IDENT_3 [ ] { new IDENT_0 . IDENT_1 . persistence . IDENT_2 . METHOD_1 ( STRING_1 ) } ; IDENT_5 . METHOD_2 ( filter ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertArrayEquals ( IDENT_4 , IDENT_5 . METHOD_3 ( ) . toArray ( ) ) 

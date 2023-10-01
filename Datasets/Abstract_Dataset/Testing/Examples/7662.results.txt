@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . concurrent . IDENT_0 < java . lang . Integer > future = org . apache . beam . sdk . util . IDENT_1 . METHOD_1 ( ( ) -> INT_0 ) ; "<AssertPlaceHolder>" ; } get ( java . util . concurrent . IDENT_0 ) { return future . METHOD_2 ( ) . get ( ) ; }
+org . junit . Assert . assertThat ( org . apache . beam . sdk . util . IDENT_1 . get ( future ) , org . hamcrest . Matchers . equalTo ( INT_0 ) ) 

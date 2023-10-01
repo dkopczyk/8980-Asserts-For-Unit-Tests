@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( final org . apache . IDENT_0 . util . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( "test" ) ) { "<AssertPlaceHolder>" ; } } METHOD_1 ( java . lang . String ) { return new org . apache . IDENT_0 . util . logging . METHOD_2 ( org . apache . IDENT_0 . util . logging . IDENT_4 . LOG , IDENT_5 , msg ) ; }
+org . junit . Assert . assertTrue ( true ) 

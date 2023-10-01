@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . rules . IDENT_1 . IDENT_2 . IDENT_3 instance = org . IDENT_0 . rules . TestUtils . create ( org . IDENT_0 . rules . IDENT_1 . IDENT_2 . IDENT_4 , org . IDENT_0 . rules . IDENT_1 . IDENT_2 . IDENT_3 . class ) ; int res = instance . METHOD_1 ( 1 ) ; "<AssertPlaceHolder>" ; } create ( java . lang . String , java . lang . Class ) { org . IDENT_0 . rules . runtime . IDENT_5 < T > IDENT_6 = new org . IDENT_0 . rules . runtime . METHOD_2 ( IDENT_7 , IDENT_8 ) ; return IDENT_6 . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( 3 , res ) 

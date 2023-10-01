@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . model . IDENT_2 delete = update ( ) . delete ( com . IDENT_0 . IDENT_1 . model . IDENT_3 . s . a ( com . IDENT_0 . IDENT_1 . model . IDENT_4 . example ) ) . METHOD_1 ( com . IDENT_0 . IDENT_1 . model . IDENT_3 . s . METHOD_2 ( com . IDENT_0 . IDENT_1 . model . IDENT_3 . p , com . IDENT_0 . IDENT_1 . model . IDENT_3 . o ) ) ; delete . execute ( ) ; "<AssertPlaceHolder>" ; } connection ( ) { return IDENT_5 . helper . connection ; }
+org . junit . Assert . assertTrue ( connection ( ) . exists ( null , null , null , null , false ) ) 

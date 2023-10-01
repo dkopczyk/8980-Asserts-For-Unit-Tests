@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; IDENT_0 . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { return client . admin ( ) . METHOD_4 ( ) . exists ( METHOD_5 ( IDENT_1 ) ) . METHOD_6 ( ) . METHOD_7 ( ) ; }
+org . junit . Assert . assertThat ( IDENT_0 . METHOD_3 ( STRING_0 ) , is ( true ) ) 

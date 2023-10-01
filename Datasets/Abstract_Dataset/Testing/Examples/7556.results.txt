@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . beam . sdk . IDENT_0 . IDENT_1 < byte [ ] > IDENT_2 = org . apache . beam . sdk . IDENT_0 . IDENT_1 . of ( org . apache . beam . sdk . IDENT_0 . IDENT_3 . of ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return true ; }
+org . junit . Assert . assertFalse ( IDENT_2 . METHOD_1 ( ) ) 

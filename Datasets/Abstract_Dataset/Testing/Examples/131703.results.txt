@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; com . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = IDENT_5 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( IDENT_6 . startsWith ( STRING_1 ) ) { return new org . IDENT_7 . IDENT_8 . event . METHOD_2 ( IDENT_6 ) ; } else if ( STRING_0 . equals ( IDENT_6 ) ) { return new org . IDENT_7 . IDENT_8 . event . METHOD_3 ( ) ; } else { return null ; } }
+org . junit . Assert . assertTrue ( ( IDENT_4 instanceof org . IDENT_7 . IDENT_8 . event . METHOD_3 ) ) 

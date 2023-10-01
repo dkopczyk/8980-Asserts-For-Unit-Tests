@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . geotools . data . mongodb . IDENT_0 . IDENT_0 store = METHOD_1 ( ) ; java . io . File directory = IDENT_1 . get ( store ) ; java . io . File expected = new java . io . File ( directory , ( "test" + ( IDENT_2 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return new java . io . File ( IDENT_3 , ( IDENT_4 + ( org . geotools . data . mongodb . IDENT_0 . IDENT_2 ) ) ) ; }
+org . junit . Assert . assertThat ( store . METHOD_2 ( "test" ) , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( expected ) ) ) 

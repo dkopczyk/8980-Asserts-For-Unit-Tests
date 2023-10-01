@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] bytes = STRING_0 . getBytes ( com . pentaho . IDENT_0 . data . IDENT_1 . impl . IDENT_2 . hbase . IDENT_3 . UTF_8 ) ; when ( delegate . METHOD_1 ( ) ) . thenReturn ( bytes ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return result . METHOD_1 ( ) ; }
+org . junit . Assert . assertArrayEquals ( bytes , result . METHOD_1 ( ) ) 

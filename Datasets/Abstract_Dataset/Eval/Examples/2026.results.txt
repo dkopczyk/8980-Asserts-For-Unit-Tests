@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . amazon . IDENT_0 . response . IDENT_1 < com . amazon . IDENT_0 . sdk . IDENT_2 > IDENT_3 = new com . amazon . IDENT_0 . response . impl . METHOD_1 ( IDENT_4 , null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( response ) != null ; }
+org . junit . Assert . assertFalse ( IDENT_3 . METHOD_2 ( ) ) 

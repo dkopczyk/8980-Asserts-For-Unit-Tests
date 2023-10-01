@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . collections . api . map . IDENT_0 < java . lang . String , java . lang . String > map = this . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return new org . eclipse . collections . impl . map . mutable . IDENT_1 . METHOD_3 ( this ) ; }
+org . junit . Assert . assertSame ( map , map . METHOD_2 ( ) ) 

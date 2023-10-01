@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long id = com . IDENT_0 . commons . util . IDENT_1 . METHOD_1 ( ( ( byte ) ( 0 ) ) , 1L , 0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( byte , long , int ) { return ( ( ( IDENT_2 & INT_0 ) << INT_1 ) | ( ( time & INT_2 ) << 16 ) ) | ( IDENT_3 & INT_3 ) ; }
+org . junit . Assert . assertEquals ( ( ( ( long ) ( 1L ) ) << 16 ) , id ) 

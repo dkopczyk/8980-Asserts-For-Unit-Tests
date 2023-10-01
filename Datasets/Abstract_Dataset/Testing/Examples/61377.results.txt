@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = org . eclipse . swt . internal . events . IDENT_1 . METHOD_1 ( INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( long , int ) { return ( events & ( org . eclipse . swt . internal . events . IDENT_1 . METHOD_1 ( event ) ) ) != 0 ; }
+org . junit . Assert . assertTrue ( org . eclipse . swt . internal . events . IDENT_1 . METHOD_2 ( IDENT_0 , INT_0 ) ) 

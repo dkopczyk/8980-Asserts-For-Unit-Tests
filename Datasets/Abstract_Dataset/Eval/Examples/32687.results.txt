@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object instance = METHOD_1 ( spec , new org . bson . types . METHOD_2 ( ) ) ; org . IDENT_0 . bson . IDENT_1 document = IDENT_2 . METHOD_3 ( instance ) ; java . lang . Object IDENT_3 = IDENT_4 . METHOD_4 ( document , spec ) ; "<AssertPlaceHolder>" ; } id ( java . lang . Object ) { return IDENT_0 . id ( id ) ; }
+org . junit . Assert . assertThat ( id ( IDENT_3 ) , org . hamcrest . CoreMatchers . equalTo ( id ( instance ) ) ) 

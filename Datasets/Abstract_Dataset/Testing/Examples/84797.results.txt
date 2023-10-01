@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . server . security . IDENT_3 handler = new com . IDENT_0 . IDENT_1 . IDENT_2 . server . security . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return true ; }
+org . junit . Assert . assertTrue ( handler . METHOD_0 ( ) ) 

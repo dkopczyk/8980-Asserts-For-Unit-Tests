@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . opennms . IDENT_0 . model . IDENT_1 IDENT_2 = IDENT_1 . IDENT_3 ; org . opennms . IDENT_0 . model . IDENT_1 IDENT_4 = IDENT_1 . IDENT_5 ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . opennms . IDENT_0 . model . IDENT_1 ) { return ( compareTo ( other ) ) < 0 ; }
+org . junit . Assert . assertTrue ( IDENT_4 . METHOD_1 ( IDENT_2 ) ) 

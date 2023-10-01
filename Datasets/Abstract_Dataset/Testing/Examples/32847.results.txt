@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Integer result = new org . IDENT_0 . IDENT_1 . METHOD_1 ( ) . id ( STRING_0 ) . params ( new java . sql . METHOD_2 ( INT_0 ) ) . execute ( ) ; "<AssertPlaceHolder>" ; } params ( java . lang . Object [ ] ) { this . params = params ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . CoreMatchers . is ( 1 ) ) 

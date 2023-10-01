@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int size = 10 ; com . liferay . portal . kernel . io . IDENT_0 . IDENT_1 IDENT_2 = new com . liferay . portal . kernel . io . IDENT_0 . METHOD_1 ( new java . io . ByteArrayInputStream ( new byte [ size ] ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return false ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_2 ( ) ) 

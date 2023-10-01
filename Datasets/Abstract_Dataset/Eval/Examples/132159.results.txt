@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . IDENT_0 . parse . IDENT_1 . debug . IDENT_2 IDENT_3 = nl . IDENT_0 . parse . IDENT_1 . debug . IDENT_2 . METHOD_1 ( ) . METHOD_2 ( ) . METHOD_3 ( ) . METHOD_4 ( ) . build ( ) ; IDENT_3 . METHOD_5 ( true ) ; IDENT_3 . METHOD_6 ( ) ; IDENT_3 . METHOD_7 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_8 ( boolean , boolean ) { return METHOD_8 ( IDENT_4 , IDENT_5 , null , false , false ) ; }
+org . junit . Assert . assertTrue ( IDENT_3 . METHOD_8 ( false , true ) ) 

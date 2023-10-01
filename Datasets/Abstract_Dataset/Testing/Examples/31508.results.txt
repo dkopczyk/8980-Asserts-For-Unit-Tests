@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String response = METHOD_1 ( true ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( boolean ) { return get ( com . IDENT_0 . auth . IDENT_1 . server . IDENT_2 . IDENT_3 , IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( com . IDENT_0 . auth . IDENT_1 . server . IDENT_2 . IDENT_3 , response ) 

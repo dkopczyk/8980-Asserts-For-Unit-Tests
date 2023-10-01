@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; org . pentaho . di . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = ( ( org . pentaho . di . IDENT_0 . IDENT_1 . IDENT_2 ) ( IDENT_4 . METHOD_2 ( org . pentaho . di . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return IDENT_6 . get ( METHOD_3 ( key ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

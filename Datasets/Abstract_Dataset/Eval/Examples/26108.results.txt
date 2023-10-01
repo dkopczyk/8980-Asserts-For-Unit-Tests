@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . server . IDENT_1 . IDENT_2 . IDENT_3 e = new org . IDENT_0 . server . IDENT_1 . IDENT_2 . METHOD_1 ( STRING_0 ) ; org . IDENT_0 . server . IDENT_1 . IDENT_2 . IDENT_4 target = METHOD_2 ( STRING_1 ) ; e . METHOD_3 ( target ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return target ; }
+org . junit . Assert . assertEquals ( target , e . METHOD_4 ( ) ) 

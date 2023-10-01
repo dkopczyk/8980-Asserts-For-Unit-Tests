@@ -1,0 +1,2 @@
+METHOD_0 ( ) { br . com . IDENT_0 . IDENT_1 . IDENT_2 property = new br . com . IDENT_0 . IDENT_1 . METHOD_1 ( STRING_0 , new br . com . IDENT_0 . IDENT_1 . function . impl . METHOD_2 ( null ) ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return this . value ; }
+org . junit . Assert . assertEquals ( null , property . getValue ( ) ) 

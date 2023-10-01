@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . querydsl . core . IDENT_0 > IDENT_1 = query ( ) . from ( com . querydsl . jpa . IDENT_2 . IDENT_3 ) . select ( com . querydsl . jpa . IDENT_2 . IDENT_3 . id , com . querydsl . jpa . IDENT_2 . IDENT_3 . name ) . METHOD_0 ( ) . list ( ) ; for ( com . querydsl . core . IDENT_0 row : IDENT_1 ) { "<AssertPlaceHolder>" ; } } size ( ) { query ( store , store . IDENT_4 . size ( ) . METHOD_1 ( 0 ) ) ; }
+org . junit . Assert . assertEquals ( 2 , row . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . auth . IDENT_1 IDENT_2 = new com . IDENT_0 . auth . METHOD_1 ( STRING_0 , STRING_1 , STRING_2 , INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { long now = java . lang . System . currentTimeMillis ( ) ; return ( ( this . IDENT_3 ) * ( 1 - ( IDENT_4 ) ) ) > ( ( ( IDENT_5 ) - now ) / 1000 ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String string = "" ; java . lang . String result = org . IDENT_0 . http . IDENT_1 . METHOD_1 ( string ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { org . IDENT_0 . utils . IDENT_2 . METHOD_2 ( string , STRING_0 ) ; try { return java . net . IDENT_3 . encode ( string , org . IDENT_0 . http . IDENT_1 . UTF_8 ) ; } catch ( java . io . IDENT_4 IDENT_5 ) { throw new java . lang . IllegalStateException ( org . IDENT_0 . http . IDENT_1 . IDENT_6 , IDENT_5 ) ; } }
+org . junit . Assert . assertEquals ( "" , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . IDENT_0 < org . apache . jackrabbit . oak . api . IDENT_1 > IDENT_2 = parent . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } iterator ( ) { return java . util . Collections . singletonList ( org . apache . jackrabbit . oak . plugins . IDENT_3 . IDENT_4 . METHOD_2 ( STRING_0 , "bar" ) ) . iterator ( ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 . iterator ( ) . hasNext ( ) ) 

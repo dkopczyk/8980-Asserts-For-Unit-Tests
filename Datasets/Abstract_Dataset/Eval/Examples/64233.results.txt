@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; IDENT_0 . linear . IDENT_1 . IDENT_2 instance = new IDENT_0 . linear . IDENT_1 . METHOD_1 ( ) ; double expResult = 1.0 ; double result = instance . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return Double . IDENT_3 ; }
+org . junit . Assert . assertEquals ( expResult , result , 0.0 ) 

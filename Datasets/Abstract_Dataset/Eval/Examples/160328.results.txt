@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . IDENT_1 . IDENT_2 . model . IDENT_3 IDENT_4 = IDENT_5 . METHOD_1 ( ( STRING_0 + ( new java . util . Date ( ) . toString ( ) ) ) ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertFalse ( ( ( IDENT_4 . getId ( ) ) == 0 ) ) 

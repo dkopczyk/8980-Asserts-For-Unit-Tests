@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; com . microsoft . azure . sdk . iot . device . transport . IDENT_1 . IDENT_2 IDENT_3 = new com . microsoft . azure . sdk . iot . device . transport . IDENT_1 . METHOD_1 ( IDENT_0 ) ; java . lang . String version = IDENT_4 . IDENT_5 . invoke ( IDENT_3 , STRING_1 , 3 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNull ( version ) 

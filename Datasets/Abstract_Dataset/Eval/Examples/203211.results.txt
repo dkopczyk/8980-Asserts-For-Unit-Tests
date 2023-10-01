@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . IDENT_0 . IDENT_1 . IDENT_2 . java . utils . IDENT_3 [ ] result = cache . METHOD_1 ( new org . springframework . IDENT_0 . IDENT_1 . IDENT_2 . java . utils . METHOD_2 ( STRING_0 , STRING_1 ) , new java . lang . String [ 0 ] ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNull ( result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = true ; io . github . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 adapter = METHOD_1 ( STRING_0 , STRING_1 , IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( ! ( IDENT_0 ) ) && ( IDENT_6 . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertFalse ( adapter . METHOD_2 ( ) ) 

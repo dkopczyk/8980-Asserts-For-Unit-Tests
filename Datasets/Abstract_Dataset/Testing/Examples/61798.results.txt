@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object adapter = table . METHOD_1 ( org . eclipse . swt . internal . widgets . IDENT_0 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object ) { return org . eclipse . ui . tests . IDENT_1 . IDENT_2 . getInstance ( ) ; }
+org . junit . Assert . assertNotNull ( adapter ) 

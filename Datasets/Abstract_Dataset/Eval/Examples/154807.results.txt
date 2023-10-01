@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( net . ripe . db . whois . query . query . Query ) { return query . METHOD_2 ( ) ; }
+org . junit . Assert . assertThat ( subject . METHOD_1 ( net . ripe . db . whois . query . query . Query . parse ( "foo" ) ) , org . hamcrest . Matchers . is ( true ) ) 

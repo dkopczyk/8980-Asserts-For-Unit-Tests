@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . net . URL url = new java . net . URL ( STRING_0 ) ; final org . IDENT_0 . io . location . IDENT_1 IDENT_2 = new org . IDENT_0 . io . location . METHOD_1 ( url ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return url ; }
+org . junit . Assert . assertSame ( url , IDENT_2 . METHOD_2 ( ) ) 

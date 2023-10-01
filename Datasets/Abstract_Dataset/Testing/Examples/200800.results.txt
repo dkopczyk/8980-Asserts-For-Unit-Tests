@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String code = STRING_0 ; final java . lang . String IDENT_0 = STRING_1 ; final java . lang . String expected = ( ( code + STRING_2 ) + IDENT_0 ) + STRING_3 ; final java . lang . String IDENT_1 = IDENT_2 . METHOD_1 ( code ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( expected , IDENT_1 ) 

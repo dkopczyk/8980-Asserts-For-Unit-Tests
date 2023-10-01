@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . glassfish . jersey . examples . IDENT_0 . IDENT_1 IDENT_2 = com . sun . jersey . client . proxy . IDENT_3 . METHOD_1 ( org . glassfish . jersey . examples . IDENT_0 . IDENT_1 . class , resource ( ) ) ; IDENT_2 . getProperty ( "test" ) . set ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . String ) { return IDENT_4 . getProperty ( key ) ; }
+org . junit . Assert . assertEquals ( java . lang . System . getProperty ( "test" ) , IDENT_2 . getProperty ( "test" ) . get ( ) ) 

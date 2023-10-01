@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( net . sourceforge . IDENT_0 . lang . java . IDENT_1 . IDENT_2 . IDENT_3 ) ; net . sourceforge . IDENT_0 . lang . java . IDENT_1 . IDENT_4 IDENT_5 = IDENT_6 . METHOD_2 ( net . sourceforge . IDENT_0 . lang . java . ast . IDENT_7 . class ) . get ( 0 ) . METHOD_3 ( ) . METHOD_4 ( net . sourceforge . IDENT_0 . lang . java . IDENT_1 . IDENT_4 . class ) . METHOD_5 ( ) . iterator ( ) . next ( ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return ( IDENT_8 ) > 0 ; }
+org . junit . Assert . assertTrue ( IDENT_5 . METHOD_6 ( ) ) 

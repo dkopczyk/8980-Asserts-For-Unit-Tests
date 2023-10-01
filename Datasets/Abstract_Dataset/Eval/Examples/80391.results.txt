@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . update ( org . IDENT_1 . IDENT_2 . hash . IDENT_3 . IDENT_4 , 0 , org . IDENT_1 . IDENT_2 . hash . IDENT_3 . IDENT_4 . length ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return ( hash ) & INT_0 ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_0 . getValue ( ) ) 

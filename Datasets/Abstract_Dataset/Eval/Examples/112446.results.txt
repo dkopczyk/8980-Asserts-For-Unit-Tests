@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( IDENT_2 ) != null ) { return IDENT_2 ; } return ( ( IDENT_0 ) == null ) || ( IDENT_0 . trim ( ) . isEmpty ( ) ) ? ch . puzzle . itc . mobiliar . business . property . entity . IDENT_3 . IDENT_4 : IDENT_0 ; }
+org . junit . Assert . assertEquals ( IDENT_1 . IDENT_4 , IDENT_0 ) 

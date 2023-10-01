@@ -1,0 +1,2 @@
+METHOD_0 ( ) { action . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { java . util . Map < java . lang . String , java . lang . String > IDENT_0 = new java . util . IDENT_1 < java . lang . String , java . lang . String > ( IDENT_2 ) ; for ( java . lang . String key : IDENT_3 ) { if ( IDENT_0 . containsKey ( key ) ) { IDENT_0 . remove ( key ) ; } } return IDENT_0 ; }
+org . junit . Assert . assertEquals ( 7 , action . METHOD_2 ( ) . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( org . IDENT_0 . IDENT_1 IDENT_2 : org . IDENT_0 . IDENT_1 . values ( ) ) { "<AssertPlaceHolder>" ; } } METHOD_0 ( java . lang . String ) { org . apache . commons . lang . IDENT_3 . METHOD_1 ( name , STRING_0 ) ; return org . IDENT_0 . IDENT_1 . IDENT_4 . get ( name . toLowerCase ( java . util . Locale . IDENT_5 ) . replaceAll ( STRING_1 , "" ) ) ; }
+org . junit . Assert . assertThat ( org . IDENT_0 . IDENT_1 . METHOD_0 ( IDENT_2 . toString ( ) ) , org . hamcrest . CoreMatchers . is ( IDENT_2 ) ) 

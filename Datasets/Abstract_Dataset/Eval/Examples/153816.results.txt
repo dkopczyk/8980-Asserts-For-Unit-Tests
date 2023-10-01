@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . media . core . IDENT_1 . IDENT_2 [ ] stream = METHOD_1 ( 5 ) ; for ( int i = 0 ; i < ( stream . length ) ; i ++ ) { IDENT_3 . write ( stream [ i ] , IDENT_4 . IDENT_5 . find ( 8 ) ) ; } org . IDENT_0 . media . core . spi . IDENT_6 . IDENT_7 data = IDENT_3 . read ( IDENT_8 . getTime ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return METHOD_3 ( 2 ) ; }
+org . junit . Assert . assertEquals ( 1 , data . METHOD_2 ( ) ) 

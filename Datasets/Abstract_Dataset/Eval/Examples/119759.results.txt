@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . migratiebrp . conversie . model . brp . IDENT_0 < nl . bzk . migratiebrp . conversie . model . brp . IDENT_1 . IDENT_2 > IDENT_3 = mapper . map ( new java . util . HashSet < nl . bzk . IDENT_4 . dal . domein . brp . entity . IDENT_5 > ( ) ) ; "<AssertPlaceHolder>" ; } map ( java . util . Set ) { if ( ( IDENT_6 == null ) || ( IDENT_6 . isEmpty ( ) ) ) { return null ; } else { return mapper . map ( IDENT_6 . iterator ( ) . next ( ) . METHOD_1 ( ) ) ; } }
+org . junit . Assert . assertNull ( IDENT_3 ) 

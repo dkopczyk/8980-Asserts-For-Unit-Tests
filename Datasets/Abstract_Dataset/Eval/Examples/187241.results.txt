@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date date = ( ( java . util . Date ) ( METHOD_1 ( ) . METHOD_2 ( STRING_0 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return com . alibaba . IDENT_0 . IDENT_1 . support . context . IDENT_2 . factory ; }
+org . junit . Assert . assertEquals ( 0 , date . getTime ( ) ) 

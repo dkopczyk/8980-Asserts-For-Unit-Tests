@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final double [ ] IDENT_0 = new double [ ] { - 1 , - FLOAT_0 , 0 , FLOAT_1 , FLOAT_2 } ; final org . apache . commons . math3 . IDENT_1 . IDENT_2 . IDENT_3 n = new org . apache . commons . math3 . IDENT_1 . IDENT_2 . METHOD_1 ( 1 , IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . size ; }
+org . junit . Assert . assertEquals ( IDENT_0 . length , n . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . microsoft . azure . sdk . iot . device . auth . IDENT_0 IDENT_1 = new tests . unit . com . microsoft . azure . sdk . iot . device . auth . IDENT_2 . METHOD_1 ( 10 , 1 ) ; boolean result = IDENT_1 . METHOD_2 ( true ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( boolean ) { return this . IDENT_3 ; }
+org . junit . Assert . assertTrue ( result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { float [ ] input = new float [ ] { - FLOAT_0 , FLOAT_1 , FLOAT_0 } ; float [ ] expected = new float [ ] { - FLOAT_2 , FLOAT_1 , FLOAT_2 } ; for ( int i = 0 ; i < ( input . length ) ; i ++ ) { float actual = com . itextpdf . IDENT_0 . utils . IDENT_1 . METHOD_1 ( input [ i ] ) ; "<AssertPlaceHolder>" ; } } METHOD_1 ( float ) { return IDENT_2 * FLOAT_2 ; }
+org . junit . Assert . assertEquals ( expected [ i ] , actual , FLOAT_1 ) 

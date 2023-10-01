@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . junit . runners . model . IDENT_0 IDENT_1 = new org . junit . runners . model . METHOD_1 ( null ) ; org . junit . runners . model . METHOD_1 IDENT_2 = new org . junit . runners . model . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { if ( ! ( org . junit . runners . model . IDENT_3 . class . METHOD_2 ( obj ) ) ) { return false ; } return ( ( org . junit . runners . model . IDENT_3 ) ( obj ) ) . method . equals ( method ) ; }
+org . junit . Assert . assertTrue ( IDENT_1 . equals ( IDENT_2 ) ) 

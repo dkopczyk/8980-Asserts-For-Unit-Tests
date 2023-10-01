@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . orientechnologies . orient . core . index . IDENT_0 IDENT_1 = new com . orientechnologies . orient . core . index . METHOD_1 ( com . orientechnologies . orient . core . metadata . schema . IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return 1 ; }
+org . junit . Assert . assertEquals ( IDENT_1 . METHOD_2 ( ) , 1 ) 

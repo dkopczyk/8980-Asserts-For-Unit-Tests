@@ -1,0 +1,2 @@
+test ( ) { result . METHOD_0 ( br . com . IDENT_0 . IDENT_1 . view . IDENT_2 . http ( ) ) . body ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { response . METHOD_2 ( ) . METHOD_3 ( ) ; return response . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , result . METHOD_1 ( ) ) 

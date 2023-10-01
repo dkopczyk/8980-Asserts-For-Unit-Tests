@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < net . sourceforge . IDENT_0 . lang . java . ast . IDENT_1 > IDENT_2 = net . sourceforge . IDENT_0 . lang . java . IDENT_3 . METHOD_1 ( net . sourceforge . IDENT_0 . lang . java . ast . IDENT_1 . class , net . sourceforge . IDENT_0 . lang . java . ast . IDENT_4 . IDENT_5 ) ; net . sourceforge . IDENT_0 . lang . java . ast . IDENT_1 b = IDENT_2 . iterator ( ) . next ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . METHOD_2 ; }
+org . junit . Assert . assertFalse ( b . METHOD_2 ( ) ) 

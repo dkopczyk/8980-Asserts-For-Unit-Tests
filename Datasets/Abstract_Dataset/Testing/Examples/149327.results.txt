@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } accept ( org . IDENT_0 . graph . query . IDENT_1 . IDENT_2 ) { org . IDENT_0 . common . util . IDENT_3 . METHOD_1 ( STRING_0 , state ) ; if ( ( ( state . METHOD_2 ( ) ) == null ) && ( state . METHOD_3 ( ) . trim ( ) . equals ( STRING_1 ) ) ) { return true ; } return false ; }
+org . junit . Assert . assertThat ( command . accept ( null ) , org . hamcrest . core . Is . is ( false ) ) 

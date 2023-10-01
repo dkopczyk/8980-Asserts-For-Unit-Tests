@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . sagebionetworks . table . query . model . IDENT_0 element = org . sagebionetworks . table . query . util . IDENT_1 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { java . lang . String name = null ; if ( ( IDENT_2 ) != null ) { name = IDENT_2 . METHOD_3 ( org . sagebionetworks . table . query . model . IDENT_3 . class ) . METHOD_4 ( ) ; } else { name = this . METHOD_4 ( ) ; } return org . sagebionetworks . table . query . model . IDENT_0 . METHOD_5 ( name ) ; }
+org . junit . Assert . assertEquals ( "foo" , element . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . camel . impl . IDENT_0 repository = METHOD_1 ( ) ; repository . METHOD_2 ( STRING_0 , "value" ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { if ( key . contains ( org . apache . camel . component . kafka . IDENT_1 . IDENT_2 ) ) { IDENT_3 . METHOD_4 ( ) ; } return STRING_1 ; }
+org . junit . Assert . assertEquals ( "value" , repository . METHOD_3 ( STRING_0 ) ) 

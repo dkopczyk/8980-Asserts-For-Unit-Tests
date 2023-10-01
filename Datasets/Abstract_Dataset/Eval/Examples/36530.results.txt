@@ -1,0 +1,2 @@
+METHOD_0 ( ) { br . com . IDENT_0 . IDENT_1 . test . IDENT_2 . IDENT_3 IDENT_4 = METHOD_1 ( user . METHOD_2 ( ) ) ; br . com . IDENT_0 . IDENT_1 . test . IDENT_5 IDENT_6 = IDENT_4 . METHOD_3 ( ) . execute ( ) ; IDENT_6 . METHOD_4 ( 200 ) . isValid ( ) ; java . util . List < java . lang . String > IDENT_7 = METHOD_5 ( IDENT_6 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_8 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( METHOD_5 . isEmpty ( ) ) 

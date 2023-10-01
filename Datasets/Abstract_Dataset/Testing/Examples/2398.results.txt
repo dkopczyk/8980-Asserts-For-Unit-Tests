@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Collection < ? > c = null ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . IDENT_0 . util . Collection ) { if ( c == null ) { return org . IDENT_0 . util . Lists . emptyList ( ) ; } org . IDENT_0 . util . List < T > IDENT_1 = new org . IDENT_0 . util . ArrayList < T > ( ) ; for ( T element : c ) { if ( element != null ) { IDENT_1 . add ( element ) ; } } return IDENT_1 ; }
+org . junit . Assert . assertTrue ( org . IDENT_0 . util . Collections . METHOD_1 ( c ) . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < org . apache . hc . core5 . http . IDENT_0 > result = org . apache . hc . core5 . net . IDENT_1 . parse ( "" , IDENT_2 . UTF_8 ) ; "<AssertPlaceHolder>" ; result . add ( new org . apache . hc . core5 . http . message . METHOD_1 ( STRING_0 , "value" ) ) ; } size ( ) { int i = ( IDENT_3 ) - ( IDENT_4 ) ; if ( i < 0 ) { i = ( array . length ) + i ; } return i ; }
+org . junit . Assert . assertEquals ( 0 , result . size ( ) ) 

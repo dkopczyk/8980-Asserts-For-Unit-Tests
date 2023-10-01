@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = ( STRING_0 + ( port ) ) + STRING_1 ; org . kie . server . common . rest . IDENT_1 IDENT_2 = org . kie . server . common . rest . IDENT_1 . METHOD_1 ( IDENT_0 , user , IDENT_3 ) . METHOD_2 ( true ) . METHOD_3 ( 1000 ) . METHOD_4 ( STRING_2 ) . accept ( STRING_2 ) ; IDENT_2 . get ( ) ; org . kie . server . common . rest . IDENT_4 response = IDENT_2 . response ( ) ; int IDENT_5 = response . code ( ) ; "<AssertPlaceHolder>" ; } get ( ) { return result ; }
+org . junit . Assert . assertEquals ( 200 , IDENT_5 ) 

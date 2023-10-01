@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . hadoop . tools . IDENT_0 options = new org . apache . hadoop . tools . IDENT_0 . Builder ( new org . apache . hadoop . fs . Path ( STRING_0 ) , new org . apache . hadoop . fs . Path ( STRING_1 ) ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( new org . apache . hadoop . fs . Path ( STRING_1 ) , options . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( int , java . lang . String ) { "<AssertPlaceHolder>" ; } indexOf ( java . lang . Object ) { METHOD_1 ( ) ; return super . indexOf ( o ) ; }
+org . junit . Assert . assertEquals ( i , b . indexOf ( s ) ) 

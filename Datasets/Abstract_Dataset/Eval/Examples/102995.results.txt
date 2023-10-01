@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final org . kie . workbench . common . IDENT_1 . client . IDENT_2 . types . common . IDENT_3 IDENT_4 = manager . from ( METHOD_1 ( STRING_1 ) ) . METHOD_2 ( IDENT_0 ) . get ( ) ; final java . lang . String IDENT_5 = IDENT_4 . getType ( ) ; "<AssertPlaceHolder>" ; } getType ( ) { return type ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_5 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . collections . api . IDENT_0 IDENT_1 = this . METHOD_1 ( true , true , true ) ; org . eclipse . collections . api . iterator . IDENT_2 iterator = IDENT_1 . METHOD_2 ( ) ; while ( iterator . hasNext ( ) ) { "<AssertPlaceHolder>" ; } iterator . next ( ) ; } next ( ) { T next = this . iterator . next ( ) ; this . IDENT_3 . value ( next ) ; return next ; }
+org . junit . Assert . assertTrue ( iterator . next ( ) ) 

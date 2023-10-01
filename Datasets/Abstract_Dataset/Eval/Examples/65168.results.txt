@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . core . builder . IDENT_1 IDENT_2 = new org . IDENT_0 . core . builder . METHOD_1 ( ) ; final java . lang . String actual = IDENT_2 . METHOD_2 ( ) . toString ( ) ; final java . lang . String expect = ( STRING_0 + ( org . IDENT_0 . core . services . builder . IDENT_3 . IDENT_4 ) ) + "]" ; "<AssertPlaceHolder>" ; } toString ( ) { if ( ( IDENT_5 ) != null ) { return IDENT_5 ; } return ( ( getName ( ) ) + "/" ) + ( METHOD_3 ( ) ) ; }
+org . junit . Assert . assertEquals ( expect , actual ) 

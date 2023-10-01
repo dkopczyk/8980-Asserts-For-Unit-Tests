@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . business . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . business . IDENT_1 . METHOD_1 ( null ) ; java . lang . String IDENT_4 = IDENT_3 . toString ( ) ; java . lang . String expected = ( com . IDENT_0 . business . IDENT_1 . METHOD_1 . class . getName ( ) ) + STRING_0 ; expected += java . lang . Integer . METHOD_2 ( java . lang . System . METHOD_3 ( IDENT_3 ) ) ; expected += STRING_1 ; expected += "]" ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( expected , IDENT_4 ) 

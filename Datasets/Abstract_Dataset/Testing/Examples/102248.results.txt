@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( plugin . METHOD_1 ( ) ) . thenReturn ( IDENT_0 . IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( plugin ( ) . METHOD_1 ( ) ) == ( org . drools . workbench . models . datamodel . rule . IDENT_0 . IDENT_1 ) ; }
+org . junit . Assert . assertTrue ( page . METHOD_2 ( ) ) 

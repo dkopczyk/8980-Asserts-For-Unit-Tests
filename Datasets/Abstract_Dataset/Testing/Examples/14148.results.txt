@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int ret = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; METHOD_2 ( ) ; } METHOD_1 ( ) { boolean IDENT_0 = false ; int IDENT_1 = 0 ; org . apache . hadoop . streaming . IDENT_2 job = new org . apache . hadoop . streaming . METHOD_3 ( args , IDENT_0 ) ; IDENT_1 = job . METHOD_4 ( ) ; org . junit . Assert . assertEquals ( STRING_0 , 0 , IDENT_1 ) ; job . IDENT_3 . METHOD_5 ( ) ; job . IDENT_3 . METHOD_6 ( ) ; }
+org . junit . Assert . assertEquals ( 0 , ret ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . time . IDENT_1 expected = java . time . IDENT_2 . of ( INT_0 , 6 , 1 , 16 , INT_1 , INT_2 , INT_3 , java . time . IDENT_3 . of ( STRING_1 ) ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return IDENT_4 . IDENT_5 . parse ( IDENT_0 , IDENT_1 :: from ) ; }
+org . junit . Assert . assertEquals ( expected , METHOD_2 ( IDENT_0 ) ) 

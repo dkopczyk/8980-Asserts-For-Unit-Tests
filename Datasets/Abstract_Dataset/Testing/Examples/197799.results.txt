@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . reflect . IDENT_0 < org . IDENT_1 . store . mongodb . IDENT_2 > IDENT_3 = org . IDENT_1 . store . mongodb . IDENT_2 . class . METHOD_1 ( ) ; IDENT_3 . METHOD_2 ( true ) ; IDENT_3 . newInstance ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

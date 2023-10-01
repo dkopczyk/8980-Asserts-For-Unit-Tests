@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; com . eclipsesource . IDENT_0 . IDENT_1 parameters = new com . eclipsesource . IDENT_0 . METHOD_2 ( IDENT_0 ) ; boolean result = IDENT_0 . METHOD_3 ( "foo" , parameters ) ; "<AssertPlaceHolder>" ; parameters . close ( ) ; } METHOD_3 ( java . lang . String , com . eclipsesource . IDENT_0 . METHOD_2 ) { throw new java . lang . METHOD_4 ( ) ; }
+org . junit . Assert . assertTrue ( result ) 

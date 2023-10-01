@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . security . model . IDENT_1 > IDENT_2 = this . IDENT_3 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { logger . debug ( STRING_1 ) ; return INT_0 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_2 . size ( ) ) == 8 ) ) 

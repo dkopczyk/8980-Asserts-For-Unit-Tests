@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; ca . IDENT_1 . IDENT_2 . IDENT_3 . model . run . IDENT_4 IDENT_5 = IDENT_6 . read ( 1L ) ; IDENT_5 . METHOD_1 ( IDENT_0 ) ; ca . IDENT_1 . IDENT_2 . IDENT_3 . model . run . IDENT_4 update = IDENT_6 . update ( IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return description ; }
+org . junit . Assert . assertEquals ( update . METHOD_2 ( ) , IDENT_0 ) 

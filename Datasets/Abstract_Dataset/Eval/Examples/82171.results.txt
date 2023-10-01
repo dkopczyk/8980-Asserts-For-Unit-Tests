@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( 1 ) ; org . hibernate . IDENT_0 session = sf . METHOD_2 ( ) ; com . IDENT_1 . hibernate . entity . IDENT_2 IDENT_3 = ( ( com . IDENT_1 . hibernate . entity . IDENT_2 ) ( session . METHOD_3 ( com . IDENT_1 . hibernate . entity . IDENT_2 . class ) . METHOD_4 ( STRING_0 , STRING_1 ) . METHOD_5 ( ) ) ) ; "<AssertPlaceHolder>" ; session . close ( ) ; } METHOD_6 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( STRING_1 , IDENT_3 . METHOD_6 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . metrics . expression . IDENT_2 expr = new com . IDENT_0 . IDENT_1 . metrics . expression . METHOD_1 ( resolver ) ; when ( resolver . METHOD_2 ( ) ) . thenReturn ( new java . lang . StringBuilder ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { throw new java . lang . METHOD_3 ( STRING_1 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , expr . METHOD_2 ( ) . toString ( ) ) 

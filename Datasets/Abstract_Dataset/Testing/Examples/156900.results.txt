@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . entity . common . IDENT_1 fixture = new org . IDENT_0 . entity . common . METHOD_1 ( ) ; fixture . setId ( "" ) ; fixture . setName ( "" ) ; fixture . METHOD_2 ( 1.0 ) ; fixture . METHOD_3 ( 1.0 ) ; java . lang . String result = fixture . getId ( ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( "" , result ) 

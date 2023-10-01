@@ -1,0 +1,2 @@
+getName ( ) { "<AssertPlaceHolder>" ; } getName ( ) { org . junit . Assert . assertThat ( IDENT_0 . getName ( ) , org . hamcrest . CoreMatchers . is ( com . IDENT_1 . IDENT_2 . IDENT_3 . core . IDENT_0 . IDENT_4 . IDENT_5 ) ) ; }
+org . junit . Assert . assertThat ( IDENT_0 . getName ( ) , org . hamcrest . CoreMatchers . is ( com . IDENT_1 . IDENT_2 . IDENT_3 . core . IDENT_0 . IDENT_4 . IDENT_5 ) ) 

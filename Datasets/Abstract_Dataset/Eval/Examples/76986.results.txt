@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . api . services . IDENT_1 IDENT_2 = org . IDENT_0 . api . IDENT_3 . IDENT_4 . METHOD_1 ( ) . METHOD_2 ( org . IDENT_0 . api . IDENT_3 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Object ) { javax . ws . rs . core . Response response = get ( Response . Status . IDENT_6 , null , STRING_0 , METHOD_3 ( IDENT_7 ) , STRING_1 , STRING_2 ) ; return response . METHOD_4 ( org . IDENT_0 . api . services . IDENT_1 . class ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

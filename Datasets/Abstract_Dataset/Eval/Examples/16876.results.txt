@@ -1,0 +1,2 @@
+METHOD_0 ( ) { new IDENT_0 . METHOD_1 ( ) { { request . METHOD_2 ( STRING_0 ) ; result = null ; } } ; org . apache . IDENT_1 . common . rest . codec . param . IDENT_2 . IDENT_3 processor = METHOD_3 ( STRING_0 , java . lang . String . class , "test" , false ) ; java . lang . Object value = processor . getValue ( request ) ; "<AssertPlaceHolder>" ; } getValue ( java . lang . Object [ ] ) { return ( ( T ) ( args [ IDENT_4 ] ) ) ; }
+org . junit . Assert . assertEquals ( "test" , value ) 

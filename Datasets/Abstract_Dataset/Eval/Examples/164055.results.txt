@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . internal . vo . IDENT_0 IDENT_1 = new org . oscm . internal . vo . METHOD_1 ( ) ; IDENT_1 . METHOD_2 ( null ) ; java . lang . String IDENT_2 = null ; boolean IDENT_3 = IDENT_4 . METHOD_3 ( IDENT_1 , IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . oscm . internal . vo . METHOD_1 , java . lang . String ) { return org . apache . commons . lang3 . StringUtils . equals ( IDENT_5 . METHOD_4 ( ) , IDENT_6 ) ; }
+org . junit . Assert . assertTrue ( IDENT_3 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . IDENT_0 < org . springframework . data . IDENT_1 . IDENT_2 . Person > it = repository . METHOD_1 ( INT_0 , INT_1 ) ; int count = 0 ; for ( org . springframework . data . IDENT_1 . IDENT_2 . Person person : it ) { count ++ ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 6 , count ) 

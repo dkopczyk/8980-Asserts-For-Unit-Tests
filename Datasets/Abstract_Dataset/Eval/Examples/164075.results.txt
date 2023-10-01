@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . oscm . ui . model . User IDENT_0 = new org . oscm . ui . model . User ( new org . oscm . internal . vo . METHOD_1 ( ) ) ; doReturn ( IDENT_0 ) . when ( IDENT_1 ) . METHOD_2 ( ) ; boolean IDENT_2 = IDENT_1 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { if ( METHOD_3 ( ) ) { return false ; } if ( METHOD_4 ( ) ) { return false ; } if ( METHOD_5 ( ) ) { return false ; } if ( METHOD_6 ( ) ) { return false ; } return true ; }
+org . junit . Assert . assertTrue ( IDENT_2 ) 

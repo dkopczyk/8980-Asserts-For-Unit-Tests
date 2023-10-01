@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object adapter = IDENT_0 . METHOD_1 ( org . eclipse . rap . rwt . internal . IDENT_1 . IDENT_2 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class ) { if ( adapter == ( org . eclipse . ui . model . IDENT_3 . class ) ) { return this ; } return org . eclipse . core . runtime . IDENT_4 . METHOD_2 ( ) . METHOD_1 ( this , adapter ) ; }
+org . junit . Assert . assertTrue ( ( adapter instanceof org . eclipse . rap . rwt . internal . IDENT_1 . IDENT_2 ) ) 

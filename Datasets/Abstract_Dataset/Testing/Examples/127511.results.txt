@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . setValue ( null ) ; IDENT_0 . METHOD_1 ( ) ; java . lang . Object response = IDENT_0 . METHOD_2 ( IDENT_1 , org . mule . runtime . core . internal . IDENT_2 . simple . UTF_8 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { METHOD_4 ( null ) ; }
+org . junit . Assert . assertThat ( response , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . METHOD_3 ( ) ) ) 

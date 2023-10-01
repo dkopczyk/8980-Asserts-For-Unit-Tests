@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . asakusafw . utils . graph . IDENT_0 < java . lang . Integer > graph = com . asakusafw . utils . graph . IDENT_1 . newInstance ( ) ; com . asakusafw . utils . graph . IDENT_0 < java . lang . Integer > IDENT_2 = com . asakusafw . utils . graph . IDENT_1 . METHOD_1 ( graph ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_3 . isEmpty ( ) ; }
+org . junit . Assert . assertThat ( METHOD_1 . isEmpty ( ) , is ( true ) ) 

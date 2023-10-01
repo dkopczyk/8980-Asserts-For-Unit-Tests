@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final tc . IDENT_0 . api . IDENT_1 . IDENT_2 . IDENT_3 base = new tc . IDENT_0 . api . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; final int code = generator . METHOD_2 ( registry . METHOD_3 ( tc . IDENT_0 . document . IDENT_4 . class ) , base , java . util . Collections . METHOD_4 ( ) ) . hashCode ( ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return ( IDENT_5 ? 2 : 0 ) + ( IDENT_6 ? 1 : 0 ) ; }
+org . junit . Assert . assertEquals ( base . hashCode ( ) , code ) 

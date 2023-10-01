@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . String > list = nl . bzk . brp . bijhouding . bericht . model . IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_1 . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( list . size ( ) ) > 0 ) ) 

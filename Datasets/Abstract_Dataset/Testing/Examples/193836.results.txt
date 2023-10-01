@@ -1,0 +1,2 @@
+load ( ) { boolean test = true ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( test ) 

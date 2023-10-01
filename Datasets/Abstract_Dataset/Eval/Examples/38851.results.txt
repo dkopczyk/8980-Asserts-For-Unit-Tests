@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File file = new java . io . File ( STRING_0 ) { @ net . IDENT_0 . core . common . Override public boolean METHOD_1 ( ) { return true ; } @ net . IDENT_0 . core . common . Override public boolean METHOD_2 ( ) { return false ; } } ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . io . File ) { return ( ( file . METHOD_1 ( ) ) && ( file . METHOD_2 ( ) ) ) && ( ! ( file . METHOD_4 ( ) ) ) ; }
+org . junit . Assert . assertFalse ( METHOD_3 ( file ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; jsprit . core . analysis . IDENT_0 IDENT_1 = new jsprit . core . analysis . METHOD_2 ( IDENT_2 , solution , new jsprit . core . problem . IDENT_3 . METHOD_3 ( ) { @ jsprit . core . analysis . Override public double METHOD_4 ( jsprit . core . problem . IDENT_4 from , jsprit . core . problem . IDENT_4 to ) { return IDENT_2 . METHOD_5 ( ) . METHOD_6 ( from , to , 0.0 , null , null ) ; } } ) ; java . lang . Boolean IDENT_5 = IDENT_1 . METHOD_7 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( IDENT_5 ) 

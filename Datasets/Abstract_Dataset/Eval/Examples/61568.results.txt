@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . swt . widgets . IDENT_0 control = new org . eclipse . swt . widgets . METHOD_1 ( shell , org . eclipse . swt . IDENT_1 . IDENT_2 ) ; org . eclipse . swt . internal . widgets . IDENT_3 adapter = org . eclipse . swt . internal . widgets . IDENT_4 . METHOD_2 ( control ) ; adapter . METHOD_3 ( 5 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( ( - 1 ) , adapter . METHOD_4 ( ) ) 

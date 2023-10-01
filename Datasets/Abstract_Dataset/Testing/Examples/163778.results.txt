@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 . METHOD_2 ( STRING_0 ) ) . METHOD_3 ( METHOD_4 ( STRING_0 ) ) ; org . oscm . internal . components . response . Response r = IDENT_1 . METHOD_2 ( STRING_0 ) ; org . oscm . internal . IDENT_2 . IDENT_3 IDENT_4 = r . METHOD_5 ( org . oscm . internal . IDENT_2 . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertThat ( IDENT_4 . METHOD_6 ( ) , org . hamcrest . CoreMatchers . equalTo ( STRING_0 ) ) 

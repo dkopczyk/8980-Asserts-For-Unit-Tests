@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Date now = new java . util . Date ( ) ; final java . lang . String IDENT_0 = new com . amazonaws . auth . METHOD_1 ( ) . METHOD_0 ( now . getTime ( ) ) ; final java . lang . String IDENT_1 = METHOD_2 ( now ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . util . Date ) { final java . text . IDENT_2 IDENT_3 = new java . text . METHOD_3 ( STRING_0 ) ; IDENT_3 . METHOD_4 ( new java . util . METHOD_5 ( 0 , STRING_1 ) ) ; return IDENT_3 . format ( date ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . vertx . cassandra . impl . IDENT_1 IDENT_2 = new com . IDENT_0 . vertx . cassandra . impl . METHOD_1 ( vertx ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return port ; }
+org . junit . Assert . assertNull ( IDENT_2 . METHOD_2 ( ) ) 

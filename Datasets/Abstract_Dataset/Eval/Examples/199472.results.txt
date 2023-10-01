@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String a = new java . lang . String ( new char [ ] { STRING_0 , STRING_1 , STRING_2 } ) ; java . lang . String b = new java . lang . String ( new char [ ] { STRING_0 , STRING_1 , STRING_2 } ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( a , b ) 

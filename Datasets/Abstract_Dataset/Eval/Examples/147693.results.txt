@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( this . IDENT_0 . METHOD_1 ( ) ) . thenReturn ( null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . manager . METHOD_2 ( ) ; }
+org . junit . Assert . assertNull ( this . component . METHOD_2 ( ) ) 

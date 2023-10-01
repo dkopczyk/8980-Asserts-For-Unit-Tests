@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String token = generator . create ( STRING_0 , ( INT_0 * 1000 ) ) ; "<AssertPlaceHolder>" ; } create ( byte [ ] , long ) { org . springframework . IDENT_0 . core . IDENT_1 properties = new org . springframework . IDENT_0 . core . METHOD_1 ( ) ; return new com . flow . platform . core . queue . METHOD_2 ( content , properties , IDENT_2 ) ; }
+org . junit . Assert . assertNotNull ( token ) 

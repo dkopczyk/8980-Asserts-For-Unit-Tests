@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jena . atlas . lib . tuple . IDENT_0 < java . lang . Integer > IDENT_1 = org . apache . jena . atlas . lib . tuple . IDENT_2 . tuple ( 9 , 8 , 7 ) ; java . lang . Integer [ ] array = new java . lang . Integer [ 2 ] ; IDENT_1 . METHOD_1 ( array , 0 , 2 ) ; java . lang . Integer [ ] IDENT_3 = new java . lang . Integer [ ] { 9 , 8 } ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertArrayEquals ( IDENT_3 , array ) 

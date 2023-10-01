@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Double expected = FLOAT_0 ; java . lang . Double value = IDENT_0 . decode ( IDENT_1 . json . IDENT_2 . create ( java . lang . String . valueOf ( expected ) ) , com . vaadin . flow . server . IDENT_3 . IDENT_4 . Double . class ) ; "<AssertPlaceHolder>" ; } create ( java . lang . Class ) { return com . vaadin . flow . internal . IDENT_5 . METHOD_1 ( type ) ; }
+org . junit . Assert . assertEquals ( expected , value ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . util . IDENT_2 . impl . IDENT_3 < org . IDENT_0 . IDENT_1 . solution . IDENT_4 > IDENT_2 ; IDENT_2 = new org . IDENT_0 . IDENT_1 . util . IDENT_2 . impl . METHOD_1 ( 100 , 2 , 2 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_2 . size ( ) ) 

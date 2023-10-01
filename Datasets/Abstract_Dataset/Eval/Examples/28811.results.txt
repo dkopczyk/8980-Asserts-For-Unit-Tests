@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . amazonaws . services . IDENT_0 . model . IDENT_1 . IDENT_2 rule = METHOD_1 ( METHOD_2 ( com . amazonaws . services . IDENT_0 . model . transform . IDENT_3 . IDENT_4 ) , 1 ) ; com . amazonaws . services . IDENT_0 . model . IDENT_5 . IDENT_6 filter = rule . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertNull ( filter . METHOD_4 ( ) ) 

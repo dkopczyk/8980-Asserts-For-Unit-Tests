@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File output = this . IDENT_0 . METHOD_1 ( ) ; java . lang . String IDENT_1 = net . IDENT_2 . core . utils . Utils . METHOD_2 ( output , java . util . logging . IDENT_3 . METHOD_3 ( getClass ( ) . getName ( ) ) ) ; "<AssertPlaceHolder>" ; } getName ( ) { return this . name ; }
+org . junit . Assert . assertEquals ( "" , IDENT_1 ) 

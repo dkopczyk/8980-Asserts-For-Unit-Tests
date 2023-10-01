@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int x = INT_0 ; org . opengis . filter . expression . IDENT_0 IDENT_1 = IDENT_2 . add ( IDENT_2 . METHOD_1 ( x ) , IDENT_2 . METHOD_1 ( x ) ) ; java . lang . Object result = IDENT_2 . function ( STRING_0 , IDENT_2 . METHOD_1 ( STRING_1 ) , IDENT_1 ) . evaluate ( null ) ; int value = ( ( java . lang . IDENT_3 ) ( result ) ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( ( java . lang . IDENT_3 ) ( value ) ) . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( ( x + x ) , value ) 

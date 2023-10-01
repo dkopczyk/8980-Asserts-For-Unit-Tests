@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . el . IDENT_2 < java . lang . Boolean , org . IDENT_0 . IDENT_1 . el . ctx . IDENT_3 > expr = org . IDENT_0 . IDENT_1 . el . IDENT_4 . METHOD_1 ( context , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( IDENT_5 ) { return value ; }
+org . junit . Assert . assertTrue ( expr . METHOD_2 ( resolver ) ) 

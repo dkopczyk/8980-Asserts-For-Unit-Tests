@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . IDENT_0 < java . lang . String > IDENT_1 = com . IDENT_2 . stream . IDENT_3 . IDENT_4 . stream ( ) . map ( IDENT_5 :: getName ) . collect ( java . util . stream . IDENT_6 . METHOD_1 ( IDENT_0 :: new ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_1 . size ( ) , 3 ) 

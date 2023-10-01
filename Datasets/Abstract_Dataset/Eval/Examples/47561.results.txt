@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . query . test . domain . IDENT_2 entity = new com . IDENT_0 . IDENT_1 . query . test . domain . METHOD_1 ( ) ; entity . setName ( STRING_0 ) ; IDENT_3 . METHOD_2 ( ) . save ( entity ) ; IDENT_3 . METHOD_3 ( entity ) ; entity . setName ( STRING_1 ) ; IDENT_3 . update ( ) ; IDENT_3 . setId ( entity . getId ( ) ) ; IDENT_3 . METHOD_3 ( null ) ; IDENT_3 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return entity ; }
+org . junit . Assert . assertEquals ( STRING_1 , IDENT_3 . METHOD_5 ( ) . getName ( ) ) 

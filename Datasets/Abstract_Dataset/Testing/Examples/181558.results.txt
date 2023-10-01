@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 reader = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; exception . expect ( IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 . IDENT_5 . class ) ; reader . METHOD_2 ( ) ; } METHOD_3 ( ) { return ( ( IDENT_6 ) != null ) && ( IDENT_7 . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertTrue ( reader . METHOD_3 ( ) ) 

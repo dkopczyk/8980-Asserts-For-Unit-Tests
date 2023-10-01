@@ -1,0 +1,2 @@
+METHOD_0 ( ) { client . METHOD_1 ( STRING_0 ) . METHOD_2 ( STRING_1 ) . apply ( ) ; client . METHOD_3 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return resource ( io . IDENT_0 . IDENT_1 . client . IDENT_2 . IDENT_3 , com . google . common . collect . ImmutableMap . of ( io . IDENT_0 . IDENT_1 . client . IDENT_2 . IDENT_4 , IDENT_5 ) ) . get ( io . IDENT_0 . IDENT_1 . client . IDENT_2 . list ( io . IDENT_0 . IDENT_1 . dto . models . IDENT_6 . class ) ) ; }
+org . junit . Assert . assertEquals ( 0 , client . METHOD_4 ( STRING_0 ) . size ( ) ) 

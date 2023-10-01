@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . io . InputStream ) { try { com . IDENT_0 . util . IDENT_1 out = new com . IDENT_0 . util . METHOD_2 ( INT_0 ) ; com . IDENT_0 . util . IDENT_2 . METHOD_3 ( in , out ) ; return java . util . Arrays . METHOD_4 ( out . buffer , out . size ) ; } catch ( java . lang . Exception e ) { return null ; } }
+org . junit . Assert . assertNull ( com . IDENT_0 . util . IDENT_2 . METHOD_1 ( null ) ) 

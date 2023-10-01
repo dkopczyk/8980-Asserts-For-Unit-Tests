@@ -1,0 +1,2 @@
+METHOD_0 ( ) { fr . gouv . vitam . common . server . IDENT_0 server = null ; try { server = fr . gouv . vitam . common . server . IDENT_1 . METHOD_1 ( null ) ; } catch ( final java . lang . Exception e ) { fr . gouv . vitam . common . server . IDENT_2 . LOGGER . error ( e . getMessage ( ) , e ) ; "<AssertPlaceHolder>" ; } } getMessage ( ) { return message ; }
+org . junit . Assert . assertTrue ( ( server == null ) ) 

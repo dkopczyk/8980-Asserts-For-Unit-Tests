@@ -1,0 +1,2 @@
+METHOD_0 ( ) { junit . IDENT_0 . eclipse . IDENT_1 . process . internal . IDENT_2 IDENT_3 = new junit . IDENT_0 . eclipse . IDENT_1 . process . internal . METHOD_1 ( ) ; java . lang . String [ ] IDENT_4 = IDENT_3 . parse ( null ) ; "<AssertPlaceHolder>" ; } parse ( java . lang . String ) { java . lang . String [ ] parse = parse ( command , null , null ) ; return parse ; }
+org . junit . Assert . assertArrayEquals ( new java . lang . String [ ] { } , IDENT_4 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . domain . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . IDENT_2 . domain . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) . METHOD_3 ( IDENT_5 . IDENT_6 ) . METHOD_4 ( 0 ) . METHOD_5 ( 1 ) . METHOD_6 ( STRING_1 ) . build ( ) ; java . util . List < org . IDENT_0 . IDENT_7 . IDENT_8 . util . helpers . IDENT_9 > IDENT_10 = IDENT_11 . METHOD_7 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_12 . size ( ) ; }
+org . junit . Assert . assertThat ( IDENT_10 . size ( ) , org . hamcrest . Matchers . is ( 1 ) ) 

@@ -1,0 +1,2 @@
+getName ( ) { METHOD_0 ( ) ; "<AssertPlaceHolder>" ; System . out . println ( ( STRING_0 + ( ctx ) ) ) ; METHOD_1 ( ) ; } METHOD_0 ( ) { super . METHOD_0 ( ) ; }
+org . junit . Assert . assertNotNull ( ctx ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . mongodb . core . IDENT_0 person = new org . springframework . data . mongodb . core . METHOD_1 ( ) ; person . IDENT_1 = STRING_0 ; template . save ( person ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( person . version , is ( 0L ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . kie . workbench . common . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 IDENT_6 = IDENT_7 . METHOD_1 ( IDENT_8 . IDENT_9 ) ; "<AssertPlaceHolder>" ; verify ( IDENT_4 , times ( 1 ) ) . METHOD_2 ( eq ( IDENT_8 . IDENT_9 ) ) ; } METHOD_1 ( com . IDENT_10 . IDENT_1 . shared . core . types . IDENT_8 ) { this . METHOD_1 = METHOD_1 ; return this ; }
+org . junit . Assert . assertEquals ( IDENT_7 , IDENT_6 ) 

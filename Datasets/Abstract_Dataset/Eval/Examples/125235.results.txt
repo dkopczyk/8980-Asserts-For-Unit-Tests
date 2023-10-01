@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; System . out . println ( java . lang . String . format ( STRING_1 , io . IDENT_1 . IDENT_2 . test . IDENT_3 . METHOD_2 ( 1 ) ) ) ; } METHOD_1 ( java . lang . String ) { io . IDENT_1 . IDENT_2 . IDENT_4 . IDENT_5 . LOG . debug ( STRING_2 , in ) ; }
+org . junit . Assert . assertTrue ( true ) 

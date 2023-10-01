@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . liferay . portal . kernel . service . persistence . impl . IDENT_0 < com . liferay . portal . kernel . internal . service . persistence . IDENT_1 . IDENT_2 , com . liferay . portal . kernel . internal . service . persistence . IDENT_1 . IDENT_3 > IDENT_4 = new com . liferay . portal . kernel . internal . service . persistence . METHOD_1 ( IDENT_5 ) ; IDENT_5 . METHOD_2 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertSame ( IDENT_4 , IDENT_5 . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = INT_0 ; org . neo4j . kernel . impl . util . IDENT_1 IDENT_2 = org . neo4j . kernel . impl . util . IDENT_1 . METHOD_1 ( IDENT_0 ) ; for ( byte i = 0 ; i < IDENT_0 ; i ++ ) { METHOD_1 . put ( i ) ; } byte [ ] bytes = METHOD_1 . METHOD_0 ( ) ; for ( byte i = 0 ; i < IDENT_0 ; i ++ ) { "<AssertPlaceHolder>" ; } } METHOD_0 ( ) { return METHOD_0 ( 0 ) ; }
+org . junit . Assert . assertEquals ( i , bytes [ i ] ) 

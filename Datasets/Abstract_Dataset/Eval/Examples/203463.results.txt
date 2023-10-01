@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . common . IDENT_2 . IDENT_3 b = new org . IDENT_0 . IDENT_1 . common . IDENT_2 . METHOD_1 ( ) ; b . IDENT_4 = 1 ; b . IDENT_5 = 1L ; java . util . Set < javax . validation . IDENT_6 < org . IDENT_0 . IDENT_1 . common . IDENT_2 . METHOD_1 > > result = validator . validate ( b ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( result . isEmpty ( ) , org . hamcrest . CoreMatchers . is ( true ) ) 

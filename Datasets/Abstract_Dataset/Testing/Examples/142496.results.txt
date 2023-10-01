@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . orientechnologies . orient . core . record . impl . IDENT_0 doc = new com . orientechnologies . orient . core . record . impl . METHOD_1 ( ) ; java . lang . Integer setValue = 16 ; doc . setProperty ( STRING_0 , setValue ) ; byte [ ] IDENT_1 = serializer . METHOD_2 ( doc , false ) ; java . lang . Integer value = serializer . METHOD_3 ( IDENT_1 , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( byte [ ] , java . lang . String ) { throw new java . lang . METHOD_4 ( STRING_1 ) ; }
+org . junit . Assert . assertEquals ( setValue , value ) 

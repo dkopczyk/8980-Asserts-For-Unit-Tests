@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; javax . xml . stream . IDENT_1 r = org . apache . cxf . IDENT_2 . IDENT_3 . METHOD_1 ( METHOD_2 ( IDENT_0 ) ) ; org . apache . cxf . IDENT_2 . IDENT_4 reader = new org . apache . cxf . IDENT_2 . METHOD_3 ( r ) ; reader . METHOD_4 ( ) ; org . apache . cxf . IDENT_2 . IDENT_3 . METHOD_5 ( reader , new javax . xml . IDENT_5 . METHOD_6 ( STRING_1 , STRING_2 ) ) ; "<AssertPlaceHolder>" ; } METHOD_7 ( ) { return getName ( ) . METHOD_8 ( ) ; }
+org . junit . Assert . assertEquals ( STRING_2 , reader . METHOD_7 ( ) ) 

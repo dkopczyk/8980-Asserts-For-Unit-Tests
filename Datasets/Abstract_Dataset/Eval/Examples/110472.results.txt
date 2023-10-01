@@ -1,0 +1,2 @@
+test ( ) { java . lang . String IDENT_0 = java . lang . System . getProperty ( STRING_0 ) ; java . lang . String IDENT_1 = java . lang . System . getProperty ( STRING_1 ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . String ) { return IDENT_2 . getProperty ( key ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_1 ) 

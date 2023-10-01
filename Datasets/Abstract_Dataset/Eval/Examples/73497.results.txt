@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . UUID in = java . util . UUID . METHOD_1 ( ) ; java . util . UUID out = org . IDENT_0 . IDENT_1 . codec . IDENT_2 . METHOD_2 ( new org . IDENT_0 . IDENT_1 . codec . METHOD_3 ( in ) ) . getValue ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( T extends org . IDENT_0 . IDENT_1 . codec . IDENT_3 ) { return org . IDENT_0 . IDENT_1 . codec . IDENT_2 . METHOD_2 ( value , true ) ; }
+org . junit . Assert . assertEquals ( in , out ) 

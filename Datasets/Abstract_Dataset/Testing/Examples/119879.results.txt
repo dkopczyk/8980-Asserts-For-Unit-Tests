@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . migratiebrp . conversie . model . IDENT_0 . element . IDENT_1 IDENT_2 = new nl . bzk . migratiebrp . conversie . model . IDENT_0 . element . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return nl . IDENT_3 . IDENT_4 . conversie . model . IDENT_0 . element . METHOD_1 . IDENT_5 . equals ( code ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_2 ( ) ) 

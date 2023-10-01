@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . grpc . IDENT_0 headers = new io . grpc . METHOD_1 ( ) ; java . lang . String IDENT_1 = STRING_0 ; headers . put ( com . google . cloud . IDENT_2 . grpc . io . IDENT_3 . IDENT_4 , IDENT_1 ) ; IDENT_5 . METHOD_2 ( headers ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Class ) { return ( ( IDENT_6 ) ( IDENT_7 . get ( key ) ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , headers . get ( com . google . cloud . IDENT_2 . grpc . io . IDENT_3 . IDENT_4 ) ) 

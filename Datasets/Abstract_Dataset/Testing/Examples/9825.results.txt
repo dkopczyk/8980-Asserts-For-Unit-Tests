@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . io . StringWriter IDENT_0 = new java . io . StringWriter ( ) ; try ( final org . apache . commons . IDENT_1 . IDENT_2 IDENT_3 = new org . apache . commons . IDENT_1 . METHOD_1 ( IDENT_0 , IDENT_4 . IDENT_5 ) ) { IDENT_3 . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } } toString ( ) { return ( ( ( ( ( ( ( STRING_1 + ( IDENT_6 ) ) + STRING_2 ) + ( mapping ) ) + STRING_3 ) + ( IDENT_7 ) ) + STRING_4 ) + ( java . util . Arrays . toString ( values ) ) ) + "]" ; }
+org . junit . Assert . assertEquals ( "" , IDENT_0 . toString ( ) ) 

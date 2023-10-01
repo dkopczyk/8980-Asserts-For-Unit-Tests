@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] expected = new byte [ ] { ( ( byte ) ( 3 ) ) , ( ( byte ) ( INT_0 ) ) , ( ( byte ) ( INT_1 ) ) , ( ( byte ) ( INT_2 ) ) } ; java . lang . String str = new java . lang . String ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return com . github . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( str , false ) ; }
+org . junit . Assert . assertArrayEquals ( expected , com . github . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( str ) ) 

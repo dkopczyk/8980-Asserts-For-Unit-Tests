@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . model . dao . IDENT_2 impl = new com . IDENT_0 . IDENT_1 . model . dao . METHOD_1 ( IDENT_3 ) ; long records = impl . count ( ) ; com . IDENT_0 . IDENT_1 . model . dto . IDENT_4 task = new com . IDENT_0 . IDENT_1 . model . dto . METHOD_2 ( ) ; task . METHOD_3 ( STRING_0 ) ; task . METHOD_4 ( STRING_1 ) ; impl . METHOD_5 ( task ) ; "<AssertPlaceHolder>" ; assert ( impl . count ( ) ) == ( records + 1 ) ; } getId ( ) { return id ; }
+org . junit . Assert . assertNotNull ( task . getId ( ) ) 

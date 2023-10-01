@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Throwable IDENT_0 = new java . lang . Exception ( ) ; org . junit . internal . IDENT_1 e = new org . junit . internal . METHOD_1 ( IDENT_0 , org . hamcrest . CoreMatchers . METHOD_2 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( super . METHOD_3 ( ) ) == null ? IDENT_2 : super . METHOD_3 ( ) ; }
+org . junit . Assert . assertThat ( e . METHOD_3 ( ) , org . hamcrest . CoreMatchers . is ( IDENT_0 ) ) 

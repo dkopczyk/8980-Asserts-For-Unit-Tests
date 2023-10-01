@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( java . sql . IDENT_0 stmt = org . apache . drill . jdbc . IDENT_1 . connection . METHOD_1 ( ) ) { stmt . METHOD_2 ( INT_0 ) ; stmt . METHOD_3 ( org . apache . drill . jdbc . IDENT_1 . IDENT_2 ) ; java . sql . ResultSet rs = stmt . METHOD_4 ( ) ; int IDENT_3 = 0 ; while ( rs . next ( ) ) { rs . getBytes ( 1 ) ; IDENT_3 ++ ; } "<AssertPlaceHolder>" ; } } getBytes ( int ) { return IDENT_4 . getBytes ( IDENT_5 ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_3 ) 

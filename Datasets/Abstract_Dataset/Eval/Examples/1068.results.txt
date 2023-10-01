@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ctx . request ( ) . METHOD_1 ( IDENT_0 ) ; extension . METHOD_2 ( IDENT_1 ) ; boolean actual = extension . METHOD_3 ( ctx . request ( ) , null , extension . METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . util . Map ) { this . IDENT_2 = org . apache . IDENT_3 . commons . osgi . IDENT_4 . toString ( props . get ( com . IDENT_5 . IDENT_6 . commons . IDENT_7 . impl . IDENT_8 . IDENT_9 ) , com . IDENT_5 . IDENT_6 . commons . IDENT_7 . impl . IDENT_8 . IDENT_10 ) ; }
+org . junit . Assert . assertFalse ( actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . setProperty ( org . IDENT_1 . internal . IDENT_2 . IDENT_3 , org . IDENT_1 . internal . IDENT_2 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . String ) { return getProperty ( name , IDENT_5 . IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( org . IDENT_1 . internal . IDENT_2 . IDENT_4 , IDENT_0 . getProperty ( org . IDENT_1 . internal . IDENT_2 . IDENT_3 ) . getValue ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { jsprit . core . algorithm . IDENT_0 IDENT_1 = jsprit . core . algorithm . io . IDENT_2 . METHOD_1 ( IDENT_3 , config ) ; int IDENT_4 = 0 ; for ( jsprit . core . algorithm . IDENT_5 IDENT_6 : IDENT_1 . METHOD_2 ( ) . METHOD_3 ( ) ) { IDENT_4 += IDENT_6 . METHOD_4 ( ) . size ( ) ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_4 ) 

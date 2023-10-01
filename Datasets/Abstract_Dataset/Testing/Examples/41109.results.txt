@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = METHOD_1 ( 50 ) ; IDENT_1 . METHOD_2 ( METHOD_1 ) ; "<AssertPlaceHolder>" ; } getKey ( ) { return key ; }
+org . junit . Assert . assertThat ( IDENT_1 . getKey ( ) , org . hamcrest . CoreMatchers . equalTo ( METHOD_1 ) ) 

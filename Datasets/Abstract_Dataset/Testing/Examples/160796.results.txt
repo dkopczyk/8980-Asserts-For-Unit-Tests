@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . util . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . util . METHOD_1 ( ) ; IDENT_3 . put ( STRING_0 , STRING_1 ) ; IDENT_3 . put ( STRING_2 , "" ) ; IDENT_3 . put ( STRING_3 , STRING_4 ) ; boolean IDENT_4 = rule . apply ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } apply ( org . IDENT_0 . IDENT_1 . util . METHOD_1 ) { return new org . IDENT_0 . IDENT_1 . service . IDENT_5 . METHOD_2 ( ) . METHOD_3 ( IDENT_6 . IDENT_7 , IDENT_8 ) ; }
+org . junit . Assert . assertFalse ( IDENT_4 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . model . User user = IDENT_1 . METHOD_1 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( user ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final long [ ] array = new long [ ] { 4 , 8 , 12 , 15 , INT_0 } ; org . apache . IDENT_0 . util . IDENT_1 . METHOD_1 ( array , 1 , 3 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object [ ] , int , int ) { final java . lang . Object t = data [ IDENT_2 ] ; data [ IDENT_2 ] = data [ IDENT_3 ] ; data [ IDENT_3 ] = t ; }
+org . junit . Assert . assertArrayEquals ( new long [ ] { 4 , 15 , 12 , 8 , INT_0 } , array ) 

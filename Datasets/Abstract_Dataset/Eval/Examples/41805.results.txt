@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { org . openqa . selenium . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = driver . METHOD_1 ( org . openqa . selenium . IDENT_0 . IDENT_1 . IDENT_4 . id ( STRING_0 ) ) ; java . lang . String text = IDENT_3 . getText ( ) ; System . out . println ( ( STRING_1 + text ) ) ; "<AssertPlaceHolder>" ; } catch ( org . openqa . selenium . IDENT_0 . IDENT_1 . IDENT_5 ex ) { } } getText ( ) { return IDENT_6 . getText ( ) ; }
+org . junit . Assert . assertNull ( text ) 

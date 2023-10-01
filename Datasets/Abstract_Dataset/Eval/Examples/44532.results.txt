@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream is ; try { is = new java . io . METHOD_1 ( content ) ; ddf . catalog . data . impl . IDENT_0 IDENT_1 = new ddf . catalog . data . impl . METHOD_2 ( is , null ) ; "<AssertPlaceHolder>" ; } catch ( java . io . IOException e ) { ddf . catalog . data . impl . IDENT_2 . LOGGER . error ( ddf . catalog . data . impl . IDENT_2 . IDENT_3 , e ) ; new org . junit . runner . IDENT_4 . METHOD_3 ( null , e ) ; } } METHOD_4 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( null , IDENT_1 . METHOD_4 ( ) ) 

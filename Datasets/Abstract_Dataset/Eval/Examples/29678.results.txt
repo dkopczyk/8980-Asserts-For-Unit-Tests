@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String value = null ; java . lang . Boolean expResult = true ; java . lang . Boolean result = com . microsoft . azure . sdk . iot . IDENT_0 . util . IDENT_1 . METHOD_1 ( value ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . lang . Boolean IDENT_2 ; if ( value == null ) IDENT_2 = true ; else IDENT_2 = ( value . length ( ) ) == 0 ; return IDENT_2 ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

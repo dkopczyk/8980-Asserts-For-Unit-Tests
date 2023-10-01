@@ -1,0 +1,2 @@
+METHOD_0 ( ) { state . put ( net . sf . IDENT_0 . IDENT_1 . state . IDENT_2 . IDENT_3 , IDENT_4 ) ; state . put ( net . sf . IDENT_0 . IDENT_1 . state . IDENT_2 . IDENT_5 , IDENT_6 ) ; "<AssertPlaceHolder>" . METHOD_1 ( net . sf . IDENT_0 . IDENT_1 . state . IDENT_2 . IDENT_3 , net . sf . IDENT_0 . IDENT_1 . state . IDENT_2 . IDENT_5 ) ; } METHOD_2 ( ) { return com . google . common . collect . IDENT_7 . METHOD_3 ( map . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertThat ( state . METHOD_2 ( ) ) 

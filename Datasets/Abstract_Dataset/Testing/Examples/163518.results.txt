@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . IDENT_0 . IDENT_1 br = new org . oscm . IDENT_0 . METHOD_1 ( ) ; br . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { org . w3c . dom . Document doc = IDENT_2 . METHOD_4 ( ) ; if ( doc == null ) { return null ; } java . lang . String result = org . oscm . converter . IDENT_3 . METHOD_5 ( doc , STRING_1 ) ; if ( result == null ) { result = STRING_2 ; } return result ; }
+org . junit . Assert . assertEquals ( STRING_2 , br . METHOD_3 ( ) ) 

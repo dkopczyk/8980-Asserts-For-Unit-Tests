@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . values . IDENT_0 . IDENT_1 IDENT_2 = org . neo4j . values . IDENT_0 . IDENT_1 . METHOD_1 ( INT_0 , 1 , 1 , 0 , 0 , INT_1 , INT_2 , STRING_0 ) ; java . lang . String key = STRING_1 ; IDENT_3 . setProperty ( key , IDENT_2 ) ; METHOD_2 ( ) ; java . lang . Object property = IDENT_3 . getProperty ( key ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return value ; }
+org . junit . Assert . assertEquals ( IDENT_2 . METHOD_3 ( ) , property ) 

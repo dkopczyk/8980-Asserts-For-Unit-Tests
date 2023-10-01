@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_0 . IDENT_1 . cloud . IDENT_2 IDENT_3 = EasyMock . METHOD_1 ( IDENT_0 . IDENT_0 . IDENT_1 . cloud . IDENT_2 . class ) ; EasyMock . expect ( IDENT_3 . METHOD_2 ( ) ) . andReturn ( STRING_0 ) . METHOD_3 ( ) ; EasyMock . replay ( IDENT_3 ) ; for ( java . lang . Integer i : new java . lang . Integer [ ] { 1 , 2 , 3 , 4 , 5 } ) "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_3 . METHOD_2 ( ) ) 

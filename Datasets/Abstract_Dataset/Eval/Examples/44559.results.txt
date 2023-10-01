@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new ddf . catalog . impl . filter . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertNull ( IDENT_0 . METHOD_2 ( ) ) 

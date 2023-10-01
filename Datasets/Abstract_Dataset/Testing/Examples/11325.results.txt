@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . cxf . jaxrs . client . IDENT_0 IDENT_1 = org . apache . cxf . jaxrs . client . IDENT_0 . create ( STRING_0 ) ; IDENT_1 . accept ( STRING_1 ) ; IDENT_1 . path ( STRING_2 ) ; org . apache . cxf . IDENT_2 . jaxrs . IDENT_3 IDENT_4 = IDENT_1 . type ( STRING_3 ) . METHOD_1 ( new org . apache . cxf . IDENT_2 . jaxrs . METHOD_2 ( STRING_4 , INT_0 ) , org . apache . cxf . IDENT_2 . jaxrs . METHOD_2 . class ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( INT_0 , IDENT_4 . getId ( ) ) 

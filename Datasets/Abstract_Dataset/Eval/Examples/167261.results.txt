@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } decode ( java . lang . String ) { java . util . Date date = ( ( java . util . Date ) ( super . decode ( data ) ) ) ; return new java . sql . METHOD_2 ( date . getTime ( ) ) ; }
+org . junit . Assert . assertEquals ( new java . lang . Integer ( 1 ) , IDENT_4 . decode ( "1" ) ) 

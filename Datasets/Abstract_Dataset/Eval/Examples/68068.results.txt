@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . sf . IDENT_0 . data . IDENT_1 s = new net . sf . IDENT_0 . data . METHOD_1 ( IDENT_2 , IDENT_3 . IDENT_4 , 1 ) ; net . sf . IDENT_0 . data . IDENT_5 p = new net . sf . IDENT_0 . data . METHOD_2 ( s , IDENT_6 . IDENT_7 , IDENT_3 . IDENT_4 , 3 , 0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( null == ( METHOD_4 ( ) ) ) { return null ; } return METHOD_4 ( ) . METHOD_5 ( ) ; }
+org . junit . Assert . assertNull ( p . METHOD_3 ( ) ) 

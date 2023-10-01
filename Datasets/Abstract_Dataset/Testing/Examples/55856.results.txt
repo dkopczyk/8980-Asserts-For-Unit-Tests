@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . druid . query . IDENT_0 . IDENT_1 factory = new org . apache . druid . query . IDENT_0 . METHOD_1 ( IDENT_2 , org . apache . druid . query . IDENT_0 . IDENT_3 . IDENT_4 , org . apache . druid . query . IDENT_0 . IDENT_3 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } close ( ) { IDENT_6 . close ( ) ; }
+org . junit . Assert . assertTrue ( factory . close ( ) ) 

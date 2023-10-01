@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . ambari . server . IDENT_0 . entities . IDENT_1 IDENT_2 = new org . apache . ambari . server . IDENT_0 . entities . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getType ( ) { return IDENT_3 . IDENT_4 . name ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_2 . getType ( ) ) 

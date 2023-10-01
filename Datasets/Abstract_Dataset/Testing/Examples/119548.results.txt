@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . IDENT_0 . dal . domein . brp . entity . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( 1 , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int , java . lang . String ) { return METHOD_2 ( ) . IDENT_4 . get ( nl . bzk . brp . service . cache . IDENT_5 . METHOD_3 ( IDENT_6 , IDENT_7 ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

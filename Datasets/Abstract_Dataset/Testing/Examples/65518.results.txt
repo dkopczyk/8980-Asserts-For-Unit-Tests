@@ -1,0 +1,2 @@
+test ( ) { eu . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = eu . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_0 ( IDENT_5 . METHOD_1 ( ) , IDENT_5 . METHOD_2 ( ) , IDENT_5 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { final eu . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_6 = METHOD_4 ( ) ; if ( IDENT_6 == null ) { return null ; } return IDENT_6 . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_5 , IDENT_4 ) 

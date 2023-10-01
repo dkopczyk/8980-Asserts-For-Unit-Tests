@@ -1,0 +1,2 @@
+object ( ) { "<AssertPlaceHolder>" ; } object ( ) { org . junit . Assert . assertEquals ( new com . IDENT_0 . json . METHOD_0 ( ) , com . IDENT_0 . json . IDENT_1 . object ( ) ) ; }
+org . junit . Assert . assertEquals ( new com . IDENT_0 . json . METHOD_0 ( ) , com . IDENT_0 . json . IDENT_1 . object ( ) ) 

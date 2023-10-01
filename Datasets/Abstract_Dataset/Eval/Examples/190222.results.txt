@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . jdbc . builder . range . IDENT_1 IDENT_2 = new com . IDENT_0 . jdbc . builder . range . METHOD_1 ( STRING_0 , 5 ) ; com . IDENT_0 . jdbc . builder . range . IDENT_1 IDENT_3 = new com . IDENT_0 . jdbc . builder . range . METHOD_2 ( STRING_0 , STRING_1 ) ; com . IDENT_0 . jdbc . builder . range . IDENT_4 IDENT_5 = ( ( com . IDENT_0 . jdbc . builder . range . IDENT_4 ) ( IDENT_2 . METHOD_3 ( IDENT_3 ) ) ) ; "<AssertPlaceHolder>" ; } getPath ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_5 . getPath ( ) ) 

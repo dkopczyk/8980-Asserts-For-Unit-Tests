@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . buffer . IDENT_1 IDENT_2 = new org . IDENT_0 . buffer . METHOD_1 ( ) ; IDENT_2 . add ( 1 ) ; IDENT_2 . add ( 2 ) ; IDENT_2 . add ( 3 ) ; IDENT_2 . add ( 4 ) ; IDENT_2 . add ( 5 ) ; IDENT_2 . add ( 7 ) ; IDENT_2 . METHOD_2 ( ) ; IDENT_2 . remove ( 0L , INT_0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( METHOD_3 ( ) ) == 0L ; }
+org . junit . Assert . assertTrue ( IDENT_2 . isEmpty ( ) ) 

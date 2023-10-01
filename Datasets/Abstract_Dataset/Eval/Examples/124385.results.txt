@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . brp . bijhouding . business . IDENT_0 . IDENT_1 . IDENT_2 IDENT_1 = IDENT_3 . METHOD_1 ( METHOD_2 ( STRING_0 , " " ) , METHOD_3 ( "" ) ) ; verify ( IDENT_4 , times ( 1 ) ) . METHOD_4 ( anyString ( ) , anyString ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return java . util . Collections . METHOD_6 ( IDENT_5 ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_1 . METHOD_5 ( ) . size ( ) ) 

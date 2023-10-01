@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . IDENT_1 . configuration . IDENT_2 . IDENT_3 IDENT_2 = new org . IDENT_1 . configuration . IDENT_2 . METHOD_1 ( ) . METHOD_2 ( IDENT_0 ) . build ( ) ; when ( this . manager . METHOD_3 ( ) ) . thenReturn ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return this . METHOD_3 ( ) . METHOD_2 ( ) . METHOD_4 ( null ) ; }
+org . junit . Assert . assertSame ( IDENT_0 , this . subject . METHOD_0 ( ) ) 

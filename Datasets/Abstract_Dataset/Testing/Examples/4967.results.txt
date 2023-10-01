@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream in = getClass ( ) . METHOD_1 ( ) . getResourceAsStream ( STRING_0 ) ; if ( in == null ) { System . err . println ( STRING_1 ) ; return ; } com . github . IDENT_0 . api . IDENT_1 IDENT_2 = com . github . IDENT_0 . IDENT_3 . parse ( in ) ; "<AssertPlaceHolder>" ; System . out . println ( STRING_2 ) ; } parse ( java . io . InputStream ) { return com . github . IDENT_0 . IDENT_3 . parse ( in , null ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

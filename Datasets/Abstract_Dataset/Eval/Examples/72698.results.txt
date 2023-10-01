@@ -1,0 +1,2 @@
+METHOD_0 ( ) { edu . IDENT_0 . IDENT_1 . util . IDENT_2 < java . lang . String , java . lang . String > m = new edu . IDENT_0 . IDENT_1 . util . IDENT_2 < java . lang . String , java . lang . String > ( ) ; m . put ( "" , STRING_0 ) ; "<AssertPlaceHolder>" ; } get ( int ) { edu . IDENT_0 . IDENT_1 . util . IDENT_3 . IDENT_4 IDENT_5 = map . get ( key ) ; return IDENT_5 == null ? new edu . IDENT_0 . IDENT_1 . util . IDENT_3 . METHOD_1 ( ) : IDENT_5 ; }
+org . junit . Assert . assertTrue ( m . get ( "" ) . contains ( STRING_0 ) ) 

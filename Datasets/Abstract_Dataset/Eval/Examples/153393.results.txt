@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Integer > list = IDENT_0 . METHOD_1 ( STRING_0 ) ; list . add ( 1 ) ; list . add ( 2 ) ; list . add ( 3 ) ; list . add ( 4 ) ; list . add ( 5 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Object ) { return IDENT_1 . METHOD_2 ( o ) ; }
+org . junit . Assert . assertEquals ( ( - 1 ) , list . METHOD_2 ( 10 ) ) 

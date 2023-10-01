@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . core . runtime . IDENT_0 path = new org . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return METHOD_2 ( ) ; }
+org . junit . Assert . assertThat ( path . toString ( ) , org . hamcrest . CoreMatchers . equalTo ( STRING_0 ) ) 

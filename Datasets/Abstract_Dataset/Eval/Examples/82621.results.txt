@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Collection < org . IDENT_0 . IDENT_1 . IDENT_2 > actual = METHOD_1 ( org . IDENT_0 . junit . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return this . IDENT_4 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( actual . isEmpty ( ) ) 

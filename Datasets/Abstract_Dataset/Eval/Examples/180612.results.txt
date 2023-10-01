@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object result = IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; verify ( dao ) . load ( ) ; } METHOD_1 ( ) { dao . load ( ) ; return new java . lang . Object ( ) ; }
+org . junit . Assert . assertNull ( result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final T IDENT_0 = METHOD_1 ( ) ; final T IDENT_1 = METHOD_2 ( ) . METHOD_3 ( IDENT_0 . getId ( ) ) . get ( ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_1 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . sf . IDENT_0 . IDENT_1 IDENT_2 = new net . sf . IDENT_0 . IDENT_3 . METHOD_1 ( ) . read ( net . sf . IDENT_0 . junit . IDENT_4 . METHOD_2 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return ( ( net . sf . IDENT_0 . junit . IDENT_4 . IDENT_5 ) + "/" ) + IDENT_6 ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

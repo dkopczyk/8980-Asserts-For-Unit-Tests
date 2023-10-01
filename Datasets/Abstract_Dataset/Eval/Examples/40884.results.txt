@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String script = STRING_0 ; IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = METHOD_1 ( script ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = null ; try { IDENT_3 = IDENT_4 . METHOD_2 ( script ) ; } catch ( java . lang . Exception e ) { e . printStackTrace ( ) ; org . junit . Assert . fail ( ( STRING_1 + ( e . getMessage ( ) ) ) ) ; } return IDENT_3 ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

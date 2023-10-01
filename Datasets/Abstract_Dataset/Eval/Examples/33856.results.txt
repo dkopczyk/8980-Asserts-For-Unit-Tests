@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . tests . IDENT_1 proxy = METHOD_1 ( ) ; java . lang . IDENT_2 [ ] IDENT_3 = new java . lang . IDENT_2 [ INT_0 * 100 ] ; for ( int i = 0 ; i < ( IDENT_3 . length ) ; i ++ ) { IDENT_3 [ i ] = ( ( byte ) ( i OP_0 INT_1 ) ) ; } java . lang . IDENT_2 [ ] IDENT_4 = proxy . METHOD_2 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_5 . METHOD_3 ( domain , IDENT_0 . tests . IDENT_1 . class ) . METHOD_4 ( IDENT_6 ) . METHOD_5 ( IDENT_7 ) . build ( ) ; }
+org . junit . Assert . assertArrayEquals ( IDENT_4 , IDENT_3 ) 

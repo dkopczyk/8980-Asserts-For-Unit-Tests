@@ -1,0 +1,2 @@
+METHOD_0 ( ) { de . IDENT_0 . IDENT_1 . IDENT_2 . core . protocol . message . extension . IDENT_3 msg = new de . IDENT_0 . IDENT_1 . IDENT_2 . core . protocol . message . extension . METHOD_1 ( ) ; msg . METHOD_2 ( new byte [ ] { INT_0 } ) ; handler . METHOD_3 ( msg ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { if ( ( context . METHOD_4 ( ) ) != null ) { return context . METHOD_4 ( ) ; } else { return config . METHOD_5 ( ) ; } }
+org . junit . Assert . assertNull ( context . METHOD_4 ( ) ) 

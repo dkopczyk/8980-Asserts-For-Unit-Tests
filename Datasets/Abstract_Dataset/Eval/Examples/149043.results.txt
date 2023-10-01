@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . sourceforge . IDENT_0 . IDENT_1 IDENT_2 = new net . sourceforge . IDENT_0 . METHOD_1 ( ) ; METHOD_2 ( net . sourceforge . IDENT_0 . lang . java . IDENT_3 . IDENT_4 , new net . sourceforge . IDENT_0 . lang . java . IDENT_3 . METHOD_3 ( ) , IDENT_2 , net . sourceforge . IDENT_0 . lang . IDENT_5 . METHOD_4 ( IDENT_6 . IDENT_7 ) . METHOD_5 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return rules . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_2 . size ( ) ) 

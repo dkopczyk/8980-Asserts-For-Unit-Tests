@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . view . internal . api . IDENT_1 pattern = new com . IDENT_0 . view . internal . components . IDENT_2 . METHOD_1 ( METHOD_2 ( STRING_0 , null ) ) ; java . lang . String name = pattern . getName ( ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( STRING_0 , name ) 

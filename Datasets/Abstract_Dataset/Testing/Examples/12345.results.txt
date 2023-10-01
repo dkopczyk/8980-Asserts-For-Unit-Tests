@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long [ ] a = new long [ ] { INT_0 , INT_1 } ; java . util . List < java . lang . Integer > l = org . osgi . util . converter . IDENT_0 . METHOD_1 ( ) . convert ( a ) . view ( ) . to ( new org . osgi . util . converter . IDENT_1 < java . util . List < java . lang . Integer > > ( ) { } ) ; l . METHOD_2 ( java . util . Collections . METHOD_3 ( 8 ) ) ; a [ 1 ] = 1L ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . util . Collection ) { throw new java . lang . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( java . util . Collections . singletonList ( 8 ) , l ) 

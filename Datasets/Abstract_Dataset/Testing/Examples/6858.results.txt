@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . util . IDENT_1 . IDENT_2 root = new org . apache . IDENT_0 . util . IDENT_1 . METHOD_1 ( ) ; conf . METHOD_2 ( root ) ; conf . METHOD_3 ( STRING_0 , STRING_1 ) ; java . lang . String IDENT_3 = root . METHOD_4 ( ) . getPath ( ) ; IDENT_3 = IDENT_3 . replace ( STRING_2 , STRING_3 ) ; "<AssertPlaceHolder>" ; } getPath ( ) { if ( ( path ) == null ) { path = METHOD_5 ( ) ; } return path ; }
+org . junit . Assert . assertEquals ( STRING_1 , IDENT_3 ) 

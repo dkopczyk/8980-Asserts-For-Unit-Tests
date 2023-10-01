@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 , com . ibm . ws . security . IDENT_2 . internal . IDENT_3 . IDENT_4 . METHOD_0 ( ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 , com . ibm . ws . security . IDENT_2 . internal . IDENT_3 . IDENT_4 . METHOD_0 ( ) ) 

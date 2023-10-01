@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . tinkerpop . IDENT_0 . process . IDENT_1 . IDENT_2 < org . apache . tinkerpop . IDENT_0 . IDENT_3 . IDENT_4 , java . lang . Long > IDENT_1 = METHOD_1 ( ) ; METHOD_2 ( IDENT_1 ) ; METHOD_3 ( java . util . Arrays . asList ( 0L , 0L , 0L , 0L , 0L , INT_0 ) , IDENT_1 ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { if ( ! ( this . IDENT_5 ) ) this . METHOD_4 ( ) ; return ( ( this . IDENT_6 . METHOD_5 ( ) ) > 0L ) || ( this . IDENT_7 . hasNext ( ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_1 . hasNext ( ) ) 

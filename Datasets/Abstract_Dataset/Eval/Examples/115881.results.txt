@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 config = new IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; IDENT_0 . IDENT_4 . IDENT_5 . IDENT_6 IDENT_1 = { METHOD_2 ( config . getName ( ) , null ) } ; "<AssertPlaceHolder>" ; } getName ( ) { return METHOD_3 ( ) . getProperty ( "name" ) ; }
+org . junit . Assert . assertNotNull ( IDENT_1 ) 

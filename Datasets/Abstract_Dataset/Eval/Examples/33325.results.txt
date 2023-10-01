@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( com . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . METHOD_1 ( INT_0 ) ) { int n = INT_1 ; for ( int i = n ; i > 0 ; i OP_0 ) { IDENT_3 . METHOD_2 ( i ) ; } long o = 0 ; for ( int i = n ; i > 0 ; i OP_0 ) { "<AssertPlaceHolder>" ; o += 8 ; } } } METHOD_3 ( int ) { throw new java . lang . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( i , IDENT_3 . METHOD_3 ( o ) ) 

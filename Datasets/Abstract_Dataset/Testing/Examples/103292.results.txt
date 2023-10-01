@@ -1,0 +1,2 @@
+METHOD_0 ( ) { doReturn ( false ) . when ( IDENT_0 ) . METHOD_1 ( any ( ) ) ; doReturn ( false ) . when ( IDENT_0 ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( IDENT_1 . dom . IDENT_2 ) { return ( METHOD_1 ( event ) ) || ( METHOD_2 ( ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_3 ( event ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . json . schema . internal . IDENT_1 subject = subject ( ) ; subject . object ( ) ; subject . METHOD_1 ( STRING_0 , STRING_1 ) ; subject . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return new org . json . JSONObject ( buffer . toString ( ) ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , METHOD_3 ( ) . get ( STRING_0 ) ) 

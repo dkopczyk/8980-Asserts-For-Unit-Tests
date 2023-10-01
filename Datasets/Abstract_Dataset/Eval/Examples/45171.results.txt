@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ddf . IDENT_0 . IDENT_1 . IDENT_2 resolver = new ddf . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; java . util . Map < java . lang . String , java . util . List < java . lang . String > > IDENT_3 = resolver . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return map . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_3 . size ( ) ) == 0 ) ) 

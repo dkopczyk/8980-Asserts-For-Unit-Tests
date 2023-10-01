@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( true , false ) ; IDENT_1 . METHOD_2 ( org . jboss . as . test . IDENT_2 . jms . IDENT_3 . IDENT_4 , org . jboss . as . test . IDENT_2 . jms . IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return count ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_1 . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < com . allanbank . mongodb . bson . Element > elements = java . util . Collections . singletonList ( ( ( com . allanbank . mongodb . bson . Element ) ( new com . allanbank . mongodb . bson . element . METHOD_1 ( "1" , false ) ) ) ) ; final com . allanbank . mongodb . bson . impl . IDENT_0 element = new com . allanbank . mongodb . bson . impl . METHOD_2 ( elements ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( elements , element . METHOD_3 ( ) ) 

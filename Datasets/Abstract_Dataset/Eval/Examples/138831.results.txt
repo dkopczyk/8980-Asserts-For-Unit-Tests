@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openmrs . Person person = METHOD_1 ( true , 1 , 2 , 3 , STRING_0 , STRING_1 , STRING_2 , STRING_3 , STRING_4 , STRING_5 ) ; org . openmrs . IDENT_0 type = new org . openmrs . METHOD_2 ( 3 ) ; type . setName ( STRING_2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { return METHOD_4 ( ) . get ( IDENT_1 ) ; }
+org . junit . Assert . assertNull ( person . METHOD_3 ( type ) ) 

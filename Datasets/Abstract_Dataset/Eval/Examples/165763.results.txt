@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . integration . IDENT_1 IDENT_2 = org . IDENT_0 . integration . IDENT_3 . dao . METHOD_1 ( new org . IDENT_0 . integration . METHOD_2 ( STRING_0 , org . IDENT_0 . core . lang . IDENT_4 . METHOD_3 ( STRING_1 ) ) , IDENT_5 . IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { return org . IDENT_0 . core . lang . IDENT_7 . IDENT_8 [ ( ( org . IDENT_0 . core . lang . IDENT_4 . METHOD_3 ( IDENT_9 ) . getId ( ) ) - 1 ) ] ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . command . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . command . METHOD_1 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return command ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_3 . METHOD_2 ( ) ) 

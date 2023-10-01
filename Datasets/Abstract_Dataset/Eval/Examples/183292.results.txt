@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 s = new IDENT_0 . IDENT_1 . METHOD_1 ( INT_0 ) ; IDENT_0 . IDENT_1 . METHOD_1 IDENT_3 = new IDENT_0 . IDENT_1 . METHOD_1 ( INT_1 ) ; IDENT_0 . IDENT_1 . METHOD_1 IDENT_4 = new IDENT_0 . IDENT_1 . METHOD_1 ( INT_2 ) ; IDENT_0 . IDENT_1 . IDENT_5 m = new IDENT_0 . IDENT_1 . METHOD_2 ( STRING_0 , s , IDENT_3 , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 . size ( ) ; }
+org . junit . Assert . assertEquals ( 3 , m . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . IDENT_0 . IDENT_1 IDENT_2 = new org . oscm . IDENT_0 . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( java . math . BigDecimal . valueOf ( INT_0 ) ) ; org . oscm . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_3 ( org . oscm . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_7 , IDENT_2 , java . math . BigDecimal . valueOf ( INT_0 ) , false ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return ( ( org . oscm . IDENT_4 . IDENT_8 . get ( ) ) == null ) || ( org . oscm . IDENT_4 . IDENT_8 . get ( ) . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( METHOD_4 ( ) ) 

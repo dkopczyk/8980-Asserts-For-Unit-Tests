@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date date = new java . util . Date ( java . lang . System . currentTimeMillis ( ) ) ; bean . METHOD_1 ( date ) ; bean . METHOD_2 ( null ) ; boolean result = bean . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { java . util . Date date = new java . util . Date ( java . lang . System . currentTimeMillis ( ) ) ; bean . METHOD_1 ( date ) ; bean . METHOD_2 ( date ) ; boolean result = bean . METHOD_3 ( ) ; org . junit . Assert . assertFalse ( result ) ; }
+org . junit . Assert . assertTrue ( result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int len = 100 ; byte [ ] actual = org . irods . jargon . core . utils . IDENT_0 . METHOD_1 ( len ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int ) { if ( length <= 0 ) { throw new java . lang . IllegalArgumentException ( STRING_0 ) ; } byte [ ] result = new byte [ length ] ; java . security . IDENT_1 random = new java . security . METHOD_2 ( ) ; random . METHOD_3 ( result ) ; return result ; }
+org . junit . Assert . assertEquals ( len , actual . length ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Collection < java . lang . String > IDENT_0 = de . IDENT_1 . cs . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_1 ( IDENT_6 , IDENT_6 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_7 . size ( ) ; }
+org . junit . Assert . assertThat ( IDENT_0 . size ( ) , is ( 0 ) ) 

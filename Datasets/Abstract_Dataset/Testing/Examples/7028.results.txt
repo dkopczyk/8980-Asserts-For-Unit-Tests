@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( 4 ) ; IDENT_0 . METHOD_2 ( 6 ) ; for ( int i = 0 ; i < INT_0 ; i ++ ) { IDENT_0 . IDENT_1 . add ( ( STRING_0 + i ) ) ; } int IDENT_2 = IDENT_0 . METHOD_3 ( java . util . Collections . METHOD_4 ( IDENT_3 ) , null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . util . Collection , org . apache . IDENT_4 . IDENT_5 . lib . io . fs . IDENT_6 ) { return com . IDENT_7 . api . IDENT_8 . METHOD_5 ( context , this . IDENT_9 ) ; }
+org . junit . Assert . assertEquals ( 4 , IDENT_2 ) 

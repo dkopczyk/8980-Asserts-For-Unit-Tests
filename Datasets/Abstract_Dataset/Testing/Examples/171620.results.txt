@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 ; try ( final java . io . IDENT_1 reader = new java . io . METHOD_1 ( new java . io . METHOD_2 ( IDENT_2 . com . spotify . IDENT_3 . context . IDENT_4 . class . getResourceAsStream ( STRING_0 ) ) ) ) { IDENT_0 = reader . METHOD_3 ( ) . trim ( ) ; } "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return com . spotify . IDENT_3 . context . IDENT_4 . IDENT_5 . IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_2 . com . spotify . IDENT_3 . context . IDENT_4 . METHOD_4 ( ) ) 

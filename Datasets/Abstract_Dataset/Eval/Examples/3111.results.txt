@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . model . IDENT_2 . IDENT_3 request = new com . IDENT_0 . IDENT_1 . model . IDENT_2 . METHOD_1 ( ) ; request . METHOD_2 ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . model . IDENT_2 . IDENT_4 response = this . client . METHOD_3 ( request ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return this . IDENT_5 ; }
+org . junit . Assert . assertTrue ( ( ( response . METHOD_4 ( ) . size ( ) ) > 0 ) ) 

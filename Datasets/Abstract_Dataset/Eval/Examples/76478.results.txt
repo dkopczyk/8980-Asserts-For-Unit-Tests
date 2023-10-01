@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 config = new org . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; config . METHOD_2 ( IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { com . amazonaws . services . IDENT_1 . model . IDENT_5 IDENT_6 ; if ( ( IDENT_7 ) == ( IDENT_3 . IDENT_8 ) ) { IDENT_6 = com . amazonaws . services . IDENT_1 . model . IDENT_5 . IDENT_9 ; } else { IDENT_6 = com . amazonaws . services . IDENT_1 . model . IDENT_5 . IDENT_10 ; } return IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_5 . IDENT_10 , config . METHOD_3 ( ) ) 

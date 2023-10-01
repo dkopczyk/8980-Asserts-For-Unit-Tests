@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . github . core . IDENT_1 IDENT_2 = new org . eclipse . IDENT_0 . github . core . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { service . METHOD_2 ( STRING_0 , STRING_1 ) ; org . eclipse . IDENT_0 . github . core . client . IDENT_3 request = new org . eclipse . IDENT_0 . github . core . client . METHOD_3 ( ) ; request . METHOD_4 ( STRING_2 ) ; verify ( client ) . get ( request ) ; }
+org . junit . Assert . assertNull ( IDENT_2 . METHOD_2 ( ) ) 

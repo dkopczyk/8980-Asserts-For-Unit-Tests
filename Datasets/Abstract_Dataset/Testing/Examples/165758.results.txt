@@ -1,0 +1,2 @@
+max ( ) { "<AssertPlaceHolder>" ; System . out . println ( ( STRING_0 + ( org . IDENT_0 . IDENT_1 . util . IDENT_2 . max ( 2 , 3 ) ) ) ) ; } max ( int , int ) { return a > b ? a : b ; }
+org . junit . Assert . assertTrue ( ( ( org . IDENT_0 . IDENT_1 . util . IDENT_2 . max ( 2 , 3 ) ) > 2 ) ) 

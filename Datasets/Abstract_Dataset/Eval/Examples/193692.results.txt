@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . wss4j . common . crypto . IDENT_0 crypto = new org . apache . wss4j . dom . components . crypto . IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( crypto ) 

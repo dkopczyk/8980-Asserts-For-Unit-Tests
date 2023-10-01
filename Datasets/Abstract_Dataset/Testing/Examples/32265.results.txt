@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 , STRING_1 , STRING_2 ) ; java . util . Iterator < com . IDENT_0 . IDENT_1 . utils . io . IDENT_2 > iterator = com . IDENT_0 . IDENT_1 . utils . IDENT_3 . METHOD_2 ( "/" , cache ) ; iterator . next ( ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { return ( i ) < ( METHOD_3 ( ) ) ; }
+org . junit . Assert . assertTrue ( iterator . hasNext ( ) ) 

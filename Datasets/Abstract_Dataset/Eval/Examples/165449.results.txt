@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final double k = Double . IDENT_0 ; final char r = com . IDENT_1 . IDENT_2 . math . IDENT_3 . METHOD_1 ( k ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( char ) { final int e = com . IDENT_1 . IDENT_2 . math . IDENT_3 . METHOD_3 ( k ) ; final int s = com . IDENT_1 . IDENT_2 . math . IDENT_3 . METHOD_4 ( k ) ; return ( e == 16 ) && ( s > 0 ) ; }
+org . junit . Assert . assertTrue ( com . IDENT_1 . IDENT_2 . math . IDENT_3 . METHOD_2 ( r ) ) 

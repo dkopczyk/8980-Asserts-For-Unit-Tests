@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { com . IDENT_0 . IDENT_1 . IDENT_2 . model . response . IDENT_3 response = client . METHOD_1 ( STRING_0 , STRING_1 ) ; System . out . println ( ( STRING_2 + response ) ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . Exception e ) { e . printStackTrace ( ) ; org . junit . Assert . fail ( e . getMessage ( ) ) ; } } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertTrue ( ( ( response . METHOD_2 ( ) ) != null ) ) 

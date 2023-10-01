@@ -1,0 +1,2 @@
+METHOD_0 ( ) { if ( ( org . eclipse . swt . tests . junit . IDENT_0 . IDENT_1 ) && ( ! ( IDENT_2 ) ) ) { int IDENT_3 = IDENT_4 . METHOD_1 ( ) . length ; java . lang . String msg = STRING_0 + IDENT_3 ; "<AssertPlaceHolder>" ; } else { super . METHOD_0 ( ) ; } }
+org . junit . Assert . assertTrue ( msg , ( IDENT_3 == 1 ) ) 

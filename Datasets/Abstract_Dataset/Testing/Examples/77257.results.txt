@@ -1,0 +1,2 @@
+iterator ( ) { com . gs . collections . impl . IDENT_0 IDENT_1 = new com . gs . collections . impl . METHOD_0 ( ) ; for ( java . lang . Object IDENT_2 : this . IDENT_3 ) { IDENT_1 . METHOD_1 ( ) ; } "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . count ; }
+org . junit . Assert . assertEquals ( 4 , IDENT_1 . METHOD_2 ( ) ) 

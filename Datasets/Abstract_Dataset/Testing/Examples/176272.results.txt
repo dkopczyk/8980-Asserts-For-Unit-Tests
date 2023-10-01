@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . talend . IDENT_0 . IDENT_1 IDENT_2 = new org . talend . IDENT_0 . METHOD_1 ( ) { @ org . talend . IDENT_0 . Override public void METHOD_2 ( ) { } } ; java . util . Map < org . talend . core . model . repository . IDENT_3 , java . util . List < org . talend . core . model . repository . IDENT_3 > > IDENT_4 = IDENT_2 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_5 . getText ( ) . equals ( "" ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . isEmpty ( ) ) 

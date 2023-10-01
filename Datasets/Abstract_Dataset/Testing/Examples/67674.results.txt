@@ -1,0 +1,2 @@
+METHOD_0 ( ) { template . eq ( STRING_0 , STRING_1 ) . eq ( "name" , "" ) ; java . util . List < java . lang . Object > list = template . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . size ; }
+org . junit . Assert . assertEquals ( list . size ( ) , 1 ) 

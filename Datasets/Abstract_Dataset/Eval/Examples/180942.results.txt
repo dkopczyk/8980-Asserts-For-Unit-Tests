@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new org . IDENT_1 . IDENT_2 . input . METHOD_1 ( METHOD_2 ( STRING_0 . getBytes ( ) ) ) ; IDENT_0 . METHOD_0 ( new org . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_3 ( 10 , 0 ) ) ; "<AssertPlaceHolder>" ; } position ( ) { return source . position ( ) ; }
+org . junit . Assert . assertEquals ( 8 , IDENT_0 . position ( ) ) 

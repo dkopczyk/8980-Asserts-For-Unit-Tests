@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( android . content . Context ) { return org . IDENT_0 . IDENT_1 . common . IDENT_2 . METHOD_2 ( context ) . METHOD_3 ( org . IDENT_0 . IDENT_1 . common . IDENT_2 . IDENT_3 , true ) ; }
+org . junit . Assert . assertTrue ( METHOD_1 ( context ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . server . IDENT_0 . IDENT_1 IDENT_2 = new org . neo4j . server . IDENT_0 . METHOD_1 ( org . neo4j . logging . IDENT_3 . getInstance ( ) , METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } run ( ) { try { IDENT_4 . METHOD_3 ( ) ; IDENT_4 . METHOD_4 ( ) ; IDENT_5 . METHOD_5 ( org . neo4j . kernel . impl . transaction . log . IDENT_6 . IDENT_7 . IDENT_8 ) ; IDENT_9 . METHOD_3 ( ) ; } catch ( java . lang . Exception e ) { throw new java . lang . RuntimeException ( e ) ; } }
+org . junit . Assert . assertTrue ( IDENT_2 . run ( ) ) 

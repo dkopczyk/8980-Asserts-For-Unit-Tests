@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String test = IDENT_0 . METHOD_1 ( IDENT_0 . METHOD_2 ( org . IDENT_1 . id . IDENT_2 . IDENT_3 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return this . IDENT_4 . METHOD_2 ( value ) ; }
+org . junit . Assert . assertThat ( test , org . hamcrest . CoreMatchers . is ( org . IDENT_1 . id . IDENT_2 . IDENT_3 ) ) 

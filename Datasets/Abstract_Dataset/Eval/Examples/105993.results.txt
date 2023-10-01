@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( fields ) == null ) { return 0 ; } return fields . size ( ) ; }
+org . junit . Assert . assertEquals ( 8 , empty . METHOD_1 ( ) ) 

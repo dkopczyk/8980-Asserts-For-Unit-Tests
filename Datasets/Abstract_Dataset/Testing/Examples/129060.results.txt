@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 expected = org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 ; int IDENT_4 = ( ( int ) ( expected . value ( ) ) ) ; for ( int i = 0 ; i < ( org . IDENT_0 . IDENT_1 . IDENT_5 ) ; i ++ ) { org . IDENT_0 . IDENT_6 < org . IDENT_0 . IDENT_7 < org . IDENT_0 . IDENT_1 . IDENT_2 > > ret = org . IDENT_0 . IDENT_1 . METHOD_1 ( IDENT_4 ) ; if ( IDENT_4 != ( ret . get ( ) . value ( ) ) ) "<AssertPlaceHolder>" ; } } value ( ) { return this . value ; }
+org . junit . Assert . assertEquals ( IDENT_4 , ret . get ( ) . value ( ) ) 

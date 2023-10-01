@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( null ) ; final boolean matches = service . matches ( context , null ) ; "<AssertPlaceHolder>" ; } matches ( org . springframework . context . annotation . IDENT_0 , org . springframework . core . type . IDENT_1 ) { final java . lang . String property = context . METHOD_2 ( ) . getProperty ( STRING_0 ) ; return ! ( org . apache . commons . lang3 . StringUtils . equals ( STRING_1 , property ) ) ; }
+org . junit . Assert . assertTrue ( matches ) 

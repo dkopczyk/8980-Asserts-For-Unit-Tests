@@ -1,0 +1,2 @@
+METHOD_0 ( ) { result = new ch . puzzle . itc . mobiliar . IDENT_0 . generator . METHOD_1 ( IDENT_1 ) ; ch . puzzle . itc . mobiliar . business . generator . control . IDENT_2 IDENT_3 = result . METHOD_2 ( IDENT_4 . METHOD_3 ( ) , IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return node ; }
+org . junit . Assert . assertTrue ( ( IDENT_3 == ( this . IDENT_4 ) ) ) 

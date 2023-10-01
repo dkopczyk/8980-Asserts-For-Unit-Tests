@@ -1,0 +1,2 @@
+METHOD_0 ( ) { instance . METHOD_1 ( METHOD_2 ( ) ) ; instance . METHOD_3 ( IDENT_0 . IDENT_1 ) ; instance . METHOD_4 ( IDENT_0 . IDENT_2 ) ; instance . METHOD_5 ( IDENT_0 . IDENT_3 ) ; IDENT_4 . METHOD_6 ( true ) ; IDENT_4 . start ( ) ; edu . illinois . library . cantaloupe . http . Response response = instance . METHOD_7 ( ) ; "<AssertPlaceHolder>" ; } getStatus ( ) { return status ; }
+org . junit . Assert . assertEquals ( 200 , response . getStatus ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . expect ( org . apache . IDENT_1 . indexing . dao . Exception . class ) ; org . apache . IDENT_1 . indexing . dao . search . IDENT_2 request = IDENT_3 . INSTANCE . load ( org . apache . IDENT_1 . indexing . dao . IDENT_4 . IDENT_5 , org . apache . IDENT_1 . indexing . dao . search . IDENT_2 . class ) ; org . apache . IDENT_1 . indexing . dao . search . IDENT_6 response = METHOD_1 ( ) . search ( request ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( 3 , response . METHOD_2 ( ) ) 

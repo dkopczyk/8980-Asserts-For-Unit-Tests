@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . property . IDENT_2 property = com . IDENT_0 . IDENT_1 . property . IDENT_3 . METHOD_1 ( METHOD_2 ( STRING_0 , com . IDENT_0 . IDENT_1 . IDENT_4 . Boolean . class ) , IDENT_5 . IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String , java . lang . Class [ ] ) { return com . IDENT_0 . IDENT_1 . IDENT_4 . IDENT_7 . IDENT_8 . class . METHOD_3 ( IDENT_9 , parameters ) ; }
+org . junit . Assert . assertNull ( property ) 

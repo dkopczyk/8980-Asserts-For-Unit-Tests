@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . IDENT_0 IDENT_1 = com . IDENT_2 . IDENT_3 . common . util . IDENT_4 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNull ( IDENT_1 ) 

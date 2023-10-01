@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 plugin = new com . github . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; plugin . setName ( STRING_0 ) ; plugin . METHOD_2 ( STRING_1 ) ; plugin . METHOD_3 ( new java . io . File ( STRING_2 ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return extension ; }
+org . junit . Assert . assertThat ( plugin . METHOD_4 ( ) , org . hamcrest . CoreMatchers . equalTo ( STRING_1 ) ) 

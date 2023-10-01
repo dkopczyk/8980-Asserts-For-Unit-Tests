@@ -1,0 +1,2 @@
+METHOD_0 ( ) { cli . METHOD_1 ( STRING_0 ) ; METHOD_2 ( STRING_1 ) ; java . lang . String line = STRING_2 + ( org . jboss . as . test . IDENT_0 . management . cli . IDENT_1 . IDENT_2 ) ; cli . METHOD_1 ( line ) ; "<AssertPlaceHolder>" ; cli . METHOD_1 ( STRING_3 ) ; METHOD_2 ( STRING_4 ) ; } METHOD_3 ( ) { return ( strategy ) != null ; }
+org . junit . Assert . assertTrue ( cli . METHOD_3 ( ) ) 

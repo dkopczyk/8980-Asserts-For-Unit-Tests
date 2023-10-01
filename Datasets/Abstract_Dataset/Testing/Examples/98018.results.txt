@@ -1,0 +1,2 @@
+METHOD_0 ( ) { new IDENT_0 . METHOD_1 ( ) { { mock . METHOD_2 ( ) ; METHOD_3 ( ) ; result = INT_0 ; } } ; "<AssertPlaceHolder>" ; mock . METHOD_4 ( ) ; new IDENT_0 . METHOD_5 ( ) { { METHOD_3 ( ) ; mock . METHOD_2 ( ) ; mock . METHOD_4 ( ) ; } } ; } METHOD_2 ( ) { return 1 ; }
+org . junit . Assert . assertEquals ( INT_0 , mock . METHOD_2 ( ) ) 

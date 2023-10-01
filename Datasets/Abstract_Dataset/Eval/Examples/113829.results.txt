@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Integer > result = IDENT_0 . IDENT_1 . core . util . IDENT_2 . METHOD_1 ( IDENT_0 . IDENT_1 . core . collection . IDENT_3 . newArrayList ( 1 , 2 , 3 , 4 , 5 , 6 ) , 2 ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . size ; }
+org . junit . Assert . assertEquals ( result . size ( ) , 2 ) 

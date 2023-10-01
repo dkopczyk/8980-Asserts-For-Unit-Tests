@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Date IDENT_0 = new java . util . Date ( ) ; final java . lang . String IDENT_1 = org . IDENT_2 . common . utils . IDENT_3 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String ) { final java . util . Date date = org . IDENT_2 . common . utils . IDENT_3 . METHOD_2 ( IDENT_4 ) ; return date != null ? date . getTime ( ) : null ; }
+org . junit . Assert . assertTrue ( ( ( org . IDENT_2 . common . utils . IDENT_3 . METHOD_0 ( IDENT_1 ) ) > 0 ) ) 

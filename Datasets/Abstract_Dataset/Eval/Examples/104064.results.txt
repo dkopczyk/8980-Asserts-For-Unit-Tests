@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . setName ( new org . kie . workbench . common . IDENT_1 . IDENT_2 . IDENT_3 . property . IDENT_4 . METHOD_1 ( org . kie . workbench . common . IDENT_1 . IDENT_5 . IDENT_3 . property . IDENT_6 . IDENT_7 . IDENT_8 ) ) ; java . util . Set < javax . validation . IDENT_9 < org . kie . workbench . common . IDENT_1 . IDENT_5 . IDENT_3 . property . IDENT_6 . IDENT_10 > > IDENT_11 = this . validator . validate ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return index . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_11 . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String status = gov . hhs . fha . nhinc . document . IDENT_0 . IDENT_1 ; gov . hhs . fha . nhinc . IDENT_2 . util . IDENT_3 util = new gov . hhs . fha . nhinc . IDENT_2 . util . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return IDENT_0 . IDENT_1 . equalsIgnoreCase ( status ) ; }
+org . junit . Assert . assertTrue ( util . METHOD_2 ( status ) ) 

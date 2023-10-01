@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . flow . data . IDENT_0 . IDENT_1 < com . vaadin . flow . tests . data . bean . Person > IDENT_0 = new com . vaadin . flow . data . IDENT_0 . METHOD_1 ( ) ; com . vaadin . flow . tests . data . bean . Person person = new com . vaadin . flow . tests . data . bean . Person ( ) ; int IDENT_2 = 10 ; person . METHOD_2 ( IDENT_2 ) ; IDENT_0 . METHOD_3 ( person ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( IDENT_2 , person . METHOD_4 ( ) ) 

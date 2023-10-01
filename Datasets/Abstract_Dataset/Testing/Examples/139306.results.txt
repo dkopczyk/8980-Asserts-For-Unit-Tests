@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openmrs . api . handler . IDENT_0 < org . openmrs . Person > handler = new org . openmrs . api . handler . METHOD_1 ( ) ; org . openmrs . Person person = new org . openmrs . Person ( ) ; person . METHOD_2 ( true ) ; handler . METHOD_3 ( person , null , null , null ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertFalse ( person . METHOD_4 ( ) ) 

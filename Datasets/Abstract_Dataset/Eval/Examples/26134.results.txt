@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_2 . IDENT_3 IDENT_4 = org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_2 . IDENT_3 . newInstance ( new java . io . METHOD_1 ( com . IDENT_5 . IDENT_6 . IDENT_7 ) , true ) ; java . util . Set < com . IDENT_5 . IDENT_8 > IDENT_9 = com . IDENT_5 . IDENT_10 . METHOD_2 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( ( IDENT_11 ) == null ) || ( IDENT_11 . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_9 . isEmpty ( ) ) 

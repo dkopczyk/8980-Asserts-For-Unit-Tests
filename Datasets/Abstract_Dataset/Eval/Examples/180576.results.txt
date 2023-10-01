@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( java . sql . IDENT_0 connection = METHOD_1 ( ) ) { "<AssertPlaceHolder>" ; } catch ( java . sql . IDENT_1 e ) { throw new java . lang . RuntimeException ( e ) ; } } METHOD_1 ( ) { return me . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( false ) ; }
+org . junit . Assert . assertNotNull ( connection ) 

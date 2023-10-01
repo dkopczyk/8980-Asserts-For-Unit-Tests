@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 transport = new com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( null , false ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . apache . http . entity . IDENT_5 . IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_5 . IDENT_6 , transport . METHOD_2 ( ) ) 

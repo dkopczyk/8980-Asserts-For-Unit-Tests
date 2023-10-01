@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . configuration . IDENT_1 s = new org . IDENT_0 . configuration . spi . METHOD_1 ( this . IDENT_2 , this . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . apache . commons . lang3 . StringUtils . equals ( org . IDENT_0 . configuration . spi . METHOD_1 . IDENT_4 , this . extension . METHOD_3 ( ) . get ( org . IDENT_0 . configuration . spi . METHOD_1 . IDENT_5 ) ) ; }
+org . junit . Assert . assertFalse ( s . METHOD_2 ( ) ) 

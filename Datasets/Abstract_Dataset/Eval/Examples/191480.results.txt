@@ -1,0 +1,2 @@
+test ( ) { IDENT_0 . METHOD_0 ( ) ; IDENT_1 . METHOD_1 ( METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return false ; }
+org . junit . Assert . assertTrue ( IDENT_0 . METHOD_3 ( ) ) 

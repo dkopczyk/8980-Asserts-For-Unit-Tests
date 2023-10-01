@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . cloud . utils . IDENT_0 < java . lang . Boolean , com . cloud . utils . IDENT_0 < java . lang . String , java . lang . String > > IDENT_1 = IDENT_2 . METHOD_1 ( STRING_0 , STRING_1 , STRING_2 , STRING_3 , IDENT_3 , true , false , null , null , null , null , network ) ; "<AssertPlaceHolder>" ; } first ( ) { return t ; }
+org . junit . Assert . assertTrue ( IDENT_1 . first ( ) ) 

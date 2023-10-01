@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < org . talend . components . api . component . IDENT_0 > IDENT_1 ; java . util . Set < org . talend . components . api . component . IDENT_0 > IDENT_2 ; IDENT_2 = java . util . IDENT_3 . of ( IDENT_0 . IDENT_4 , IDENT_0 . IDENT_5 ) ; IDENT_1 = IDENT_6 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_1 ) 

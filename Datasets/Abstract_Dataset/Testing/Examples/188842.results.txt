@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . commons . lang3 . time . IDENT_0 IDENT_1 = new org . apache . commons . lang3 . time . METHOD_1 ( ) ; IDENT_1 . start ( ) ; com . IDENT_2 . IDENT_3 . utils . IDENT_4 . METHOD_2 ( ( ) -> true , 200 , TimeUnit . IDENT_5 ) ; IDENT_1 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { try { if ( ( server ) != null ) { server . METHOD_3 ( ) ; } } catch ( java . lang . Exception e ) { throw new java . lang . RuntimeException ( e ) ; } }
+org . junit . Assert . assertTrue ( ( ( IDENT_1 . getTime ( ) ) < 200 ) ) 

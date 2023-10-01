@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . neo4j . support . IDENT_0 . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( org . springframework . data . neo4j . support . IDENT_0 . node ( IDENT_4 ) ) ; "<AssertPlaceHolder>" ; } node ( org . springframework . data . neo4j . support . IDENT_5 ) { return IDENT_4 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_4 , IDENT_2 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . Iterator , java . lang . String ) { T result = null ; if ( iterator . hasNext ( ) ) { result = iterator . next ( ) ; } if ( result == null ) { throw new org . neo4j . IDENT_0 . METHOD_2 ( IDENT_1 ) ; } return result ; }
+org . junit . Assert . assertEquals ( "test" , METHOD_1 ( java . util . Collections . singletonList ( "test" ) , "test" ) ) 

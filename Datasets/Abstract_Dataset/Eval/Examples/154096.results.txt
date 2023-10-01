@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . json . IDENT_1 array = new com . IDENT_0 . json . METHOD_1 ( ) ; for ( int i = 0 ; i < INT_0 ; i ++ ) { array . add ( new com . IDENT_0 . json . METHOD_1 ( ) ) ; } final java . lang . String input = array . toString ( ) ; com . IDENT_0 . json . IDENT_2 result = com . IDENT_0 . json . IDENT_3 . parse ( input ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return false ; }
+org . junit . Assert . assertTrue ( result . METHOD_2 ( ) ) 

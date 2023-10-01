@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . date . Date date = new org . IDENT_0 . IDENT_1 . date . Date ( 1 , 1 , IDENT_2 . IDENT_3 . as ( IDENT_2 . IDENT_4 ) ) ; for ( long i = IDENT_2 . IDENT_3 . as ( IDENT_2 . IDENT_4 ) ; i > 0 ; i OP_0 ) { "<AssertPlaceHolder>" ; date = date . METHOD_1 ( 1 , IDENT_2 . IDENT_4 ) ; } } METHOD_2 ( ) { return ( ( ( time ) OP_1 ( IDENT_2 . IDENT_3 . IDENT_5 ) ) / ( IDENT_2 . IDENT_4 . IDENT_5 ) ) + 1 ; }
+org . junit . Assert . assertEquals ( i , date . METHOD_2 ( ) ) 

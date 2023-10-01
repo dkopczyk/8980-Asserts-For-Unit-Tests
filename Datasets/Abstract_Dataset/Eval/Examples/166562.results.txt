@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . datastore . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . datastore . IDENT_1 . METHOD_1 ( meta . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . IDENT_5 ) { if ( value == null ) { return null ; } java . util . List list = new java . util . ArrayList ( ) ; for ( java . lang . Object o : value ) { list . add ( METHOD_2 ( o ) ) ; } return list ; }
+org . junit . Assert . assertThat ( IDENT_3 . METHOD_2 ( new java . util . ArrayList < java . lang . String > ( ) ) . size ( ) , org . hamcrest . CoreMatchers . is ( 0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return true ; }
+org . junit . Assert . assertEquals ( METHOD_0 , method . METHOD_0 ( ) ) 

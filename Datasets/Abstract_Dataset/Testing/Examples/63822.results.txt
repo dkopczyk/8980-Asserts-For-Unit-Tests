@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 ) ; org . eclipse . core . resources . IDENT_0 file = METHOD_2 ( ( STRING_1 + ( IDENT_1 ) ) , STRING_2 ) ; build ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . eclipse . core . resources . IDENT_0 ) { return file . METHOD_4 ( IDENT_2 . IDENT_3 , true , org . eclipse . core . resources . IDENT_4 . IDENT_5 ) . length ; }
+org . junit . Assert . assertEquals ( 1 , METHOD_3 ( file ) ) 

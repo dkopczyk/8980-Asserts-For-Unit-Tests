@@ -1,0 +1,2 @@
+METHOD_0 ( ) { au . edu . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = init ( new java . util . ArrayList < IDENT_4 . IDENT_5 . IDENT_6 > ( ) , 1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( 5 , IDENT_3 . METHOD_1 ( ) ) 

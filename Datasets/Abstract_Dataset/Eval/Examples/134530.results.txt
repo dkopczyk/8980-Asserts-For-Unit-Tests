@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long val = com . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_0 ( 1000 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( long ) { int result = ( value < 0 ) ? 3 : 0 ; value = java . lang . Math . METHOD_1 ( value ) ; while ( value > 0 ) { result ++ ; value = value / 10 ; } return result ; }
+org . junit . Assert . assertTrue ( ( val == 4 ) ) 

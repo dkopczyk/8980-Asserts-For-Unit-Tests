@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_1 . METHOD_2 ( METHOD_3 ( ) , org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_4 . METHOD_5 ( ) . METHOD_6 ( ) ; }
+org . junit . Assert . assertEquals ( 0 , METHOD_4 ( ) . length ) 

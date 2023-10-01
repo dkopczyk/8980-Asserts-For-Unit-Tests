@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . facebook . buck . util . IDENT_0 . IDENT_1 IDENT_2 = METHOD_1 ( STRING_0 , IDENT_3 . METHOD_2 ( ) , STRING_1 ) ; com . facebook . buck . util . IDENT_0 . IDENT_1 IDENT_4 = METHOD_1 ( STRING_0 , IDENT_3 . METHOD_2 ( ) , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return java . nio . file . IDENT_5 . METHOD_3 ( root , STRING_2 ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_4 ) 

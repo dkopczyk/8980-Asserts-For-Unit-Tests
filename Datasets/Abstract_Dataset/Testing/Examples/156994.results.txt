@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . http . Response fixture = new org . IDENT_0 . http . Response ( IDENT_1 ) ; java . io . InputStream result = fixture . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return stream ; }
+org . junit . Assert . assertNotNull ( result ) 

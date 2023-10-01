@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String text = "" ; org . IDENT_0 . IDENT_1 . el . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . el . METHOD_1 ( ) ; java . util . List < java . lang . String > IDENT_4 = IDENT_3 . METHOD_2 ( text ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return METHOD_3 ( text , STRING_0 ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . isEmpty ( ) ) 

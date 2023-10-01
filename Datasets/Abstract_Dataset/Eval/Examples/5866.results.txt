@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . netty . buffer . IDENT_0 IDENT_1 = io . netty . buffer . IDENT_2 . METHOD_1 ( ) ; org . apache . activemq . artemis . protocol . IDENT_3 . util . IDENT_4 buffer = new org . apache . activemq . artemis . protocol . IDENT_3 . util . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return buffer . METHOD_3 ( ) ; }
+org . junit . Assert . assertFalse ( buffer . METHOD_3 ( ) ) 

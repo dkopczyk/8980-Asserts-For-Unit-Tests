@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] IDENT_0 = new java . lang . String [ ] { STRING_0 , STRING_1 , STRING_2 } ; for ( java . lang . String uri : IDENT_0 ) { java . lang . String result = hudson . IDENT_1 . METHOD_1 ( null , hudson . IDENT_2 . METHOD_2 ( uri ) ) ; "<AssertPlaceHolder>" ; } } METHOD_2 ( java . lang . String ) { hudson . model . IDENT_3 action = mock ( hudson . model . IDENT_3 . class ) ; when ( action . METHOD_3 ( ) ) . thenReturn ( uri ) ; return action ; }
+org . junit . Assert . assertEquals ( uri , result ) 

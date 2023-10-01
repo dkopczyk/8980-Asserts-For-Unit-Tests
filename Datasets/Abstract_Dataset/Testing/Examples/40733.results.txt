@@ -1,0 +1,2 @@
+METHOD_0 ( ) { writer . METHOD_0 ( ) ; verify ( IDENT_0 ) . METHOD_0 ( ) ; verify ( IDENT_0 ) . write ( writer . buffer , 0 , writer . position ) ; "<AssertPlaceHolder>" ; } write ( byte [ ] , int , int ) { java . lang . System . METHOD_1 ( bytes , offset , buffer , position , length ) ; }
+org . junit . Assert . assertEquals ( writer . position , 0 ) 

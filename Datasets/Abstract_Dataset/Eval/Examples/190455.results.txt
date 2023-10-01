@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int result = IDENT_0 . create ( new com . IDENT_1 . IDENT_2 . model . METHOD_1 ( STRING_0 , STRING_1 ) ) ; "<AssertPlaceHolder>" ; } create ( java . lang . String , java . lang . String ) { IDENT_3 . create ( name , config ) ; com . IDENT_1 . IDENT_2 . service . IDENT_4 . logger . info ( STRING_2 , config , name , IDENT_5 . METHOD_2 ( ) . getName ( ) ) ; }
+org . junit . Assert . assertEquals ( 1 , result ) 

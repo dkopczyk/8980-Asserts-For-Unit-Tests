@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . compiler . IDENT_2 model = METHOD_1 ( STRING_0 ) ; boolean result = false ; try { model . run ( ) ; } catch ( java . lang . Exception e ) { result = e . getMessage ( ) . contains ( STRING_1 0 ) ; } finally { "<AssertPlaceHolder>" ; IDENT_0 . IDENT_1 . util . IDENT_3 . METHOD_2 ( STRING_2 ) ; } } contains ( java . lang . Object ) { if ( ( parent ) != null ) { return ( super . contains ( obj ) ) || ( parent . contains ( obj ) ) ; } else { return super . contains ( obj ) ; } }
+org . junit . Assert . assertTrue ( result ) 

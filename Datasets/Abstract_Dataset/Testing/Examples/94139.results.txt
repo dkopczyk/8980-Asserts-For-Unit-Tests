@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . jboss . IDENT_0 . value . IDENT_1 < java . lang . Class < ? extends java . lang . StringBuffer > > value = new org . jboss . IDENT_0 . value . IDENT_2 < java . lang . StringBuffer > ( new org . jboss . IDENT_0 . value . IDENT_3 < java . lang . StringBuffer > ( null ) ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return ( count ) ++ ; }
+org . junit . Assert . assertNull ( value . getValue ( ) ) 

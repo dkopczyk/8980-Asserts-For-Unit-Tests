@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . collections . api . list . IDENT_0 < java . lang . Integer > result = Lists . mutable . of ( ) ; org . eclipse . collections . api . list . ImmutableList < java . lang . Integer > collection = this . METHOD_1 ( ) ; collection . METHOD_0 ( result :: add ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( org . eclipse . collections . api . block . IDENT_1 . IDENT_2 ) { this . METHOD_2 ( ) . METHOD_3 ( IDENT_1 ) ; }
+org . junit . Assert . assertEquals ( collection , result ) 

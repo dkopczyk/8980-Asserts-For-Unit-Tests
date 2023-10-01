@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . internal . service . IDENT_0 . IDENT_1 parser = new org . eclipse . rap . rwt . internal . service . IDENT_0 . METHOD_1 ( "" ) ; org . eclipse . rap . rwt . internal . service . IDENT_0 . IDENT_2 [ ] tokens = parser . parse ( ) ; "<AssertPlaceHolder>" ; } parse ( ) { read ( ) ; METHOD_2 ( ) ; org . eclipse . rap . json . IDENT_3 result = METHOD_3 ( ) ; METHOD_2 ( ) ; if ( ! ( METHOD_4 ( ) ) ) { throw error ( STRING_0 ) ; } return result ; }
+org . junit . Assert . assertEquals ( 0 , tokens . length ) 

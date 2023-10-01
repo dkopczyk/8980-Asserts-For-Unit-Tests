@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = com . liferay . portal . kernel . test . util . IDENT_1 . METHOD_1 ( IDENT_2 . METHOD_2 ( ) , com . liferay . portal . kernel . util . IDENT_3 . METHOD_3 ( ) ) ; com . liferay . portal . kernel . security . IDENT_4 . IDENT_5 IDENT_6 = IDENT_7 . create ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( long ) { return false ; }
+org . junit . Assert . assertFalse ( IDENT_6 . METHOD_4 ( IDENT_2 . METHOD_2 ( ) ) ) 

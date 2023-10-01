@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int status = Status . IDENT_0 . getValue ( ) ; int IDENT_1 = 1 ; java . util . List < com . IDENT_2 . IDENT_3 . model . IDENT_4 > IDENT_5 = IDENT_6 . list ( status ) ; "<AssertPlaceHolder>" ; } list ( com . IDENT_2 . IDENT_3 . common . Status ) { if ( status == null ) { throw com . IDENT_2 . IDENT_3 . exception . IDENT_7 . METHOD_1 ( ) ; } return IDENT_6 . list ( status . getValue ( ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_5 . size ( ) ) 

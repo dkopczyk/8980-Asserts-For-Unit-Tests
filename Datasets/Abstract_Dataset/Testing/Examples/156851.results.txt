@@ -1,0 +1,2 @@
+METHOD_0 ( ) { q = IDENT_0 . util . IDENT_1 . of ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } remove ( IDENT_3 ) { int IDENT_4 = 0 ; java . lang . Object [ ] IDENT_5 = q ; while ( ( IDENT_5 [ IDENT_4 ] ) != null ) { if ( IDENT_4 == ( ( IDENT_5 . length ) - 1 ) ) { IDENT_5 = ( ( IDENT_3 [ ] ) ( IDENT_5 [ IDENT_4 ] ) ) ; IDENT_4 = 0 ; } if ( o . equals ( IDENT_5 [ IDENT_4 ] ) ) { IDENT_5 [ IDENT_4 ] = IDENT_6 . IDENT_7 ; } IDENT_4 ++ ; } }
+org . junit . Assert . assertFalse ( q . remove ( null ) ) 

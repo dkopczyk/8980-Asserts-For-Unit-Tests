@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = false ; java . lang . String url = STRING_0 ; try { org . jsoup . nodes . Document doc = org . jsoup . IDENT_1 . connect ( url ) . METHOD_1 ( STRING_1 ) . get ( ) ; } catch ( java . lang . IllegalArgumentException e ) { IDENT_0 = true ; } "<AssertPlaceHolder>" ; } get ( ) { return e ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

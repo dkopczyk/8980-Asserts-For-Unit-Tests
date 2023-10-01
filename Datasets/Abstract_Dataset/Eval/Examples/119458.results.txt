@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . brp . domain . algemeen . IDENT_0 IDENT_1 = IDENT_2 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { final nl . bzk . brp . domain . algemeen . IDENT_0 IDENT_1 = IDENT_3 . METHOD_2 ( IDENT_4 ) ; if ( ( ( IDENT_1 == null ) || ( ! ( IDENT_1 . METHOD_3 ( ) . METHOD_4 ( ) . METHOD_5 ( ) ) ) ) || ( IDENT_1 . METHOD_3 ( ) . METHOD_6 ( ) . isEmpty ( ) ) ) { return null ; } return IDENT_1 ; }
+org . junit . Assert . assertNull ( IDENT_1 ) 

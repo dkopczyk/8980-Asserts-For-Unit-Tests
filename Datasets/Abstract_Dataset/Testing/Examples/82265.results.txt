@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . queue ( ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return queue . METHOD_2 ( ) ; }
+org . junit . Assert . assertNull ( IDENT_0 . METHOD_2 ( ) ) 

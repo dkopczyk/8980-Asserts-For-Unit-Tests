@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( org . apache . ws . commons . schema . IDENT_0 , org . slc . sli . IDENT_1 . tools . IDENT_2 . IDENT_3 ) { throw new java . lang . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( java . util . Collections . emptyList ( ) , adapter . METHOD_1 ( new org . apache . ws . commons . schema . METHOD_3 ( ) , host ) ) 

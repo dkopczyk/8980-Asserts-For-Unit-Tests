@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = alluxio . client . cli . fs . IDENT_1 . METHOD_1 ( IDENT_2 ) ; int ret = IDENT_3 . run ( STRING_0 , ( IDENT_0 + STRING_1 ) , ( ( IDENT_4 . METHOD_2 ( ) ) + STRING_2 ) ) ; "<AssertPlaceHolder>" ; METHOD_3 ( STRING_3 , 10 ) ; METHOD_3 ( STRING_4 , 20 ) ; METHOD_3 ( STRING_5 , INT_0 ) ; METHOD_3 ( STRING_6 , INT_1 ) ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( 0 , ret ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . media . core . network . IDENT_1 . channel . IDENT_2 channel = new org . IDENT_0 . media . core . network . IDENT_1 . channel . METHOD_1 ( ) ; channel . METHOD_2 ( STRING_0 . getBytes ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ! ( this . IDENT_3 . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( channel . METHOD_3 ( ) ) 

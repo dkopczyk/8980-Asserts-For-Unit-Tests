@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . query . IDENT_2 q = new org . IDENT_0 . IDENT_1 . query . METHOD_1 ( "test" , new org . apache . lucene . util . METHOD_2 ( STRING_0 ) , new org . apache . lucene . util . METHOD_2 ( STRING_1 ) , true , false , METHOD_1 . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } length ( ) { org . apache . lucene . util . METHOD_2 IDENT_5 = METHOD_3 ( ) ; if ( IDENT_5 == null ) { return 0 ; } return IDENT_5 . METHOD_4 ( ) . length ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 . length ( ) , q . length ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . IDENT_0 . v1 . runtime . IDENT_1 job = org . neo4j . IDENT_0 . testing . IDENT_2 . METHOD_1 ( ) ; org . neo4j . IDENT_0 . runtime . IDENT_3 connection = METHOD_2 ( ) ; connection . METHOD_3 ( job ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return ! ( queue . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( connection . METHOD_4 ( ) ) 

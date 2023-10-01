@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String header = STRING_0 ; java . io . IDENT_0 input = new java . io . METHOD_1 ( header ) ; java . util . Map < java . lang . String , java . lang . String > result = org . apache . tomcat . util . http . parser . IDENT_1 . METHOD_2 ( input ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNull ( result ) 

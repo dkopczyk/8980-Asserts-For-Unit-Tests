@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . netty . buffer . IDENT_0 buf = buffer ( ( ( java . nio . ByteBuffer ) ( METHOD_1 ( 16 ) . METHOD_2 ( 1 ) . METHOD_3 ( ) . position ( 1 ) ) ) . METHOD_4 ( ) ) ; io . netty . buffer . IDENT_0 IDENT_1 = buf . METHOD_5 ( ) ; "<AssertPlaceHolder>" ; buf . METHOD_6 ( ) ; } METHOD_5 ( ) { return new io . netty . buffer . METHOD_7 ( buf . METHOD_5 ( ) ) ; }
+org . junit . Assert . assertEquals ( buf , METHOD_5 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . io . ByteArrayInputStream stream = new java . io . ByteArrayInputStream ( IDENT_0 ) ; final com . IDENT_1 . transform . IDENT_2 . IDENT_3 IDENT_4 = new com . IDENT_1 . transform . IDENT_2 . METHOD_1 ( stream ) ; final com . IDENT_1 . transform . IDENT_2 . Context context = new com . IDENT_1 . transform . IDENT_2 . Context ( ) ; fixture = new com . IDENT_1 . transform . IDENT_5 . METHOD_2 ( IDENT_4 , context ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( fixture ) 

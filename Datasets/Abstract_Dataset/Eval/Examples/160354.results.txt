@@ -1,0 +1,2 @@
+equals ( ) { java . lang . Object source = new java . lang . Object ( ) ; io . IDENT_0 . core . IDENT_1 IDENT_2 = new io . IDENT_0 . core . IDENT_1 . Builder ( source ) . index ( STRING_0 ) . type ( STRING_1 ) . id ( "1" ) . build ( ) ; io . IDENT_0 . core . IDENT_1 IDENT_3 = new io . IDENT_0 . core . IDENT_1 . Builder ( source ) . index ( STRING_0 ) . type ( STRING_1 ) . id ( "1" ) . build ( ) ; "<AssertPlaceHolder>" ; } build ( ) { return new com . IDENT_4 . IDENT_5 . METHOD_0 ( this ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_3 ) 

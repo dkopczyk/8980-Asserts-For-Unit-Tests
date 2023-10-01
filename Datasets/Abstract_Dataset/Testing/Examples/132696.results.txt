@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . concurrent . IDENT_1 < java . lang . Integer > i = new org . IDENT_0 . concurrent . METHOD_1 ( ) ; i . set ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { IDENT_2 . METHOD_3 ( ) ; try { return ! ( this . object . isEmpty ( ) ) ; } finally { IDENT_2 . METHOD_4 ( ) ; } }
+org . junit . Assert . assertTrue ( i . METHOD_2 ( ) ) 

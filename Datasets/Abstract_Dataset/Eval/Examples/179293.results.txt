@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Collection < uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . core . data . IDENT_3 > IDENT_4 = dao . METHOD_1 ( null , null , true ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return map . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 a = IDENT_1 . METHOD_1 ( ) . get ( com . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( model . IDENT_5 ) == null ) { METHOD_3 ( ) ; } return model . IDENT_5 ; }
+org . junit . Assert . assertNotNull ( a . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 IDENT_1 = org . openscience . cdk . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( STRING_0 ) ; org . openscience . cdk . IDENT_2 . IDENT_3 . IDENT_5 . METHOD_2 ( IDENT_1 ) ; org . openscience . cdk . interfaces . IDENT_0 [ ] IDENT_6 = org . openscience . cdk . IDENT_2 . IDENT_3 . IDENT_5 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_7 . values ( ) . toArray ( new org . openscience . cdk . interfaces . IDENT_0 [ 0 ] ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_6 . length ) 

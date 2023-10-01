@@ -1,0 +1,2 @@
+METHOD_0 ( ) { @ net . IDENT_0 . IDENT_1 . filter . IDENT_2 . METHOD_1 ( STRING_0 ) final net . IDENT_3 . IDENT_4 < net . IDENT_3 . type . IDENT_5 . IDENT_6 . IDENT_7 > res = ( ( net . IDENT_3 . IDENT_4 < net . IDENT_3 . type . IDENT_5 . IDENT_6 . IDENT_7 > ) ( IDENT_1 . run ( net . IDENT_0 . IDENT_1 . filter . IDENT_2 . IDENT_8 . class , METHOD_2 ( true , new long [ ] { 10 , 10 } ) , 1 , 2 ) ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( res ) 

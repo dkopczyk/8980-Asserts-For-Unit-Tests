@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( byte ) { return io . IDENT_0 . message . Message . METHOD_2 ( IDENT_1 ) ; }
+org . junit . Assert . assertEquals ( 6 , io . IDENT_0 . message . Message . METHOD_1 ( ( ( byte ) ( 1 ) ) ) ) 

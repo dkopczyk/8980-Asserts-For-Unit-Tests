@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . json . IDENT_1 IDENT_2 = new org . IDENT_0 . json . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( 1 ) ; java . lang . String a = STRING_0 + ( ( STRING_1 + STRING_2 ) + STRING_3 ) ; java . lang . String str = org . IDENT_0 . json . IDENT_3 . METHOD_3 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; System . out . println ( str ) ; } METHOD_3 ( java . lang . Object ) { return org . IDENT_0 . json . IDENT_3 . METHOD_3 ( obj , null ) ; }
+org . junit . Assert . assertEquals ( a , str ) 

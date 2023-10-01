@@ -1,0 +1,2 @@
+filter ( ) { final com . IDENT_0 . IDENT_1 IDENT_2 = new com . IDENT_0 . METHOD_0 ( ) ; IDENT_2 . setId ( 1 ) ; IDENT_2 . setName ( "name" ) ; IDENT_2 . METHOD_1 ( new java . util . METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } process ( com . IDENT_0 . METHOD_0 ) { if ( ( new java . util . METHOD_2 ( ) . get ( Calendar . IDENT_3 ) ) == ( item . METHOD_3 ( ) . get ( Calendar . IDENT_3 ) ) ) { log . info ( STRING_0 , item ) ; return item ; } return null ; }
+org . junit . Assert . assertNotNull ( processor . process ( IDENT_2 ) ) 

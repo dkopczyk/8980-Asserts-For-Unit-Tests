@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . util . List < java . lang . Object > IDENT_1 = METHOD_1 ( ) ; org . IDENT_0 . util . HashSet < java . lang . Object > set = new org . IDENT_0 . util . HashSet < java . lang . Object > ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { org . IDENT_0 . IDENT_2 . List < java . lang . Object > IDENT_3 = super . METHOD_1 ( ) ; IDENT_3 . add ( METHOD_2 ( STRING_0 , getClass ( ) . getName ( ) , STRING_1 , new java . lang . RuntimeException ( ) ) ) ; return IDENT_3 ; }
+org . junit . Assert . assertEquals ( set . size ( ) , IDENT_1 . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . sourceforge . IDENT_0 . util . IDENT_1 map = new net . sourceforge . IDENT_0 . util . METHOD_1 ( 4 ) ; map . add ( java . lang . String . class ) ; map . add ( java . util . HashMap . class ) ; map . add ( net . sourceforge . IDENT_0 . util . Integer . class ) ; "<AssertPlaceHolder>" ; } size ( ) { return rules . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( map . size ( ) ) == 6 ) ) 

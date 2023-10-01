@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_2 = new com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( 10 , 10 , 50 , java . util . concurrent . TimeUnit . IDENT_4 ) ; for ( int i = 1 ; i <= 10 ; i ++ ) { long IDENT_5 = IDENT_2 . METHOD_2 ( i , 0 ) ; "<AssertPlaceHolder>" ; } } METHOD_2 ( int , long ) { return IDENT_6 ; }
+org . junit . Assert . assertTrue ( ( IDENT_5 <= 50 ) ) 

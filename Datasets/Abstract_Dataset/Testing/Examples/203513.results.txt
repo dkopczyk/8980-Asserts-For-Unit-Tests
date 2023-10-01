@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object target = "" ; java . lang . String expResult = "" ; java . lang . String result = org . IDENT_0 . util . StringUtils . METHOD_1 ( target ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

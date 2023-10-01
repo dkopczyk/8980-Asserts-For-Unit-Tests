@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . el . IDENT_0 resolver = METHOD_1 ( ) ; javax . el . IDENT_1 context = new javax . el . METHOD_2 ( javax . el . IDENT_2 . METHOD_3 ( ) ) ; resolver . METHOD_4 ( context , null , javax . el . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return this . IDENT_5 ; }
+org . junit . Assert . assertFalse ( context . METHOD_5 ( ) ) 

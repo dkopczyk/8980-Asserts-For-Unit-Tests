@@ -1,0 +1,2 @@
+METHOD_0 ( ) { subject . put ( org . eclipse . IDENT_0 . core . cache . IDENT_1 . IDENT_2 , org . eclipse . IDENT_0 . core . cache . IDENT_1 . IDENT_3 ) ; subject . METHOD_1 ( org . eclipse . IDENT_0 . core . cache . IDENT_1 . IDENT_2 , "test" ) ; java . lang . String value = subject . get ( org . eclipse . IDENT_0 . core . cache . IDENT_1 . IDENT_2 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return get ( IDENT_4 , null ) ; }
+org . junit . Assert . assertEquals ( "test" , value ) 

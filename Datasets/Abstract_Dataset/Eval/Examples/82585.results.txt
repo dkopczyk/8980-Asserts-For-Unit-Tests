@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < java . lang . Integer > actual = new java . util . ArrayList ( ) ; final org . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Integer > e = ( a ) -> actual . add ( a ) ; org . IDENT_0 . IDENT_1 . IDENT_3 . METHOD_1 ( this . is , e ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . IDENT_4 , org . IDENT_0 . IDENT_1 . IDENT_2 ) { for ( final IDENT_5 a : as ) { e . apply ( a ) ; } }
+org . junit . Assert . assertEquals ( this . is , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 container = this . METHOD_1 ( java . nio . file . IDENT_2 . get ( STRING_0 ) , STRING_1 ) ; this . METHOD_2 ( container , this . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( 1 , container . METHOD_3 ( ) . size ( ) ) 

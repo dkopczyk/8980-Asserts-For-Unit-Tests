@@ -1,0 +1,2 @@
+METHOD_0 ( ) { array . add ( INT_0 ) ; org . eclipse . rap . json . IDENT_0 IDENT_1 = org . eclipse . rap . json . IDENT_0 . METHOD_1 ( array ) ; "<AssertPlaceHolder>" ; } values ( ) { return IDENT_2 . values ( ) ; }
+org . junit . Assert . assertEquals ( array . values ( ) , METHOD_1 . values ( ) ) 

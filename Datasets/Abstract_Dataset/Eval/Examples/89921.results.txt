@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( org . IDENT_1 . eclipse . IDENT_2 . IDENT_3 ) ; METHOD_2 ( org . IDENT_1 . eclipse . IDENT_2 . IDENT_4 , STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return org . IDENT_1 . util . IDENT_5 . IDENT_6 ; }
+org . junit . Assert . assertEquals ( 100 , METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . gs . collections . api . collection . IDENT_0 < java . lang . Integer > result = com . gs . collections . impl . set . mutable . IDENT_1 . METHOD_1 ( ) ; this . METHOD_2 ( ) . METHOD_0 ( ( IDENT_2 , IDENT_3 ) -> result . add ( ( IDENT_2 + IDENT_3 ) ) , 0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 . IDENT_5 . empty ( ) ; }
+org . junit . Assert . assertEquals ( this . METHOD_2 ( ) , result ) 

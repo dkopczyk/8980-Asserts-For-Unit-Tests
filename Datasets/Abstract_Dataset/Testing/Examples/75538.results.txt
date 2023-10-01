@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; org . IDENT_0 . IDENT_1 . support . IDENT_2 . IDENT_3 . logger . info ( STRING_0 , this . IDENT_4 ) ; } METHOD_1 ( ) { return this . IDENT_5 = ( ( this . IDENT_5 ) == null ) ? org . IDENT_0 . IDENT_1 . support . IDENT_2 . IDENT_6 . properties . IDENT_7 . IDENT_8 : this . IDENT_5 ; }
+org . junit . Assert . assertTrue ( this . IDENT_4 . METHOD_1 ( ) ) 

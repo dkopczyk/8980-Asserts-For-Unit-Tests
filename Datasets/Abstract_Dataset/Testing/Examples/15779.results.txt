@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . hc . core5 . net . IDENT_0 IDENT_1 = new org . apache . hc . core5 . net . METHOD_1 ( ) ; final java . net . URI result = IDENT_1 . build ( ) ; "<AssertPlaceHolder>" ; } build ( ) { return new org . apache . hc . core5 . IDENT_2 . config . METHOD_2 ( IDENT_3 , IDENT_4 , IDENT_5 , ( ( IDENT_6 ) > 0 ? IDENT_6 : INT_0 ) , IDENT_7 , IDENT_8 ) ; }
+org . junit . Assert . assertEquals ( new java . net . URI ( "" ) , result ) 

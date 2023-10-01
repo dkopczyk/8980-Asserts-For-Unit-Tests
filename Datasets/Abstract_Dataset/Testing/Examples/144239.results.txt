@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long id = INT_0 ; java . lang . String url = IDENT_0 . METHOD_1 ( id ) ; java . lang . String IDENT_1 = ( STRING_0 + id ) + STRING_1 ; "<AssertPlaceHolder>" ; } METHOD_1 ( long ) { com . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . LOGGER . info ( STRING_2 , id ) ; return METHOD_2 ( java . lang . String . format ( com . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 , id ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , url ) 

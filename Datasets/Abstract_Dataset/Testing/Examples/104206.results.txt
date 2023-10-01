@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . impl . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 < java . lang . Object > IDENT_2 = new org . IDENT_0 . core . impl . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( METHOD_2 ( ) , false , true , null ) ; "<AssertPlaceHolder>" ; IDENT_5 . expect ( org . IDENT_0 . core . impl . IDENT_1 . IDENT_2 . IDENT_3 . IllegalStateException . class ) ; IDENT_5 . METHOD_3 ( STRING_0 ) ; IDENT_2 . METHOD_4 ( ) ; } METHOD_5 ( ) { return false ; }
+org . junit . Assert . assertFalse ( IDENT_2 . METHOD_5 ( ) ) 

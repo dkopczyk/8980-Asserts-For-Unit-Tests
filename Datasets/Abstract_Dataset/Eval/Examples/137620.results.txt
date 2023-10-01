@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( int i = 0 ; i < ( keys . size ( ) ) ; i ++ ) { java . lang . Integer key = keys . get ( i ) ; "<AssertPlaceHolder>" ; } } get ( java . lang . Object ) { long hash ; long IDENT_0 ; net . IDENT_1 . IDENT_2 . IDENT_3 < IDENT_4 , IDENT_5 > IDENT_6 ; return ( IDENT_0 = ( IDENT_6 = METHOD_1 ( METHOD_2 ( ( hash = METHOD_3 ( key ) ) ) ) ) . find ( this , hash , key ) ) > 0 ? METHOD_1 . METHOD_4 ( IDENT_0 ) : null ; }
+org . junit . Assert . assertEquals ( ( ( java . lang . Integer ) ( 0 ) ) , map . get ( key ) ) 

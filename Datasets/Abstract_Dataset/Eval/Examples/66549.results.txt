@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . baeldung . User user = new org . baeldung . User ( ) ; user . METHOD_1 ( true ) ; user . METHOD_2 ( STRING_0 ) ; user . METHOD_3 ( 50 ) ; java . util . Set < javax . validation . IDENT_0 < org . baeldung . User > > IDENT_1 = validator . validate ( user ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( IDENT_2 ) == 0 ; }
+org . junit . Assert . assertEquals ( IDENT_1 . isEmpty ( ) , false ) 

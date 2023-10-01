@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } iterator ( ) { return METHOD_1 ( ) ; }
+org . junit . Assert . assertThat ( com . google . common . collect . Lists . newArrayList ( a . iterator ( ) ) , org . hamcrest . CoreMatchers . is ( com . google . common . collect . Lists . newArrayList ( a , b , c , f , d , e ) ) ) 

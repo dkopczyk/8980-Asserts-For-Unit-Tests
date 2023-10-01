@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . java . IDENT_2 IDENT_1 = new org . IDENT_0 . IDENT_1 . java . METHOD_1 ( STRING_0 , 2 ) { @ org . IDENT_0 . IDENT_1 . java . Override MOD_0 void METHOD_2 ( java . net . URI uri ) { System . out . println ( uri ) ; } } ; java . util . List < org . IDENT_0 . IDENT_1 . java . METHOD_1 . IDENT_3 > entities = IDENT_1 . METHOD_3 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_4 ; }
+org . junit . Assert . assertEquals ( 1 , entities . size ( ) ) 

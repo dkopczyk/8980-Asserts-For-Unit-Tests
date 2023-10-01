@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . codice . ddf . util . function . IDENT_0 < java . io . IOException > code = ( ) -> org . codice . ddf . configuration . IDENT_1 . report . record ( new org . codice . ddf . IDENT_1 . METHOD_1 ( "test" ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . codice . ddf . util . function . IDENT_0 ) { final int IDENT_2 = this . IDENT_3 ; if ( code != null ) { code . run ( ) ; } return ( this . IDENT_3 ) == IDENT_2 ; }
+org . junit . Assert . assertThat ( report . METHOD_2 ( code ) , org . hamcrest . Matchers . equalTo ( false ) ) 

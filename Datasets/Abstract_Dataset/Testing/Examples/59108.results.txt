@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . geometry . IDENT_1 . IDENT_2 IDENT_3 = new org . eclipse . IDENT_0 . geometry . IDENT_1 . METHOD_1 ( 1 , 2 , 3 ) ; for ( double s = - FLOAT_0 ; s <= FLOAT_0 ; s += FLOAT_1 ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( double ) { return new org . eclipse . IDENT_0 . geometry . IDENT_1 . METHOD_1 ( ( ( x ) * f ) , ( ( y ) * f ) , ( ( IDENT_4 ) * f ) ) ; }
+org . junit . Assert . assertEquals ( new org . eclipse . IDENT_0 . geometry . IDENT_1 . METHOD_1 ( 1 , 2 , 3 ) , IDENT_3 . METHOD_2 ( s ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . tools . IDENT_0 . tree . IDENT_1 result = org . openscience . cdk . tools . IDENT_0 . tree . IDENT_2 . METHOD_1 ( STRING_0 , new boolean [ ] { true , true } , new boolean [ ] { false , false } ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( result ) 

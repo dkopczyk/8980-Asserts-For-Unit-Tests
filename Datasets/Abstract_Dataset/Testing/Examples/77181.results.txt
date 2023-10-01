@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . gs . collections . impl . IDENT_0 . mutable . IDENT_1 < java . lang . Integer > IDENT_0 = com . gs . collections . impl . IDENT_0 . mutable . IDENT_1 . METHOD_1 ( 1 , 1 , 2 , 2 , 3 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { com . gs . collections . impl . IDENT_0 . mutable . IDENT_1 < java . lang . Integer > IDENT_0 = com . gs . collections . impl . IDENT_0 . mutable . IDENT_1 . METHOD_1 ( 1 , 1 , 2 , 2 , 3 ) ; org . junit . Assert . assertEquals ( 3 , IDENT_0 . METHOD_0 ( ) ) ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_0 . METHOD_0 ( ) ) 

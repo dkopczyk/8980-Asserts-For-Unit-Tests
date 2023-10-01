@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . save ( IDENT_1 ) ; long id = IDENT_1 . getId ( ) ; IDENT_0 . delete ( IDENT_1 ) ; org . IDENT_2 . IDENT_3 . validation . IDENT_4 IDENT_5 = IDENT_0 . get ( id ) ; "<AssertPlaceHolder>" ; } get ( int ) { return org . IDENT_2 . IDENT_3 . IDENT_6 . IDENT_7 . METHOD_1 ( ) . METHOD_2 ( IDENT_8 ) . METHOD_3 ( ) . get ( field ) ; }
+org . junit . Assert . assertNull ( IDENT_5 ) 

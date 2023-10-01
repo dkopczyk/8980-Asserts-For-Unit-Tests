@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . System . METHOD_1 ( ) . setProperty ( IDENT_0 . IDENT_1 , STRING_0 ) ; com . IDENT_2 . logging . IDENT_0 log = com . IDENT_2 . logging . IDENT_0 . METHOD_2 ( com . IDENT_2 . logging . test . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return com . IDENT_2 . logging . IDENT_0 . IDENT_4 . METHOD_3 ( IDENT_5 ) ; }
+org . junit . Assert . assertTrue ( log . METHOD_3 ( ) ) 

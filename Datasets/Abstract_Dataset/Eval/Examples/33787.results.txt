@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object value = Boolean . IDENT_0 ; fixture . insert ( IDENT_1 , value ) ; value = Boolean . IDENT_2 ; fixture . insert ( IDENT_1 , value ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( ! ( cache . containsKey ( IDENT_1 ) ) ) { throw new java . util . METHOD_2 ( ( ( STRING_0 + IDENT_1 ) + STRING_1 ) ) ; } io . IDENT_3 . IDENT_4 . IDENT_5 value = cache . get ( IDENT_1 ) ; return value . getValue ( ) ; }
+org . junit . Assert . assertFalse ( ( ( java . lang . Boolean ) ( fixture . METHOD_1 ( IDENT_1 ) ) ) ) 

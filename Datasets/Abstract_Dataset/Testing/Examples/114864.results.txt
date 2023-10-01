@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] data = net . IDENT_0 . utils . IDENT_1 . METHOD_1 ( image , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . awt . image . IDENT_2 , java . lang . String ) { java . io . ByteArrayOutputStream IDENT_3 = new java . io . ByteArrayOutputStream ( ) ; try { javax . IDENT_4 . IDENT_5 . write ( IDENT_6 , format , IDENT_3 ) ; byte [ ] bytes = IDENT_3 . toByteArray ( ) ; IDENT_3 . close ( ) ; return bytes ; } catch ( java . io . IOException ex ) { ex . printStackTrace ( ) ; } return null ; }
+org . junit . Assert . assertNotNull ( data ) 

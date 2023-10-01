@@ -1,0 +1,2 @@
+METHOD_0 ( java . lang . String , java . lang . String ) { builder . METHOD_1 ( input ) ; java . time . format . IDENT_0 f = builder . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { return name ( ) . toLowerCase ( ) ; }
+org . junit . Assert . assertEquals ( f . toString ( ) , expected ) 

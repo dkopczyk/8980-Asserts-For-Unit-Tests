@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . context . support . IDENT_0 IDENT_1 = new org . springframework . context . support . METHOD_1 ( STRING_0 ) ; IDENT_1 . start ( ) ; com . baeldung . dubbo . remote . IDENT_2 IDENT_3 = ( ( com . baeldung . dubbo . remote . IDENT_2 ) ( IDENT_1 . METHOD_2 ( STRING_1 ) ) ) ; java . lang . String IDENT_4 = IDENT_3 . METHOD_3 ( STRING_2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { System . out . println ( STRING_3 ) ; return STRING_4 + name ; }
+org . junit . Assert . assertNull ( IDENT_4 ) 

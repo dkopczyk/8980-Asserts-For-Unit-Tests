@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String expected = STRING_1 ; java . lang . String actual = this . IDENT_1 . path ( IDENT_0 ) . get ( java . lang . String . class ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( actual , org . hamcrest . CoreMatchers . is ( expected ) ) 

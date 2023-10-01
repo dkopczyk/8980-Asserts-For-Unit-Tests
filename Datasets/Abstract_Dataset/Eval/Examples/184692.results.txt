@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . flow . component . IDENT_0 . IDENT_1 c = new com . vaadin . flow . component . IDENT_0 . METHOD_1 ( ) ; c . METHOD_0 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( STRING_0 , c . METHOD_2 ( ) ) 

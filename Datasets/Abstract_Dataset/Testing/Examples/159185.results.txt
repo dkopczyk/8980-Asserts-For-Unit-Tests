@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . util . IDENT_1 array = new org . IDENT_0 . util . METHOD_1 ( ) ; final float [ ] IDENT_2 = new float [ ] { 1 , 2 , 3 , 5 , 8 , INT_0 , INT_1 } ; array . METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return array ; }
+org . junit . Assert . assertSame ( IDENT_2 , array . METHOD_3 ( ) ) 

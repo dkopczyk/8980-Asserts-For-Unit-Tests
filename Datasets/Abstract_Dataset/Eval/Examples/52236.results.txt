@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nd4j . linalg . api . ndarray . INDArray arr = org . nd4j . linalg . factory . Nd4j . METHOD_1 ( 1.0 ) ; java . nio . ByteBuffer buffer = org . nd4j . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_2 ( arr ) ; org . nd4j . linalg . api . ndarray . INDArray IDENT_3 = org . nd4j . IDENT_0 . IDENT_1 . IDENT_2 . toArray ( buffer ) ; "<AssertPlaceHolder>" ; } toArray ( java . nio . ByteBuffer ) { return org . nd4j . IDENT_0 . IDENT_1 . IDENT_2 . toArray ( buffer , 0 ) ; }
+org . junit . Assert . assertEquals ( arr , IDENT_3 ) 

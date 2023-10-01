@@ -1,0 +1,2 @@
+METHOD_0 ( ) { page . set ( 0 , 10 ) ; page . set ( 1 , 10 ) ; page . set ( 2 , 10 ) ; page . set ( 3 , 10 ) ; page . set ( 4 , 10 ) ; page . set ( 5 , 10 ) ; page . set ( 6 , 10 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int , int , long ) { return METHOD_2 ( start , end , value ) ; }
+org . junit . Assert . assertEquals ( 2 , page . METHOD_1 ( 2 , 5 , 10 ) ) 

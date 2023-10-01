@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) . METHOD_2 ( org . IDENT_0 . util . IDENT_1 . METHOD_3 ( ) ) . METHOD_4 ( new java . util . Date ( ) ) . create ( ) ; this . IDENT_2 . METHOD_5 ( org . IDENT_0 . util . IDENT_1 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { org . hibernate . IDENT_3 . IDENT_4 criteria = this . METHOD_7 ( ) ; return this . IDENT_5 . < IDENT_6 > METHOD_8 ( this . METHOD_9 ( ) , criteria ) ; }
+org . junit . Assert . assertEquals ( 1 , this . IDENT_2 . METHOD_6 ( ) . list ( ) . size ( ) ) 

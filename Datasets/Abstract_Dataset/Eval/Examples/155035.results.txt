@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; byte [ ] IDENT_4 = getBytes ( STRING_0 ) ; java . lang . String IDENT_5 = STRING_1 ; byte [ ] IDENT_6 = getBytes ( IDENT_5 ) ; final int expected = - 1 ; final int IDENT_7 = IDENT_3 . indexOf ( IDENT_4 , IDENT_6 ) ; "<AssertPlaceHolder>" ; } indexOf ( byte [ ] , byte [ ] ) { final int IDENT_8 = 0 ; final int IDENT_9 = ( IDENT_4 . length ) - 1 ; return indexOf ( IDENT_4 , IDENT_6 , IDENT_8 , IDENT_9 ) ; }
+org . junit . Assert . assertEquals ( expected , IDENT_7 ) 

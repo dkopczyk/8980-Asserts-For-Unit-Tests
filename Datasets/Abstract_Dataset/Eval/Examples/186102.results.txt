@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( 2 ) ; java . util . List < java . lang . String > result = IDENT_4 . METHOD_2 ( java . util . Collections . singletonList ( "test" ) ) ; "<AssertPlaceHolder>" ; } size ( ) { throw new java . lang . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( 1 , result . size ( ) ) 

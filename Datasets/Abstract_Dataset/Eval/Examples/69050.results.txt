@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean found = false ; for ( java . lang . reflect . Field f : a . org . IDENT_0 . test . IDENT_1 . IDENT_2 . IDENT_3 . class . METHOD_1 ( ) ) { if ( f . getName ( ) . equals ( STRING_0 ) ) { found = true ; } } "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { if ( obj instanceof org . IDENT_0 . core . IDENT_4 ) { org . IDENT_0 . core . IDENT_4 c = ( ( org . IDENT_0 . core . IDENT_4 ) ( obj ) ) ; return ( ( c . loader ) == ( loader ) ) && ( c . IDENT_5 . equals ( IDENT_5 ) ) ; } return false ; }
+org . junit . Assert . assertTrue ( found ) 

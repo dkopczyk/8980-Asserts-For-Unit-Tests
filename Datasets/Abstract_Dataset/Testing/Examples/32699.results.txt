@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . joda . time . IDENT_0 IDENT_1 = org . apache . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_1 ( ) . METHOD_2 ( ( - 6 ) ) ; IDENT_6 . METHOD_3 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertThat ( IDENT_6 . METHOD_4 ( ) , org . hamcrest . CoreMatchers . is ( IDENT_1 ) ) 

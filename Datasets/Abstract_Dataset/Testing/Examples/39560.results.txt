@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean random = org . openscience . cdk . math . IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( org . openscience . cdk . math . IDENT_0 . METHOD_2 ( ) ) == 1 ; }
+org . junit . Assert . assertTrue ( ( random || ( ! random ) ) ) 

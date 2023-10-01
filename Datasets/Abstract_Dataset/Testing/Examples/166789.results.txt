@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long expected = ( IDENT_0 ) + ( buffer . METHOD_1 ( ) ) ; assert expected > ( channel . size ( ) ) ; channel . write ( buffer , IDENT_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( expected , channel . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . jaxrs . provider . security . impl . IDENT_0 context = new com . eclipsesource . jaxrs . provider . security . impl . METHOD_1 ( javax . ws . rs . core . IDENT_1 . IDENT_2 , mock ( java . security . IDENT_3 . class ) , true , null ) ; boolean IDENT_4 = context . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertTrue ( IDENT_4 ) 

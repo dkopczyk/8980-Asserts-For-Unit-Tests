@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String name = STRING_0 ; final org . kie . workbench . common . IDENT_0 . core . IDENT_1 . IDENT_2 IDENT_3 = METHOD_1 ( name , null ) ; final org . kie . workbench . common . IDENT_0 . core . IDENT_1 . IDENT_4 metadata = new org . kie . workbench . common . IDENT_0 . core . IDENT_1 . METHOD_2 ( ) ; IDENT_5 . METHOD_3 ( metadata , METHOD_1 . METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return super . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( metadata . METHOD_5 ( ) , name ) 

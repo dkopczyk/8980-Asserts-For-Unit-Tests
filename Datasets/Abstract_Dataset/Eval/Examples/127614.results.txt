@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . mule . runtime . api . meta . model . connection . IDENT_0 IDENT_1 = IDENT_2 . METHOD_1 ( org . mule . runtime . module . extension . internal . loader . IDENT_3 ) . map ( ( c ) -> c . METHOD_2 ( ) . get ( 0 ) ) . get ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ! ( ( super . METHOD_4 ( ) . METHOD_5 ( ) ) && ( org . mule . runtime . extension . api . IDENT_4 . IDENT_5 . class . METHOD_6 ( super . METHOD_4 ( ) . get ( ) ) ) ) ; }
+org . junit . Assert . assertThat ( IDENT_1 . METHOD_3 ( ) , org . hamcrest . CoreMatchers . is ( true ) ) 

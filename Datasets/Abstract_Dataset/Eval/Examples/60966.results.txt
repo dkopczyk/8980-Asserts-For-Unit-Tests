@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; org . eclipse . rap . rwt . internal . service . IDENT_1 result = org . eclipse . rap . rwt . internal . service . IDENT_1 . METHOD_2 ( IDENT_0 , null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( javax . servlet . http . IDENT_2 , java . lang . String ) { return ( ( org . eclipse . rap . rwt . internal . service . IDENT_1 ) ( IDENT_0 . METHOD_3 ( org . eclipse . rap . rwt . internal . service . IDENT_1 . METHOD_4 ( IDENT_3 ) ) ) ) ; }
+org . junit . Assert . assertNull ( result ) 

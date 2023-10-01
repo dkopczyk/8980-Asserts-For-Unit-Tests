@@ -1,0 +1,2 @@
+METHOD_0 ( java . lang . String , java . lang . String ) { org . joda . beans . IDENT_0 . json . IDENT_1 input = new org . joda . beans . IDENT_0 . json . METHOD_1 ( new java . io . METHOD_2 ( ( text + STRING_0 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { buf . METHOD_4 ( 0 ) ; char next = METHOD_5 ( ) ; while ( next != STRING_0 ) { if ( next == STRING_1 ) { METHOD_6 ( ) ; } else { buf . append ( next ) ; } next = METHOD_5 ( ) ; } return buf . toString ( ) ; }
+org . junit . Assert . assertEquals ( input . METHOD_3 ( ) , expected ) 

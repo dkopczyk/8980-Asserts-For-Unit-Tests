@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . IDENT_2 . entities . user . User p = new com . github . IDENT_0 . IDENT_1 . IDENT_2 . entities . user . User ( ) ; p = com . github . IDENT_0 . IDENT_1 . common . utils . IDENT_3 . METHOD_1 ( p , IDENT_0 , IDENT_4 , IDENT_5 ) ; com . github . IDENT_0 . IDENT_1 . common . utils . IDENT_6 . logger . debug ( p ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( p . getName ( ) , IDENT_5 . getName ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < java . lang . Long > IDENT_0 = java . util . Arrays . asList ( INT_0 , INT_1 , INT_2 ) ; for ( final long IDENT_1 : IDENT_0 ) { final java . lang . Object value = IDENT_2 . get ( IDENT_1 ) ; for ( int i = 0 ; i < 10 ; i ++ ) { "<AssertPlaceHolder>" ; } } } get ( long ) { return com . github . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_1 ( IDENT_2 . get ( IDENT_1 ) ) ; }
+org . junit . Assert . assertEquals ( value , IDENT_2 . get ( IDENT_1 ) ) 

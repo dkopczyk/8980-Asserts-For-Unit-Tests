@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 result = new com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; result . METHOD_2 ( STRING_0 ) ; result . METHOD_3 ( FLOAT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( double ) { this . IDENT_4 = IDENT_4 ; }
+org . junit . Assert . assertEquals ( new com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( STRING_0 , FLOAT_0 ) , result ) 

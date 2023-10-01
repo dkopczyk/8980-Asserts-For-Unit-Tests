@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; final org . locationtech . IDENT_0 . core . store . cli . config . IDENT_1 command = new org . locationtech . IDENT_0 . core . store . cli . config . METHOD_2 ( ) ; command . METHOD_3 ( STRING_0 ) ; command . METHOD_4 ( IDENT_2 ) ; command . execute ( IDENT_2 ) ; final java . util . Properties props = org . locationtech . IDENT_0 . core . cli . operations . config . options . IDENT_3 . METHOD_5 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } size ( ) { return METHOD_6 ( ) . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , props . size ( ) ) 

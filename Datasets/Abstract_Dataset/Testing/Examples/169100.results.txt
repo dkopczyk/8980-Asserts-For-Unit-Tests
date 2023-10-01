@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . IDENT_0 cs = IDENT_1 . METHOD_1 ( STRING_0 ) ; java . sql . ResultSet rs = cs . METHOD_2 ( ) ; com . splicemachine . IDENT_2 . TestUtils . IDENT_3 fr = TestUtils . IDENT_3 . IDENT_4 . convert ( STRING_0 , rs ) ; System . out . println ( fr . toString ( ) ) ; "<AssertPlaceHolder>" ; org . apache . commons . IDENT_5 . IDENT_6 . METHOD_3 ( rs ) ; } size ( ) { return IDENT_7 . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( fr . size ( ) ) >= 1 ) ) 

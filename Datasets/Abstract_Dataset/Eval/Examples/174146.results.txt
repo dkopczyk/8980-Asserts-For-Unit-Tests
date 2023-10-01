@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String response = METHOD_1 ( METHOD_2 ( ) , STRING_0 , null , IDENT_0 ) ; java . util . List < com . IDENT_1 . rest . dto . response . IDENT_2 > messages = METHOD_3 ( response , org . IDENT_3 . jackson . map . type . IDENT_4 . METHOD_4 ( ) . METHOD_5 ( java . util . List . class , com . IDENT_1 . rest . dto . response . IDENT_2 . class ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return url ; }
+org . junit . Assert . assertNotNull ( messages ) 

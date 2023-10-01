@@ -1,0 +1,2 @@
+test ( ) { int value = INT_0 ; IDENT_0 . co . future . IDENT_1 . parameter . mapper . IDENT_2 mapper = new IDENT_0 . co . future . IDENT_1 . parameter . mapper . METHOD_0 ( ) ; java . util . IDENT_3 IDENT_4 = java . util . IDENT_3 . of ( value ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . sql . IDENT_5 , IDENT_0 . co . future . IDENT_1 . parameter . mapper . IDENT_6 ) { return original . toLowerCase ( ) ; }
+org . junit . Assert . assertThat ( mapper . METHOD_1 ( IDENT_4 , null , null ) , org . hamcrest . CoreMatchers . is ( value ) ) 

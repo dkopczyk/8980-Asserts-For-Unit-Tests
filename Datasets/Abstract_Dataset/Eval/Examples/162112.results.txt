@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = null ; boolean actual = org . IDENT_1 . core . util . IDENT_2 . METHOD_1 ( IDENT_0 ) ; boolean expected = false ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return ( IDENT_0 != null ) && ( IDENT_0 . matches ( ( ( ( org . IDENT_1 . core . util . IDENT_2 . IDENT_3 . IDENT_4 ) + STRING_0 ) + ( org . IDENT_1 . core . util . IDENT_2 . IDENT_3 . IDENT_5 ) ) ) ) ; }
+org . junit . Assert . assertThat ( actual , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( expected ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { target = new org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( STRING_0 , STRING_1 ) ; java . lang . String result = target . getProperty ( STRING_2 ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . String ) { return property . get ( key ) ; }
+org . junit . Assert . assertNull ( result ) 

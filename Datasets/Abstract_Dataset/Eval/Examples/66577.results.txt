@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . mock . web . IDENT_0 request = new org . springframework . mock . web . METHOD_1 ( STRING_0 , STRING_1 ) ; com . IDENT_1 . IDENT_2 . context . IDENT_3 . METHOD_2 ( ) . METHOD_3 ( request ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return true ; }
+org . junit . Assert . assertFalse ( filter . METHOD_4 ( ) ) 

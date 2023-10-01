@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . amazon . IDENT_1 . services . IDENT_2 . document . IDENT_3 item = new IDENT_0 . amazon . IDENT_1 . services . IDENT_2 . document . METHOD_1 ( ) . METHOD_2 ( STRING_0 , STRING_1 ) ; java . util . Map < java . lang . String , java . lang . String > IDENT_4 = item . METHOD_3 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Object ) { return map . get ( key ) ; }
+org . junit . Assert . assertEquals ( "bar" , IDENT_4 . get ( "foo" ) ) 

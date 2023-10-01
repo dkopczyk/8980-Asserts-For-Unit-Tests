@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . hamcrest . IDENT_0 description = new org . hamcrest . METHOD_1 ( ) ; org . IDENT_1 . hamcrest . IDENT_2 . IDENT_3 . METHOD_2 ( STRING_0 , java . util . Collections . emptyList ( ) ) . METHOD_3 ( description ) ; "<AssertPlaceHolder>" ; } toString ( ) { return name ; }
+org . junit . Assert . assertThat ( description . toString ( ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) 

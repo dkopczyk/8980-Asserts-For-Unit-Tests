@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . token . IDENT_2 generator = new IDENT_0 . IDENT_1 . token . METHOD_1 ( ) ; final java . lang . String IDENT_3 = STRING_0 ; final java . lang . String IDENT_4 = generator . METHOD_2 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { java . lang . String token = java . lang . Integer . METHOD_3 ( new java . util . METHOD_4 ( ) . METHOD_5 ( Integer . MAX_VALUE ) ) ; IDENT_5 . METHOD_6 ( IDENT_6 , token ) ; return token ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

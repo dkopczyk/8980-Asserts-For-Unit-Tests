@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . amazon . IDENT_1 . IDENT_2 catalog = new IDENT_0 . amazon . IDENT_1 . IDENT_3 . METHOD_1 ( ) ; IDENT_0 . amazon . IDENT_1 . IDENT_4 IDENT_1 = IDENT_0 . amazon . IDENT_1 . IDENT_3 . IDENT_5 . METHOD_2 ( ) . METHOD_3 ( catalog ) . METHOD_4 ( true ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertSame ( catalog , IDENT_1 . METHOD_5 ( ) ) 

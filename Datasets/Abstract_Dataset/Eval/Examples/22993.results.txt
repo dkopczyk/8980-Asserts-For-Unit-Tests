@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . jms . message . IDENT_1 msg = factory . METHOD_1 ( ) ; msg . METHOD_2 ( true ) ; msg . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { METHOD_5 ( ) ; try { return this . IDENT_2 . METHOD_4 ( ) ; } catch ( java . io . IDENT_3 e ) { throw org . apache . IDENT_0 . jms . exceptions . IDENT_4 . METHOD_6 ( e ) ; } catch ( java . io . IOException e ) { throw org . apache . IDENT_0 . jms . exceptions . IDENT_4 . METHOD_7 ( e ) ; } }
+org . junit . Assert . assertTrue ( msg . METHOD_4 ( ) ) 

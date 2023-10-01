@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . IDENT_1 . util . IDENT_2 buffer = new io . IDENT_0 . IDENT_1 . util . METHOD_1 ( 8 ) ; buffer . append ( ( ( byte [ ] ) ( null ) ) , 0 , 0 ) ; "<AssertPlaceHolder>" ; System . out . println ( java . lang . String . format ( STRING_0 , io . IDENT_0 . IDENT_1 . test . IDENT_3 . METHOD_2 ( 1 ) ) ) ; } length ( ) { return this . len ; }
+org . junit . Assert . assertEquals ( 0 , buffer . length ( ) ) 

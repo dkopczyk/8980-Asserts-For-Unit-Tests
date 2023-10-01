@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . fixture . IDENT_1 IDENT_2 = org . IDENT_0 . fixture . IDENT_1 . of ( ) ; java . lang . reflect . Field test = IDENT_2 . getClass ( ) . METHOD_1 ( "test" ) ; test . METHOD_2 ( true ) ; "<AssertPlaceHolder>" ; } test ( ) { return 1 ; }
+org . junit . Assert . assertEquals ( IDENT_2 . test ( ) , test . get ( IDENT_2 ) ) 

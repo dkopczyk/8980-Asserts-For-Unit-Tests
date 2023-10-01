@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { resolve ( ) ; if ( ( ( ( IDENT_0 ) == null ) || ( ( IDENT_0 . METHOD_2 ( ) ) == null ) ) || ( IDENT_0 . getName ( ) . equals ( IDENT_0 . METHOD_2 ( ) ) ) ) { return null ; } return ( ( org . IDENT_1 . IDENT_2 . IDENT_3 < ? super T > ) ( context . getClass ( new org . IDENT_1 . model . IDENT_4 . Object ( IDENT_0 . METHOD_2 ( ) ) ) ) ) ; }
+org . junit . Assert . assertNull ( int . class . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . core . impl . IDENT_1 manager = ( ( org . jboss . IDENT_0 . core . impl . IDENT_1 ) ( org . jboss . IDENT_0 . core . spi . IDENT_2 . from ( ) . create ( ) ) ) ; "<AssertPlaceHolder>" ; } resolve ( java . lang . reflect . Method ) { return new java . lang . Object [ method . METHOD_1 ( ) . length ] ; }
+org . junit . Assert . assertNull ( manager . resolve ( java . lang . Object . class ) ) 

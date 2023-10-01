@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new org . apache . accumulo . shell . format . METHOD_1 ( writer , java . util . Collections . < org . apache . accumulo . core . data . IDENT_1 , org . apache . accumulo . core . data . IDENT_2 > METHOD_2 ( ) . entrySet ( ) , new org . apache . accumulo . core . util . format . METHOD_3 ( ) . METHOD_4 ( true ) , IDENT_3 , true ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { return iterator . hasNext ( ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 . hasNext ( ) ) 

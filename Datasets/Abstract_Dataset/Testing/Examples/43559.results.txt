@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { com . googlecode . IDENT_0 . IDENT_1 . METHOD_1 ( ( ) -> list . get ( 0 ) , com . googlecode . IDENT_0 . IDENT_2 . class ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( java . lang . IDENT_3 e ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( ) { return com . googlecode . IDENT_0 . IDENT_4 . get ( ) ; }
+org . junit . Assert . assertNull ( com . googlecode . IDENT_0 . IDENT_1 . METHOD_2 ( ) ) 

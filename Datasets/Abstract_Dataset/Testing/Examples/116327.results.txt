@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . jts . IDENT_1 cs = new org . IDENT_0 . jts . METHOD_1 ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return 2 ; }
+org . junit . Assert . assertEquals ( 2 , cs . METHOD_2 ( ) ) 

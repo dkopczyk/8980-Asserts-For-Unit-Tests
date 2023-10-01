@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { IDENT_0 . METHOD_1 ( 1 , ( - 2 ) , 50 ) ; IDENT_1 . METHOD_2 ( ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( com . IDENT_2 . service . IDENT_3 e ) { } int IDENT_4 = METHOD_3 ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . Integer ) { return IDENT_5 . METHOD_4 ( STRING_1 , com . IDENT_2 . repository . Integer . class , IDENT_6 ) ; }
+org . junit . Assert . assertThat ( IDENT_4 , org . hamcrest . CoreMatchers . is ( 100 ) ) 

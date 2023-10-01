@@ -1,0 +1,2 @@
+METHOD_0 ( ) { if ( java . awt . IDENT_0 . METHOD_1 ( ) ) { org . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . LOG . METHOD_2 ( STRING_0 ) ; return ; } "<AssertPlaceHolder>" ; } METHOD_3 ( java . awt . IDENT_6 ) { javax . IDENT_7 . IDENT_8 IDENT_9 = super . METHOD_3 ( IDENT_10 ) ; IDENT_9 . METHOD_4 ( " " ) ; return IDENT_9 ; }
+org . junit . Assert . assertNotNull ( ui . METHOD_3 ( new javax . IDENT_7 . METHOD_5 ( ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; org . oscm . IDENT_0 . bean . IDENT_1 IDENT_2 = METHOD_1 ( IDENT_3 . get ( 0 ) . getKey ( ) ) ; IDENT_4 . METHOD_2 ( org . oscm . IDENT_0 . bean . IDENT_5 . METHOD_3 ( STRING_0 ) , IDENT_2 , null , null , null , new org . oscm . IDENT_0 . bean . ArrayList < org . oscm . IDENT_0 . bean . IDENT_6 > ( ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

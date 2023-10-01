@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . collections . IDENT_1 map = net . IDENT_0 . collections . IDENT_2 . map . IDENT_3 . METHOD_1 ( ) ; map . METHOD_2 ( IDENT_4 , STRING_0 ) ; "<AssertPlaceHolder>" ; } containsKey ( java . lang . Object ) { long hash = IDENT_5 . hash ( key ) ; int IDENT_6 = IDENT_5 . METHOD_3 ( hash ) ; int IDENT_7 = IDENT_5 . METHOD_4 ( hash ) ; return IDENT_8 [ IDENT_6 ] . containsKey ( METHOD_4 , ( ( IDENT_9 ) ( key ) ) ) ; }
+org . junit . Assert . assertTrue ( map . containsKey ( IDENT_4 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . couchbase . client . IDENT_0 . io . netty . buffer . IDENT_1 content = com . couchbase . client . IDENT_0 . io . netty . buffer . IDENT_2 . METHOD_1 ( STRING_0 , IDENT_3 . UTF_8 ) ; com . couchbase . client . java . document . IDENT_4 IDENT_5 = converter . decode ( STRING_1 , content , 0 , 0 , IDENT_6 . IDENT_7 , IDENT_8 . IDENT_9 ) ; "<AssertPlaceHolder>" ; } content ( ) { return content ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_5 . content ( ) ) 

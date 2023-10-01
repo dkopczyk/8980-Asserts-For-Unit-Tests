@@ -1,0 +1,2 @@
+METHOD_0 ( ) { logger . info ( STRING_0 ) ; int IDENT_0 = INT_0 ; java . lang . String IDENT_1 = STRING_1 ; java . util . Map result = net . sourceforge . IDENT_2 . common . metadata . IDENT_3 . instance . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { for ( java . lang . String key : line . METHOD_2 ( ) ) { if ( field . contains ( key ) ) { return line . get ( key ) ; } } org . junit . Assert . fail ( ( STRING_2 + field ) ) ; return null ; }
+org . junit . Assert . assertEquals ( IDENT_1 , result . get ( "name" ) ) 

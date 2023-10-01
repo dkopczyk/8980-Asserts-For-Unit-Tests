@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ast . IDENT_0 reference = new ast . METHOD_1 ( new ast . METHOD_2 ( STRING_0 , new ast . METHOD_3 ( STRING_1 ) ) , new ast . METHOD_2 ( STRING_0 , new ast . METHOD_3 ( STRING_0 ) ) ) ; ast . METHOD_1 IDENT_1 = new ast . METHOD_1 ( new ast . METHOD_2 ( STRING_0 , new ast . METHOD_3 ( STRING_1 ) ) , new ast . METHOD_2 ( STRING_0 , new ast . METHOD_3 ( STRING_0 ) ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( reference , IDENT_1 ) 

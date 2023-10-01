@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . type . IDENT_1 a = org . IDENT_0 . type . IDENT_1 . of ( org . IDENT_0 . type . IDENT_2 . of ( "a" ) ) ; org . IDENT_0 . type . IDENT_1 b = org . IDENT_0 . type . IDENT_1 . of ( org . IDENT_0 . type . IDENT_2 . of ( "a" ) ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return java . util . IDENT_3 . hash ( element ( 1 ) , element ( 2 ) , element ( 3 ) ) ; }
+org . junit . Assert . assertEquals ( a . hashCode ( ) , b . hashCode ( ) ) 

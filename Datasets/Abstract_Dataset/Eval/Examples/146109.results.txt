@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . di . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_3 = new org . pentaho . di . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } newInstance ( ) { return new org . pentaho . di . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_3 . newInstance ( ) . getClass ( ) . equals ( org . pentaho . di . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 . class ) ) 

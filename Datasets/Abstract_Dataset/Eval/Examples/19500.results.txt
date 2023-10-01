@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { org . apache . IDENT_0 . rest . client . remote . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; org . junit . Assert . fail ( ) ; } catch ( org . apache . IDENT_0 . rest . client . remote . IDENT_3 e ) { "<AssertPlaceHolder>" ; } } getMessage ( ) { return msg ; }
+org . junit . Assert . assertEquals ( "foo" , e . getMessage ( ) ) 

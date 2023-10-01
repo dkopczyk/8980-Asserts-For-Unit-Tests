@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . internal . components . response . Response response = METHOD_1 ( ) ; response . METHOD_2 ( ) . add ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . Class ) { for ( java . lang . Object result : results ) { if ( IDENT_0 . METHOD_3 ( result ) ) { return ( ( T ) ( result ) ) ; } } return null ; }
+org . junit . Assert . assertThat ( response . METHOD_0 ( java . lang . String . class ) , org . hamcrest . CoreMatchers . equalTo ( STRING_0 ) ) 

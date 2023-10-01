@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object actual = new com . IDENT_0 . METHOD_1 ( ) . METHOD_2 ( new com . IDENT_0 . IDENT_1 . METHOD_3 ( ) ) . build ( ) ; java . lang . Object expected = new com . IDENT_0 . METHOD_4 ( parent , IDENT_2 , IDENT_3 , new com . IDENT_0 . IDENT_1 . METHOD_3 ( ) . METHOD_5 ( IDENT_4 ) ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( java . lang . Object ) { return IDENT_5 . METHOD_7 ( expected ) ; }
+org . junit . Assert . assertEquals ( METHOD_6 ( expected ) , METHOD_6 ( actual ) ) 

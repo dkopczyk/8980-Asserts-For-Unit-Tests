@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . IDENT_1 . IDENT_2 . java . IDENT_3 . node . IDENT_4 type = org . IDENT_0 . IDENT_1 . IDENT_2 . java . resolver . IDENT_5 . IDENT_6 . getType ( STRING_0 ) ; final int size = org . IDENT_0 . IDENT_1 . IDENT_2 . java . resolver . IDENT_5 . IDENT_6 . METHOD_1 ( type , IDENT_7 . IDENT_8 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( size , org . hamcrest . core . Is . is ( 6 ) ) 

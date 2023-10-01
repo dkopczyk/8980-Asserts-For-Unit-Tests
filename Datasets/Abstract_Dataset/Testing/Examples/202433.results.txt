@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = METHOD_1 ( STRING_0 , STRING_1 , new java . lang . String [ ] { STRING_2 , STRING_3 , STRING_4 } , STRING_5 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( 3 >= IDENT_0 ) ) 

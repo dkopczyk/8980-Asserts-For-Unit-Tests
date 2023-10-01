@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { METHOD_1 ( METHOD_2 ( null , METHOD_3 ( ) ) ) ; "<AssertPlaceHolder>" ; } catch ( com . amazonaws . IDENT_0 IDENT_1 ) { } } METHOD_3 ( ) { com . amazonaws . services . IDENT_2 . model . IDENT_3 el = METHOD_4 ( ) ; el . METHOD_5 ( IDENT_4 . IDENT_5 ) ; return el ; }
+org . junit . Assert . assertTrue ( false ) 

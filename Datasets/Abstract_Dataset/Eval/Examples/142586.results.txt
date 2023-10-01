@@ -1,0 +1,2 @@
+METHOD_0 ( ) { function . execute ( null , null , null , new java . lang . Object [ ] { 12 } , null ) ; java . lang . Object result = function . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return super . METHOD_1 ( ) ; }
+org . junit . Assert . assertEquals ( result , new java . math . BigDecimal ( 12 ) ) 

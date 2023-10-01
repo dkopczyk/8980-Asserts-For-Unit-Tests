@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . baeldung . java . IDENT_0 . Path p = com . baeldung . java . IDENT_0 . IDENT_1 . get ( ( ( com . baeldung . java . IDENT_0 . IDENT_2 . IDENT_3 ) + "/" ) ) ; p = com . baeldung . java . IDENT_0 . IDENT_4 . METHOD_1 ( p , null , null ) ; "<AssertPlaceHolder>" ; } exists ( java . lang . String ) { return IDENT_5 . exists ( id ) ; }
+org . junit . Assert . assertTrue ( com . baeldung . java . IDENT_0 . IDENT_4 . exists ( p ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Long , org . springframework . ui . IDENT_0 ) { model . put ( STRING_0 , new org . IDENT_1 . IDENT_2 . IDENT_3 . web . IDENT_4 . IDENT_5 . METHOD_2 ( ) ) ; model . put ( STRING_1 , IDENT_6 ) ; return STRING_2 ; }
+org . junit . Assert . assertEquals ( STRING_2 , controller . METHOD_1 ( 1L , new org . springframework . ui . METHOD_3 ( ) ) ) 

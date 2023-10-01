@@ -1,0 +1,2 @@
+METHOD_0 ( ) { fr . IDENT_0 . IDENT_1 . api . domain . IDENT_2 . IDENT_3 IDENT_4 = new fr . IDENT_0 . IDENT_1 . api . domain . IDENT_2 . METHOD_1 ( ) ; IDENT_4 . setName ( "name" ) ; fr . IDENT_0 . IDENT_1 . api . domain . IDENT_2 . METHOD_1 IDENT_5 = new fr . IDENT_0 . IDENT_1 . api . domain . IDENT_2 . METHOD_1 ( ) ; IDENT_5 . setName ( "name" ) ; "<AssertPlaceHolder>" ; } setName ( java . lang . String ) { this . name = name ; }
+org . junit . Assert . assertEquals ( IDENT_4 , IDENT_5 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object o = "foo" ; com . IDENT_0 . internal . query . IDENT_1 . IDENT_2 . IDENT_3 p = com . IDENT_0 . internal . query . IDENT_1 . IDENT_4 . METHOD_1 ( o ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . IDENT_5 ; }
+org . junit . Assert . assertSame ( o , p . METHOD_2 ( ) ) 

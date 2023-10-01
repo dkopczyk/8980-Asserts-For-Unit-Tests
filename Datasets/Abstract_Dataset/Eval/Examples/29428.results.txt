@@ -1,0 +1,2 @@
+METHOD_0 ( ) { cache . put ( STRING_0 , IDENT_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return values . size ( ) ; }
+org . junit . Assert . assertEquals ( cache . size ( ) , 1 ) 

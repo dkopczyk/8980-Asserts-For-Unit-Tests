@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final int IDENT_0 = ( IDENT_1 ) * 20 ; org . IDENT_2 . concurrent . IDENT_3 IDENT_4 = org . IDENT_2 . concurrent . IDENT_5 . METHOD_1 ( false ) ; org . IDENT_2 . test . concurrent . IDENT_6 IDENT_7 = new org . IDENT_2 . test . concurrent . METHOD_2 ( ) ; for ( int i = 0 ; i < IDENT_0 ; i ++ ) { IDENT_4 . execute ( IDENT_7 ) ; } IDENT_7 . METHOD_3 ( INT_0 , IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertFalse ( IDENT_7 . METHOD_4 ( ) ) 

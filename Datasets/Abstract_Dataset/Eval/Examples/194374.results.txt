@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . IDENT_0 loader = java . lang . Thread . METHOD_1 ( ) . METHOD_2 ( ) ; System . out . println ( ( STRING_0 + loader ) ) ; System . out . println ( ( STRING_1 + ( loader . METHOD_3 ( ) ) ) ) ; System . out . println ( ( STRING_2 + ( loader . METHOD_3 ( ) . METHOD_3 ( ) ) ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNull ( loader . METHOD_3 ( ) . METHOD_3 ( ) ) 

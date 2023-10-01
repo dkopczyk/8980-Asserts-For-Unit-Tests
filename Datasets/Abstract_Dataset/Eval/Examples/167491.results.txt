@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = 16 ; when ( mock . add ( 1 , 15 ) ) . thenReturn ( IDENT_0 ) ; int res = IDENT_1 . METHOD_1 ( 1 , 15 ) ; verify ( mock ) . add ( 1 , 15 ) ; "<AssertPlaceHolder>" ; } add ( int , int ) { return a + b ; }
+org . junit . Assert . assertEquals ( res , IDENT_0 ) 

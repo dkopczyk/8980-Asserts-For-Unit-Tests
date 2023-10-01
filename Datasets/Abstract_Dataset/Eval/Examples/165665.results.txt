@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String sql = STRING_0 ; for ( java . util . Map . Entry < org . apache . shardingsphere . core . IDENT_0 . IDENT_1 , java . sql . IDENT_2 > IDENT_3 : IDENT_4 . entrySet ( ) ) { IDENT_3 . getValue ( ) . execute ( sql ) ; "<AssertPlaceHolder>" ; } } METHOD_1 ( ) { return 0 ; }
+org . junit . Assert . assertThat ( IDENT_3 . getValue ( ) . METHOD_1 ( ) , org . hamcrest . CoreMatchers . is ( 0 ) ) 

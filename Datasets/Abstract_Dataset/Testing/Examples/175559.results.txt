@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . lang . String path = com . IDENT_0 . IDENT_1 . METHOD_2 ( ) ; if ( path == null ) { return false ; } return new java . io . File ( path . trim ( ) ) . exists ( ) ; }
+org . junit . Assert . assertTrue ( com . IDENT_0 . IDENT_1 . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . util . List < IDENT_0 . serializer . IDENT_1 > > IDENT_2 = IDENT_0 . serializer . IDENT_3 . getInstance ( ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return streams . size ( ) ; }
+org . junit . Assert . assertEquals ( 6 , IDENT_2 . size ( ) ) 

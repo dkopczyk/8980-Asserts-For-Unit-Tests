@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = STRING_1 ; IDENT_2 = new net . sourceforge . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_1 ( IDENT_0 , IDENT_1 ) ; java . lang . String result = IDENT_2 . toString ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { return getName ( ) ; }
+org . junit . Assert . assertEquals ( ( ( IDENT_0 + " " ) + IDENT_1 ) , result ) 

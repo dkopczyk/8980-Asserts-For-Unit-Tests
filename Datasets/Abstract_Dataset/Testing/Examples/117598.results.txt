@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return net . time4j . IDENT_0 . IDENT_1 ; }
+org . junit . Assert . assertThat ( net . time4j . IDENT_0 . METHOD_1 ( ) . METHOD_0 ( ) , org . hamcrest . CoreMatchers . is ( true ) ) 

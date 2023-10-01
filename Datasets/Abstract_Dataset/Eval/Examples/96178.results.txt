@@ -1,0 +1,2 @@
+parent ( ) { IDENT_0 . IDENT_1 . model . IDENT_2 . IDENT_3 < IDENT_0 . IDENT_1 . model . IDENT_2 . IDENT_4 > path = new IDENT_0 . IDENT_1 . model . IDENT_2 . METHOD_0 ( IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( IDENT_6 . isEmpty ( ) ) { throw new java . lang . IllegalStateException ( ) ; } return new IDENT_0 . IDENT_1 . model . IDENT_2 . METHOD_0 ( IDENT_6 . METHOD_2 ( 0 , ( ( IDENT_6 . size ( ) ) - 1 ) ) ) ; }
+org . junit . Assert . assertSame ( root , path . METHOD_1 ( ) . get ( root ) ) 

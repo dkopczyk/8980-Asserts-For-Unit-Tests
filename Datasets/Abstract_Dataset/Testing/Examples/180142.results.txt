@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . tinkerpop . IDENT_0 . IDENT_1 g = com . tinkerpop . IDENT_0 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) ; com . tinkerpop . IDENT_0 . IDENT_1 IDENT_5 = com . tinkerpop . IDENT_6 . IDENT_7 . METHOD_2 ( g ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( com . tinkerpop . IDENT_0 . IDENT_1 ) { return g instanceof com . tinkerpop . IDENT_0 . util . IDENT_8 . IDENT_9 ? com . tinkerpop . IDENT_6 . IDENT_7 . METHOD_2 ( ( ( com . tinkerpop . IDENT_0 . util . IDENT_8 . IDENT_9 ) ( g ) ) . METHOD_3 ( ) ) : g ; }
+org . junit . Assert . assertEquals ( g , IDENT_5 ) 

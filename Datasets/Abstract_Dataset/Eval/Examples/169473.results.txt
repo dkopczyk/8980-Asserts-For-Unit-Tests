@@ -1,0 +1,2 @@
+METHOD_0 ( ) { array . put ( 0 , array , "a" ) ; array . put ( STRING_0 , array , "b" ) ; "<AssertPlaceHolder>" ; } get ( int , org . IDENT_0 . javascript . IDENT_1 ) { final java . lang . Object value = METHOD_1 ( index ) ; if ( value == ( IDENT_2 ) ) { return super . get ( index , start ) ; } else { if ( METHOD_2 ( index ) ) { return METHOD_3 ( index ) ; } else { return value ; } } }
+org . junit . Assert . assertThat ( ( ( java . lang . String ) ( array . get ( 0 , array ) ) ) , org . hamcrest . core . Is . is ( "a" ) ) 

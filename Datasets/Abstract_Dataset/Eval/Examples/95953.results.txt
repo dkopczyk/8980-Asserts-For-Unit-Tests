@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . type . IDENT_1 IDENT_2 = new org . IDENT_0 . type . METHOD_1 ( new int [ ] { 1 , 255 } ) ; IDENT_3 . write ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( IDENT_4 ) == 0 ) { return new org . IDENT_0 . type . METHOD_3 ( bytes . toByteArray ( ) ) ; } else { bytes . write ( IDENT_5 ) ; return new org . IDENT_0 . type . METHOD_1 ( bytes . toByteArray ( ) , ( 8 - ( IDENT_4 ) ) ) ; } }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_3 . METHOD_2 ( ) ) 

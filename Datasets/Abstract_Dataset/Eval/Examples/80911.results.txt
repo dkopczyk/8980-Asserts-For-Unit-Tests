@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( delegate . METHOD_0 ( ) ) . thenReturn ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return ( ( int ) ( buffer . size ( ) ) ) ; }
+org . junit . Assert . assertEquals ( 1 , buffer . METHOD_0 ( ) ) 

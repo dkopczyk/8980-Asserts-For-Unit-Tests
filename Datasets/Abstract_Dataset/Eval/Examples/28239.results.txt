@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . fasterxml . jackson . databind . IDENT_0 mapper = METHOD_1 ( ) ; java . lang . String expected = STRING_0 ; IDENT_1 . common . json . IDENT_2 IDENT_3 = new IDENT_1 . common . json . METHOD_2 ( IDENT_1 . common . jackson . IDENT_4 . of ( STRING_1 ) , IDENT_1 . common . jackson . IDENT_5 . of ( INT_0 ) ) ; java . lang . String result = mapper . METHOD_3 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } of ( long ) { return new IDENT_1 . common . jackson . METHOD_4 ( value ) ; }
+org . junit . Assert . assertEquals ( expected , result ) 

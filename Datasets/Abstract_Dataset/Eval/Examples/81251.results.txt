@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . as . IDENT_0 . client . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = org . jboss . as . IDENT_0 . client . IDENT_1 . IDENT_2 . IDENT_3 . of ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return template ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_4 . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String xml = STRING_0 + STRING_1 ; org . w3c . dom . Element element = org . apache . activemq . artemis . utils . IDENT_0 . METHOD_1 ( xml ) ; "<AssertPlaceHolder>" ; org . apache . activemq . artemis . utils . IDENT_0 . validate ( element , STRING_2 ) ; } METHOD_1 ( java . lang . String ) { return org . apache . activemq . artemis . utils . IDENT_0 . METHOD_2 ( new java . io . METHOD_3 ( s ) ) ; }
+org . junit . Assert . assertNotNull ( element ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 ac = METHOD_1 ( ) ; int count = new org . openscience . cdk . IDENT_1 . IDENT_2 . METHOD_2 ( ) . METHOD_3 ( ac ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . openscience . cdk . interfaces . IDENT_0 ) { int IDENT_3 = 0 ; for ( int i = 0 ; i < ( ac . METHOD_4 ( ) ) ; i ++ ) { if ( METHOD_5 ( ac . METHOD_6 ( i ) ) ) { IDENT_3 ++ ; } } return IDENT_3 ; }
+org . junit . Assert . assertEquals ( 10 , count ) 

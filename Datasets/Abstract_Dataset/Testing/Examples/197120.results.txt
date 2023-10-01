@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . github . IDENT_0 . druid . example . IDENT_1 . model . IDENT_2 > IDENT_3 = IDENT_4 . METHOD_1 ( ) ; IDENT_3 . stream ( ) . map ( gson :: IDENT_5 ) . METHOD_2 ( log :: info ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 5 , IDENT_3 . size ( ) ) 

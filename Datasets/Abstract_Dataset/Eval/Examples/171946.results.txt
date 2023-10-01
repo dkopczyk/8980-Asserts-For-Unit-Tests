@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; IDENT_0 . addAll ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . util . Collection ) { java . util . Iterator < ? > i = IDENT_2 . iterator ( ) ; while ( i . hasNext ( ) ) { if ( ! ( contains ( i . next ( ) ) ) ) { return false ; } } return true ; }
+org . junit . Assert . assertTrue ( IDENT_0 . METHOD_2 ( IDENT_1 ) ) 

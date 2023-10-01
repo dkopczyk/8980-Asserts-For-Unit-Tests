@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; final java . util . Set < cc . IDENT_0 . domain . IDENT_1 > result = IDENT_2 . METHOD_2 ( group . getId ( ) ) ; "<AssertPlaceHolder>" ; } size ( ) { int result = 0 ; if ( ( IDENT_3 ) != null ) { result = IDENT_3 . size ( ) ; } return result ; }
+org . junit . Assert . assertEquals ( 0 , result . size ( ) ) 

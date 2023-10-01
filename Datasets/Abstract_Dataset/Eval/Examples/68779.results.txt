@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URI expected = new java . net . URI ( STRING_0 ) ; java . net . URI uri = new com . facebook . buck . rules . IDENT_0 . METHOD_1 ( ) . METHOD_2 ( IDENT_1 , IDENT_2 , IDENT_3 , IDENT_4 . INSTANCE , expected . toString ( ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return getMessage ( ) ; }
+org . junit . Assert . assertEquals ( expected , uri ) 

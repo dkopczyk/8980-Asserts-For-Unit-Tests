@@ -1,0 +1,2 @@
+getInstance ( ) { "<AssertPlaceHolder>" ; } getInstance ( ) { for ( java . nio . file . spi . IDENT_0 provider : java . nio . file . spi . IDENT_0 . METHOD_0 ( ) ) { if ( provider instanceof org . apache . IDENT_1 . IDENT_2 . fs . IDENT_3 ) { return ( ( org . apache . IDENT_1 . IDENT_2 . fs . IDENT_3 ) ( provider ) ) ; } } return org . apache . IDENT_1 . IDENT_2 . fs . IDENT_3 . IDENT_4 . INSTANCE ; }
+org . junit . Assert . assertSame ( org . apache . IDENT_1 . IDENT_2 . fs . IDENT_3 . getInstance ( ) , org . apache . IDENT_1 . IDENT_2 . fs . IDENT_3 . getInstance ( ) ) 

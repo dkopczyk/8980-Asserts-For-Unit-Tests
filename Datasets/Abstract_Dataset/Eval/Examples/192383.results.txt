@@ -1,0 +1,2 @@
+METHOD_0 ( ) { connection . METHOD_1 ( STRING_0 , "bar" ) ; connection . METHOD_1 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( byte [ ] , long , long ) { return delegate . METHOD_2 ( key , IDENT_0 , end ) ; }
+org . junit . Assert . assertEquals ( java . util . Arrays . asList ( new java . lang . String [ ] { STRING_1 , "bar" } ) , connection . METHOD_2 ( STRING_0 , 0 , ( - 1 ) ) ) 

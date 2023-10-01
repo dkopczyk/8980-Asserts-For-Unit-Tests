@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } max ( int , int ) { return a >= b ? a : b ; }
+org . junit . Assert . assertEquals ( 20 , java . lang . Math . max ( 20 , 10 ) ) 

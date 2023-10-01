@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openmrs . IDENT_0 IDENT_1 = new org . openmrs . METHOD_1 ( 2 ) ; org . openmrs . IDENT_2 order = new org . openmrs . METHOD_2 ( 2 ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { if ( ( this ) == obj ) { return true ; } if ( ! ( obj instanceof org . openmrs . IDENT_3 ) ) { return false ; } org . openmrs . IDENT_3 other = ( ( org . openmrs . IDENT_3 ) ( obj ) ) ; if ( ( METHOD_3 ( ) ) == null ) { return false ; } return METHOD_3 ( ) . equals ( other . METHOD_3 ( ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_1 . equals ( order ) ) 

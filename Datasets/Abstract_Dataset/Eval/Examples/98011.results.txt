@@ -1,0 +1,2 @@
+METHOD_0 ( ) { new IDENT_0 . METHOD_1 ( ) { { IDENT_1 . METHOD_2 ( false ) ; result = "test" ; } } ; IDENT_1 . run ( ) ; "<AssertPlaceHolder>" ; new IDENT_0 . METHOD_3 ( ) { { IDENT_1 . run ( ) ; } } ; } METHOD_2 ( int ) { return IDENT_2 . METHOD_2 ( i ) ; }
+org . junit . Assert . assertEquals ( "test" , IDENT_1 . METHOD_2 ( false ) ) 

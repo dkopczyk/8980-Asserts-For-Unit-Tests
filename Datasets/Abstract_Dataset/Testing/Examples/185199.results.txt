@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . ui . IDENT_0 c = new com . vaadin . ui . METHOD_1 ( STRING_0 ) ; com . vaadin . ui . IDENT_1 IDENT_2 = new com . vaadin . ui . METHOD_2 ( ) ; com . vaadin . ui . METHOD_2 . IDENT_3 IDENT_4 = IDENT_2 . METHOD_3 ( c ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( c , IDENT_4 . METHOD_4 ( ) ) 

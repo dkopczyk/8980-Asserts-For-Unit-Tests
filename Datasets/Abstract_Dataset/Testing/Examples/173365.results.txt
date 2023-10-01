@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( conf , engine , INT_0 , com . IDENT_1 . IDENT_2 . core . storage . IDENT_3 . IDENT_4 , STRING_0 , IDENT_5 , IDENT_6 , metadata , com . IDENT_1 . IDENT_2 . core . storage . IDENT_3 . IDENT_7 ) ; "<AssertPlaceHolder>" ; IDENT_0 . close ( ) ; } METHOD_2 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_0 . METHOD_2 ( ) ) != null ) ) 

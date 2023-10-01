@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . el . IDENT_0 IDENT_1 = new javax . el . METHOD_1 ( ) ; javax . el . IDENT_2 context = new javax . el . METHOD_2 ( javax . el . IDENT_3 . METHOD_3 ( ) ) ; java . util . Iterator < java . beans . IDENT_4 > result = IDENT_1 . METHOD_4 ( context , new java . lang . Object ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( javax . el . IDENT_2 , java . lang . Object ) { return new javax . el . IDENT_5 . METHOD_5 ( context , base , this . IDENT_6 , this . size ) ; }
+org . junit . Assert . assertNull ( result ) 

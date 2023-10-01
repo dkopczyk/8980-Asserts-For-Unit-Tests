@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 de = METHOD_1 ( STRING_0 , IDENT_4 . URL , IDENT_5 . IDENT_6 ) ; long id = IDENT_7 . METHOD_2 ( de ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { return IDENT_8 . METHOD_4 ( IDENT_9 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_7 . METHOD_3 ( id ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { METHOD_2 ( ) ; int result = 0 ; if ( IDENT_0 ) { } else { result = IDENT_1 . size ( ) ; } return result ; }
+org . junit . Assert . assertEquals ( 0 , grid . METHOD_1 ( ) ) 

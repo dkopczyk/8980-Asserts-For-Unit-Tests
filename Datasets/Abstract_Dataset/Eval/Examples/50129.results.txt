@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = de . IDENT_1 . cs . IDENT_2 . IDENT_3 . IDENT_4 . properties . IDENT_5 . METHOD_1 ( STRING_0 , false ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , int ) { java . lang . String result = de . IDENT_1 . cs . IDENT_2 . IDENT_3 . IDENT_4 . properties . IDENT_5 . METHOD_1 ( key , ( IDENT_6 + "" ) ) ; return java . lang . Integer . METHOD_2 ( result ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 ) 

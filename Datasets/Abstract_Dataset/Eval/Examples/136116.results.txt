@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . opendaylight . controller . cluster . IDENT_0 . commands . IDENT_1 IDENT_2 = org . opendaylight . controller . cluster . IDENT_0 . commands . IDENT_3 . IDENT_4 . METHOD_1 ( IDENT_5 . IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . opendaylight . controller . cluster . IDENT_0 . IDENT_5 ) { return ( ( T ) ( this ) ) ; }
+org . junit . Assert . assertEquals ( org . opendaylight . controller . cluster . IDENT_0 . commands . IDENT_3 . IDENT_4 , IDENT_2 ) 

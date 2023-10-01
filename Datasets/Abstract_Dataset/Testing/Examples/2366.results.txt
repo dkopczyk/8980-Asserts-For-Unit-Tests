@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Class < ? > IDENT_0 = org . IDENT_1 . reflect . core . IDENT_2 . METHOD_1 ( STRING_0 ) . in ( org . IDENT_1 . reflect . core . IDENT_3 . IDENT_4 . class ) . get ( ) ; java . lang . String IDENT_5 = ( getClass ( ) . getName ( ) ) + STRING_1 ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( IDENT_5 , METHOD_1 . getName ( ) ) 

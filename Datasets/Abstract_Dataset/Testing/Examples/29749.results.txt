@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . Object IDENT_0 = METHOD_1 ( ) ; new tests . unit . com . microsoft . azure . sdk . iot . device . METHOD_2 ( ) { { IDENT_1 . isEmpty ( ) ; result = false ; times = 1 ; } } ; boolean IDENT_2 = tests . unit . com . microsoft . azure . sdk . iot . device . IDENT_3 . invoke ( IDENT_0 , STRING_0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return this . transport . isEmpty ( ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 ) 

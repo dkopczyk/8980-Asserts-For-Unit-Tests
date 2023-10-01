@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . METHOD_1 ( 1 ) ; IDENT_3 . METHOD_2 ( ) ; try { IDENT_3 . METHOD_3 ( 10 , TimeUnit . IDENT_4 ) ; org . junit . Assert . fail ( ) ; } catch ( org . IDENT_0 . IDENT_1 . IDENT_5 expected ) { } "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return ( status ) == ( org . IDENT_0 . IDENT_1 . IDENT_6 . Status . IDENT_7 ) ; }
+org . junit . Assert . assertTrue ( IDENT_3 . METHOD_4 ( ) ) 

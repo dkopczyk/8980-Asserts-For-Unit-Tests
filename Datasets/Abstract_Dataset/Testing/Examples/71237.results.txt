@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final long [ ] array = null ; org . IDENT_0 . util . Arrays . METHOD_1 ( array , 1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( T , int ) { org . IDENT_0 . util . Arrays . METHOD_1 ( array , 0 , Integer . MAX_VALUE , offset ) ; }
+org . junit . Assert . assertNull ( array ) 

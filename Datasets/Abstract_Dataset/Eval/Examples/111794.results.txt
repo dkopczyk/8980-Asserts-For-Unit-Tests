@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean [ ] array = null ; array = com . liferay . portal . kernel . util . IDENT_0 . remove ( array , false ) ; "<AssertPlaceHolder>" ; } remove ( boolean [ ] , boolean ) { return com . liferay . portal . kernel . util . IDENT_0 . remove ( array , value ) ; }
+org . junit . Assert . assertNull ( array ) 

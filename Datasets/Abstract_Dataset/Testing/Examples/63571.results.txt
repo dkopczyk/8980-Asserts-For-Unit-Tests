@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . add ( STRING_0 ) ; IDENT_0 . add ( true ) ; IDENT_0 . add ( INT_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return METHOD_1 ( ) . size ( ) ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_0 . size ( ) ) 

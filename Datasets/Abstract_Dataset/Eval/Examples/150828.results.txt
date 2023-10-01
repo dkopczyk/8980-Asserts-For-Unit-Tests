@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . model . api . IDENT_1 tree = com . IDENT_0 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( new java . util . IDENT_5 < com . IDENT_0 . model . api . Entity > ( ) ) ; METHOD_2 ( IDENT_6 . METHOD_3 ( STRING_0 ) ) . METHOD_4 ( tree ) ; java . util . List < java . lang . String > messages = IDENT_7 . METHOD_5 ( IDENT_6 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return empty ; }
+org . junit . Assert . assertTrue ( messages . isEmpty ( ) ) 

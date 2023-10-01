@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . mockito . Mockito . when ( IDENT_0 . METHOD_1 ( IDENT_1 . debug . name ( ) ) ) . thenReturn ( STRING_0 ) ; org . mockito . Mockito . when ( IDENT_0 . METHOD_1 ( IDENT_2 . IDENT_3 ) ) . thenReturn ( IDENT_2 . IDENT_4 ) ; factory = new IDENT_5 . IDENT_6 . IDENT_7 . config . factory . METHOD_2 ( IDENT_0 ) ; final IDENT_5 . IDENT_6 . IDENT_7 . config . IDENT_8 . IDENT_9 config = factory . create ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return this . debug ; }
+org . junit . Assert . assertEquals ( false , config . METHOD_3 ( ) ) 

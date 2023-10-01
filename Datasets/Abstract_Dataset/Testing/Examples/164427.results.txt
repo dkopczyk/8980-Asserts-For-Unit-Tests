@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . internal . service . IDENT_0 service = new org . oscm . internal . service . METHOD_1 ( ) ; service . METHOD_2 ( true ) ; service . METHOD_3 ( STRING_0 ) ; m . METHOD_4 ( service ) ; m . METHOD_5 ( STRING_1 ) ; boolean IDENT_1 = m . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { boolean IDENT_1 = m . METHOD_6 ( ) ; org . junit . Assert . assertFalse ( IDENT_1 ) ; }
+org . junit . Assert . assertTrue ( IDENT_1 ) 

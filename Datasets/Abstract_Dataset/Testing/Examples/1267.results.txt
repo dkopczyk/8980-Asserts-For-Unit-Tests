@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . get ( STRING_0 ) ) . thenReturn ( null ) ; when ( IDENT_0 . get ( "name" ) ) . thenReturn ( "" ) ; IDENT_1 . init ( IDENT_0 ) ; java . util . List < java . util . Map < java . lang . String , java . lang . String > > actual = IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return cache . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , actual . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( data , IDENT_0 ) ; org . opengis . filter . expression . IDENT_1 IDENT_2 = IDENT_3 . METHOD_2 ( STRING_0 , parameters ) ; boolean IDENT_4 = false ; try { IDENT_2 . evaluate ( feature ( data [ 1 ] ) , java . awt . IDENT_5 . class ) ; } catch ( java . lang . IllegalArgumentException ex ) { IDENT_4 = true ; } "<AssertPlaceHolder>" ; } feature ( org . opengis . feature . simple . IDENT_6 ) { IDENT_7 . add ( feature ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 ) 

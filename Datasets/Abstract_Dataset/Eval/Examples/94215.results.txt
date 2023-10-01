@@ -1,0 +1,2 @@
+test ( ) { java . util . List < org . IDENT_0 . IDENT_1 > services = ( ( org . IDENT_0 . internal . IDENT_2 ) ( domain ) ) . METHOD_0 ( ) . METHOD_1 ( javax . xml . IDENT_3 . IDENT_4 . valueOf ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return METHOD_2 ( IDENT_5 ) . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , services . size ( ) ) 

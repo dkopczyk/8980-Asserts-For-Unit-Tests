@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . ibatis . session . IDENT_0 session = org . apache . ibatis . binding . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; try { org . apache . ibatis . binding . IDENT_3 mapper = session . METHOD_2 ( org . apache . ibatis . binding . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } finally { session . close ( ) ; } } hashCode ( ) { return IDENT_4 ; }
+org . junit . Assert . assertNotNull ( mapper . hashCode ( ) ) 

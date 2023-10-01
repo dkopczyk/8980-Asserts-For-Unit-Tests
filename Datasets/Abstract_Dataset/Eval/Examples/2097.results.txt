@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String message = STRING_0 ; java . lang . Exception e = new java . lang . IllegalArgumentException ( message ) ; java . lang . Exception result = IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( e ) ; "<AssertPlaceHolder>" ; } getMessage ( ) { return this . message ; }
+org . junit . Assert . assertEquals ( e . getMessage ( ) , result . getMessage ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . java . nio . file . Path IDENT_1 = IDENT_2 . get ( this . getClass ( ) . getResource ( STRING_0 ) . METHOD_1 ( ) ) ; final java . util . Set < org . IDENT_3 . common . services . project . model . IDENT_4 > IDENT_5 = IDENT_6 . find ( METHOD_2 ( ) , new org . IDENT_3 . IDENT_7 . IDENT_8 . METHOD_3 ( STRING_1 , org . IDENT_0 . backend . server . util . IDENT_9 . convert ( IDENT_1 ) ) ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_10 . isEmpty ( ) ; }
+org . junit . Assert . assertFalse ( IDENT_5 . isEmpty ( ) ) 

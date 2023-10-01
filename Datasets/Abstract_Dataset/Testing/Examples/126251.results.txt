@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { METHOD_2 ( ) ; return java . sql . IDENT_0 . IDENT_1 ; }
+org . junit . Assert . assertThat ( conn . METHOD_1 ( ) , org . hamcrest . core . Is . is ( IDENT_0 . IDENT_1 ) ) 

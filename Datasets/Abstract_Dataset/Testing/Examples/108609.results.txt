@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Boolean result = ( ( java . lang . Boolean ) ( IDENT_0 . apply ( STRING_0 , 2 ) ) ) ; "<AssertPlaceHolder>" ; } apply ( java . math . BigDecimal , java . math . BigDecimal ) { return IDENT_1 . METHOD_1 ( IDENT_2 . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertTrue ( result ) 

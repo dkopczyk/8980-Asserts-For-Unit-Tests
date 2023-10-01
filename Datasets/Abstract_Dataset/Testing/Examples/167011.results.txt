@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 user = IDENT_1 . METHOD_1 ( ) . METHOD_2 ( IDENT_1 . METHOD_1 ( ) . METHOD_3 ( ) . getId ( ) ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertNotNull ( user ) 

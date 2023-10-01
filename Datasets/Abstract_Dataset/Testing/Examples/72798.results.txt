@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( org . eclipse . IDENT_0 . repository . IDENT_1 res = IDENT_2 . METHOD_1 ( null , null , null , false ) ) { "<AssertPlaceHolder>" ; } } hasNext ( ) { try { if ( ( next ) == null ) { next = METHOD_2 ( ) ; } } catch ( java . io . IOException e ) { throw new org . eclipse . IDENT_0 . query . IDENT_3 . METHOD_3 ( e ) ; } return ( next ) != null ; }
+org . junit . Assert . assertTrue ( res . hasNext ( ) ) 

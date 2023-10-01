@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . property . IDENT_1 property = new IDENT_0 . property . METHOD_1 ( FLOAT_0 , FLOAT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { IDENT_0 . property . IDENT_2 < java . lang . String > property = new IDENT_0 . property . IDENT_2 < java . lang . String > ( "value" ) ; org . junit . Assert . assertFalse ( property . METHOD_0 ( ) . isEmpty ( ) ) ; }
+org . junit . Assert . assertFalse ( property . METHOD_0 ( ) . isEmpty ( ) ) 

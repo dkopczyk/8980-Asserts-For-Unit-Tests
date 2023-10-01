@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( view . METHOD_1 ( ) ) . thenReturn ( false ) ; IDENT_0 . init ( null , null , true , true ) ; IDENT_0 . METHOD_2 ( IDENT_1 ) ; METHOD_3 ( view ) ; IDENT_0 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; verify ( METHOD_4 ) . execute ( ) ; METHOD_3 ( view ) ; when ( view . METHOD_1 ( ) ) . thenReturn ( true ) ; IDENT_0 . METHOD_4 ( ) ; } METHOD_1 ( ) { return IDENT_2 . getValue ( ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_1 ( ) ) 

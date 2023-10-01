@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . commons . lang3 . builder . IDENT_0 . IDENT_1 tx = new org . apache . commons . lang3 . builder . IDENT_0 . METHOD_1 ( STRING_0 , 100 ) ; final java . lang . String expected = ( ( ( ( ( ( ( METHOD_2 ( tx ) ) + STRING_1 ) + ( IDENT_2 ) ) + STRING_2 ) + ( IDENT_2 ) ) + STRING_3 ) + ( IDENT_2 ) ) + "]" ; "<AssertPlaceHolder>" ; } toString ( java . lang . Class [ ] ) { return java . util . Arrays . asList ( c ) . toString ( ) ; }
+org . junit . Assert . assertEquals ( expected , toString ( tx ) ) 

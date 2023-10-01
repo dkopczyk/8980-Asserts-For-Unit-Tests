@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object ) { java . lang . Class < ? > clazz = value . getClass ( ) ; return org . IDENT_0 . IDENT_1 . utils . IDENT_2 . METHOD_2 ( clazz ) ; }
+org . junit . Assert . assertEquals ( 0 , org . IDENT_0 . IDENT_1 . utils . IDENT_2 . METHOD_1 ( java . lang . Integer . valueOf ( 0 ) ) ) 

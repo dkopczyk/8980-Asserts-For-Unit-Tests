@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( false ) ; when ( IDENT_0 . METHOD_2 ( ) ) . thenReturn ( false ) ; when ( IDENT_1 . METHOD_1 ( ) ) . thenReturn ( false ) ; when ( IDENT_1 . METHOD_2 ( ) ) . thenReturn ( false ) ; IDENT_2 . METHOD_3 ( user , null ) ; verify ( IDENT_3 ) . METHOD_4 ( ) ; verify ( IDENT_3 ) . METHOD_5 ( STRING_0 , STRING_1 ) ; verify ( IDENT_4 ) . METHOD_6 ( ) ; METHOD_7 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_8 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertFalse ( me . METHOD_8 ( ) ) 

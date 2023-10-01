@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . nifi . util . IDENT_0 runner = org . apache . nifi . util . IDENT_1 . METHOD_1 ( new com . IDENT_2 . nifi . v2 . IDENT_3 . METHOD_2 ( ) ) ; org . apache . nifi . components . IDENT_4 IDENT_5 = runner . METHOD_3 ( ) . METHOD_4 ( METHOD_2 . IDENT_6 . getName ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return ( IDENT_7 . METHOD_5 ( ) ) != null ? IDENT_7 . METHOD_5 ( ) : false ; }
+org . junit . Assert . assertFalse ( IDENT_5 . METHOD_5 ( ) ) 

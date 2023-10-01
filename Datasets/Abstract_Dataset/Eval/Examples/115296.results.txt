@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { org . junit . Assert . assertFalse ( new org . apache . commons . lang3 . time . METHOD_1 ( false , 0 , 0 ) . METHOD_0 ( ) ) ; }
+org . junit . Assert . assertFalse ( new org . apache . commons . lang3 . time . METHOD_1 ( false , 0 , 0 ) . METHOD_0 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . internal . remote . IDENT_0 IDENT_1 = org . eclipse . rap . rwt . internal . remote . IDENT_2 . METHOD_1 ( STRING_0 ) ; registry . METHOD_2 ( IDENT_1 ) ; registry . remove ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { java . lang . Object result = map . get ( key ) ; if ( result == null ) { result = IDENT_3 . get ( key ) ; } return ( ( org . eclipse . ui . internal . registry . IDENT_4 ) ( result ) ) ; }
+org . junit . Assert . assertNull ( registry . get ( STRING_0 ) ) 

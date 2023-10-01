@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . expression . IDENT_0 exp = new org . springframework . expression . IDENT_1 . IDENT_2 . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) ; java . util . List < java . lang . String > list = ( ( java . util . List < java . lang . String > ) ( exp . getValue ( ) ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return set . size ( ) ; }
+org . junit . Assert . assertThat ( list . size ( ) , org . hamcrest . CoreMatchers . is ( 2 ) ) 

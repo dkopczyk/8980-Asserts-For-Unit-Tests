@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . meta . IDENT_1 target = new org . IDENT_0 . core . meta . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( target ) 

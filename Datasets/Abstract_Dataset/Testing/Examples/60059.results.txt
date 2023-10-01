@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . IDENT_1 . IDENT_2 . core . filters . IDENT_3 filter = new org . eclipse . IDENT_0 . IDENT_1 . IDENT_2 . core . filters . METHOD_1 ( 0 , "" , org . eclipse . IDENT_0 . IDENT_1 . IDENT_2 . core . filters . METHOD_1 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . eclipse . IDENT_0 . IDENT_1 . IDENT_2 . core . filters . IDENT_5 . IDENT_6 ; }
+org . junit . Assert . assertEquals ( METHOD_1 . IDENT_6 , filter . METHOD_2 ( ) ) 

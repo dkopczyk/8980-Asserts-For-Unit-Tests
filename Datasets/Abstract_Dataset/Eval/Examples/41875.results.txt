@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object o = new org . openqa . selenium . remote . METHOD_1 ( ) . convert ( java . lang . Object . class , "" ) ; "<AssertPlaceHolder>" ; } convert ( java . lang . Class , java . lang . Object ) { try { return convert ( clazz , text , 0 ) ; } catch ( org . json . IDENT_0 e ) { throw new org . openqa . selenium . remote . METHOD_2 ( e , text ) ; } }
+org . junit . Assert . assertTrue ( ( o instanceof java . lang . String ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; IDENT_1 . METHOD_1 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { final int IDENT_2 = INT_0 ; int result = super . hashCode ( ) ; result = ( IDENT_2 * result ) + ( ( IDENT_3 ) == null ? 0 : IDENT_3 . hashCode ( ) ) ; result = ( IDENT_2 * result ) + ( ( IDENT_4 ) == null ? 0 : IDENT_4 . hashCode ( ) ) ; return result ; }
+org . junit . Assert . assertFalse ( ( ( IDENT_0 . hashCode ( ) ) == ( IDENT_1 . hashCode ( ) ) ) ) 

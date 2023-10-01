@@ -1,0 +1,2 @@
+METHOD_0 ( ) { br . IDENT_0 . IDENT_1 . IDENT_2 . dao . IDENT_3 IDENT_4 = new br . IDENT_0 . IDENT_1 . IDENT_2 . dao . METHOD_1 ( ) ; br . IDENT_0 . IDENT_1 . IDENT_2 . domain . IDENT_5 IDENT_6 = IDENT_4 . METHOD_0 ( new java . text . METHOD_2 ( STRING_0 ) . parse ( STRING_1 ) ) ; System . out . println ( IDENT_6 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNull ( IDENT_6 ) 

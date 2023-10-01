@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . setName ( null ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertTrue ( ( null == ( IDENT_0 . getName ( ) ) ) ) 

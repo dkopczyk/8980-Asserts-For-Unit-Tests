@@ -1,0 +1,2 @@
+METHOD_0 ( ) { channel = METHOD_1 ( IDENT_0 . getPath ( STRING_0 ) , com . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } size ( ) { return file . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( channel . size ( ) , channel . position ( ) ) 

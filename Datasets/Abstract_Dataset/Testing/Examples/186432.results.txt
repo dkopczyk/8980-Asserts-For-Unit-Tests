@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . table . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . table . IDENT_1 . METHOD_1 ( this . IDENT_4 , this . size ) ; for ( int i = 0 ; i < ( this . size ) ; i ++ ) { if ( ( i OP_0 5 ) == 0 ) IDENT_3 . METHOD_2 ( i ) ; else IDENT_3 . set ( i , java . lang . String . valueOf ( i ) ) ; } "<AssertPlaceHolder>" ; METHOD_3 ( IDENT_3 ) ; } METHOD_4 ( ) { return this . data . length ; }
+org . junit . Assert . assertEquals ( IDENT_3 . METHOD_4 ( ) , this . size ) 

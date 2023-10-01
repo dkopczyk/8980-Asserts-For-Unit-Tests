@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object IDENT_0 = new java . lang . Object ( ) ; IDENT_1 . put ( IDENT_0 , IDENT_0 ) ; java . lang . Object IDENT_2 = IDENT_1 . remove ( IDENT_0 ) ; "<AssertPlaceHolder>" ; verify ( IDENT_3 ) . METHOD_1 ( IDENT_0 , IDENT_0 ) ; } remove ( java . lang . Object ) { if ( contains ( o ) ) { METHOD_2 ( ( ( IDENT_4 ) ( o ) ) ) ; return true ; } return false ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_2 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { org . mule . runtime . module . extension . internal . runtime . resolver . IDENT_0 resolver = METHOD_2 ( null ) ; when ( resolver . METHOD_1 ( ) ) . thenReturn ( true ) ; set . add ( STRING_0 , resolver ) ; org . junit . Assert . assertThat ( set . METHOD_1 ( ) , org . hamcrest . CoreMatchers . is ( true ) ) ; }
+org . junit . Assert . assertThat ( resolver . METHOD_1 ( ) , org . hamcrest . CoreMatchers . is ( false ) ) 

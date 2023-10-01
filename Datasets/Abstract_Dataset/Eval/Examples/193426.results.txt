@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long [ ] arr = METHOD_1 ( new long [ ] { 1L , INT_0 } ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertArrayEquals ( new long [ ] { 1 , 2 } , arr ) 

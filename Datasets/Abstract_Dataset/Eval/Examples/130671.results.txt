@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . server . rest . IDENT_0 response = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; response . close ( ) ; } getStatus ( ) { return status ; }
+org . junit . Assert . assertEquals ( 200 , response . getStatus ( ) ) 

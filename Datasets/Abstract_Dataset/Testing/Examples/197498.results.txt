@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . common . reflect . IDENT_0 < java . util . ArrayList < java . lang . String > > IDENT_1 = new com . google . common . reflect . IDENT_0 < java . util . ArrayList < java . lang . String > > ( ) { } ; com . google . common . reflect . IDENT_0 < java . util . List > list = new com . google . common . reflect . IDENT_0 < java . util . List > ( ) { } ; boolean IDENT_2 = IDENT_1 . METHOD_1 ( list ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( METHOD_1 ) 

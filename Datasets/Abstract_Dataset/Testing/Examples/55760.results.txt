@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 model = IDENT_4 . METHOD_1 ( IDENT_5 . IDENT_6 ) ; java . beans . IDENT_7 mock = org . IDENT_0 . common . IDENT_8 . METHOD_2 ( model , "value" , null , new java . lang . Integer ( 100 ) ) ; model . METHOD_3 ( mock ) ; IDENT_9 . METHOD_4 ( "a" , 100 , null , null ) ; verify ( mock ) ; "<AssertPlaceHolder>" ; } getValue ( ) { if ( ( super . getValue ( ) ) == null ) { return METHOD_5 ( ) ; } return super . getValue ( ) ; }
+org . junit . Assert . assertEquals ( new java . lang . Integer ( 100 ) , model . getValue ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 < java . lang . String > IDENT_5 = new IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 < java . lang . String > ( java . lang . String . class ) ; java . util . List < java . lang . String > result = IDENT_5 . select ( new java . util . ArrayList < java . lang . String > ( ) ) ; "<AssertPlaceHolder>" ; } select ( java . lang . Object ) { return METHOD_1 ( item ) ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . Matchers . empty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . String > IDENT_0 = METHOD_1 ( ) ; java . lang . String IDENT_1 = "foo" ; IDENT_2 . add ( IDENT_1 ) ; int index = IDENT_0 . size ( ) ; IDENT_2 . remove ( index ) ; java . util . List < com . vaadin . flow . internal . IDENT_3 . IDENT_4 > IDENT_5 = METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_6 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_5 . size ( ) ) 

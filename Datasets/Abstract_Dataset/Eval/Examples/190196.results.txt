@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object object = new com . IDENT_0 . document . METHOD_1 ( ) ; com . IDENT_0 . document . METHOD_1 document = IDENT_1 . METHOD_2 ( object ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Object ) { com . IDENT_0 . document . IDENT_2 . IDENT_3 IDENT_4 = new com . IDENT_0 . document . IDENT_2 . METHOD_3 ( ) ; return METHOD_4 ( object , IDENT_4 ) ; }
+org . junit . Assert . assertSame ( object , document ) 

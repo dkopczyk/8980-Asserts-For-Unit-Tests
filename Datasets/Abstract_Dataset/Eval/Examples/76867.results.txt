@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final net . IDENT_0 . entity . IDENT_1 . IDENT_2 IDENT_3 = new net . IDENT_0 . entity . IDENT_1 . METHOD_1 ( location , IDENT_4 , entity ) ; entity . METHOD_2 ( IDENT_3 ) ; entity . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_5 . get ( ) ; }
+org . junit . Assert . assertSame ( IDENT_3 , entity . METHOD_4 ( ) ) 

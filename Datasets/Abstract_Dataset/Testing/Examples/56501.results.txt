@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . sun . IDENT_0 . kernel . IDENT_1 . IDENT_2 queue = METHOD_1 ( ) ; com . sun . IDENT_0 . kernel . IDENT_1 . IDENT_3 task = new com . sun . IDENT_0 . impl . kernel . IDENT_1 . IDENT_4 . METHOD_2 ( ) ; queue . METHOD_3 ( task ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( boolean ) { com . sun . IDENT_0 . kernel . IDENT_1 . IDENT_3 task = queue . METHOD_5 ( ) ; if ( ( task != null ) || ( ! IDENT_5 ) ) { return task ; } return queue . METHOD_6 ( ) ; }
+org . junit . Assert . assertEquals ( task , queue . METHOD_4 ( false ) ) 

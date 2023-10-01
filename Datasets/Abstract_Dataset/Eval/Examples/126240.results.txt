@@ -1,0 +1,2 @@
+METHOD_0 ( ) { store . METHOD_1 ( IDENT_0 , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . IDENT_1 . jcr . value . IDENT_2 ) { if ( ! ( METHOD_3 ( source ) ) ) { throw new org . IDENT_1 . jcr . value . IDENT_3 . METHOD_4 ( IDENT_4 . IDENT_5 . text ( source . getKey ( ) , directory ) ) ; } org . IDENT_1 . jcr . value . IDENT_6 IDENT_7 = METHOD_5 ( source . getKey ( ) , org . IDENT_1 . jcr . value . IDENT_3 . IDENT_8 . IDENT_9 ) ; return METHOD_6 ( IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , store . METHOD_2 ( IDENT_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . io . File IDENT_0 = new java . io . File ( root , STRING_0 ) ; final java . net . URI uri = org . IDENT_1 . beam . util . io . IDENT_2 . METHOD_1 ( IDENT_3 , IDENT_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return java . util . Arrays . toString ( java . util . Arrays . METHOD_2 ( elements , offset , ( ( offset ) + ( size ) ) ) ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , uri . toString ( ) ) 

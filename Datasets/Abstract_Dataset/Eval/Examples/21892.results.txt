@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final org . apache . IDENT_1 . IDENT_2 . api . action . IDENT_3 builder = new org . apache . IDENT_1 . IDENT_2 . api . action . METHOD_1 ( ) ; builder . METHOD_2 ( IDENT_0 ) ; final org . apache . IDENT_1 . IDENT_2 . api . action . IDENT_4 IDENT_5 = builder . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_5 . METHOD_3 ( ) ) 

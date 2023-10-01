@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . hipparchus . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new org . hipparchus . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( METHOD_1 . IDENT_5 ) ; double [ ] values = new double [ ] { FLOAT_0 } ; double IDENT_6 = IDENT_4 . evaluate ( values ) ; "<AssertPlaceHolder>" ; } evaluate ( org . hipparchus . linear . IDENT_7 ) { return problem . evaluate ( IDENT_8 ) ; }
+org . junit . Assert . assertEquals ( 0.0 , IDENT_6 , 0 ) 

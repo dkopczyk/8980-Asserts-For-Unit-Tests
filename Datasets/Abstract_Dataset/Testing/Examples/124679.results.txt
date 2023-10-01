@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . brp . IDENT_0 . IDENT_1 . service . IDENT_2 IDENT_3 = new nl . bzk . brp . IDENT_0 . IDENT_1 . service . METHOD_1 ( new java . util . ArrayList < nl . bzk . brp . model . validatie . IDENT_4 > ( ) ) ; IDENT_3 . METHOD_2 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { final java . util . Date IDENT_5 ; if ( ( IDENT_6 ) == null ) { IDENT_5 = null ; } else { IDENT_5 = ( ( java . util . Date ) ( IDENT_6 . METHOD_4 ( ) ) ) ; } return IDENT_5 ; }
+org . junit . Assert . assertNull ( IDENT_3 . METHOD_3 ( ) ) 

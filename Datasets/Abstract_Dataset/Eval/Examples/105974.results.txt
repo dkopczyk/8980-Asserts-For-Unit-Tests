@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String expected = STRING_0 ; net . sf . IDENT_0 . IDENT_1 . io . IDENT_2 listener = new net . sf . IDENT_0 . IDENT_1 . io . METHOD_1 ( ) { @ net . sf . IDENT_0 . IDENT_1 . io . Override public void METHOD_2 ( java . lang . String data ) { "<AssertPlaceHolder>" ; reader . METHOD_3 ( ) ; } } ; reader . METHOD_4 ( listener ) ; reader . start ( ) ; } METHOD_2 ( java . lang . String ) { org . junit . Assert . assertEquals ( expected , data ) ; reader . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( expected , data ) 

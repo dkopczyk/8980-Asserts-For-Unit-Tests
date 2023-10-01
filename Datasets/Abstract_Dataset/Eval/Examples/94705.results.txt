@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . ByteArrayOutputStream IDENT_0 = METHOD_1 ( ) ; java . io . ByteArrayOutputStream start = METHOD_2 ( ) ; java . io . ByteArrayOutputStream result = new java . io . ByteArrayOutputStream ( INT_0 ) ; byte [ ] IDENT_1 = com . IDENT_2 . util . IDENT_3 . METHOD_3 ( IDENT_0 . toByteArray ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( byte [ ] ) { return com . IDENT_2 . util . IDENT_3 . METHOD_3 ( bytes , 0 , bytes . length ) ; }
+org . junit . Assert . assertArrayEquals ( start . toByteArray ( ) , IDENT_1 ) 

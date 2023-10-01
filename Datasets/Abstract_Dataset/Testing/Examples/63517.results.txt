@@ -1,0 +1,2 @@
+test ( ) { org . osgi . framework . IDENT_0 IDENT_1 = IDENT_2 . context . METHOD_0 ( test . component . IDENT_3 . class . getName ( ) ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertNotNull ( IDENT_1 ) 

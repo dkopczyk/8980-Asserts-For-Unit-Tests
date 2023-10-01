@@ -1,0 +1,2 @@
+METHOD_0 ( org . IDENT_0 . IDENT_1 . IDENT_2 , org . IDENT_0 . IDENT_1 . IDENT_2 , com . google . common . collect . IDENT_3 , com . google . common . collect . IDENT_3 ) { boolean IDENT_1 = IDENT_4 . METHOD_1 ( IDENT_5 ) ; boolean IDENT_6 = IDENT_7 . METHOD_1 ( IDENT_8 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_2 ) { java . util . IDENT_9 . METHOD_2 ( other , STRING_0 ) ; return ( ( start . compareTo ( other . start ) ) <= 0 ) && ( ( other . end . compareTo ( end ) ) <= 0 ) ; }
+org . junit . Assert . assertEquals ( IDENT_6 , IDENT_1 ) 

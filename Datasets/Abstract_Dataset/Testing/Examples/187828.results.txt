@@ -1,0 +1,2 @@
+METHOD_0 ( ) { storage . METHOD_1 ( STRING_0 , STRING_1 , STRING_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String , java . lang . String ) { java . util . Map < java . lang . String , java . lang . String > IDENT_0 = IDENT_1 . get ( user ) ; if ( IDENT_0 == null ) { return null ; } return IDENT_0 . get ( IDENT_2 ) ; }
+org . junit . Assert . assertEquals ( STRING_2 , storage . METHOD_2 ( STRING_0 , STRING_1 ) ) 

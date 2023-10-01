@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { final org . eclipse . core . runtime . IDENT_0 status = gov . IDENT_1 . IDENT_2 . core . plan . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . validate ( IDENT_7 ) ; return status . METHOD_2 ( ) ; }
+org . junit . Assert . assertTrue ( METHOD_1 ( ) ) 

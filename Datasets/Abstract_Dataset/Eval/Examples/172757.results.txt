@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . solr . core . convert . IDENT_0 . IDENT_1 bean = new org . springframework . data . solr . core . convert . IDENT_0 . METHOD_1 ( ) ; bean . IDENT_2 = new java . lang . String [ ] { STRING_0 , STRING_1 } ; org . apache . solr . common . IDENT_3 IDENT_4 = new org . apache . solr . common . METHOD_2 ( ) ; converter . write ( bean , IDENT_4 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return this . parameters . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . isEmpty ( ) ) 

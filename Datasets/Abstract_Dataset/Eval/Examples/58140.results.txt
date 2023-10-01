@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { org . junit . Assert . assertFalse ( org . eclipse . collections . impl . block . factory . IDENT_0 . METHOD_0 ( ) . valueOf ( true ) ) ; }
+org . junit . Assert . assertFalse ( org . eclipse . collections . impl . block . factory . IDENT_0 . METHOD_0 ( ) . valueOf ( true ) ) 

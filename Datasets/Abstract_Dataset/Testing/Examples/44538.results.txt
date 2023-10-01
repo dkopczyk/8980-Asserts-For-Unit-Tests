@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ddf . catalog . data . IDENT_0 IDENT_1 = new ddf . catalog . data . impl . METHOD_1 ( "name" , null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 . IDENT_3 . METHOD_2 ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_1 . METHOD_2 ( ) . isEmpty ( ) ) 

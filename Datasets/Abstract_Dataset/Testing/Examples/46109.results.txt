@@ -1,0 +1,2 @@
+METHOD_0 ( ) { gov . hhs . fha . nhinc . IDENT_0 . IDENT_1 IDENT_2 = mock ( gov . hhs . fha . nhinc . IDENT_0 . IDENT_1 . class ) ; when ( IDENT_2 . METHOD_1 ( any ( javax . xml . ws . IDENT_3 . class ) ) ) . thenReturn ( STRING_0 ) ; gov . hhs . fha . nhinc . event . IDENT_4 helper = new gov . hhs . fha . nhinc . event . METHOD_2 ( ) ; helper . METHOD_3 ( IDENT_2 ) ; java . lang . String IDENT_5 = helper . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return properties . get ( IDENT_6 . IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_5 ) 

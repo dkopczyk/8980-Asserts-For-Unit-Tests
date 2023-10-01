@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = getInstance ( ) ; IDENT_4 . METHOD_1 ( new org . IDENT_0 . METHOD_2 ( STRING_0 , new org . IDENT_0 . METHOD_3 ( STRING_0 , STRING_1 ) , new org . IDENT_0 . METHOD_4 ( STRING_1 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { if ( METHOD_6 ( ) ) { return false ; } try { return METHOD_7 ( ) . METHOD_5 ( METHOD_8 ( ) ) ; } catch ( final org . IDENT_5 . IDENT_6 . IDENT_7 e ) { return false ; } }
+org . junit . Assert . assertFalse ( IDENT_4 . METHOD_5 ( ) ) 

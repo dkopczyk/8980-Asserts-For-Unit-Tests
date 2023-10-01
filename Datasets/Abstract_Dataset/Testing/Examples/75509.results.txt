@@ -1,0 +1,2 @@
+METHOD_0 ( ) { au . gov . IDENT_0 . IDENT_1 . common . util . io . IDENT_2 IDENT_3 = new au . gov . IDENT_0 . IDENT_1 . common . util . io . METHOD_1 ( is ) ; IDENT_3 . METHOD_2 ( INT_0 ) ; float [ ] value = new float [ 1 ] ; IDENT_3 . METHOD_3 ( value ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( float [ ] ) { for ( float f : values ) { if ( java . lang . IDENT_4 . METHOD_4 ( f ) ) { return true ; } } return false ; }
+org . junit . Assert . assertTrue ( java . lang . IDENT_4 . METHOD_4 ( value [ 0 ] ) ) 

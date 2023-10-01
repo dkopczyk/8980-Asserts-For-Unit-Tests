@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( org . eclipse . rap . rwt . widgets . IDENT_1 . IDENT_2 ) ; IDENT_0 . METHOD_2 ( 2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { METHOD_4 ( ) ; int result = - 1 ; if ( IDENT_3 ) { if ( ( IDENT_4 . size ( ) ) != 0 ) { result = IDENT_4 . get ( 0 ) . y ; } } else { if ( ( IDENT_5 . size ( ) ) != 0 ) { result = IDENT_6 . indexOf ( IDENT_5 . get ( 0 ) ) ; } } return result ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_0 . METHOD_3 ( ) ) 

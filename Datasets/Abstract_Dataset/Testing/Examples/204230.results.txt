@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . util . IDENT_1 < java . lang . Integer > IDENT_2 = new com . IDENT_0 . util . METHOD_1 ( 1 ) ; java . util . Optional < java . lang . Integer > IDENT_3 = IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( java . lang . Integer . valueOf ( 1 ) , IDENT_3 . get ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . maven . model . IDENT_0 model = METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { org . IDENT_1 . maven . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new org . IDENT_1 . maven . IDENT_2 . IDENT_3 . METHOD_2 ( ) ; java . io . InputStream input = java . lang . Thread . METHOD_3 ( ) . METHOD_4 ( ) . getResourceAsStream ( IDENT_6 ) ; return IDENT_5 . read ( input , null ) ; }
+org . junit . Assert . assertNotNull ( model ) 

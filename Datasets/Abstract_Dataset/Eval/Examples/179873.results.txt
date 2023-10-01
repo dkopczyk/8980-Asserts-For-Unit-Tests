@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . System . setProperty ( STRING_0 , STRING_1 ) ; for ( java . lang . String IDENT_0 : com . IDENT_1 . IDENT_2 . data . IDENT_3 . IDENT_4 ) { "<AssertPlaceHolder>" ; } } METHOD_1 ( java . lang . String ) { java . lang . String IDENT_5 = com . IDENT_1 . IDENT_2 . data . IDENT_6 . METHOD_2 ( ) ; if ( METHOD_2 != null ) { return METHOD_2 ; } else { return com . IDENT_1 . IDENT_2 . data . IDENT_6 . METHOD_3 ( IDENT_0 ) ; } }
+org . junit . Assert . assertEquals ( STRING_1 , com . IDENT_1 . IDENT_2 . data . IDENT_6 . METHOD_1 ( IDENT_0 ) ) 

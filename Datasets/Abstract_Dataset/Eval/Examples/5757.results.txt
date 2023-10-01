@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . activemq . IDENT_0 . util . IDENT_1 . IDENT_2 data = org . apache . activemq . IDENT_0 . util . IDENT_1 . METHOD_1 ( new java . net . URI ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return components ; }
+org . junit . Assert . assertEquals ( 1 , data . METHOD_2 ( ) . length ) 

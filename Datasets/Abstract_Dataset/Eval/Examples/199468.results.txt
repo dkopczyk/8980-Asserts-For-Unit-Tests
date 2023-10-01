@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object a = new java . lang . Object ( ) ; java . lang . Object b = a ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( a , b ) 

@@ -1,0 +1,2 @@
+iterator ( ) { super . iterator ( ) ; com . gs . collections . api . list . IDENT_0 < java . lang . String > collection = Lists . mutable . of ( ) ; for ( java . lang . String IDENT_1 : this . METHOD_0 ( ) ) { collection . add ( IDENT_1 ) ; } "<AssertPlaceHolder>" ; } METHOD_1 ( IDENT_2 [ ] ) { return new com . gs . collections . impl . list . mutable . IDENT_3 < IDENT_2 > ( elements ) ; }
+org . junit . Assert . assertEquals ( com . gs . collections . impl . list . mutable . IDENT_3 . METHOD_1 ( "1" ) , collection ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . phoenix . schema . tuple . IDENT_0 list = new org . apache . phoenix . schema . tuple . METHOD_1 ( INT_0 , 16 , IDENT_1 ) ; org . apache . hadoop . hbase . IDENT_2 [ ] IDENT_3 = new org . apache . hadoop . hbase . IDENT_2 [ 7 ] ; METHOD_2 ( list , IDENT_3 ) ; for ( int i = 0 ; i < ( IDENT_3 . length ) ; i ++ ) { "<AssertPlaceHolder>" ; } } get ( org . apache . hadoop . hbase . IDENT_2 ) { return this . IDENT_4 . get ( IDENT_5 ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 [ i ] , list . get ( i ) ) 

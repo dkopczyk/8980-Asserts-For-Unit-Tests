@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } get ( ) { if ( null == ( ch . cyberduck . core . IDENT_0 . IDENT_1 . IDENT_2 ) ) { ch . cyberduck . core . IDENT_0 . IDENT_1 . IDENT_2 = new ch . cyberduck . core . IDENT_0 . METHOD_1 ( ) . create ( ) ; ch . cyberduck . core . IDENT_0 . METHOD_1 . IDENT_2 . METHOD_2 ( ) ; } return ch . cyberduck . core . IDENT_0 . METHOD_1 . IDENT_2 ; }
+org . junit . Assert . assertSame ( ch . cyberduck . core . IDENT_0 . METHOD_1 . get ( ) , ch . cyberduck . core . IDENT_0 . METHOD_1 . get ( ) ) 

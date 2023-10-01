@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . source . kafka . hadoop . IDENT_1 IDENT_2 = new org . apache . IDENT_0 . source . kafka . hadoop . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return value ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_2 . METHOD_3 ( ) . getBytes ( ) . length ) 

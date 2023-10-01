@@ -1,0 +1,2 @@
+METHOD_0 ( ) { expect ( IDENT_0 . METHOD_1 ( STRING_0 ) ) . andReturn ( STRING_1 ) ; replay ( IDENT_0 , config ) ; org . apache . IDENT_1 . web . util . IDENT_2 adapter = new org . apache . IDENT_1 . web . util . METHOD_2 ( config ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return IDENT_3 . METHOD_1 ( string ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , adapter . METHOD_1 ( STRING_0 ) ) 

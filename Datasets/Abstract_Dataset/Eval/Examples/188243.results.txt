@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . jboss . IDENT_0 . IDENT_1 headers = converter . METHOD_1 ( ctx , STRING_0 ) ; final org . jboss . IDENT_0 . IDENT_1 expected = new org . jboss . IDENT_0 . METHOD_2 ( ) ; expected . get ( STRING_1 ) . set ( STRING_2 ) ; expected . get ( STRING_3 ) . set ( STRING_4 ) ; "<AssertPlaceHolder>" ; } set ( org . wildfly . core . IDENT_2 . IDENT_3 ) { if ( IDENT_4 != null ) { map . put ( IDENT_4 . getKey ( ) , java . util . Collections . METHOD_3 ( IDENT_4 ) ) ; } }
+org . junit . Assert . assertEquals ( expected , headers ) 

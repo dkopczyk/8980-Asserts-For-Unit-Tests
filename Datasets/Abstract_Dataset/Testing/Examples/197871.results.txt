@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 filter = com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; boolean IDENT_4 = filter . METHOD_2 ( new com . IDENT_0 . IDENT_1 . IDENT_5 . METHOD_3 ( null , null ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( METHOD_2 ) 

@@ -1,0 +1,2 @@
+test ( ) { fr . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_3 = new fr . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_0 ( STRING_0 ) ; fr . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . resource . IDENT_5 IDENT_6 = IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertFalse ( IDENT_6 . METHOD_2 ( ) . isEmpty ( ) ) 

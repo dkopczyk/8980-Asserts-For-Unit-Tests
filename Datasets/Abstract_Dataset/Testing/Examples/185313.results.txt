@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; com . vaadin . IDENT_0 . elements . IDENT_1 table = METHOD_2 ( com . vaadin . IDENT_0 . elements . IDENT_1 . class ) . get ( 0 ) ; table . METHOD_3 ( com . vaadin . tests . elements . table . IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( org . openqa . selenium . IDENT_4 ) { java . lang . Long IDENT_5 = ( ( java . lang . Long ) ( METHOD_5 ( STRING_0 , IDENT_6 ) ) ) ; return IDENT_5 . METHOD_6 ( ) ; }
+org . junit . Assert . assertEquals ( com . vaadin . tests . elements . table . IDENT_2 . IDENT_3 , METHOD_4 ( table ) ) 

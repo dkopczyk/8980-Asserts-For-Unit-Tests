@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . conf . Configuration conf = new org . apache . hadoop . conf . Configuration ( false ) ; conf . set ( "a" , STRING_0 ) ; conf . set ( "b" , STRING_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_0 . size ( ) ; }
+org . junit . Assert . assertEquals ( 2 , conf . size ( ) ) 

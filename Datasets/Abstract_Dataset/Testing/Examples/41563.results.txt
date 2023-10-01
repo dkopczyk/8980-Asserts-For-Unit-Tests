@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; IDENT_0 . IDENT_1 obj = pool . METHOD_2 ( IDENT_0 . IDENT_2 . IDENT_3 ) ; java . util . concurrent . atomic . IDENT_4 result = new java . util . concurrent . atomic . METHOD_3 ( false ) ; IDENT_0 . IDENT_5 IDENT_6 = pool . METHOD_4 ( ) ; java . lang . Thread IDENT_7 = METHOD_5 ( METHOD_6 ( IDENT_6 , IDENT_0 . IDENT_2 . IDENT_3 , result ) ) ; METHOD_7 ( IDENT_7 , Thread . IDENT_8 . IDENT_9 ) ; obj . METHOD_8 ( ) ; join ( IDENT_7 ) ; "<AssertPlaceHolder>" ; } get ( ) { return state ; }
+org . junit . Assert . assertTrue ( result . get ( ) ) 

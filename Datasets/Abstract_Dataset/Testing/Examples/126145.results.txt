@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { tools . METHOD_1 ( IDENT_0 , IDENT_1 ) ; } catch ( java . lang . Exception e ) { "<AssertPlaceHolder>" ; } } METHOD_1 ( javax . jcr . Node , java . lang . String ) { return METHOD_1 ( parent , name , null ) ; }
+org . junit . Assert . assertTrue ( ( e instanceof java . lang . IllegalArgumentException ) ) 

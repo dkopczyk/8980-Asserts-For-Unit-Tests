@@ -1,0 +1,2 @@
+getName ( ) { final com . IDENT_0 . client . IDENT_1 . IDENT_2 . dto . IDENT_3 IDENT_4 = new com . IDENT_0 . client . IDENT_1 . IDENT_2 . dto . METHOD_0 ( "test" , new com . IDENT_0 . client . IDENT_1 . IDENT_2 . dto . METHOD_1 ( INT_0 ) ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( "test" , IDENT_4 . getName ( ) ) 

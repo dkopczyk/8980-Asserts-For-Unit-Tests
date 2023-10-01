@@ -1,0 +1,2 @@
+test ( ) { org . evosuite . IDENT_0 . IDENT_1 . IDENT_2 c = new org . evosuite . IDENT_0 . IDENT_1 . METHOD_0 ( "test" ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( c ) 

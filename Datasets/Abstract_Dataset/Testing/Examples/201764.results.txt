@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . service . IDENT_1 IDENT_2 = new org . IDENT_0 . service . METHOD_1 ( "test" , STRING_0 ) ; org . IDENT_0 . service . METHOD_1 IDENT_3 = new org . IDENT_0 . service . METHOD_1 ( "test" , STRING_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_2 . hashCode ( ) ) == ( IDENT_3 . hashCode ( ) ) ) ) 

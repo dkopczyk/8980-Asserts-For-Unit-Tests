@@ -1,0 +1,2 @@
+METHOD_0 ( ) { this . IDENT_0 . METHOD_1 ( "" ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( IDENT_1 ) != ( org . teiid . IDENT_2 . IDENT_3 . IDENT_4 . http . IDENT_5 . IDENT_6 ) ) return null ; return ( ( org . teiid . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_7 ) ( IDENT_8 ) ) ; }
+org . junit . Assert . assertThat ( this . IDENT_0 . METHOD_2 ( ) , org . hamcrest . core . Is . is ( "" ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { METHOD_1 ( STRING_0 ) ; } catch ( com . IDENT_0 . ex . IDENT_1 e ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( ) { return com . IDENT_0 . parser . sql . IDENT_2 . INSTANCE . IDENT_3 . get ( ) . position ; }
+org . junit . Assert . assertEquals ( 50 , com . IDENT_0 . parser . sql . IDENT_2 . METHOD_2 ( ) ) 

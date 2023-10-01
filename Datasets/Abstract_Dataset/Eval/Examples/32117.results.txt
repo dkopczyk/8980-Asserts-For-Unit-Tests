@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 path = IDENT_4 . getPath ( STRING_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { if ( ( IDENT_5 ) == null ) IDENT_5 = decode ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_6 , path ) ; return IDENT_5 ; }
+org . junit . Assert . assertEquals ( STRING_0 , path . toString ( ) ) 

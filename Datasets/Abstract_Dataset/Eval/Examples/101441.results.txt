@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { java . lang . System . METHOD_1 ( ) . put ( IDENT_0 . IDENT_1 , STRING_0 ) ; org . drools . compiler . builder . impl . IDENT_2 IDENT_3 = new org . drools . compiler . builder . impl . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } finally { java . lang . System . METHOD_1 ( ) . remove ( IDENT_0 . IDENT_1 ) ; } } METHOD_3 ( ) { return IDENT_4 . METHOD_3 ( ) ; }
+org . junit . Assert . assertThat ( IDENT_3 . METHOD_3 ( ) , org . hamcrest . CoreMatchers . is ( ( - 1 ) ) ) 

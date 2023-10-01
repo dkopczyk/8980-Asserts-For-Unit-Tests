@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String key = STRING_0 ; java . lang . String value = STRING_1 ; java . lang . String IDENT_0 = org . apache . IDENT_1 . core . api . config . IDENT_2 . METHOD_1 ( key ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return org . apache . IDENT_1 . core . api . config . IDENT_2 . METHOD_2 ( ) . METHOD_3 ( ) . resolve ( key ) . METHOD_4 ( true ) . METHOD_5 ( false ) . getValue ( ) ; }
+org . junit . Assert . assertEquals ( value , IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . IDENT_0 . ca . provider . IDENT_1 IDENT_2 = new org . apache . IDENT_0 . ca . provider . METHOD_1 ( IDENT_3 , false , true , IDENT_4 , IDENT_5 , IDENT_6 ) ; IDENT_2 . METHOD_2 ( null , null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return null ; }
+org . junit . Assert . assertNull ( IDENT_2 . METHOD_3 ( ) ) 

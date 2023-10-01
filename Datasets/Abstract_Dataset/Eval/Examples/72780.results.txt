@@ -1,0 +1,2 @@
+test ( ) { boolean actual = a . equals ( b ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { if ( other instanceof com . IDENT_0 . IDENT_1 . repository . IDENT_2 ) { return ( compareTo ( ( ( com . IDENT_0 . IDENT_1 . repository . IDENT_2 ) ( other ) ) ) ) == 0 ; } return false ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . IDENT_1 . IDENT_2 param = new net . IDENT_0 . IDENT_1 . IDENT_3 . METHOD_1 ( ) . METHOD_2 ( FLOAT_0 ) . METHOD_3 ( IDENT_4 . IDENT_5 ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return METHOD_3 ; }
+org . junit . Assert . assertEquals ( IDENT_4 . IDENT_5 , param . METHOD_4 ( ) ) 

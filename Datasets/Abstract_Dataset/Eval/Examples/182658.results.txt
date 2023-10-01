@@ -1,0 +1,2 @@
+METHOD_0 ( ) { me . IDENT_0 . model . IDENT_1 . User IDENT_2 = new me . IDENT_0 . model . IDENT_1 . User ( STRING_0 , "test" ) ; me . IDENT_0 . model . IDENT_1 . User IDENT_3 = new me . IDENT_0 . model . IDENT_1 . User ( STRING_1 , "test" ) ; IDENT_4 . save ( IDENT_2 ) ; IDENT_4 . save ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return dao . METHOD_1 ( ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_4 . METHOD_1 ( ) . size ( ) ) 

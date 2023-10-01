@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . String > map = net . IDENT_0 . core . errors . IDENT_1 . IDENT_2 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . map . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , map . size ( ) ) 

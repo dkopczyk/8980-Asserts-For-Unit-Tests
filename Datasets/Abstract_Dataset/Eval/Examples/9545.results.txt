@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( bean , STRING_0 , 1 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { return IDENT_1 [ index ] ; }
+org . junit . Assert . assertEquals ( STRING_1 , bean . METHOD_2 ( 1 ) ) 

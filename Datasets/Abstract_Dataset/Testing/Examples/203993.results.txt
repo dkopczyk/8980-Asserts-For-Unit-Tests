@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = org . apache . commons . lang3 . IDENT_1 . METHOD_1 ( 8 ) ; com . github . IDENT_2 . common . IDENT_3 . InputStream IDENT_4 = new com . github . IDENT_2 . common . IDENT_3 . ByteArrayInputStream ( IDENT_0 . getBytes ( ) ) ; java . lang . String text = org . apache . commons . io . IDENT_5 . toString ( IDENT_4 , IDENT_6 . UTF_8 . name ( ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( text , org . hamcrest . Matchers . equalTo ( IDENT_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] d = new byte [ ] { } ; byte [ ] expected = new byte [ ] { } ; byte [ ] actual = org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( d ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( byte [ ] ) { if ( ( data == null ) || ( ( data . length ) == 0 ) ) { return data ; } byte [ ] r = new byte [ data . length ] ; for ( int i = 0 ; i < ( data . length ) ; i ++ ) { r [ i ] = data [ ( ( ( data . length ) - 1 ) - i ) ] ; } return r ; }
+org . junit . Assert . assertArrayEquals ( expected , actual ) 

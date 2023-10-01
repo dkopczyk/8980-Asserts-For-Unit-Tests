@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( this . manager . METHOD_0 ( STRING_0 ) ) . thenReturn ( this . manager ) ; org . IDENT_0 . manager . IDENT_1 result = this . subject . METHOD_0 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String [ ] ) { super . METHOD_0 ( IDENT_2 ) ; return this ; }
+org . junit . Assert . assertSame ( this . subject , result ) 

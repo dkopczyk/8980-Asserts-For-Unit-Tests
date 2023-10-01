@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . ResultSet rs = IDENT_0 . METHOD_1 ( STRING_0 ) ; java . lang . String IDENT_1 = "" + ( ( ( ( ( ( ( ( ( STRING_1 + STRING_2 0 ) + STRING_3 ) + STRING_2 1 ) + STRING_4 ) + STRING_2 ) + STRING_5 ) + STRING_6 ) + STRING_7 ) + STRING_8 ) ; "<AssertPlaceHolder>" ; } toString ( com . splicemachine . IDENT_2 . ResultSet ) { return com . splicemachine . IDENT_2 . TestUtils . IDENT_3 . IDENT_4 . convert ( "" , rs ) . toString ( ) . trim ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , TestUtils . IDENT_3 . IDENT_4 . toString ( rs ) ) 

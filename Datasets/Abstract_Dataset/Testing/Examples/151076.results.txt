@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . Integer , java . lang . Integer > IDENT_0 = IDENT_1 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { int IDENT_0 = IDENT_1 . METHOD_1 ( ) ; org . junit . Assert . assertTrue ( ( IDENT_0 == 2 ) ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_0 . size ( ) ) == 1 ) ) 

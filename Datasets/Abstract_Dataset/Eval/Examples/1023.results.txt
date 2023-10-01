@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . commons . data . IDENT_2 instance = new com . IDENT_0 . IDENT_1 . commons . data . METHOD_1 ( new java . io . ByteArrayInputStream ( com . IDENT_0 . IDENT_1 . commons . data . IDENT_3 . IDENT_4 . toByteArray ( ) ) ) . METHOD_2 ( ) ; java . lang . String expResult = STRING_0 ; java . lang . String result = instance . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

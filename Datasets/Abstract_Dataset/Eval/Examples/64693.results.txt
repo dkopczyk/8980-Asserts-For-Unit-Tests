@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . elements . IDENT_1 . IDENT_2 . IDENT_3 . set ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getText ( ) { return element . getText ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , org . IDENT_0 . elements . IDENT_1 . IDENT_2 . IDENT_3 . getText ( ) ) 

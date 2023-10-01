@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . json . JSONObject json = new org . json . JSONObject ( ) ; org . json . JSONObject data = new org . json . JSONObject ( ) ; data . put ( STRING_0 , STRING_1 ) ; json . put ( IDENT_0 . IDENT_1 , data ) ; org . IDENT_2 . data . IDENT_3 < org . IDENT_2 . data . IDENT_4 > result = this . component . METHOD_1 ( json ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . json . JSONObject ) { return null ; }
+org . junit . Assert . assertNull ( result ) 

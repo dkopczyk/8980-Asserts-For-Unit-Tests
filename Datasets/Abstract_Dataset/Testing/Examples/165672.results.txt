@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( java . sql . IDENT_0 IDENT_1 : IDENT_2 . values ( ) ) { IDENT_1 . METHOD_1 ( sql ) ; "<AssertPlaceHolder>" ; } } METHOD_2 ( ) { return METHOD_3 ( ) . isEmpty ( ) ? - 1 : METHOD_3 ( ) . iterator ( ) . next ( ) . METHOD_2 ( ) ; }
+org . junit . Assert . assertThat ( IDENT_1 . METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( 0 ) ) 

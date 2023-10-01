@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . entities . IDENT_1 IDENT_2 = new net . IDENT_0 . entities . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( new net . IDENT_0 . entities . User ( ) ) ; IDENT_2 . METHOD_3 ( new net . IDENT_0 . entities . User ( ) ) ; IDENT_2 . METHOD_4 ( STRING_0 ) ; IDENT_2 . METHOD_5 ( STRING_1 ) ; IDENT_2 . METHOD_6 ( null ) ; service . METHOD_7 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_8 ( ) { return this . date ; }
+org . junit . Assert . assertNotNull ( IDENT_2 . METHOD_8 ( ) ) 

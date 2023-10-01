@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . junit . rules . IDENT_0 . IDENT_1 [ 0 ] = IDENT_2 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . io . File file = new java . io . File ( METHOD_2 ( ) , IDENT_3 ) ; if ( ! ( file . METHOD_3 ( ) ) ) { throw new java . io . IOException ( ( ( STRING_1 + IDENT_3 ) + STRING_2 ) ) ; } return file ; }
+org . junit . Assert . assertTrue ( org . junit . rules . IDENT_0 . IDENT_1 [ 0 ] . exists ( ) ) 

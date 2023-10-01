@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; com . IDENT_1 . tools . IDENT_2 . internal . impl . IDENT_3 command = new com . IDENT_1 . tools . IDENT_2 . internal . impl . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( operation ) != null ; }
+org . junit . Assert . assertFalse ( command . METHOD_2 ( ) ) 

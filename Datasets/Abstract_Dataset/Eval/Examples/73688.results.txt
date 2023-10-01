@@ -1,0 +1,2 @@
+size ( ) { "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_0 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , this . path . size ( ) ) 

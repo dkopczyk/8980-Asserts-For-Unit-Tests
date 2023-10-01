@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . IDENT_0 . api . datastore . IDENT_1 IDENT_2 = METHOD_1 ( STRING_0 ) ; METHOD_2 ( STRING_1 , IDENT_2 ) . METHOD_3 ( STRING_2 , null ) . store ( ) ; com . google . IDENT_0 . api . datastore . Entity entity = service . METHOD_4 ( new com . google . IDENT_0 . api . datastore . Query ( STRING_1 ) . METHOD_5 ( IDENT_2 ) ) . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; } store ( ) { service . put ( entity ) ; return entity ; }
+org . junit . Assert . assertNull ( entity . getProperty ( STRING_2 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . buffer . IDENT_1 ac = new org . IDENT_0 . buffer . METHOD_1 ( java . nio . IDENT_2 . METHOD_2 ( new short [ ] { 3 } ) , 1 ) ; org . IDENT_0 . buffer . IDENT_3 IDENT_4 = org . IDENT_0 . buffer . IDENT_5 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( org . IDENT_0 . IDENT_6 . IDENT_7 . IDENT_8 ) { throw new java . lang . METHOD_5 ( STRING_0 ) ; }
+org . junit . Assert . assertEquals ( new org . IDENT_0 . buffer . METHOD_1 ( ) , ac . METHOD_4 ( IDENT_4 ) ) 

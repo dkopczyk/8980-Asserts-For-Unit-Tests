@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . swt . IDENT_0 . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( IDENT_4 . IDENT_5 ) ; com . eclipsesource . IDENT_6 . IDENT_7 . internal . IDENT_8 . IDENT_9 IDENT_8 = new com . eclipsesource . IDENT_6 . IDENT_7 . internal . IDENT_8 . METHOD_2 ( IDENT_2 ) ; org . eclipse . swt . IDENT_0 . IDENT_1 IDENT_10 = IDENT_8 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertSame ( IDENT_2 , IDENT_10 ) 

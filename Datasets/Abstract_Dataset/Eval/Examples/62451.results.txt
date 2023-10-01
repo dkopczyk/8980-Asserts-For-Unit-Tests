@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . IDENT_1 a = IDENT_0 . METHOD_1 ( STRING_0 ) ; boolean [ ] result = new boolean [ 4 ] ; int size = a . METHOD_2 ( 0 , 4 , result ) ; "<AssertPlaceHolder>" ; a . close ( ) ; } METHOD_1 ( java . lang . String ) { return METHOD_1 ( script , null , 0 ) ; }
+org . junit . Assert . assertEquals ( 4 , size ) 

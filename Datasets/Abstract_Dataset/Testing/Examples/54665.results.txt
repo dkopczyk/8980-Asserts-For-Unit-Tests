@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . replace ( 2 , 4 , STRING_0 ) ; final java . lang . StringBuilder IDENT_1 = new java . lang . StringBuilder ( IDENT_2 ) ; IDENT_1 . replace ( 2 , 4 , STRING_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return java . lang . String . format ( STRING_1 , ( ( source ) != null ? source . METHOD_1 ( ) : STRING_2 ) , message ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 . toString ( ) , IDENT_0 . get ( ) ) 

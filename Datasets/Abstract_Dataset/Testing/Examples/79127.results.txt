@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( true ) ; METHOD_2 ( ) . METHOD_3 ( IDENT_0 , buf ) ; "<AssertPlaceHolder>" ; } toString ( ) { return STRING_0 + ( this . IDENT_1 ) ; }
+org . junit . Assert . assertEquals ( buf . toString ( ) , "" ) 

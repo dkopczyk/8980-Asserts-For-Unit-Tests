@@ -1,0 +1,2 @@
+getId ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return alluxio . IDENT_0 . file . meta . IDENT_1 . create ( 1 , 0 , STRING_0 , alluxio . IDENT_0 . file . IDENT_2 . IDENT_3 . METHOD_1 ( alluxio . grpc . IDENT_4 . METHOD_2 ( ) . METHOD_3 ( alluxio . IDENT_0 . file . meta . IDENT_5 . IDENT_6 . METHOD_4 ( ) ) ) . METHOD_5 ( alluxio . IDENT_0 . file . meta . IDENT_5 . IDENT_7 ) . METHOD_6 ( alluxio . IDENT_0 . file . meta . IDENT_5 . IDENT_8 ) ) ; }
+org . junit . Assert . assertEquals ( 1 , METHOD_0 ( ) . getId ( ) ) 

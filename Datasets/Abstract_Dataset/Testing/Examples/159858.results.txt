@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 IDENT_7 = org . oscarehr . IDENT_8 . model . IDENT_9 . body . IDENT_10 . IDENT_11 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return new org . oscarehr . IDENT_8 . model . IDENT_9 . template . IDENT_12 . METHOD_2 ( ) . METHOD_3 ( IDENT_13 . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_7 ) 

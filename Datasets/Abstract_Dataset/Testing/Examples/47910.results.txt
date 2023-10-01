@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( IDENT_1 . IDENT_2 ) ; service . METHOD_2 ( IDENT_0 ) ; com . IDENT_3 . IDENT_4 . redis . IDENT_5 . model . IDENT_6 route = null ; for ( com . IDENT_3 . IDENT_4 . redis . IDENT_5 . model . IDENT_6 IDENT_7 : service . METHOD_3 ( ) ) { if ( ( IDENT_7 . getId ( ) ) == ( IDENT_0 . getId ( ) ) ) { route = IDENT_7 ; break ; } } "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertEquals ( IDENT_1 . IDENT_2 , route . METHOD_4 ( ) ) 

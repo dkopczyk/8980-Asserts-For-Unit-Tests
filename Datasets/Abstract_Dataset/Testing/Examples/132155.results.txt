@@ -1,0 +1,2 @@
+size ( ) { "<AssertPlaceHolder>" ; } size ( ) { return values . size ( ) ; }
+org . junit . Assert . assertEquals ( 2 , values . size ( ) ) 

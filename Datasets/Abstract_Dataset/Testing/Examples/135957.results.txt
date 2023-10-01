@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return org . opendaylight . protocol . IDENT_0 . parser . impl . message . update . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . as . IDENT_5 . IDENT_6 . IDENT_7 ; }
+org . junit . Assert . assertEquals ( 2 , this . parser . METHOD_1 ( ) ) 

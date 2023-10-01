@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . querydsl . core . types . Path < java . lang . String > path = IDENT_0 . METHOD_0 ( metadata ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( com . querydsl . core . types . IDENT_1 ) { return com . querydsl . core . types . IDENT_2 . IDENT_3 . METHOD_1 ( metadata ) ; }
+org . junit . Assert . assertNotNull ( path ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Properties properties = new java . util . Properties ( ) ; properties . setProperty ( STRING_0 , STRING_1 ) ; properties . setProperty ( STRING_2 , ( "" + ( com . sun . mail . util . IDENT_0 . IDENT_1 ) ) ) ; com . sun . mail . test . IDENT_2 sf = new com . sun . mail . test . METHOD_1 ( ) ; properties . put ( STRING_3 , sf ) ; properties . setProperty ( STRING_4 , STRING_5 ) ; test ( properties , false ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_3 ; }
+org . junit . Assert . assertTrue ( sf . METHOD_2 ( ) ) 

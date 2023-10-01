@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . kaazing . IDENT_0 . transport . nio . internal . IDENT_1 . IDENT_2 factory = org . kaazing . IDENT_0 . transport . nio . internal . IDENT_1 . IDENT_2 . newInstance ( new org . kaazing . IDENT_0 . transport . nio . internal . IDENT_3 . METHOD_1 ( ) ) ; java . util . List < org . kaazing . IDENT_0 . transport . nio . IDENT_4 > IDENT_5 = factory . METHOD_2 ( address ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( IDENT_6 . isEmpty ( ) ) && ( IDENT_7 . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_5 . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . append ( new byte [ 0 ] ) ; byte [ ] content = IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( IDENT_1 ) != null ) { return IDENT_1 . METHOD_1 ( ) ; } return null ; }
+org . junit . Assert . assertEquals ( 0 , content . length ) 

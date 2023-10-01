@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . business . domain . IDENT_1 order = new org . IDENT_0 . business . domain . METHOD_1 ( ) ; java . lang . Integer IDENT_2 = IDENT_3 . METHOD_0 ( order ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( org . IDENT_0 . business . domain . METHOD_1 ) { return order . METHOD_2 ( ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_2 != null ) ) 

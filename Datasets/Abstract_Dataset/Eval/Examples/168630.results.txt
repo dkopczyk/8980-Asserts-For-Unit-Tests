@@ -1,0 +1,2 @@
+debug ( ) { java . lang . String IDENT_0 = java . util . UUID . METHOD_0 ( ) . toString ( ) ; METHOD_1 ( ) ; org . IDENT_1 . plugins . IDENT_2 . tests . IDENT_3 . logger . debug ( IDENT_0 ) ; java . lang . String output = METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } contains ( java . lang . String ) { java . lang . Object object = METHOD_3 ( IDENT_4 , true , METHOD_4 ( ) , true ) ; if ( object == ( METHOD_4 ( ) ) ) { return false ; } else { return true ; } }
+org . junit . Assert . assertFalse ( output . contains ( IDENT_0 ) ) 

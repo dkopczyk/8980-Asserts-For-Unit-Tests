@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( view ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . IDENT_1 . client . workbench . IDENT_2 . IDENT_3 ) { IDENT_4 = view ; }
+org . junit . Assert . assertEquals ( view , IDENT_0 . IDENT_4 ) 

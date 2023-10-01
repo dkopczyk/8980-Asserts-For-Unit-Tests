@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . io . File file = org . mockito . Mockito . mock ( java . io . File . class ) ; org . mockito . Mockito . when ( file . length ( ) ) . thenReturn ( INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . io . File , java . lang . Class , java . lang . reflect . Type , java . lang . annotation . IDENT_0 [ ] , javax . ws . rs . core . IDENT_1 ) { return file . length ( ) ; }
+org . junit . Assert . assertEquals ( INT_0 , subject . METHOD_1 ( file , java . io . File . class , null , null , null ) ) 

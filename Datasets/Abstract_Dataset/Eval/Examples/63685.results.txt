@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . xtext . IDENT_0 . impl . IDENT_1 node = METHOD_1 ( ) ; org . eclipse . xtext . IDENT_0 . IDENT_2 IDENT_3 = builder . METHOD_2 ( STRING_0 ) ; org . eclipse . xtext . IDENT_0 . IDENT_2 parent = builder . METHOD_3 ( null , 0 , IDENT_3 ) ; builder . METHOD_4 ( parent , node ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return delegate . METHOD_5 ( ) ; }
+org . junit . Assert . assertSame ( IDENT_3 , node . METHOD_5 ( ) ) 

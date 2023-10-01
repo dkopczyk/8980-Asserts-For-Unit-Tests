@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . lang . String [ ] IDENT_1 = new java . lang . String [ ] { IDENT_2 } ; return new com . IDENT_3 . elasticsearch . plugins . http . auth . METHOD_2 ( IDENT_1 ) ; }
+org . junit . Assert . assertFalse ( METHOD_1 ( IDENT_0 ) . contains ( IDENT_0 ) ) 

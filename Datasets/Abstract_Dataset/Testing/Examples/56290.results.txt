@@ -1,0 +1,2 @@
+METHOD_0 ( ) { uk . gov . IDENT_0 . IDENT_1 . testing . IDENT_2 . IDENT_3 IDENT_4 = new uk . gov . IDENT_0 . IDENT_1 . testing . IDENT_2 . METHOD_1 ( ) ; javax . servlet . http . IDENT_5 response = IDENT_4 . METHOD_2 ( servlet ) ; "<AssertPlaceHolder>" ; verify ( servlet ) . service ( IDENT_4 . METHOD_3 ( ) , IDENT_4 . METHOD_4 ( ) ) ; } METHOD_2 ( javax . servlet . http . IDENT_6 ) { return METHOD_5 ( STRING_0 , servlet ) ; }
+org . junit . Assert . assertNotNull ( response ) 

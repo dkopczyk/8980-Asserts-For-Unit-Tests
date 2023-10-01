@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . flink . runtime . IDENT_0 . IDENT_1 IDENT_2 = org . apache . flink . runtime . IDENT_0 . IDENT_1 . METHOD_1 ( new org . apache . flink . runtime . rest . handler . IDENT_3 . utils . METHOD_2 ( ) . METHOD_3 ( new org . apache . flink . api . common . METHOD_4 ( ) ) . METHOD_5 ( IDENT_4 . IDENT_5 ) . build ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return ( IDENT_6 ) == null ; }
+org . junit . Assert . assertThat ( IDENT_2 . METHOD_6 ( ) , org . hamcrest . Matchers . is ( false ) ) 

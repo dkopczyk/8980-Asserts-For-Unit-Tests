@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ddf . catalog . source . solr . provider . IDENT_0 . METHOD_1 ( ddf . catalog . source . solr . provider . IDENT_1 . provider ) ; ddf . catalog . operation . IDENT_2 response = ddf . catalog . source . solr . provider . IDENT_1 . provider . update ( new ddf . catalog . operation . impl . METHOD_2 ( new java . util . ArrayList ( ) , ddf . catalog . data . IDENT_3 . IDENT_4 , null ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( 0 , response . METHOD_3 ( ) . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . github . IDENT_0 . test . IDENT_1 > IDENT_2 = new com . github . IDENT_0 . test . METHOD_1 ( ) . METHOD_2 ( STRING_0 , param ( 50 ) ) ; "<AssertPlaceHolder>" ; } size ( ) { int size = 0 ; for ( com . github . IDENT_0 . IDENT_3 . IDENT_4 . utils . IDENT_5 < IDENT_6 , IDENT_7 > . IDENT_8 IDENT_9 : this . IDENT_10 ) { size += IDENT_9 . METHOD_3 ( ) ; } return size ; }
+org . junit . Assert . assertEquals ( 50 , IDENT_2 . size ( ) ) 

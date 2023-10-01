@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( org . finra . IDENT_1 . IDENT_2 . IDENT_3 . element . html . IDENT_4 . url ) ; org . finra . IDENT_1 . IDENT_2 . IDENT_3 . element . html . IDENT_5 in = new org . finra . IDENT_1 . IDENT_2 . IDENT_3 . element . html . METHOD_2 ( IDENT_6 ) ; in . setValue ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getValue ( ) { throw new java . lang . METHOD_3 ( STRING_1 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , in . getValue ( ) ) 

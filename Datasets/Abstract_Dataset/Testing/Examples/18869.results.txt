@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jackrabbit . oak . plugins . document . util . IDENT_0 t = IDENT_1 . METHOD_0 ( 2 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( long ) { return new org . apache . jackrabbit . oak . plugins . document . util . METHOD_1 ( IDENT_2 , ( ( IDENT_2 ) + IDENT_3 ) ) ; }
+org . junit . Assert . assertEquals ( t , new org . apache . jackrabbit . oak . plugins . document . util . METHOD_1 ( start , ( ( start ) + 2 ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . persistence . beans . IDENT_1 report = IDENT_2 . find ( 1L ) ; "<AssertPlaceHolder>" ; java . lang . String name = report . getName ( ) ; report = new org . IDENT_0 . core . persistence . beans . METHOD_1 ( ) ; report . setName ( name ) ; IDENT_2 . save ( report ) ; IDENT_2 . METHOD_2 ( ) ; } find ( java . lang . Long ) { return IDENT_3 . find ( org . IDENT_0 . core . persistence . beans . METHOD_1 . class , id ) ; }
+org . junit . Assert . assertNotNull ( report ) 

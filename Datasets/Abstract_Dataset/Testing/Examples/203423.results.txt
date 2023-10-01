@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . io . InputStream s = getClass ( ) . getResourceAsStream ( IDENT_0 ) ; "<AssertPlaceHolder>" ; java . io . IDENT_1 IDENT_2 = new java . io . METHOD_1 ( s ) ; java . io . IDENT_3 IDENT_4 = new java . io . METHOD_2 ( IDENT_2 ) ; java . lang . String line ; try { while ( ( line = IDENT_4 . METHOD_3 ( ) ) != null ) { System . out . println ( line ) ; } } finally { IDENT_4 . close ( ) ; } }
+org . junit . Assert . assertNotNull ( s ) 

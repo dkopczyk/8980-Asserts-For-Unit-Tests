@@ -1,0 +1,2 @@
+METHOD_0 ( ) { driver . get ( IDENT_0 . IDENT_1 ) ; boolean value = ( ( java . lang . Boolean ) ( METHOD_1 ( STRING_0 , 1 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . lang . Object [ ] ) { return null ; }
+org . junit . Assert . assertTrue ( value ) 

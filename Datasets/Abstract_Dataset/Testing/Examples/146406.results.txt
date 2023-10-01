@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . platform . config . IDENT_0 xml = new org . pentaho . platform . config . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . pentaho . platform . plugin . services . IDENT_1 . IDENT_2 . METHOD_2 ( this ) ; }
+org . junit . Assert . assertNotNull ( xml . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . driver . v1 . IDENT_0 IDENT_0 = org . neo4j . jdbc . IDENT_1 . data . IDENT_2 . METHOD_1 ( IDENT_2 . IDENT_3 , IDENT_2 . IDENT_4 ) ; java . sql . ResultSet IDENT_5 = org . neo4j . jdbc . IDENT_1 . IDENT_6 . newInstance ( false , null , IDENT_0 ) ; "<AssertPlaceHolder>" ; } next ( ) { boolean result = METHOD_2 ( ) ; if ( result ) { ( IDENT_7 ) ++ ; } return result ; }
+org . junit . Assert . assertFalse ( IDENT_5 . next ( ) ) 

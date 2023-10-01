@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = METHOD_1 ( ) ; METHOD_2 ( IDENT_0 ) ; METHOD_3 ( com . liferay . IDENT_1 . IDENT_2 . test . IDENT_3 , IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return com . liferay . portal . test . mail . IDENT_4 . IDENT_5 . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( 1 , com . liferay . portal . test . mail . IDENT_4 . METHOD_4 ( ) ) 

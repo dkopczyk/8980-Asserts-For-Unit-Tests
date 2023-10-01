@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . jboss . IDENT_0 . IDENT_1 value = new org . jboss . IDENT_0 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { final byte [ ] bytes = new byte [ 4 ] ; bytes [ 0 ] = ( ( byte ) ( ( value ) > > > INT_0 ) ) ; bytes [ 1 ] = ( ( byte ) ( ( value ) > > > 16 ) ) ; bytes [ 2 ] = ( ( byte ) ( ( value ) > > > 8 ) ) ; bytes [ 3 ] = ( ( byte ) ( value ) ) ; return bytes ; }
+org . junit . Assert . assertEquals ( STRING_0 , new java . lang . String ( value . METHOD_2 ( ) ) ) 

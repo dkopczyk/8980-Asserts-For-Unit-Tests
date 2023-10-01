@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . IDENT_0 . IDENT_1 . internal . IDENT_2 . IDENT_3 IDENT_4 = new nl . IDENT_0 . IDENT_1 . internal . IDENT_2 . METHOD_1 ( ) ; nl . IDENT_0 . IDENT_1 . internal . IDENT_2 . IDENT_5 IDENT_6 = METHOD_2 ( IDENT_4 , nl . IDENT_0 . IDENT_1 . internal . IDENT_2 . IDENT_7 . IDENT_8 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_4 ( ) . METHOD_5 ( ) ; }
+org . junit . Assert . assertFalse ( IDENT_6 . METHOD_3 ( ) ) 

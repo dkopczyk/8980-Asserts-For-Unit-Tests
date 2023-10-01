@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . liferay . IDENT_0 . kernel . model . IDENT_1 IDENT_2 = METHOD_1 ( ) ; com . liferay . IDENT_0 . kernel . model . IDENT_1 IDENT_3 = IDENT_4 . METHOD_2 ( IDENT_2 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_2 ) 

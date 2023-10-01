@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] values = new byte [ ] { 0 , 1 , 50 , INT_0 , - INT_1 } ; for ( byte in : values ) { byte out = org . IDENT_0 . IDENT_1 . codec . IDENT_2 . METHOD_1 ( new org . IDENT_0 . IDENT_1 . codec . METHOD_2 ( in ) ) . getValue ( ) . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } } METHOD_1 ( T extends org . IDENT_0 . IDENT_1 . codec . IDENT_3 ) { return org . IDENT_0 . IDENT_1 . codec . IDENT_2 . METHOD_1 ( value , true ) ; }
+org . junit . Assert . assertEquals ( in , out ) 

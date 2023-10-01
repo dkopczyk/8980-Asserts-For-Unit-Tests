@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 g = net . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_5 . METHOD_1 ( ) . get ( net . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { IDENT_6 . METHOD_2 ( ) ; }
+org . junit . Assert . assertNotNull ( g . METHOD_2 ( ) ) 

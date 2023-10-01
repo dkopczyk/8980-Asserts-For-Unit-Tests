@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < org . kie . workbench . common . IDENT_0 . client . IDENT_1 . types . common . IDENT_2 > results = IDENT_3 . search ( "" ) ; METHOD_1 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return METHOD_2 ( ) . METHOD_3 ( this :: IDENT_5 ) ; }
+org . junit . Assert . assertTrue ( results . isEmpty ( ) ) 

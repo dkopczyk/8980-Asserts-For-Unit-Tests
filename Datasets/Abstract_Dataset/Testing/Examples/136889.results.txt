@@ -1,0 +1,2 @@
+METHOD_0 ( ) { this . configuration = new org . IDENT_0 . Configuration ( Configuration . IDENT_1 . IDENT_2 ) ; this . configuration . METHOD_1 ( INT_0 ) ; this . METHOD_2 ( ) ; long IDENT_3 = this . METHOD_3 ( ) ; org . IDENT_0 . test . util . IDENT_4 . METHOD_4 ( 1 ) ; long IDENT_5 = this . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { this . IDENT_6 . METHOD_5 ( ) ; this . IDENT_6 . METHOD_6 ( ) . METHOD_7 ( ) ; return org . IDENT_0 . test . util . IDENT_7 . METHOD_8 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_5 ) 

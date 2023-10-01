@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String expression = STRING_0 ; IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; IDENT_5 . METHOD_2 ( expression ) ; boolean matches = IDENT_5 . METHOD_3 ( ) . matches ( IDENT_0 . IDENT_1 . IDENT_2 . IDENT_6 . class ) ; "<AssertPlaceHolder>" ; } matches ( java . lang . Class ) { METHOD_4 ( ) ; return IDENT_7 . METHOD_5 ( IDENT_8 ) ; }
+org . junit . Assert . assertTrue ( matches ) 

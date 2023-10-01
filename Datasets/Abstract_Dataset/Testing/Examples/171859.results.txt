@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < java . lang . String > errors = IDENT_0 . METHOD_1 ( com . spotify . IDENT_1 . model . IDENT_2 . create ( "test" , com . spotify . IDENT_1 . util . IDENT_3 . IDENT_4 ) ) ; "<AssertPlaceHolder>" ; } create ( java . lang . String , com . google . auth . IDENT_5 . IDENT_6 ) { return com . spotify . IDENT_1 . client . IDENT_7 . create ( IDENT_8 , IDENT_9 ) ; }
+org . junit . Assert . assertThat ( errors , org . hamcrest . Matchers . empty ( ) ) 

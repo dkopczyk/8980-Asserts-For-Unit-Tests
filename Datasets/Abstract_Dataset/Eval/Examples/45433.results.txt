@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object data = new java . lang . Object ( ) ; com . google . gson . IDENT_0 response = com . IDENT_1 . IDENT_2 . IDENT_3 . rest . util . IDENT_4 . METHOD_1 ( data ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object ) { com . google . gson . IDENT_0 IDENT_5 = new com . google . gson . METHOD_2 ( ) ; IDENT_5 . METHOD_3 ( IDENT_6 . IDENT_7 , IDENT_6 . IDENT_8 ) ; IDENT_5 . add ( IDENT_6 . IDENT_9 , new com . google . gson . METHOD_4 ( ) . METHOD_5 ( data ) ) ; return IDENT_5 ; }
+org . junit . Assert . assertNotNull ( response ) 

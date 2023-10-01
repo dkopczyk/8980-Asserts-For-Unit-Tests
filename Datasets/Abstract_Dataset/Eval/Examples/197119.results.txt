@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String METHOD_0 = com . alibaba . druid . filter . config . IDENT_1 . METHOD_0 ( IDENT_0 ) ; java . lang . String IDENT_2 = com . alibaba . druid . filter . config . IDENT_1 . METHOD_1 ( IDENT_1 . IDENT_3 , METHOD_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_0 , METHOD_1 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . netty . IDENT_1 . IDENT_2 IDENT_3 = new IDENT_0 . netty . IDENT_1 . METHOD_1 ( ) ; java . util . List < java . lang . Object > results = new java . util . ArrayList < java . lang . Object > ( ) ; java . lang . String put = STRING_0 ; io . netty . buffer . IDENT_4 buf = io . netty . buffer . IDENT_5 . METHOD_2 ( put . getBytes ( ) ) ; IDENT_3 . decode ( null , buf , results ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_6 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , results . size ( ) ) 

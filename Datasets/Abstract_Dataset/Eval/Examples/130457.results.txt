@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . kernel . impl . store . id . IDENT_0 IDENT_1 = new org . neo4j . kernel . impl . store . id . METHOD_1 ( fs , file , 100 , false ) ; IDENT_1 . init ( ) ; IDENT_1 . close ( 100 ) ; IDENT_1 = new org . neo4j . kernel . impl . store . id . METHOD_1 ( fs , file , 100 , false ) ; "<AssertPlaceHolder>" ; IDENT_1 . close ( 100 ) ; } init ( ) { }
+org . junit . Assert . assertTrue ( IDENT_1 . init ( ) ) 

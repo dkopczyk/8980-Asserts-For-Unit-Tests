@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = IDENT_5 . getPath ( STRING_1 ) ; java . nio . file . IDENT_6 . delete ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } delete ( com . IDENT_0 . IDENT_1 . IDENT_2 . Path ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_7 . delete ( ( ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 ) ( path ) ) . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertFalse ( java . nio . file . IDENT_6 . exists ( IDENT_4 ) ) 

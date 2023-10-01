@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jena . jdbc . results . ResultSet IDENT_0 = this . METHOD_1 ( org . apache . jena . jdbc . results . IDENT_1 . IDENT_2 , STRING_0 ) ; "<AssertPlaceHolder>" ; IDENT_0 . close ( ) ; } METHOD_2 ( ) { return false ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_2 ( ) ) 

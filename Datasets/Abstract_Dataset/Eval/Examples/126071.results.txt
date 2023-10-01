@@ -1,0 +1,2 @@
+METHOD_0 ( ) { content = STRING_0 ; METHOD_1 ( ) ; tokens . METHOD_2 ( "" ) ; tokens . METHOD_2 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { return ( index ) < ( size ) ; }
+org . junit . Assert . assertThat ( tokens . hasNext ( ) , org . hamcrest . core . Is . is ( false ) ) 

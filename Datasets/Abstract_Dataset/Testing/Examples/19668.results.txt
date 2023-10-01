@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String original = STRING_0 ; java . lang . String expected = STRING_1 ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . lang . String IDENT_0 = org . apache . kafka . connect . data . IDENT_1 . IDENT_2 . matcher ( value ) . replaceAll ( STRING_2 ) ; return org . apache . kafka . connect . data . IDENT_1 . IDENT_3 . matcher ( IDENT_0 ) . replaceAll ( STRING_3 ) ; }
+org . junit . Assert . assertEquals ( expected , org . apache . kafka . connect . data . IDENT_1 . METHOD_1 ( original ) ) 

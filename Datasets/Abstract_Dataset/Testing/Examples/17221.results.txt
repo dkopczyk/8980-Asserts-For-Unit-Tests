@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . api . registry . IDENT_2 v1 = METHOD_1 ( IDENT_3 , IDENT_4 , STRING_0 ) ; METHOD_1 ( IDENT_3 , IDENT_4 , STRING_1 ) ; java . lang . String IDENT_5 = IDENT_6 . METHOD_2 ( IDENT_3 , IDENT_4 , STRING_0 , "" ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( v1 . METHOD_3 ( ) , IDENT_5 ) 

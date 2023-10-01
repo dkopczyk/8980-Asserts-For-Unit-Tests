@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . METHOD_1 ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . IDENT_4 < java . lang . IDENT_5 , com . IDENT_0 . IDENT_1 . METHOD_1 > IDENT_6 = new com . IDENT_0 . IDENT_1 . IDENT_4 < java . lang . IDENT_5 , com . IDENT_0 . IDENT_1 . METHOD_1 > ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { int IDENT_7 = METHOD_3 ( ) ; return IDENT_7 - ( start ) ; }
+org . junit . Assert . assertThat ( IDENT_6 . METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( 10 ) ) 

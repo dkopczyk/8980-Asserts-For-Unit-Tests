@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream is = new java . io . ByteArrayInputStream ( new byte [ 0 ] ) ; byte [ ] bytes = io . grpc . internal . IDENT_0 . toByteArray ( is ) ; "<AssertPlaceHolder>" ; } toByteArray ( java . io . InputStream ) { java . io . ByteArrayOutputStream out = new java . io . ByteArrayOutputStream ( ) ; io . grpc . internal . IDENT_0 . METHOD_1 ( in , out ) ; return out . toByteArray ( ) ; }
+org . junit . Assert . assertEquals ( 0 , bytes . length ) 

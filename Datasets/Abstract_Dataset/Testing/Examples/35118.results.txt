@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date result = IDENT_0 . METHOD_1 ( ) ; ( ( org . geotools . IDENT_1 . reference . IDENT_2 ) ( IDENT_0 ) ) . METHOD_2 ( new java . util . Date ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return end ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_1 ( ) . equals ( result ) ) 

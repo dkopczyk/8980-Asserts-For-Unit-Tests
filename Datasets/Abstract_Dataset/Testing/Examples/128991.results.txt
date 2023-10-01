@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . query . IDENT_1 . IDENT_2 . log . info ( STRING_0 ) ; java . lang . String q = STRING_1 ; IDENT_0 . query . IDENT_1 . IDENT_2 p = new IDENT_0 . query . IDENT_1 . METHOD_1 ( q , manager , date , date ) ; java . util . Set < java . util . Map < java . lang . String , java . lang . String > > IDENT_3 = p . evaluate ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_4 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_3 . size ( ) ) 

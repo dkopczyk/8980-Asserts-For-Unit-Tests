@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object , io . IDENT_0 . v2 . IDENT_1 , io . IDENT_0 . v2 . IDENT_1 ) { if ( ( IDENT_2 == null ) || ( IDENT_3 == null ) ) { throw new io . IDENT_0 . api . METHOD_2 ( STRING_0 ) ; } if ( METHOD_3 ( IDENT_2 , IDENT_3 ) ) { return IDENT_4 ; } return METHOD_1 ( IDENT_4 , null , METHOD_4 ( IDENT_3 ) , null ) ; }
+org . junit . Assert . assertNotNull ( service . METHOD_1 ( new java . lang . Object ( ) , null , null ) ) 

@@ -1,0 +1,2 @@
+empty ( ) { final com . IDENT_0 . index . query . IDENT_1 actual = METHOD_0 ( "" ) ; final com . IDENT_0 . index . query . IDENT_1 expected = com . IDENT_0 . index . query . IDENT_2 . INSTANCE ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String ) { return new com . IDENT_0 . IDENT_3 . datastore . request . METHOD_1 ( com . IDENT_0 . IDENT_3 . IDENT_4 . datastore . request . IDENT_5 . METHOD_2 ( expression ) . build ( ) ) . execute ( context ) . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . config . IDENT_0 IDENT_1 = org . openscience . cdk . config . IDENT_2 . getInstance ( ) ; org . openscience . cdk . interfaces . IDENT_3 IDENT_4 = IDENT_1 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return METHOD_1 ( org . openscience . cdk . config . IDENT_5 . METHOD_2 ( IDENT_6 ) . METHOD_3 ( ) ) ; }
+org . junit . Assert . assertNull ( IDENT_4 ) 

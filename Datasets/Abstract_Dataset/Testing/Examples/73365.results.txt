@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . IDENT_1 < ? > expected = org . IDENT_0 . core . IDENT_2 . METHOD_1 ( IDENT_3 . IDENT_4 . getName ( ) , 3 ) ; org . IDENT_0 . core . IDENT_1 < ? > result = this . METHOD_2 ( IDENT_3 . IDENT_4 . build ( ) , IDENT_3 . IDENT_4 . getName ( ) , org . IDENT_0 . core . IDENT_2 . string ( IDENT_3 . IDENT_4 . getName ( ) , "" ) ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return value ; }
+org . junit . Assert . assertEquals ( expected . getValue ( ) , result . getValue ( ) ) 

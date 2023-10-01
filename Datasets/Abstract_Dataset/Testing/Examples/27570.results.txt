@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . manager . event . IDENT_1 event ; event = IDENT_2 . METHOD_1 ( this , properties ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object , java . util . Map ) { org . IDENT_0 . manager . event . IDENT_1 event ; event = IDENT_2 . METHOD_1 ( source , buffer ) ; if ( event != null ) { event . METHOD_2 ( org . IDENT_0 . util . IDENT_3 . METHOD_3 ( ) ) ; } return event ; }
+org . junit . Assert . assertNull ( event ) 

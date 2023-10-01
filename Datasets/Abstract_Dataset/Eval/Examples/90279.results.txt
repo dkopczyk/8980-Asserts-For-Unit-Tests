@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . domain . dto . IDENT_2 IDENT_3 = METHOD_1 ( ) ; IDENT_3 = IDENT_4 . create ( IDENT_3 ) ; "<AssertPlaceHolder>" ; IDENT_4 . remove ( IDENT_3 . METHOD_2 ( ) ) ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_3 . METHOD_2 ( ) ) > 0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { doReturn ( true ) . when ( IDENT_0 ) . METHOD_1 ( ) ; doReturn ( true ) . when ( IDENT_0 ) . METHOD_2 ( any ( ) ) ; final boolean METHOD_2 = IDENT_0 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( METHOD_1 ( ) ) && ( METHOD_2 ( METHOD_4 ( ) ) ) ; }
+org . junit . Assert . assertTrue ( METHOD_2 ) 

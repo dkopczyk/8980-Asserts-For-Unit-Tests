@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 instance = new IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; boolean result = instance . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( ( channel ) != null ) && ( channel . METHOD_3 ( ) ) ) { try { channel . close ( ) ; } catch ( java . io . IOException ex ) { IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_5 . log . warn ( STRING_1 , ex ) ; return false ; } } return true ; }
+org . junit . Assert . assertEquals ( true , result ) 

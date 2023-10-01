@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . user . User user = METHOD_1 ( ) . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( user . getId ( ) , 1 ) 

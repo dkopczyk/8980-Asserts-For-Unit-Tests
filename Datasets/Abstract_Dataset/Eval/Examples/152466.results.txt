@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return com . IDENT_0 . IDENT_1 . io . Constants . IDENT_2 ; }
+org . junit . Assert . assertEquals ( Constants . IDENT_2 , min . METHOD_1 ( ) ) 

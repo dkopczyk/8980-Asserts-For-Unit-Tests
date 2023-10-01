@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . graphhopper . jsprit . core . problem . solution . route . IDENT_0 . IDENT_1 start = com . graphhopper . jsprit . core . problem . solution . route . IDENT_0 . IDENT_1 . newInstance ( STRING_0 , 0.0 , 0.0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return size ; }
+org . junit . Assert . assertEquals ( 0 , start . METHOD_1 ( ) . get ( 0 ) ) 

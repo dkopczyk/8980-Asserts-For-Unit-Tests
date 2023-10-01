@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . model . parameter . IDENT_1 parameters = METHOD_1 ( ) . with ( STRING_0 , STRING_1 ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_0 ; }
+org . junit . Assert . assertEquals ( 1.0 , parameters . METHOD_3 ( ) , 0.0 ) 

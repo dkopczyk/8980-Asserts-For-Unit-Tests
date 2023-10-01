@@ -1,0 +1,2 @@
+METHOD_0 ( ) { LOG . debug ( STRING_0 ) ; IDENT_0 = org . apache . hadoop . hdfs . IDENT_1 . newInstance ( conf ) ; boolean exists = IDENT_0 . exists ( new org . apache . hadoop . fs . Path ( STRING_1 ) ) ; LOG . debug ( ( STRING_2 + exists ) ) ; "<AssertPlaceHolder>" ; } debug ( java . lang . Throwable ) { if ( ( LOG ) != null ) { LOG . debug ( t ) ; } else if ( ( LOGGER ) != null ) { LOGGER . debug ( "" , t ) ; } }
+org . junit . Assert . assertFalse ( exists ) 

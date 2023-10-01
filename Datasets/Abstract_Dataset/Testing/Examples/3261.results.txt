@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < com . allanbank . mongodb . bson . Element > elements = java . util . Collections . emptyList ( ) ; final com . allanbank . mongodb . bson . impl . IDENT_0 element = new com . allanbank . mongodb . bson . impl . METHOD_1 ( elements ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertTrue ( element . METHOD_2 ( ) . isEmpty ( ) ) 

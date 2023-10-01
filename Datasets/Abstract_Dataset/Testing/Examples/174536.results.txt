@@ -1,0 +1,2 @@
+close ( ) { METHOD_0 ( ) ; java . util . List < com . streamsets . pipeline . api . IDENT_0 . IDENT_1 > IDENT_2 = IDENT_3 . init ( IDENT_4 ) ; "<AssertPlaceHolder>" ; IDENT_3 . close ( ) ; } size ( ) { return delegate . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_2 . size ( ) ) 

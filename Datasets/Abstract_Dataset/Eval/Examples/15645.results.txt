@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Throwable ) { return false ; }
+org . junit . Assert . assertFalse ( impl . METHOD_1 ( new java . lang . Exception ( ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; IDENT_0 . METHOD_2 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( method ) == null ) { return super . METHOD_3 ( ) ; } return org . oscm . ui . filter . IDENT_1 . IDENT_2 ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_0 . METHOD_3 ( ) ) 

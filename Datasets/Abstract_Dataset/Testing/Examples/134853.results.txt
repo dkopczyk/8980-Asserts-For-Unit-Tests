@@ -1,0 +1,2 @@
+METHOD_0 ( ) { impl . METHOD_1 ( microsoft . IDENT_0 . IDENT_1 . data . sync . IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . IDENT_4 ; }
+org . junit . Assert . assertSame ( microsoft . IDENT_0 . IDENT_1 . data . sync . IDENT_2 . IDENT_3 , impl . METHOD_2 ( ) ) 

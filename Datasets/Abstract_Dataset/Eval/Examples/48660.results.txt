@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String key = STRING_0 ; boolean value = com . IDENT_0 . util . Configuration . METHOD_1 ( key , true ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , boolean ) { return ! ( com . IDENT_0 . util . Configuration . METHOD_2 ( key , IDENT_1 ) ) ; }
+org . junit . Assert . assertThat ( value , org . hamcrest . CoreMatchers . is ( false ) ) 

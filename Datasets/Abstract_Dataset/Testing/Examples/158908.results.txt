@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( 200 ) ; IDENT_1 . IDENT_2 . IDENT_3 view = builder . build ( parent , model ) ; "<AssertPlaceHolder>" ; } getId ( ) { return "" ; }
+org . junit . Assert . assertEquals ( IDENT_0 . getId ( ) , view . getId ( ) ) 

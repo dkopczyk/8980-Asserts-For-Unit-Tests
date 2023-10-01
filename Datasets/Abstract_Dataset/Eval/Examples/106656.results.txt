@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . ResultSet IDENT_0 = org . neo4j . jdbc . IDENT_1 . IDENT_2 . newInstance ( false , null , null , IDENT_3 . IDENT_4 , IDENT_3 . IDENT_5 , IDENT_3 . IDENT_6 ) ; "<AssertPlaceHolder>" ; } getType ( ) { METHOD_1 ( ) ; return this . type ; }
+org . junit . Assert . assertEquals ( IDENT_3 . IDENT_4 , IDENT_0 . getType ( ) ) 

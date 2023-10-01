@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return true ; }
+org . junit . Assert . assertTrue ( repository . METHOD_1 ( ) ) 

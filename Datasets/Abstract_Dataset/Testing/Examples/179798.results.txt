@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 IDENT_2 = new org . IDENT_0 . METHOD_1 ( ) ; try { org . IDENT_0 . concurrent . IDENT_3 . IDENT_4 . IDENT_5 IDENT_4 = METHOD_2 ( 1 , true ) ; IDENT_4 . METHOD_3 ( IDENT_2 , 0 , 100 ) ; IDENT_2 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } finally { IDENT_2 . METHOD_5 ( ) ; } } remove ( java . lang . IDENT_6 ) { if ( IDENT_7 . remove ( task ) ) { IDENT_8 . METHOD_6 ( ) ; return true ; } else { return false ; } }
+org . junit . Assert . assertTrue ( IDENT_4 . remove ( IDENT_2 ) ) 

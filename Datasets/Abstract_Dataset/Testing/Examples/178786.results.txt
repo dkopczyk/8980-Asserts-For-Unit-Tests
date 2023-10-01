@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . models . IDENT_2 IDENT_3 = org . IDENT_0 . IDENT_1 . models . IDENT_4 . newInstance ( STRING_0 ) ; org . IDENT_0 . IDENT_1 . models . IDENT_2 IDENT_5 = org . IDENT_0 . IDENT_1 . models . IDENT_4 . newInstance ( STRING_0 ) ; "<AssertPlaceHolder>" ; } newInstance ( java . lang . String ) { return org . IDENT_0 . IDENT_1 . models . IDENT_4 . newInstance ( name , null ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_3 == IDENT_5 ) ) 

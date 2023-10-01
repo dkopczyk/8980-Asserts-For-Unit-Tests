@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String uri = STRING_0 ; org . opennms . IDENT_0 . IDENT_1 . LOG . info ( STRING_1 , uri ) ; final org . apache . http . IDENT_2 [ ] headers = METHOD_1 ( uri , STRING_2 ) ; for ( final org . apache . http . IDENT_2 header : headers ) { org . opennms . IDENT_0 . IDENT_1 . LOG . error ( STRING_3 , header . getValue ( ) ) ; } "<AssertPlaceHolder>" ; } getValue ( ) { return value ; }
+org . junit . Assert . assertEquals ( 0 , headers . length ) 

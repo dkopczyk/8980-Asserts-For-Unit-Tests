@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( int i = 0 ; i < 10 ; i ++ ) { IDENT_0 . exec ( STRING_0 , true , STRING_1 , true ) ; if ( ( IDENT_0 . output . get ( ) . split ( "\n" ) . length ) == 3 ) break ; METHOD_1 ( 1 , TimeUnit . IDENT_1 ) ; } "<AssertPlaceHolder>" ; } get ( ) { throw new java . lang . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_0 . output . get ( ) . split ( "\n" ) . length ) 

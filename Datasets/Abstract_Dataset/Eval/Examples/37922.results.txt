@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . model . IDENT_1 IDENT_2 = METHOD_1 ( IDENT_3 , IDENT_4 , ( - 1L ) , org . IDENT_0 . test . IDENT_5 . METHOD_2 ( INT_0 , INT_1 , INT_2 ) , org . IDENT_0 . test . IDENT_5 . METHOD_2 ( INT_3 , INT_1 , INT_2 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( this . IDENT_6 ) == ( - 1 ) ) { return false ; } return ( METHOD_4 ( ) ) > ( this . IDENT_6 ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 . METHOD_3 ( ) ) 

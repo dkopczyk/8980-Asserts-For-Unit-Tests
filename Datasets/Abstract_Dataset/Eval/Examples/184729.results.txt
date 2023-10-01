@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . flow . dom . Element e = com . vaadin . flow . dom . IDENT_0 . METHOD_1 ( ) ; com . vaadin . flow . dom . IDENT_1 s = e . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Class ) { assert IDENT_2 . METHOD_3 ( type ) : ( STRING_0 + ( type . getName ( ) ) ) + STRING_1 ; return ( ( T ) ( IDENT_2 . get ( type ) ) ) ; }
+org . junit . Assert . assertNull ( s . get ( "foo" ) ) 

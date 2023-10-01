@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; verify ( IDENT_0 , times ( 1 ) ) . iterator ( ) ; verify ( IDENT_1 , times ( 1 ) ) . METHOD_1 ( IDENT_2 ) ; } METHOD_2 ( ) { final java . util . Collection < org . IDENT_3 . IDENT_4 . pipeline . IDENT_5 > IDENT_6 = new java . util . ArrayList ( ) ; IDENT_7 . iterator ( ) . METHOD_3 ( IDENT_6 :: add ) ; return METHOD_1 ( IDENT_6 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_1 . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . talend . core . model . properties . IDENT_0 item = IDENT_1 . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . talend . core . model . properties . IDENT_3 ) { if ( IDENT_4 instanceof org . talend . core . model . properties . IDENT_5 ) { return true ; } if ( IDENT_4 instanceof org . talend . core . model . properties . IDENT_0 ) { return true ; } return false ; }
+org . junit . Assert . assertTrue ( handler . METHOD_2 ( item ) ) 

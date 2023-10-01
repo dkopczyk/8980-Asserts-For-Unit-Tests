@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = 16 * INT_0 ; try ( net . IDENT_1 . IDENT_2 . map . IDENT_3 < java . lang . Integer , java . lang . IDENT_4 > map = METHOD_1 ( IDENT_0 ) ) { int IDENT_5 = 0 ; for ( net . IDENT_1 . IDENT_2 . map . Iterator it = map . entrySet ( ) . iterator ( ) ; it . hasNext ( ) ; ) { it . next ( ) ; it . remove ( ) ; ++ IDENT_5 ; } "<AssertPlaceHolder>" ; } } remove ( ) { i . remove ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_5 ) 

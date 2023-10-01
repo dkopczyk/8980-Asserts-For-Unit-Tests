@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Properties file = org . apache . ibatis . io . IDENT_0 . METHOD_1 ( org . apache . ibatis . io . IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . util . Properties props = new java . util . Properties ( ) ; java . io . InputStream in = org . apache . ibatis . io . IDENT_0 . getResourceAsStream ( resource ) ; props . load ( in ) ; in . close ( ) ; return props ; }
+org . junit . Assert . assertNotNull ( file ) 

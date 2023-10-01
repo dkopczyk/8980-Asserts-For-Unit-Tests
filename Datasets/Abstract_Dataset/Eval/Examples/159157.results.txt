@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String name = "foo" ; org . IDENT_0 . log . IDENT_1 root = org . IDENT_0 . log . IDENT_1 . METHOD_1 ( ) ; org . IDENT_0 . log . IDENT_1 a = root . METHOD_2 ( name ) ; org . IDENT_0 . log . IDENT_1 b = root . METHOD_2 ( name ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { org . IDENT_0 . log . IDENT_1 result = this ; for ( final java . lang . String name : IDENT_2 . split ( org . IDENT_0 . log . IDENT_1 . IDENT_3 ) ) result = result . child ( name ) ; return result ; }
+org . junit . Assert . assertSame ( a , b ) 

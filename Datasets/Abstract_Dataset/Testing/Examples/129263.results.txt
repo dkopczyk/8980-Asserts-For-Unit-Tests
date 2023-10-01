@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = 10 ; com . IDENT_1 . IDENT_2 . IDENT_3 . util . IDENT_4 factory = new com . IDENT_1 . IDENT_2 . IDENT_3 . util . METHOD_1 ( IDENT_0 ) ; java . net . IDENT_5 packet = factory . create ( ) ; packet . METHOD_2 ( 1 ) ; factory . METHOD_3 ( packet ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return length ; }
+org . junit . Assert . assertEquals ( IDENT_0 , packet . METHOD_4 ( ) ) 

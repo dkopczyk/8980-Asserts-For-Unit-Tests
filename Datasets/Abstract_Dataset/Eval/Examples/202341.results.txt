@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . logging . common . IDENT_3 . LOGGER . info ( com . IDENT_0 . IDENT_1 . IDENT_2 . logging . common . IDENT_4 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( getMessage ( ) , org . hamcrest . core . Is . is ( com . IDENT_0 . IDENT_1 . IDENT_2 . logging . common . IDENT_4 ) ) 

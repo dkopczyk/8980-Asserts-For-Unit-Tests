@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Integer offset = org . IDENT_0 . atlas . api . helpers . IDENT_1 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Integer ) { if ( offset == null ) return org . IDENT_0 . atlas . api . helpers . IDENT_1 . IDENT_2 ; else if ( offset < ( org . IDENT_0 . atlas . api . helpers . IDENT_1 . IDENT_3 ) ) return org . IDENT_0 . atlas . api . helpers . IDENT_1 . IDENT_3 ; else return offset ; }
+org . junit . Assert . assertEquals ( IDENT_1 . IDENT_2 , offset ) 

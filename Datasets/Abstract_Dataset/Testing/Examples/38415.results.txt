@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Integer > IDENT_3 = com . IDENT_0 . IDENT_1 . IDENT_2 . from ( 1 , 2 , 3 ) ; java . lang . Object [ ] result = IDENT_3 . toArray ( ) ; "<AssertPlaceHolder>" ; } toArray ( ) { final int size = size ( ) ; return toArray ( com . IDENT_0 . IDENT_1 . IDENT_4 . < IDENT_5 > METHOD_1 ( size ) ) ; }
+org . junit . Assert . assertArrayEquals ( new java . lang . Object [ ] { 1 , 2 , 3 } , result ) 

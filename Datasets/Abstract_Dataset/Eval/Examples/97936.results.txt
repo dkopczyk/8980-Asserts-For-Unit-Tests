@@ -1,0 +1,2 @@
+METHOD_0 ( IDENT_0 . IDENT_1 ) { IDENT_0 . List < ? > l = mock . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return null ; }
+org . junit . Assert . assertNull ( l ) 

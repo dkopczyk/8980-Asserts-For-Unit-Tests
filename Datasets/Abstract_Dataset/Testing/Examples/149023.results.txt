@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . sourceforge . IDENT_0 . lang . ast . IDENT_1 . IDENT_2 IDENT_3 = new net . sourceforge . IDENT_0 . lang . ast . IDENT_1 . METHOD_1 ( ) ; java . util . Iterator < net . sourceforge . IDENT_0 . lang . ast . Node > IDENT_4 = IDENT_3 . METHOD_2 ( rule . IDENT_5 ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { return ( attributes != null ) && ( ( index ) < ( attributes . METHOD_3 ( ) ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_4 . hasNext ( ) ) 

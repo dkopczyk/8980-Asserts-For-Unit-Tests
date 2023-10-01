@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . fasterxml . jackson . databind . IDENT_0 expected = com . IDENT_1 . IDENT_2 . internal . component . IDENT_3 . get ( STRING_0 ) ; com . fasterxml . jackson . databind . IDENT_0 result = new com . IDENT_1 . IDENT_2 . internal . component . METHOD_1 ( null , STRING_0 ) . select ( com . IDENT_1 . IDENT_2 . internal . component . IDENT_3 ) ; "<AssertPlaceHolder>" ; } select ( com . fasterxml . jackson . databind . IDENT_0 ) { this . IDENT_4 = true ; return input ; }
+org . junit . Assert . assertEquals ( expected , result ) 

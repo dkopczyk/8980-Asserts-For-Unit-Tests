@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . lib . IDENT_1 r = org . apache . IDENT_0 . lib . IDENT_1 . parse ( "" ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( IDENT_2 ) != null ; }
+org . junit . Assert . assertFalse ( r . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . kernel . impl . cache . IDENT_0 < java . lang . String , java . lang . Integer > cache = new org . neo4j . kernel . impl . cache . METHOD_1 ( "foo" , 3 ) ; cache . put ( "bar" , INT_0 ) ; cache . put ( STRING_0 , INT_1 ) ; cache . remove ( "bar" ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_1 . get ( ) ; }
+org . junit . Assert . assertThat ( cache . size ( ) , org . hamcrest . CoreMatchers . is ( 1 ) ) 

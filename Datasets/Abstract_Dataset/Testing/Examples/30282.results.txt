@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . microsoft . azure . IDENT_0 < com . microsoft . azure . management . resources . IDENT_1 > IDENT_2 = com . microsoft . azure . management . resources . IDENT_3 . IDENT_4 . METHOD_1 ( ) . list ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . size ; }
+org . junit . Assert . assertTrue ( ( ( METHOD_1 . size ( ) ) > 0 ) ) 

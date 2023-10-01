@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List l = interceptor . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object ) { if ( o == null ) return org . IDENT_0 . IDENT_1 . Collections . emptyList ( ) ; return METHOD_2 ( o , 0.0 ) ; }
+org . junit . Assert . assertTrue ( l . isEmpty ( ) ) 

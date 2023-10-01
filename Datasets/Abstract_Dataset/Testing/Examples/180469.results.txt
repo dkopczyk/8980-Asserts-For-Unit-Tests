@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return configuration ; }
+org . junit . Assert . assertNotNull ( template . METHOD_1 ( ) ) 

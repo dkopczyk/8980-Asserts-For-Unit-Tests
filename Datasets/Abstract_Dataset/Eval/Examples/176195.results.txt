@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . add ( STRING_0 ) ; IDENT_0 . add ( STRING_1 ) ; "<AssertPlaceHolder>" ; } contains ( java . io . File ) { for ( org . talend . metadata . IDENT_1 . ui . IDENT_2 . IDENT_3 . IDENT_4 info : IDENT_5 ) { if ( info . file . equals ( file ) ) { return true ; } } return false ; }
+org . junit . Assert . assertTrue ( IDENT_0 . contains ( STRING_1 ) ) 

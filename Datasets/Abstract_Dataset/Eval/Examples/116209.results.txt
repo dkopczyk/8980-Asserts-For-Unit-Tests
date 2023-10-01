@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 repo = org . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 . IDENT_5 . info ( ) ; java . lang . String IDENT_6 = repo . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( IDENT_6 ) == null ? path : IDENT_6 ; }
+org . junit . Assert . assertEquals ( org . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 . url , IDENT_6 ) 

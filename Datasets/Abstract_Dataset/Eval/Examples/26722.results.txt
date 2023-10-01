@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . container . IDENT_1 . spi . model . IDENT_2 adapter = load ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( this . IDENT_3 ) != null ; }
+org . junit . Assert . assertFalse ( adapter . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < io . IDENT_0 . service . IDENT_1 > events = IDENT_2 . METHOD_1 ( user . getId ( ) , 0 , java . util . Arrays . asList ( ( - 1 ) ) ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( 0 , events . size ( ) ) 

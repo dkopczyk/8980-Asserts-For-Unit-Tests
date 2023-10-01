@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . asakusafw . utils . IDENT_0 . IDENT_1 project = project ( ) . with ( com . asakusafw . utils . IDENT_0 . IDENT_2 . of ( com . asakusafw . utils . IDENT_0 . IDENT_3 . resource ( "a" ) ) ) ; "<AssertPlaceHolder>" ; } property ( com . asakusafw . IDENT_4 . hive . IDENT_5 . IDENT_6 ) { this . properties . add ( IDENT_7 ) ; return this ; }
+org . junit . Assert . assertThat ( project . property ( "a" ) , is ( "1" ) ) 

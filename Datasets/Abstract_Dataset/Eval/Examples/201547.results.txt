@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . String > expected = new java . util . HashMap < java . lang . String , java . lang . String > ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . CoreMatchers . is ( expected ) ) 

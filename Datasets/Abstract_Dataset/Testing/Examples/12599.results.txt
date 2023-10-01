@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . flink . configuration . description . IDENT_0 description = org . apache . flink . configuration . description . IDENT_0 . builder ( ) . text ( STRING_0 ) . build ( ) ; java . lang . String IDENT_1 = new org . apache . flink . configuration . description . METHOD_1 ( ) . format ( description ) ; "<AssertPlaceHolder>" ; } format ( org . apache . flink . configuration . description . IDENT_2 ) { IDENT_3 . format ( this ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_1 ) 

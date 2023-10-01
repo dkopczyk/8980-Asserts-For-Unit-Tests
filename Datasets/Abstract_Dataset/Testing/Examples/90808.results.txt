@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; IDENT_1 . METHOD_2 ( ) ; java . lang . String result = IDENT_2 . getText ( ) ; java . lang . String IDENT_3 = STRING_1 ; "<AssertPlaceHolder>" ; } getText ( ) { return this . text ; }
+org . junit . Assert . assertTrue ( result . contains ( IDENT_3 ) ) 

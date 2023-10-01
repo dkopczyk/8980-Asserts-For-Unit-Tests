@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; java . lang . String line = STRING_1 ; boolean result = IDENT_0 . IDENT_1 . matcher ( line ) . matches ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( true , result ) 

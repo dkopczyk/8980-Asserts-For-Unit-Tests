@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; IDENT_1 . METHOD_1 ( IDENT_0 ) ; service . METHOD_2 ( IDENT_1 ) ; com . IDENT_2 . IDENT_3 . redis . IDENT_4 . model . IDENT_5 proxy = null ; for ( com . IDENT_2 . IDENT_3 . redis . IDENT_4 . model . IDENT_5 IDENT_6 : service . METHOD_3 ( ) ) { if ( ( IDENT_6 . getId ( ) ) == ( IDENT_1 . getId ( ) ) ) { proxy = IDENT_6 ; break ; } } "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , proxy . METHOD_4 ( ) ) 

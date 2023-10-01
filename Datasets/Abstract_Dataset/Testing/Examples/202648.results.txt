@@ -1,0 +1,2 @@
+select ( ) { org . IDENT_0 . executor . IDENT_1 IDENT_2 = new org . IDENT_0 . executor . METHOD_0 ( ) ; java . util . List < org . IDENT_0 . to . IDENT_3 > list = IDENT_2 . METHOD_1 ( em , org . IDENT_0 . to . IDENT_3 . class , STRING_0 ) ; "<AssertPlaceHolder>" ; for ( org . IDENT_0 . to . IDENT_3 IDENT_4 : list ) { org . IDENT_0 . executor . IDENT_5 . LOGGER . debug ( IDENT_4 ) ; } }
+org . junit . Assert . assertNotNull ( list ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object object = new java . lang . Object ( ) { @ org . IDENT_0 . javascript . METHOD_1 ( STRING_0 ) public java . lang . Object valueOf ( ) { return new java . lang . Object ( ) ; } public java . lang . String toString ( ) { return STRING_1 ; } } ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Object ) { return org . IDENT_0 . javascript . IDENT_1 . METHOD_2 ( IDENT_2 , STRING_2 ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , org . IDENT_0 . javascript . IDENT_1 . METHOD_2 ( object ) ) 

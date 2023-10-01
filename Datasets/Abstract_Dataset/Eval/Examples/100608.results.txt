@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . IDENT_1 . IDENT_2 spec = new io . IDENT_0 . IDENT_1 . METHOD_1 ( io . IDENT_0 . resource . mock . models . IDENT_3 . class ) ; spec . METHOD_2 ( new io . IDENT_0 . IDENT_1 . METHOD_3 ( java . util . Arrays . asList ( STRING_0 , STRING_1 ) , IDENT_4 . IDENT_5 , INT_0 ) ) ; io . IDENT_0 . resource . list . IDENT_6 < io . IDENT_0 . resource . mock . models . IDENT_3 > results = spec . apply ( IDENT_7 ) ; "<AssertPlaceHolder>" ; } size ( ) { return list . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , results . size ( ) ) 

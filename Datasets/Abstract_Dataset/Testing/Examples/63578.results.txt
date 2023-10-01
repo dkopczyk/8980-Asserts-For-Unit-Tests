@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . vertx . core . json . IDENT_0 IDENT_1 = new io . vertx . core . json . METHOD_1 ( ) ; IDENT_1 . put ( "foo" , "bar" ) ; IDENT_1 . put ( STRING_0 , INT_0 ) ; io . vertx . core . buffer . IDENT_2 buf = io . vertx . core . buffer . IDENT_2 . buffer ( IDENT_1 . encode ( ) ) ; "<AssertPlaceHolder>" ; } encode ( ) { return io . vertx . core . json . IDENT_3 . encode ( map ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , new io . vertx . core . json . METHOD_1 ( buf ) ) 

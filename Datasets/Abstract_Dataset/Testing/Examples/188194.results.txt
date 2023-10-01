@@ -1,0 +1,2 @@
+empty ( ) { "<AssertPlaceHolder>" ; } list ( ) { return IDENT_0 ; }
+org . junit . Assert . assertTrue ( IDENT_0 . list ( ) . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 IDENT_2 = new IDENT_0 . METHOD_1 ( ) ; IDENT_0 . IDENT_3 IDENT_4 = IDENT_0 . IDENT_5 . buffer ( ( ( IDENT_0 . IDENT_6 ) ( IDENT_2 ) ) ) ; IDENT_4 . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { org . junit . Assert . assertEquals ( 0 , IDENT_0 . IDENT_7 . size ( "" ) ) ; org . junit . Assert . assertEquals ( 3 , IDENT_0 . IDENT_7 . size ( STRING_0 ) ) ; org . junit . Assert . assertEquals ( 16 , IDENT_0 . IDENT_7 . size ( STRING_1 ) ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_2 . size ( ) ) 

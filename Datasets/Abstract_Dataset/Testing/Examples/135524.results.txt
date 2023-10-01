@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = null ; try { IDENT_3 = IDENT_4 . METHOD_1 ( IDENT_5 ) ; "<AssertPlaceHolder>" ; } catch ( org . IDENT_0 . IDENT_1 . IDENT_6 e ) { org . junit . Assert . fail ( ( STRING_0 + ( e . getMessage ( ) ) ) ) ; } } METHOD_2 ( ) { return id ; }
+org . junit . Assert . assertEquals ( IDENT_5 , IDENT_3 . METHOD_2 ( ) ) 

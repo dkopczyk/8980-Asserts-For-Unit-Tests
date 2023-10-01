@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . core . library . IDENT_1 . IDENT_2 item = new org . eclipse . IDENT_0 . core . library . IDENT_1 . METHOD_1 ( "test" ) ; org . eclipse . IDENT_0 . core . library . types . IDENT_3 state = new org . eclipse . IDENT_0 . core . library . types . METHOD_2 ( ) ; item . METHOD_3 ( state ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return state ; }
+org . junit . Assert . assertEquals ( state , item . METHOD_4 ( ) ) 

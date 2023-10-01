@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . domain . IDENT_1 . entity . IDENT_2 IDENT_3 = new com . IDENT_0 . domain . IDENT_1 . entity . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { java . util . IDENT_4 IDENT_5 = null ; if ( ( this . IDENT_6 ) != null ) { try { IDENT_5 = java . util . IDENT_4 . getInstance ( this . IDENT_6 ) ; } catch ( java . lang . RuntimeException e ) { logger . warn ( ( STRING_0 + ( METHOD_3 ( ) ) ) ) ; } } return IDENT_5 ; }
+org . junit . Assert . assertNull ( IDENT_3 . METHOD_2 ( ) ) 

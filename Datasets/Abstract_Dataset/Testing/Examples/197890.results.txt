@@ -1,0 +1,2 @@
+test ( ) { org . apache . commons . IDENT_0 . IDENT_1 IDENT_2 = new org . apache . commons . IDENT_0 . METHOD_0 ( ) ; IDENT_2 . METHOD_1 ( ) . METHOD_2 ( 4 ) ; org . apache . commons . IDENT_0 . IDENT_3 IDENT_4 = new org . apache . commons . IDENT_0 . METHOD_3 ( IDENT_2 ) ; java . lang . String IDENT_5 = de . IDENT_6 . IDENT_7 . api . google . IDENT_8 . IDENT_9 . METHOD_4 ( STRING_0 , IDENT_4 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_5 ) 

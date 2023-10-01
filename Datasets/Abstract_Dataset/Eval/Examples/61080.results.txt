@@ -1,0 +1,2 @@
+METHOD_0 ( ) { item . METHOD_1 ( false ) ; org . eclipse . rap . rwt . IDENT_0 . IDENT_1 actual = org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_2 . METHOD_2 ( IDENT_3 ) . METHOD_3 ( item ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . eclipse . swt . widgets . IDENT_4 ) { return METHOD_4 ( STRING_0 , item ) ; }
+org . junit . Assert . assertEquals ( new org . eclipse . rap . rwt . IDENT_0 . METHOD_5 ( 4 , 4 , 4 , 4 ) , actual ) 

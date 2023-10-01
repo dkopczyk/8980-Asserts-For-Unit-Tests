@@ -1,0 +1,2 @@
+METHOD_0 ( ) { @ com . artemis . IDENT_0 . METHOD_1 ( IDENT_1 = true ) class IDENT_2 extends com . artemis . IDENT_3 . IDENT_4 { @ com . artemis . Override MOD_0 void process ( com . artemis . Entity e ) { com . artemis . IDENT_3 . IDENT_5 IDENT_6 = IDENT_7 . create ( e ) ; com . artemis . IDENT_3 . IDENT_5 IDENT_8 = IDENT_7 . set ( e , true ) ; "<AssertPlaceHolder>" ; } } METHOD_2 ( new METHOD_3 ( ) ) ; } set ( int , com . artemis . component . IDENT_9 ) { this . x = x ; this . o = o ; }
+org . junit . Assert . assertEquals ( IDENT_6 , IDENT_8 ) 

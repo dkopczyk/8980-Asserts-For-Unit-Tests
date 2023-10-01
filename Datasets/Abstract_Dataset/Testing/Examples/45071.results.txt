@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } compareTo ( org . codice . ddf . IDENT_0 . IDENT_1 ) { if ( me == ( this ) ) { return 0 ; } final int c = super . compareTo ( me ) ; if ( c != 0 ) { return c ; } final org . codice . ddf . configuration . IDENT_0 . IDENT_2 IDENT_3 = ( ( org . codice . ddf . configuration . IDENT_0 . IDENT_2 ) ( me ) ) ; return IDENT_4 . compareTo ( IDENT_3 . METHOD_1 ( ) ) ; }
+org . junit . Assert . assertThat ( entry . compareTo ( entry ) , org . hamcrest . Matchers . equalTo ( 0 ) ) 

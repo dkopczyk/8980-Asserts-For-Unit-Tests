@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . baeldung . IDENT_0 . IDENT_1 IDENT_2 = new com . baeldung . IDENT_0 . METHOD_1 ( 2 , STRING_0 ) ; int IDENT_3 = com . baeldung . IDENT_0 . IDENT_4 . IDENT_5 . METHOD_2 ( IDENT_2 , com . baeldung . IDENT_0 . IDENT_4 . IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( com . baeldung . IDENT_0 . METHOD_1 , java . util . List ) { return IDENT_6 . indexOf ( IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_3 ) 

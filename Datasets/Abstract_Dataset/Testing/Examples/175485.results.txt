@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { com . IDENT_1 . IDENT_2 . IDENT_3 service = METHOD_2 ( ) ; if ( service == null ) { throw new com . IDENT_1 . IDENT_2 . exceptions . METHOD_3 ( STRING_0 ) ; } return ( service . METHOD_4 ( feature ) ) == ( IDENT_4 ) ? javax . servlet . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 : javax . servlet . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_9 ; }
+org . junit . Assert . assertEquals ( "" , writer . toString ( ) ) 

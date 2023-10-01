@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . mongodb . core . IDENT_0 . IDENT_1 entity = new org . springframework . data . mongodb . core . IDENT_0 . METHOD_1 ( ) ; entity . id = 5 ; template . METHOD_2 ( entity , 7 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( entity . id , is ( 5 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . eclipse . xtext . common . types . IDENT_1 type = ( ( org . eclipse . xtext . common . types . IDENT_1 ) ( METHOD_1 ( ) . METHOD_2 ( IDENT_0 ) ) ) ; "<AssertPlaceHolder>" ; METHOD_3 ( type ) ; org . eclipse . IDENT_2 . IDENT_3 . resource . IDENT_4 resource = type . METHOD_4 ( ) ; METHOD_5 ( resource ) ; METHOD_6 ( resource ) ; } METHOD_2 ( java . lang . String ) { return null ; }
+org . junit . Assert . assertNotNull ( type ) 

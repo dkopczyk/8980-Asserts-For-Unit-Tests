@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . create ( conn , STRING_0 , new org . IDENT_0 . METHOD_1 ( ) { @ org . IDENT_0 . Override public void METHOD_2 ( ) throws java . sql . IDENT_2 { org . IDENT_0 . IDENT_3 . val = 4 ; } } ) ; IDENT_4 . METHOD_3 ( STRING_1 ) . close ( ) ; "<AssertPlaceHolder>" ; } close ( ) { IDENT_4 . close ( ) ; conn . close ( ) ; }
+org . junit . Assert . assertEquals ( org . IDENT_0 . IDENT_3 . val , 4 ) 

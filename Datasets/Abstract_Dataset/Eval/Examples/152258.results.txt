@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . atlas . IDENT_1 . List < org . IDENT_0 . atlas . service . domain . IDENT_2 . entities . IDENT_3 > IDENT_4 = IDENT_5 . METHOD_1 ( IDENT_6 ) ; "<AssertPlaceHolder>" ; org . IDENT_0 . atlas . IDENT_1 . junit . IDENT_7 . METHOD_2 ( INT_0 , INT_1 , 0L , INT_2 , 0L , INT_3 , 0 , 0 , 1 , 5 , IDENT_8 . IDENT_9 , STRING_0 , IDENT_4 . get ( 0 ) ) ; } size ( ) { return size ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_4 . size ( ) ) 

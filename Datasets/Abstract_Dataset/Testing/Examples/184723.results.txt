@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . flow . dom . Element e = com . vaadin . flow . dom . IDENT_0 . METHOD_1 ( ) ; e . METHOD_2 ( "foo" , "bar" ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return null ; }
+org . junit . Assert . assertArrayEquals ( new java . lang . String [ ] { "foo" } , e . METHOD_3 ( ) . toArray ( ) ) 

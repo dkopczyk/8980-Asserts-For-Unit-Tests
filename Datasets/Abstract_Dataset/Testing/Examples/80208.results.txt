@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . plugin . configuration . fields . IDENT_1 f = new org . IDENT_0 . plugin . configuration . fields . METHOD_1 ( "name" , STRING_0 , false , STRING_1 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( "name" , f . getName ( ) ) 

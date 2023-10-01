@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . concurrent . IDENT_0 < java . lang . Boolean > IDENT_1 = ( ) -> com . streamsets . IDENT_2 . security . IDENT_3 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . util . concurrent . IDENT_0 ) { return com . streamsets . IDENT_2 . security . IDENT_3 . execute ( com . streamsets . IDENT_2 . security . IDENT_3 . IDENT_4 , IDENT_1 ) ; }
+org . junit . Assert . assertTrue ( com . streamsets . IDENT_2 . security . IDENT_3 . METHOD_2 ( IDENT_1 ) ) 

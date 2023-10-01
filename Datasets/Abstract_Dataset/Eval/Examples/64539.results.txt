@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . IDENT_0 . IDENT_1 . IDENT_2 > actual = IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . util . List < com . IDENT_0 . IDENT_1 . IDENT_2 > result = new java . util . ArrayList ( ( ( IDENT_4 . size ( ) ) * 10 ) ) ; for ( io . IDENT_5 . cloud . IDENT_6 . context . IDENT_7 IDENT_8 : IDENT_4 . values ( ) ) { result . addAll ( METHOD_2 ( IDENT_8 ) ) ; } return result ; }
+org . junit . Assert . assertThat ( actual . size ( ) , org . hamcrest . core . Is . is ( 20 ) ) 

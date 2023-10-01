@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . opendaylight . IDENT_0 . binding . model . util . IDENT_1 IDENT_2 = new org . opendaylight . IDENT_0 . binding . model . util . METHOD_1 ( org . opendaylight . IDENT_0 . binding . model . api . IDENT_3 . create ( STRING_0 , STRING_1 ) ) ; "<AssertPlaceHolder>" ; } getName ( ) { return this . name ; }
+org . junit . Assert . assertEquals ( STRING_1 , IDENT_2 . getName ( ) ) 

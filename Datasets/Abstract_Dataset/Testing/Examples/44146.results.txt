@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . ws . rs . ext . IDENT_0 < java . lang . RuntimeException > IDENT_1 = new org . IDENT_2 . core . impl . IDENT_3 . METHOD_1 ( ) ; IDENT_4 . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . Class ) { javax . ws . rs . ext . IDENT_0 < T > IDENT_1 = METHOD_4 ( type ) ; if ( IDENT_1 == null ) { IDENT_1 = METHOD_5 ( ) . METHOD_3 ( type ) ; } return IDENT_1 ; }
+org . junit . Assert . assertSame ( IDENT_1 , IDENT_4 . METHOD_3 ( org . IDENT_2 . core . impl . RuntimeException . class ) ) 

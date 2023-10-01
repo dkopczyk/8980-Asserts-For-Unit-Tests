@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . spec . IDENT_1 > IDENT_2 = org . IDENT_0 . spec . IDENT_3 . METHOD_1 ( org . IDENT_0 . spec . IDENT_3 . METHOD_2 ( STRING_0 , IDENT_4 . IDENT_5 ) ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( elements . length ) == 0 ; }
+org . junit . Assert . assertFalse ( IDENT_2 . isEmpty ( ) ) 

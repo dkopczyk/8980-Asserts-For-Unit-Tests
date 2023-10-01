@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( int i = 1 ; i <= ( org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 ) ; i ++ ) { impl . METHOD_1 ( ) ; IDENT_4 . currentTimeMillis = ( IDENT_4 . currentTimeMillis ) + 1 ; "<AssertPlaceHolder>" ; } } METHOD_2 ( ) { long currentTimeMillis = IDENT_4 . currentTimeMillis ( ) ; final long IDENT_5 = currentTimeMillis - ( IDENT_6 ) ; MOD_0 ( queue ) { while ( ( ! ( queue . isEmpty ( ) ) ) && ( ( queue . METHOD_3 ( ) ) < IDENT_5 ) ) { queue . METHOD_4 ( ) ; } return queue . size ( ) ; } }
+org . junit . Assert . assertEquals ( i , impl . METHOD_2 ( ) ) 

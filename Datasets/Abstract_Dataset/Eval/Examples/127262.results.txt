@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String stream = METHOD_1 ( ) ; java . util . List < com . github . IDENT_0 . IDENT_1 . IDENT_2 > events = range ( 0 , 2 ) . METHOD_2 ( ( i ) -> METHOD_3 ( ) ) . collect ( toList ( ) ) ; IDENT_3 . METHOD_4 ( stream , ( - 1 ) , events ) . join ( ) ; IDENT_3 . METHOD_4 ( stream , 0 , events . get ( 1 ) ) . join ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return com . github . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_5 ( ) . type ( "test" ) . build ( ) ; }
+org . junit . Assert . assertEquals ( events . size ( ) , size ( stream ) ) 

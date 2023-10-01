@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String key = STRING_0 ; java . lang . String IDENT_0 = STRING_1 ; com . github . IDENT_1 . IDENT_2 . state . testing . IDENT_3 IDENT_4 = this . state . get ( key , IDENT_0 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String , T ) { return containsKey ( key ) ? ( ( T ) ( get ( key ) ) ) : IDENT_5 ; }
+org . junit . Assert . assertEquals ( null , IDENT_4 ) 

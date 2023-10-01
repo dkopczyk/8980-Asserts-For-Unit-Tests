@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 IDENT_2 = new IDENT_0 . METHOD_1 ( ) ; float expected = FLOAT_0 ; float actual = IDENT_2 . METHOD_2 ( 3 , 2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int , int ) { if ( y == 0 ) throw new java . lang . IllegalArgumentException ( STRING_0 ) ; return ( ( float ) ( x ) ) / ( ( float ) ( y ) ) ; }
+org . junit . Assert . assertThat ( actual , org . hamcrest . CoreMatchers . is ( expected ) ) 

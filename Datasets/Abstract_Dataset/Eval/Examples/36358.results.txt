@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 < java . lang . Integer , java . lang . Integer > c = METHOD_1 ( ) ; java . util . Set < java . lang . Integer > IDENT_2 = new java . util . HashSet < java . lang . Integer > ( ) ; for ( java . lang . Integer i : c . keys ( ) ) { IDENT_2 . add ( i ) ; } "<AssertPlaceHolder>" ; c . close ( ) ; } size ( ) { return list . size ( ) ; }
+org . junit . Assert . assertEquals ( 20 , IDENT_2 . size ( ) ) 

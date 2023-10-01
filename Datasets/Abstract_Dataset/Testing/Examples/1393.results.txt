@@ -1,0 +1,2 @@
+content ( ) { "<AssertPlaceHolder>" ; } content ( ) { org . junit . Assert . assertThat ( new org . jboss . IDENT_0 . io . netty . handler . codec . IDENT_1 . protocol . METHOD_0 ( ) . content ( ) . toString ( IDENT_2 . UTF_8 ) , org . hamcrest . CoreMatchers . equalTo ( STRING_0 ) ) ; }
+org . junit . Assert . assertThat ( new org . jboss . IDENT_0 . io . netty . handler . codec . IDENT_1 . protocol . METHOD_0 ( ) . content ( ) . toString ( IDENT_2 . UTF_8 ) , org . hamcrest . CoreMatchers . equalTo ( STRING_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 . METHOD_2 ( STRING_0 , new java . lang . String [ ] { "foo" } ) ) . METHOD_3 ( STRING_1 ) ; final boolean result = IDENT_1 . METHOD_4 ( STRING_2 , "foo" ) ; "<AssertPlaceHolder>" ; } is ( java . lang . String ) { com . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . LOG . info ( ( ( STRING_3 + command ) + STRING_4 ) ) ; return is ( command , new java . lang . String [ ] { } ) ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . Matchers . is ( true ) ) 

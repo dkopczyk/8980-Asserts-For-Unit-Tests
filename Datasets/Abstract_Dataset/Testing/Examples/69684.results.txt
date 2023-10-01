@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final de . IDENT_0 . IDENT_1 . IDENT_2 . core . base . IDENT_3 IDENT_2 = METHOD_1 ( ( STRING_0 + ( ( ( STRING_1 + STRING_2 ) + STRING_3 ) + STRING_4 ) ) ) ; final de . IDENT_0 . IDENT_1 . IDENT_2 . core . configuration . Configuration c = new de . IDENT_0 . IDENT_1 . IDENT_2 . core . configuration . Configuration ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return METHOD_2 ( INT_0 , false ) ; }
+org . junit . Assert . assertEquals ( 4 , c . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean matches = org . IDENT_0 . binding . IDENT_1 . internal . command . IDENT_2 . matches ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } matches ( java . lang . String ) { if ( message . contains ( STRING_0 ) ) { return true ; } return false ; }
+org . junit . Assert . assertTrue ( matches ) 

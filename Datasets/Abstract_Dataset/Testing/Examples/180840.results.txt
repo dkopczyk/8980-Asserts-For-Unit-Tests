@@ -1,0 +1,2 @@
+add ( ) { org . IDENT_0 . ui . io . IDENT_1 IDENT_2 = new org . IDENT_0 . ui . io . METHOD_0 ( ) ; IDENT_2 . METHOD_1 ( IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 . IDENT_4 , IDENT_2 . METHOD_2 ( ) . get ( ) ) 

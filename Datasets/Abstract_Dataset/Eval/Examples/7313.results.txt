@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . IDENT_0 random = new java . util . METHOD_1 ( ) ; int length = random . METHOD_2 ( ( INT_0 * 16 ) ) ; byte [ ] data = new byte [ length ] ; random . METHOD_3 ( data ) ; byte [ ] IDENT_1 = org . apache . avro . IDENT_2 . proxy . METHOD_4 ( data ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . nio . ByteBuffer ) { return data ; }
+org . junit . Assert . assertArrayEquals ( data , IDENT_1 ) 

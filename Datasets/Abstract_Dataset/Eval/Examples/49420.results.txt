@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( 0 , 0 ) ; IDENT_0 . METHOD_1 ( IDENT_1 . IDENT_2 , 0 ) ; IDENT_0 . METHOD_1 ( ( - ( IDENT_1 . IDENT_2 ) ) , 0 ) ; IDENT_0 . METHOD_1 ( 0 , IDENT_1 . IDENT_2 ) ; IDENT_0 . METHOD_1 ( 0 , ( - ( IDENT_1 . IDENT_2 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( ! ( ( this . METHOD_3 ( ) ) == 0 ) ) && ( ! ( METHOD_4 ( ) ) ) ; }
+org . junit . Assert . assertThat ( IDENT_0 . METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( false ) ) 

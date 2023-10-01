@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . test . osgi . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . test . osgi . IDENT_1 . METHOD_1 ( STRING_0 ) ; new org . IDENT_0 . test . osgi . IDENT_1 . METHOD_2 ( org . IDENT_0 . test . osgi . IDENT_1 . IDENT_4 , 0 ) . start ( ) ; try { IDENT_3 . start ( ) ; IDENT_3 . join ( ) ; "<AssertPlaceHolder>" ; } finally { org . IDENT_0 . test . osgi . IDENT_1 . IDENT_4 . METHOD_3 ( ) ; } } METHOD_4 ( ) { return result ; }
+org . junit . Assert . assertNotNull ( IDENT_3 . METHOD_4 ( ) ) 

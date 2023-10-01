@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = org . kie . workbench . common . IDENT_1 . core . graph . util . IDENT_2 . METHOD_1 ( IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . kie . workbench . common . IDENT_1 . core . graph . Node ) { return java . util . IDENT_5 . METHOD_2 ( element . METHOD_3 ( ) ) ? element . METHOD_3 ( ) . stream ( ) . METHOD_4 ( ( IDENT_6 ) -> ( IDENT_6 . METHOD_5 ( ) ) instanceof org . kie . workbench . common . IDENT_1 . core . graph . content . IDENT_7 . IDENT_8 ) : false ; }
+org . junit . Assert . assertTrue ( METHOD_1 ) 

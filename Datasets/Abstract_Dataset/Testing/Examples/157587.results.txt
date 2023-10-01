@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { org . sagebionetworks . repo . model . IDENT_0 IDENT_1 = new org . sagebionetworks . repo . model . METHOD_1 ( ) ; IDENT_1 . setId ( STRING_0 ) ; IDENT_1 = IDENT_2 . METHOD_2 ( IDENT_3 , IDENT_1 ) ; IDENT_4 . add ( IDENT_1 . getId ( ) ) ; org . junit . Assert . fail ( ) ; } catch ( org . sagebionetworks . repo . web . IDENT_5 e ) { "<AssertPlaceHolder>" ; } } getId ( ) { return id ; }
+org . junit . Assert . assertTrue ( true ) 

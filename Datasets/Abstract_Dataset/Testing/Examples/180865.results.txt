@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 ) ; METHOD_2 ( STRING_0 ) ; IDENT_1 . IDENT_2 . control . IDENT_3 IDENT_4 = METHOD_3 ( STRING_1 ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } getText ( ) { return field . getText ( ) ; }
+org . junit . Assert . assertTrue ( org . apache . commons . lang3 . StringUtils . isEmpty ( IDENT_4 . getText ( ) ) ) 

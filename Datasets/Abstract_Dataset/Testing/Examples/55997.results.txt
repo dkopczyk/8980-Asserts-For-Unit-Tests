@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . druid . query . IDENT_0 . IDENT_1 IDENT_2 = new org . apache . druid . query . IDENT_0 . METHOD_1 ( new org . apache . druid . query . IDENT_3 . METHOD_2 ( com . google . common . collect . ImmutableMap . of ( "foo" , "bar" ) , false ) , false , STRING_0 , false , false ) ; "<AssertPlaceHolder>" ; } apply ( org . apache . druid . query . filter . IDENT_4 ) { return org . apache . druid . sql . calcite . IDENT_5 . IDENT_6 . METHOD_3 ( IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_2 . apply ( null ) ) 

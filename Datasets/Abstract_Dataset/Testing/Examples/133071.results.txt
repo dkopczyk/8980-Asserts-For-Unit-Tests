@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 doc = org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( STRING_0 , new org . bson . types . METHOD_2 ( STRING_1 ) ) ; org . bson . types . METHOD_2 id = doc . METHOD_3 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return IDENT_3 . toString ( ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , id . toString ( ) ) 

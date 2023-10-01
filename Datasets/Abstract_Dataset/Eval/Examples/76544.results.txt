@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . plugins . IDENT_3 . IDENT_4 action = new IDENT_0 . IDENT_1 . IDENT_2 . plugins . IDENT_3 . METHOD_1 ( ) ; boolean IDENT_5 = action . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return true ; }
+org . junit . Assert . assertTrue ( IDENT_5 ) 

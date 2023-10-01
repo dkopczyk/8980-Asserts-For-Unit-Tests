@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; java . lang . Long expResult = edu . IDENT_0 . IDENT_1 . IDENT_2 . authorization . IDENT_3 . IDENT_4 . IDENT_5 . getId ( ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( expResult , edu . IDENT_0 . IDENT_1 . IDENT_2 . authorization . IDENT_3 . IDENT_4 . IDENT_5 . getId ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = IDENT_1 . METHOD_1 ( ) . METHOD_2 ( IDENT_2 . getId ( ) ) . METHOD_3 ( ) . getId ( ) ; IDENT_3 . METHOD_4 ( STRING_0 , null , java . util . Arrays . asList ( org . camunda . bpm . engine . test . api . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 ) ) ; IDENT_1 . METHOD_5 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return new org . camunda . bpm . engine . impl . METHOD_6 ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_1 . METHOD_1 ( ) . METHOD_2 ( IDENT_2 . getId ( ) ) . count ( ) ) 

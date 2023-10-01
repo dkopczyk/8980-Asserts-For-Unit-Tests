@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( com . IDENT_0 . IDENT_1 . IDENT_2 . model . IDENT_3 IDENT_4 : com . IDENT_0 . IDENT_1 . IDENT_2 . model . IDENT_3 . values ( ) ) { IDENT_5 . METHOD_1 ( IDENT_4 ) ; boolean IDENT_6 = IDENT_5 . METHOD_2 ( ) . contains ( IDENT_5 . METHOD_3 ( IDENT_4 ) ) ; "<AssertPlaceHolder>" ; } } METHOD_3 ( com . IDENT_0 . IDENT_1 . services . IDENT_3 ) { return IDENT_4 . METHOD_4 ( METHOD_5 ( ) . METHOD_6 ( ) ) ; }
+org . junit . Assert . assertTrue ( ( ! IDENT_6 ) ) 

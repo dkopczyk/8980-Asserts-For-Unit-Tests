@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final java . io . InputStream IDENT_1 = this . getClass ( ) . METHOD_1 ( ) . getResourceAsStream ( IDENT_0 ) ; final java . util . List < nl . bzk . migratiebrp . conversie . model . IDENT_2 . IDENT_3 . IDENT_4 > result = IDENT_5 . METHOD_2 ( org . apache . commons . io . IDENT_6 . toString ( IDENT_1 , STRING_1 ) , IDENT_7 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_8 . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( result . size ( ) ) > 1 ) ) 

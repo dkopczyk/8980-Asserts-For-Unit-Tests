@@ -1,0 +1,2 @@
+METHOD_0 ( ) { doReturn ( org . IDENT_0 . impl . IDENT_1 . valueOf ( 200 , STRING_0 ) ) . when ( IDENT_2 ) . put ( anyString ( ) , anyString ( ) ) ; org . IDENT_0 . impl . IDENT_3 security = new org . IDENT_0 . impl . METHOD_1 ( ) ; org . IDENT_0 . impl . Status status = IDENT_4 . METHOD_2 ( security ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertTrue ( status . METHOD_3 ( ) ) 

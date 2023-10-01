@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = service . METHOD_1 ( service . METHOD_2 ( ) . getId ( ) , STRING_0 ) ; service . save ( IDENT_0 ) ; net . IDENT_1 . model . IDENT_0 . IDENT_2 IDENT_0 = service . METHOD_3 ( new java . lang . Integer ( service . METHOD_2 ( ) . getId ( ) ) ) ; for ( net . IDENT_1 . model . IDENT_0 . IDENT_2 child : IDENT_0 . METHOD_4 ( ) ) { "<AssertPlaceHolder>" ; } } getId ( ) { return id ; }
+org . junit . Assert . assertNotNull ( child . getId ( ) ) 

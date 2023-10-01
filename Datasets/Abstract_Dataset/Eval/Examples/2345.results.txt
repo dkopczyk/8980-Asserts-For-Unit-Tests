@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . api . IDENT_2 IDENT_3 = IDENT_1 . contains ( STRING_0 ) ; "<AssertPlaceHolder>" ; } contains ( long [ ] ) { IDENT_4 . METHOD_1 ( description , actual , values ) ; return this ; }
+org . junit . Assert . assertSame ( IDENT_1 , IDENT_3 ) 

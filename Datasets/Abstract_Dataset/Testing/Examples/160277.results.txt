@@ -1,0 +1,2 @@
+METHOD_0 ( ) { de . IDENT_0 . IDENT_1 . model . IDENT_2 log = new de . IDENT_0 . IDENT_1 . model . METHOD_1 ( ) ; log . METHOD_2 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( IDENT_3 ) == null ) { IDENT_3 = new de . IDENT_0 . IDENT_1 . model . METHOD_4 ( ) ; } return IDENT_3 ; }
+org . junit . Assert . assertNotNull ( log . METHOD_3 ( ) ) 

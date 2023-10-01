@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . kafka . streams . state . IDENT_0 . IDENT_1 IDENT_2 = METHOD_1 ( java . util . Collections . METHOD_2 ( ) , IDENT_3 ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { return false ; }
+org . junit . Assert . assertTrue ( IDENT_2 . hasNext ( ) ) 

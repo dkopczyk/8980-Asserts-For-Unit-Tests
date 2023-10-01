@@ -1,0 +1,2 @@
+METHOD_0 ( ) { request . METHOD_1 ( IDENT_0 . IDENT_1 , STRING_0 ) ; org . IDENT_2 . IDENT_3 . web . token . transaction . IDENT_4 token = interceptor . METHOD_2 ( request ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertThat ( token . METHOD_3 ( ) , org . hamcrest . CoreMatchers . is ( "a" ) ) 

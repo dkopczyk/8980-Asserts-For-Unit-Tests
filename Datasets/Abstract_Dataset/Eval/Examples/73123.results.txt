@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = java . lang . String . format ( STRING_0 , STRING_1 , INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . io . File file = new java . io . File ( IDENT_0 ) ; file . METHOD_2 ( ) ; try { file . METHOD_3 ( ) ; com . fujitsu . dc . common . IDENT_1 . IDENT_2 filter = new com . fujitsu . dc . common . IDENT_1 . METHOD_4 ( STRING_1 ) ; return filter . accept ( new java . io . File ( STRING_2 ) , IDENT_0 ) ; } finally { file . delete ( ) ; } }
+org . junit . Assert . assertTrue ( METHOD_1 ( IDENT_0 ) ) 

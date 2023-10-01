@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . IDENT_0 . IDENT_1 org = IDENT_2 . METHOD_1 ( IDENT_3 . IDENT_4 , IDENT_5 . getKey ( ) ) ; "<AssertPlaceHolder>" ; } getKey ( ) { return key ; }
+org . junit . Assert . assertSame ( IDENT_5 , org ) 

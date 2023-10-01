@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( com . IDENT_0 . driver . core . exceptions . IDENT_1 . class ) . when ( IDENT_2 ) . METHOD_2 ( eq ( IDENT_3 ) ) ; com . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 result = repository . METHOD_3 ( IDENT_8 . IDENT_9 . valueOf ( IDENT_3 ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_10 ; }
+org . junit . Assert . assertThat ( result . METHOD_4 ( ) . size ( ) , org . hamcrest . CoreMatchers . is ( 1 ) ) 

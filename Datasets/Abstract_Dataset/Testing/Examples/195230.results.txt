@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nhindirect . common . tx . model . IDENT_0 tx = new org . nhindirect . common . tx . model . METHOD_1 ( ) ; boolean IDENT_1 = false ; try { tx . METHOD_2 ( null ) ; } catch ( java . lang . IllegalArgumentException e ) { IDENT_1 = true ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( IDENT_1 ) 

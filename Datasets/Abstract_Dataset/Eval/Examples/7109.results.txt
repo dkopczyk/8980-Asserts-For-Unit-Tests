@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . mockito . Mockito . when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( 2 ) ; int IDENT_1 = IDENT_2 . METHOD_1 ( ) ; org . mockito . Mockito . verify ( IDENT_0 ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_0 . METHOD_1 ( ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_1 ) 

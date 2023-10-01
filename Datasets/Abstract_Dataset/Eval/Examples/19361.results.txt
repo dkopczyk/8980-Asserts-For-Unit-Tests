@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jena . shared . IDENT_0 IDENT_1 = new org . apache . jena . IDENT_2 . graph . METHOD_1 ( org . apache . jena . IDENT_2 . test . IDENT_3 . IDENT_4 . IDENT_5 , org . apache . jena . IDENT_2 . test . IDENT_3 . IDENT_4 . IDENT_2 ) ; IDENT_1 . METHOD_2 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { METHOD_4 ( ) ; return IDENT_6 . METHOD_5 ( ) . METHOD_3 ( IDENT_7 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_1 . METHOD_3 ( STRING_0 ) ) 

@@ -1,0 +1,2 @@
+test ( ) { net . IDENT_0 . examples . IDENT_1 . IDENT_2 IDENT_3 = net . IDENT_0 . examples . IDENT_1 . IDENT_4 . METHOD_0 ( ) . message ( STRING_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( IDENT_3 . message , org . hamcrest . core . Is . is ( STRING_0 ) ) 

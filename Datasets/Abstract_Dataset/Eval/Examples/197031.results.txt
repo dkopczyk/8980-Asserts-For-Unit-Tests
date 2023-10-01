@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . compiler . graph . test . IDENT_1 . IDENT_2 IDENT_3 = graph . add ( new org . IDENT_0 . compiler . graph . test . IDENT_1 . METHOD_1 ( ) ) ; map . METHOD_2 ( IDENT_3 , 1 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( ( ( java . lang . Integer ) ( 1 ) ) , map . get ( IDENT_3 ) ) 

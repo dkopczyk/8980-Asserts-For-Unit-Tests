@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Long > IDENT_0 = org . apache . flink . IDENT_1 . client . state . serialization . IDENT_2 . METHOD_1 ( new byte [ ] { } , IDENT_3 . INSTANCE ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_4 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_0 . size ( ) ) 

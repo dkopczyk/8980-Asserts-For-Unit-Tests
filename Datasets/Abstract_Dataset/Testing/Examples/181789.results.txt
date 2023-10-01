@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long entry = table . put ( "test" ) ; "<AssertPlaceHolder>" ; } put ( java . lang . String ) { return put ( ( - 1 ) , string ) ; }
+org . junit . Assert . assertEquals ( entry , table . put ( "test" ) ) 

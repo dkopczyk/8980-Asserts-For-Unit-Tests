@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . alibaba . IDENT_0 . service . IDENT_1 . IDENT_2 IDENT_3 = new com . alibaba . IDENT_0 . service . IDENT_1 . METHOD_1 ( IDENT_4 , request ) ; java . lang . String IDENT_5 = STRING_0 + ( com . alibaba . IDENT_0 . service . IDENT_1 . IDENT_6 . class ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( STRING_1 + ( path ) ) + "]" ; }
+org . junit . Assert . assertEquals ( IDENT_5 , IDENT_3 . toString ( ) ) 

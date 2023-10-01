@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . reflect . Method expected = org . easymock . IDENT_0 . IDENT_1 . IDENT_2 . class . METHOD_1 ( "foo" , int . class ) ; java . lang . reflect . Method actual = org . easymock . internal . IDENT_3 . METHOD_1 ( org . easymock . IDENT_0 . IDENT_1 . IDENT_2 . class , "foo" , Integer . IDENT_4 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

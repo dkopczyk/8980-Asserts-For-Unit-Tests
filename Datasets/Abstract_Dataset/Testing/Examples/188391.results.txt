@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . IDENT_1 op = org . wildfly . core . test . IDENT_2 . IDENT_3 . api . IDENT_4 . METHOD_1 ( ) ; op . get ( org . wildfly . core . test . IDENT_2 . IDENT_3 . api . IDENT_5 ) . set ( 1 ) ; org . jboss . IDENT_0 . IDENT_1 result = METHOD_2 ( op ) ; int IDENT_6 = org . wildfly . core . test . IDENT_2 . IDENT_3 . api . IDENT_4 . METHOD_3 ( result , 1 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return IDENT_7 . getAbsolutePath ( ) ; }
+org . junit . Assert . assertEquals ( result . toString ( ) , 1 , IDENT_6 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . setProperty ( "foo" , "bar" ) ; IDENT_0 . setProperty ( STRING_0 , STRING_1 ) ; org . IDENT_1 . core . impl . IDENT_2 IDENT_3 = new org . IDENT_1 . core . impl . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return new java . util . HashMap ( properties ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . METHOD_2 ( ) , IDENT_3 . METHOD_2 ( ) ) 

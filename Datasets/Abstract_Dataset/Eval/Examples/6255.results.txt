@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = "foo" ; resolver . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , resolver . METHOD_2 ( ) ) 

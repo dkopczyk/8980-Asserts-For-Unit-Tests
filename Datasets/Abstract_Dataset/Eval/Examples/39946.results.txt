@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . IDENT_0 . IDENT_1 IDENT_2 = new org . openscience . cdk . IDENT_0 . METHOD_1 ( org . openscience . cdk . IDENT_0 . interfaces . IDENT_3 . IDENT_4 , false ) ; IDENT_2 . init ( org . openscience . cdk . IDENT_0 . IDENT_5 . IDENT_6 , org . openscience . cdk . IDENT_0 . IDENT_5 . IDENT_7 , true , true ) ; IDENT_2 . METHOD_2 ( true , true , true ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_8 . isEmpty ( ) ? null : IDENT_8 ; }
+org . junit . Assert . assertEquals ( 6 , IDENT_2 . METHOD_3 ( ) . size ( ) ) 

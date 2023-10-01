@@ -1,0 +1,2 @@
+METHOD_0 ( ) { info . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 tree = new info . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) ; tree . METHOD_2 ( "/" ) ; java . util . Map < java . lang . String , java . lang . String > IDENT_6 = tree . match ( "/" ) ; "<AssertPlaceHolder>" ; } size ( ) { return template . size ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_6 . size ( ) , 0 ) 

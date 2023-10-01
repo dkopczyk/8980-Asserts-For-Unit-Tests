@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 IDENT_1 = IDENT_0 . IDENT_3 . METHOD_1 ( ) . METHOD_2 ( IDENT_0 . IDENT_1 . IDENT_4 . class ) . create ( STRING_0 ) ; "<AssertPlaceHolder>" ; } create ( java . lang . String ) { return IDENT_5 . METHOD_3 ( sql ) ; }
+org . junit . Assert . assertNull ( IDENT_1 ) 

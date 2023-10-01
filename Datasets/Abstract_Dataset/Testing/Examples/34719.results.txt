@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . tests . model . IDENT_1 > IDENT_2 = METHOD_1 ( list ) ; java . util . List < org . IDENT_0 . tests . model . IDENT_1 > results = METHOD_2 ( IDENT_2 , STRING_0 , org . IDENT_0 . criteria . IDENT_3 . METHOD_3 ( org . IDENT_0 . criteria . IDENT_3 . METHOD_4 ( STRING_1 , ( - 1 ) , ( - 1 ) ) , eq ( STRING_0 , STRING_2 ) ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return 0 ; }
+org . junit . Assert . assertEquals ( 1 , results . size ( ) ) 

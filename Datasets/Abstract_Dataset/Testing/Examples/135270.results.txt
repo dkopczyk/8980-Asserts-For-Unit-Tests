@@ -1,0 +1,2 @@
+METHOD_0 ( ) { manager . METHOD_1 ( IDENT_0 , METHOD_2 ( IDENT_1 , a , b ) ) ; manager . METHOD_1 ( IDENT_0 , METHOD_2 ( IDENT_1 , a , c ) ) ; manager . METHOD_1 ( IDENT_0 , METHOD_3 ( IDENT_1 ) ) ; METHOD_4 ( ) ; boolean IDENT_2 = IDENT_3 . METHOD_5 ( ) ; "<AssertPlaceHolder>" ; manager . METHOD_6 ( IDENT_0 , METHOD_2 ( IDENT_1 , a , b ) ) ; manager . METHOD_6 ( IDENT_0 , METHOD_2 ( IDENT_1 , a , c ) ) ; manager . METHOD_6 ( IDENT_0 , METHOD_3 ( IDENT_1 ) ) ; } METHOD_5 ( ) { return true ; }
+org . junit . Assert . assertFalse ( IDENT_2 ) 

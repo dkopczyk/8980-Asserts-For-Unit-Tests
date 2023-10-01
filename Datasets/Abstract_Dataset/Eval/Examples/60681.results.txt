@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . service . IDENT_0 result = IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { org . eclipse . rap . rwt . IDENT_2 . METHOD_2 ( ) ; return org . eclipse . rap . rwt . internal . service . IDENT_3 . METHOD_1 ( ) ; }
+org . junit . Assert . assertNull ( result ) 

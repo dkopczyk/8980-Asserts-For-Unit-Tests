@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . cache . impl . IDENT_3 IDENT_4 = new com . IDENT_0 . IDENT_1 . IDENT_2 . cache . impl . METHOD_1 ( IDENT_5 , IDENT_6 , IDENT_7 , IDENT_8 , Boolean . IDENT_9 ) ; com . IDENT_10 . metrics . IDENT_11 . IDENT_12 . Result result = IDENT_4 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_13 ; }
+org . junit . Assert . assertThat ( result . METHOD_3 ( ) , org . hamcrest . core . Is . is ( true ) ) 

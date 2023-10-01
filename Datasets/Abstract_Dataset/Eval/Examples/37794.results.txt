@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date date = new java . util . Date ( ) ; org . IDENT_0 . model . IDENT_1 consumer = new org . IDENT_0 . model . METHOD_1 ( STRING_0 , STRING_1 , IDENT_2 , IDENT_3 ) ; consumer . METHOD_2 ( date ) ; java . lang . Thread . sleep ( 5 ) ; consumer = IDENT_4 . create ( consumer ) ; IDENT_4 . METHOD_3 ( consumer ) ; IDENT_4 . METHOD_4 ( consumer ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertTrue ( ( ( consumer . METHOD_5 ( ) . getTime ( ) ) > ( date . getTime ( ) ) ) ) 

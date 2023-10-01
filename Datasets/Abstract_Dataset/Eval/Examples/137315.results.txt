@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . IDENT_1 . bytes . IDENT_2 from = IDENT_3 . METHOD_1 ( INT_0 ) ; net . IDENT_0 . IDENT_1 . bytes . IDENT_2 to = IDENT_4 . METHOD_1 ( INT_0 ) ; from . write ( STRING_0 ) ; try { to . write ( from ) ; "<AssertPlaceHolder>" ; } finally { from . METHOD_2 ( ) ; to . METHOD_2 ( ) ; } } toString ( ) { try { return net . IDENT_0 . IDENT_1 . bytes . IDENT_5 . toString ( this ) ; } catch ( java . lang . Exception e ) { return e . toString ( ) ; } }
+org . junit . Assert . assertEquals ( from . toString ( ) , to . toString ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . IDENT_2 . List < java . lang . Integer > IDENT_3 = com . IDENT_0 . IDENT_1 . IDENT_2 . Arrays . asList ( 1 , 2 , 3 ) ; final com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 < java . lang . Integer > split = METHOD_1 ( IDENT_3 ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 . METHOD_2 ( ) ; }
+org . junit . Assert . assertNotNull ( split ) 

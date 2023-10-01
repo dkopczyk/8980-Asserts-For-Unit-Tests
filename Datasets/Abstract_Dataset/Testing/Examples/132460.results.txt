@@ -1,0 +1,2 @@
+METHOD_0 ( ) { models . Person person = new models . Person ( ) ; person . name = STRING_0 ; java . lang . String response = IDENT_0 . METHOD_1 ( ( ( METHOD_2 ( ) ) + STRING_1 ) , person ) ; models . Person result = new com . fasterxml . jackson . databind . METHOD_3 ( ) . METHOD_4 ( response , models . Person . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_1 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( person . name , result . name ) 

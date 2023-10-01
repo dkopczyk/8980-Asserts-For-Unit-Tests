@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } add ( com . IDENT_0 . json . IDENT_1 ) { if ( value == null ) { throw new java . lang . METHOD_1 ( STRING_0 ) ; } values . add ( value ) ; return this ; }
+org . junit . Assert . assertSame ( array , array . add ( "foo" ) ) 

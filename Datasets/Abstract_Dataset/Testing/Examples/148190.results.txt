@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Integer IDENT_0 = 10 ; METHOD_1 ( this . delegate . METHOD_2 ( ) ) . METHOD_3 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( this . state . METHOD_4 ( ) ) / ( METHOD_5 ( ) ) ; }
+org . junit . Assert . assertThat ( this . request . METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( IDENT_0 ) ) 

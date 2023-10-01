@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String result = io . netty . util . internal . logging . IDENT_0 . format ( null , 1 ) . getMessage ( ) ; "<AssertPlaceHolder>" ; } getMessage ( ) { return message ; }
+org . junit . Assert . assertNull ( result ) 

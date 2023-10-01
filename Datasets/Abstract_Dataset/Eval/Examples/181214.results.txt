@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String key = "" ; java . lang . String result = fixture . METHOD_1 ( ) . get ( key ) ; "<AssertPlaceHolder>" ; } get ( byte [ ] ) { IDENT_0 . position ( ( ( int ) ( ( IDENT_1 ) / ( org . eclipse . IDENT_2 . IDENT_3 . core . event . io . IDENT_4 . IDENT_5 ) ) ) ) ; IDENT_0 . get ( IDENT_6 ) ; IDENT_1 += ( IDENT_6 . length ) * ( org . eclipse . IDENT_2 . IDENT_3 . core . event . io . IDENT_4 . IDENT_5 ) ; }
+org . junit . Assert . assertNull ( result ) 

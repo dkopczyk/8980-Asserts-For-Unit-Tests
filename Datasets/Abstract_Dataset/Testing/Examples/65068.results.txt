@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . tests . IDENT_3 IDENT_4 = com . IDENT_0 . IDENT_1 . IDENT_2 . tests . IDENT_5 . METHOD_1 ( ) . add ( IDENT_6 , METHOD_2 ( IDENT_7 , STRING_0 ) , STRING_1 ) ; java . util . Map < java . lang . String , java . lang . String > result = cc . METHOD_3 ( IDENT_4 , IDENT_8 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return getValue ( name ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , result . get ( ( ( IDENT_7 ) + STRING_0 ) ) ) 

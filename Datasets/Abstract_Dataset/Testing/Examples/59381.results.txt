@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; org . eclipse . jgit . IDENT_0 . IDENT_1 IDENT_2 = repo . commit ( ) . parent ( IDENT_3 ) . create ( ) ; repo . update ( STRING_0 , IDENT_2 ) ; java . util . List < org . eclipse . jgit . lib . IDENT_4 > IDENT_5 = IDENT_6 . METHOD_1 ( ) ; for ( org . eclipse . jgit . lib . IDENT_4 ref : IDENT_5 ) { try { ref . METHOD_2 ( ) ; org . junit . Assert . fail ( STRING_1 ) ; } catch ( java . lang . IDENT_7 e ) { } } } METHOD_3 ( ) { return true ; }
+org . junit . Assert . assertFalse ( IDENT_6 . METHOD_3 ( ) ) 

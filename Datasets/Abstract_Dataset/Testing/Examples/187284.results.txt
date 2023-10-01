@@ -1,0 +1,2 @@
+METHOD_0 ( ) { builder = new com . alibaba . IDENT_0 . util . internal . METHOD_1 ( ) ; builder . METHOD_2 ( com . alibaba . IDENT_0 . util . internal . IDENT_1 . IDENT_2 . class ) ; builder . METHOD_2 ( com . alibaba . IDENT_0 . util . internal . IDENT_1 . IDENT_3 . class ) ; java . lang . Object util = builder . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { return true ; }
+org . junit . Assert . assertFalse ( util . equals ( builder . METHOD_3 ( ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . http . IDENT_1 IDENT_2 = com . IDENT_0 . http . IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { com . IDENT_0 . http . IDENT_1 config = new com . IDENT_0 . http . METHOD_2 ( ) ; config . METHOD_3 ( IDENT_3 . IDENT_4 ) ; return config ; }
+org . junit . Assert . assertTrue ( ( IDENT_2 instanceof com . IDENT_0 . http . METHOD_2 ) ) 

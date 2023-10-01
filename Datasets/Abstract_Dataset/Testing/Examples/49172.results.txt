@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final io . IDENT_1 . IDENT_2 . Path path = io . IDENT_1 . IDENT_2 . Path . of ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return string ; }
+org . junit . Assert . assertThat ( path . toString ( ) , org . hamcrest . Matchers . is ( IDENT_0 ) ) 

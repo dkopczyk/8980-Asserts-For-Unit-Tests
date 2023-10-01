@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = STRING_1 ; ch . puzzle . itc . mobiliar . business . IDENT_2 . entity . IDENT_3 IDENT_4 = new ch . puzzle . itc . mobiliar . IDENT_5 . METHOD_1 ( ) . METHOD_2 ( IDENT_0 , null , false ) ; IDENT_6 . METHOD_3 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; service . METHOD_4 ( IDENT_1 , IDENT_0 ) ; } getId ( ) { return id ; }
+org . junit . Assert . assertNotNull ( IDENT_6 . find ( ch . puzzle . itc . mobiliar . business . IDENT_2 . entity . IDENT_3 . class , IDENT_4 . getId ( ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < IDENT_0 . IDENT_1 . db . Entity > results = IDENT_0 . IDENT_1 . db . IDENT_2 . db . METHOD_1 ( IDENT_0 . IDENT_1 . db . Entity . create ( STRING_0 ) . set ( STRING_1 , null ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . size ; }
+org . junit . Assert . assertEquals ( 0 , results . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String user = STRING_0 ; java . lang . String IDENT_0 = STRING_0 ; com . ibm . IDENT_1 . IDENT_2 . log . IDENT_3 . info ( com . ibm . ws . security . IDENT_4 . adapter . ldap . IDENT_5 . IDENT_6 . c , STRING_1 , STRING_2 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return IDENT_7 . METHOD_1 ( IDENT_8 ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , com . ibm . ws . security . IDENT_4 . adapter . ldap . IDENT_5 . IDENT_6 . servlet . METHOD_1 ( user ) ) 

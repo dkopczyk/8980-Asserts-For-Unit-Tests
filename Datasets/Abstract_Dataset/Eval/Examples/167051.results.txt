@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File file = new java . io . File ( STRING_0 ) ; info . IDENT_0 . IDENT_1 . base . interfaces . IDENT_2 . IDENT_3 path = new info . IDENT_0 . IDENT_1 . base . path . Path ( file ) ; "<AssertPlaceHolder>" ; } getPath ( ) { return path ; }
+org . junit . Assert . assertEquals ( STRING_0 , path . getPath ( ) ) 

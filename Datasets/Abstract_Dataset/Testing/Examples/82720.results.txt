@@ -1,0 +1,2 @@
+METHOD_0 ( ) { me . IDENT_0 . cassandra . IDENT_1 . IDENT_2 < java . lang . Object > ext = me . IDENT_0 . cassandra . IDENT_1 . IDENT_2 . get ( ) ; java . nio . ByteBuffer IDENT_3 = ext . METHOD_1 ( STRING_0 . getBytes ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( me . IDENT_0 . IDENT_4 . api . beans . IDENT_5 ) { return obj . serialize ( ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_3 != null ) ) 

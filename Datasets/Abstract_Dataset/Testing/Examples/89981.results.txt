@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 results = runner . METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 . IDENT_5 . class . getName ( ) ) ; "<AssertPlaceHolder>" ; } getName ( ) { return module . getName ( ) ; }
+org . junit . Assert . assertTrue ( isEmpty ( results ) ) 

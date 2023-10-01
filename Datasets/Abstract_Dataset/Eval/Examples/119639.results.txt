@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . brp . service . IDENT_0 . algemeen . IDENT_1 IDENT_2 = METHOD_1 ( IDENT_3 . IDENT_4 ) ; IDENT_5 . execute ( IDENT_2 ) ; for ( nl . bzk . brp . domain . IDENT_6 . IDENT_7 IDENT_8 : IDENT_2 . METHOD_2 ( ) . METHOD_3 ( ) ) { "<AssertPlaceHolder>" ; } } METHOD_4 ( nl . bzk . brp . domain . IDENT_6 . IDENT_9 ) { return IDENT_10 . containsKey ( model ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_4 ( IDENT_8 ) ) 

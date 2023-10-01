@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } e ( ) { return com . couchbase . client . java . query . IDENT_0 . IDENT_1 . x ( STRING_0 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , e ( ) . toString ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( new IDENT_1 . common . services . METHOD_2 ( ) { @ IDENT_2 . control . Override public void update ( ) { "<AssertPlaceHolder>" ; } } ) ; IDENT_0 . METHOD_3 ( ) ; } update ( ) { METHOD_4 ( ) ; METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( true , true ) 

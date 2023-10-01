@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( org . apache . shindig . IDENT_0 . IDENT_1 . List ) { return new org . apache . shindig . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_2 ( IDENT_3 , executor ) . METHOD_3 ( METHOD_4 ( ) , nodes ) ; }
+org . junit . Assert . assertEquals ( false , METHOD_1 ( new org . apache . shindig . IDENT_0 . IDENT_1 . ArrayList < org . w3c . dom . Node > ( ) ) ) 

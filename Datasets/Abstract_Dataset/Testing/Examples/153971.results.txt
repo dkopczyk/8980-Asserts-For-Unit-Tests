@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . ws . rs . client . IDENT_0 . Builder request = org . jboss . IDENT_1 . test . IDENT_2 . IDENT_3 . IDENT_4 . client . target ( org . jboss . IDENT_1 . test . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( STRING_0 ) ) . request ( ) ; javax . ws . rs . core . Response response = request . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } getStatus ( ) { return status ; }
+org . junit . Assert . assertEquals ( 200 , response . getStatus ( ) ) 

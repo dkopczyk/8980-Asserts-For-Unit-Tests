@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( 2 , 0 ) ; java . util . concurrent . IDENT_1 < com . IDENT_2 . IDENT_3 . impl . operation . IDENT_4 . IDENT_5 > future = IDENT_0 . METHOD_2 ( 10 , STRING_0 , false ) ; IDENT_0 . METHOD_3 ( 1 , 1 , 1 ) ; "<AssertPlaceHolder>" ; IDENT_0 . METHOD_4 ( ) ; IDENT_0 . METHOD_3 ( 1 , 1 , 1 ) ; } METHOD_5 ( ) { return ( IDENT_6 ) == 0 ; }
+org . junit . Assert . assertFalse ( future . METHOD_5 ( ) ) 

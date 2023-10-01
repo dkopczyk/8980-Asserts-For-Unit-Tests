@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . util . IDENT_2 actual = new com . IDENT_0 . IDENT_1 . util . METHOD_1 ( ) ; actual . add ( STRING_0 , 5 ) ; actual . add ( STRING_1 , 5 ) ; actual . add ( STRING_2 , 3 ) ; java . lang . String expected = "" + ( STRING_3 + STRING_4 ) ; "<AssertPlaceHolder>" ; } format ( ) { return java . lang . String . format ( STRING_5 , IDENT_3 , METHOD_2 ( IDENT_4 ) ) ; }
+org . junit . Assert . assertEquals ( expected , actual . format ( ) ) 

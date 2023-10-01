@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . stream . Optional < com . IDENT_0 . stream . IDENT_1 > IDENT_2 = com . IDENT_0 . stream . Optional . of ( com . IDENT_0 . stream . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } of ( T ) { return new com . IDENT_0 . stream . Optional < T > ( value ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_2 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . common . query . cache . IDENT_1 result = new com . IDENT_0 . common . query . cache . METHOD_1 ( STRING_0 , 100 , new java . util . ArrayList < java . lang . Object > ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return true ; }
+org . junit . Assert . assertTrue ( result . METHOD_2 ( ) ) 

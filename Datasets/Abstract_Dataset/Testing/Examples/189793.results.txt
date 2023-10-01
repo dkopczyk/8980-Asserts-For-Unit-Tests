@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean condition = IDENT_0 . IDENT_1 . example . util . IDENT_2 . METHOD_1 ( STRING_0 ) ; System . out . println ( condition ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return IDENT_0 . IDENT_1 . example . util . IDENT_2 . IDENT_3 . values ( ) . contains ( org . springframework . http . IDENT_4 . valueOf ( IDENT_5 ) ) ; }
+org . junit . Assert . assertTrue ( condition ) 

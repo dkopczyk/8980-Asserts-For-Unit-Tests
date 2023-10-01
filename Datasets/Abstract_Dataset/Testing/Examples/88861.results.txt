@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . mapping . service . IDENT_1 > result = this . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { logger . debug ( STRING_0 ) ; return INT_0 ; }
+org . junit . Assert . assertEquals ( 5 , result . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . internal . application . IDENT_0 IDENT_1 = mock ( org . eclipse . rap . rwt . internal . application . IDENT_0 . class ) ; IDENT_2 . METHOD_1 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { org . eclipse . rap . rwt . IDENT_3 . METHOD_3 ( ) ; return org . eclipse . rap . rwt . internal . service . IDENT_4 . METHOD_2 ( ) ; }
+org . junit . Assert . assertSame ( IDENT_1 , IDENT_2 . METHOD_2 ( ) ) 

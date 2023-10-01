@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . solr . core . query . IDENT_0 criteria = new org . springframework . data . solr . core . query . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . springframework . data . solr . core . query . IDENT_1 . IDENT_2 ; }
+org . junit . Assert . assertThat ( criteria . METHOD_2 ( ) , org . hamcrest . core . Is . is ( STRING_0 ) ) 

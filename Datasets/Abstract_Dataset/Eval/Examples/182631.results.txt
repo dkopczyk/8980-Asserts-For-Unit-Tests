@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; net . IDENT_0 . message . IDENT_1 message = new net . IDENT_0 . message . METHOD_2 ( INT_0 , new java . lang . String [ 0 ] , new net . IDENT_0 . message . IDENT_2 [ 0 ] ) ; session . METHOD_3 ( IDENT_3 , message ) ; verify ( IDENT_4 ) . METHOD_4 ( METHOD_5 ( message ) ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return ( buffer . METHOD_7 ( 2 ) ) & INT_1 ; }
+org . junit . Assert . assertEquals ( 1 , message . METHOD_6 ( ) ) 

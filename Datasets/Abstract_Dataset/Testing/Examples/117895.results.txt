@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . sql . impl . parser . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . sql . impl . parser . METHOD_1 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; org . IDENT_0 . IDENT_1 . sql . impl . task . strategy . IDENT_5 strategy = METHOD_2 ( ) ; strategy . process ( IDENT_3 , org . IDENT_0 . IDENT_1 . sql . impl . task . strategy . IDENT_6 ) ; } METHOD_3 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertThat ( IDENT_3 . METHOD_3 ( ) , is ( empty ( ) ) ) 

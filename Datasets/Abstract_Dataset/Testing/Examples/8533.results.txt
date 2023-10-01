@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . tools . IDENT_1 task = new org . apache . IDENT_0 . tools . METHOD_1 ( ) ; task . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { this . url = url ; }
+org . junit . Assert . assertEquals ( STRING_0 , task . url ) 

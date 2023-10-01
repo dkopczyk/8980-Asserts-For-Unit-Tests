@@ -1,0 +1,2 @@
+test ( ) { final IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = IDENT_0 . IDENT_1 . IDENT_4 . create ( ) ; final java . lang . Object res = IDENT_3 . METHOD_0 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String ) { return METHOD_0 ( IDENT_5 , null , null ) ; }
+org . junit . Assert . assertEquals ( java . lang . Integer . valueOf ( 2 ) , res ) 

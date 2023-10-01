@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . IDENT_2 . classes . IDENT_3 . IDENT_4 IDENT_5 = new com . IDENT_0 . IDENT_1 . IDENT_2 . classes . IDENT_3 . METHOD_1 ( ) ; IDENT_5 . METHOD_2 ( IDENT_6 . IDENT_7 ) ; final java . lang . String IDENT_8 = STRING_0 ; "<AssertPlaceHolder>" ; } toString ( ) { return this . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_8 , IDENT_5 . toString ( ) ) 

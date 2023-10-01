@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . IDENT_1 . rules . IDENT_2 [ ] matches = METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return rule . match ( IDENT_3 . METHOD_2 ( text ) ) ; }
+org . junit . Assert . assertEquals ( 0 , matches . length ) 

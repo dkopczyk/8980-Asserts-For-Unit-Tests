@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . wildfly . security . IDENT_0 . IDENT_1 IDENT_2 = new org . wildfly . security . IDENT_0 . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( STRING_0 ) ; byte [ ] expected = new byte [ ] { INT_0 , INT_1 , INT_2 , INT_3 , INT_4 , INT_2 , INT_5 , INT_6 , INT_7 , INT_4 , INT_8 , INT_9 , INT_10 , INT_11 , INT_12 } ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_3 . METHOD_4 ( ) ; }
+org . junit . Assert . assertArrayEquals ( expected , IDENT_2 . METHOD_3 ( ) ) 

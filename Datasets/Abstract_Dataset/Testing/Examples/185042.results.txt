@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . IDENT_0 , java . lang . Class , java . util . Locale ) { if ( value == null ) { return null ; } return value . toString ( ) ; }
+org . junit . Assert . assertEquals ( null , converter . METHOD_1 ( null , java . lang . IDENT_0 . class , null ) ) 

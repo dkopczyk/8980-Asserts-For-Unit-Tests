@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File IDENT_0 = new java . io . File ( STRING_0 ) ; org . apache . maven . IDENT_1 . IDENT_2 source = new org . apache . maven . IDENT_1 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return file . getPath ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . getAbsolutePath ( ) , source . METHOD_2 ( ) ) 

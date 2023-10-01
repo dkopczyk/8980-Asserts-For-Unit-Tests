@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . entity . IDENT_1 task = IDENT_2 . save ( new com . IDENT_0 . entity . METHOD_1 ( STRING_0 ) ) ; task . METHOD_2 ( STRING_1 ) ; IDENT_2 . save ( task ) ; com . IDENT_0 . entity . METHOD_1 IDENT_3 = IDENT_2 . METHOD_3 ( task . getId ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return description ; }
+org . junit . Assert . assertEquals ( STRING_1 , IDENT_3 . METHOD_4 ( ) ) 

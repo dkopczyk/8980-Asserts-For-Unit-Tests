@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . model . IDENT_1 IDENT_2 = subject . map ( org . IDENT_0 . IDENT_3 . mapping . IDENT_4 . IDENT_5 ) ; org . IDENT_0 . model . IDENT_1 IDENT_6 = subject . map ( org . IDENT_0 . IDENT_3 . mapping . IDENT_4 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } map ( org . IDENT_7 . IDENT_3 . model . IDENT_1 ) { return IDENT_8 == null ? null : IDENT_9 . METHOD_1 ( IDENT_8 , this :: IDENT_10 ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_2 == IDENT_6 ) ) 

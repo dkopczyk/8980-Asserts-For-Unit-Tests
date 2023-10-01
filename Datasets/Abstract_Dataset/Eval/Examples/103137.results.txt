@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . google . IDENT_0 . json . client . IDENT_1 actual = converter . METHOD_1 ( null ) ; final com . google . IDENT_0 . json . client . IDENT_1 expected = com . google . IDENT_0 . json . client . IDENT_2 . getInstance ( ) ; "<AssertPlaceHolder>" ; } getInstance ( ) { return delegate . getInstance ( ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

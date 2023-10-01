@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . gson . IDENT_0 gson = new com . google . gson . METHOD_1 ( ) . METHOD_2 ( ) . METHOD_3 ( ) . create ( ) ; com . microsoft . azure . sdk . iot . IDENT_1 . IDENT_2 . IDENT_3 result = gson . METHOD_4 ( tests . unit . com . microsoft . azure . sdk . iot . IDENT_1 . IDENT_2 . IDENT_4 . IDENT_5 , com . microsoft . azure . sdk . iot . IDENT_1 . IDENT_2 . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return this . IDENT_6 ; }
+org . junit . Assert . assertEquals ( false , result . METHOD_5 ( ) ) 

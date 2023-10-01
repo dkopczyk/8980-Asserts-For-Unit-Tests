@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . util . IDENT_2 buffer = METHOD_1 ( ) ; byte [ ] test = new byte [ 9 ] ; buffer . METHOD_2 ( test , 0 , 9 ) ; int expected = 1 ; for ( byte b : test ) { "<AssertPlaceHolder>" ; expected ++ ; } } METHOD_2 ( byte [ ] , int , int ) { buffer . METHOD_2 ( source , IDENT_3 , len ) ; }
+org . junit . Assert . assertEquals ( expected , b ) 

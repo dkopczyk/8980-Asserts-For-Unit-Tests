@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = INT_0 ; long IDENT_1 = IDENT_2 . get ( com . baeldung . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 ) ; long IDENT_7 = IDENT_2 . METHOD_1 ( STRING_0 , IDENT_0 , ( x , y ) -> x * y ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Integer ) { return IDENT_8 . METHOD_2 ( org . hibernate . IDENT_9 . class ) . METHOD_3 ( ) . get ( org . baeldung . IDENT_10 . model . IDENT_11 . class , id ) ; }
+org . junit . Assert . assertEquals ( IDENT_7 , ( IDENT_1 * IDENT_0 ) ) 

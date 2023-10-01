@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 , METHOD_2 ( ) , com . IDENT_0 . IDENT_1 . IDENT_2 . io . IDENT_3 ) ; METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return ( ( org . eclipse . jgit . lib . IDENT_4 ) ( METHOD_5 ( path , com . IDENT_0 . IDENT_1 . IDENT_2 . io . IDENT_5 ) ) ) ; }
+org . junit . Assert . assertEquals ( com . IDENT_0 . IDENT_1 . IDENT_2 . io . IDENT_3 , METHOD_4 ( STRING_0 ) ) 

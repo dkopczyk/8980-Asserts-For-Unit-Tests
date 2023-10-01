@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; com . spotify . IDENT_0 . IDENT_1 < java . lang . String > result = IDENT_2 . METHOD_2 ( com . spotify . IDENT_0 . IDENT_3 . IDENT_4 , com . spotify . IDENT_0 . IDENT_3 . IDENT_5 ) . METHOD_3 ( ) . get ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String , int ) { return METHOD_4 ( key , IDENT_6 ) ; }
+org . junit . Assert . assertNull ( result ) 

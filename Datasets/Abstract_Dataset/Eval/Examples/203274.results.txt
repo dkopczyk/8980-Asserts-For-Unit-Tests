@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . Object , java . lang . Object > IDENT_0 = org . IDENT_1 . core . IDENT_2 . METHOD_1 ( org . IDENT_1 . core . IDENT_3 . METHOD_2 ( 2 , 2 , 3 , 3 ) , org . IDENT_1 . core . IDENT_3 . METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( METHOD_1 , org . hamcrest . Matchers . equalTo ( org . IDENT_1 . core . IDENT_3 . METHOD_2 ( 2 , null , 3 , null ) ) ) 

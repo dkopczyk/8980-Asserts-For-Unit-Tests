@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . gs . collections . impl . list . IDENT_0 . IDENT_1 IDENT_2 = com . gs . collections . impl . list . IDENT_0 . IDENT_1 . METHOD_1 ( 3 ) ; com . gs . collections . impl . math . IDENT_3 result = IDENT_2 . METHOD_0 ( new com . gs . collections . impl . math . METHOD_2 ( 0 ) , METHOD_2 :: add ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( double , com . gs . collections . api . block . function . IDENT_0 . IDENT_4 ) { return 0 ; }
+org . junit . Assert . assertEquals ( new com . gs . collections . impl . math . METHOD_2 ( 6 ) , result ) 

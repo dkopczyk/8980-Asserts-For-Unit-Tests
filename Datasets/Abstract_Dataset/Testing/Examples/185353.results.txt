@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( org . openqa . selenium . IDENT_0 , com . vaadin . IDENT_1 . commands . IDENT_2 ) { if ( element instanceof com . vaadin . IDENT_1 . IDENT_3 ) { return ( ( com . vaadin . IDENT_1 . IDENT_3 ) ( element ) ) ; } else { return com . vaadin . IDENT_1 . IDENT_4 . METHOD_2 ( element , IDENT_5 ) ; } }
+org . junit . Assert . assertNull ( com . vaadin . IDENT_1 . IDENT_3 . METHOD_1 ( null , null ) ) 

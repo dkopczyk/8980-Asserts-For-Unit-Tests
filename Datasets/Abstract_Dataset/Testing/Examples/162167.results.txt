@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String line = null ; com . github . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 target = new com . github . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( line ) ; java . lang . Object obj = null ; boolean actual = target . equals ( obj ) ; boolean expected = false ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { return ( obj != null ) && ( this . toString ( ) . equals ( obj . toString ( ) ) ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

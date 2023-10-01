@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String field = STRING_0 ; java . nio . ByteBuffer IDENT_0 = java . nio . ByteBuffer . METHOD_1 ( STRING_1 . getBytes ( ) ) ; IDENT_0 . METHOD_2 ( ) ; org . apache . avro . IDENT_1 . IDENT_2 r = METHOD_3 ( field , STRING_2 , IDENT_0 ) ; "<AssertPlaceHolder>" ; } get ( int ) { return IDENT_3 . get ( i ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , r . get ( STRING_2 ) ) 

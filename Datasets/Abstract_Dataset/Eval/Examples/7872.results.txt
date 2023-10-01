@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 ; try ( org . apache . IDENT_1 . client . api . IDENT_2 writer = result ( METHOD_1 ( ) . METHOD_2 ( org . apache . IDENT_1 . client . api . IDENT_3 . IDENT_4 ) . execute ( ) ) ) { IDENT_0 = writer . getId ( ) ; "<AssertPlaceHolder>" ; } result ( METHOD_3 ( ) . METHOD_4 ( IDENT_0 ) . execute ( ) ) ; result ( METHOD_3 ( ) . METHOD_4 ( IDENT_0 ) . execute ( ) ) ; } METHOD_5 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( ( - 1L ) , writer . METHOD_5 ( ) ) 

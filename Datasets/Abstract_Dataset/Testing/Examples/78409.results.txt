@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( 1 ) ; com . google . cloud . IDENT_0 . IDENT_1 [ ] IDENT_2 = new IDENT_1 . IDENT_3 [ ] { IDENT_1 . IDENT_3 . fields ( ) } ; expect ( IDENT_0 . METHOD_2 ( ) ) . andReturn ( IDENT_4 ) ; expect ( IDENT_0 . METHOD_3 ( com . google . cloud . IDENT_0 . IDENT_5 . IDENT_6 . METHOD_4 ( ) , IDENT_2 ) ) . andReturn ( null ) ; replay ( IDENT_0 ) ; METHOD_5 ( ) ; "<AssertPlaceHolder>" ; } exists ( ) { boolean exists = IDENT_7 . exists ( ) ; if ( exists ) { } else { } return exists ; }
+org . junit . Assert . assertFalse ( table . exists ( ) ) 

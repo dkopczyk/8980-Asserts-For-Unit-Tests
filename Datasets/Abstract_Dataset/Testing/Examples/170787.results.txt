@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . commons . math . analysis . function . IDENT_0 f = new org . apache . commons . math . analysis . function . METHOD_1 ( ) ; final org . apache . commons . math . analysis . IDENT_1 IDENT_2 = f . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } value ( double ) { final double [ ] x = new double [ n ] ; for ( int i = 0 ; i < n ; i ++ ) { x [ i ] = ( p [ i ] ) + ( IDENT_3 * ( d [ i ] ) ) ; } final double obj = this . METHOD_3 ( x ) ; return obj ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_2 . value ( 0 ) , 0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Throwable IDENT_0 = new java . lang . RuntimeException ( ) ; java . lang . Exception exception = new com . IDENT_1 . IDENT_2 . utils . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_0 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , exception . METHOD_2 ( ) ) 

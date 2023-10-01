@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . model . transform . IDENT_2 < IDENT_0 . IDENT_1 . model . collections . list . IDENT_3 < java . lang . Integer > , IDENT_0 . IDENT_1 . model . collections . list . IDENT_3 < java . lang . String > > IDENT_4 = select . transform ( from , to ) ; IDENT_4 . METHOD_1 ( ) ; from . add ( 0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_5 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( to . isEmpty ( ) ) 

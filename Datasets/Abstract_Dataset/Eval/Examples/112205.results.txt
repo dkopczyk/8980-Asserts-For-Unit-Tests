@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . Response response = org . IDENT_0 . tests . IDENT_1 . IDENT_2 . save ( new org . IDENT_0 . tests . METHOD_1 ( ) ) ; org . IDENT_0 . tests . METHOD_1 IDENT_3 = org . IDENT_0 . tests . IDENT_1 . IDENT_2 . find ( org . IDENT_0 . tests . METHOD_1 . class , response . getId ( ) ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

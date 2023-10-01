@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . IDENT_2 v1 = com . github . IDENT_0 . IDENT_1 . IDENT_2 . valueOf ( STRING_0 ) ; com . github . IDENT_0 . IDENT_1 . IDENT_2 v2 = null ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { if ( ( this ) == other ) { return true ; } if ( ! ( other instanceof com . github . IDENT_0 . IDENT_1 . IDENT_2 ) ) { return false ; } return ( compareTo ( ( ( com . github . IDENT_0 . IDENT_1 . IDENT_2 ) ( other ) ) ) ) == 0 ; }
+org . junit . Assert . assertFalse ( v1 . equals ( v2 ) ) 

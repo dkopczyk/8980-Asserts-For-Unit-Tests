@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 a = IDENT_1 . METHOD_1 ( uk . ac . IDENT_2 . beam . IDENT_3 . METHOD_2 ( Element . IDENT_4 ) . METHOD_3 ( 4 ) . METHOD_4 ( 12 ) . build ( ) , 4 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return java . lang . Integer . valueOf ( 1 ) ; }
+org . junit . Assert . assertThat ( a . METHOD_5 ( ) , org . hamcrest . CoreMatchers . is ( 12 ) ) 

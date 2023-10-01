@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . kie . IDENT_0 . IDENT_1 . runtime . IDENT_2 . IDENT_3 IDENT_4 = IDENT_2 . IDENT_3 . IDENT_5 ; final org . kie . IDENT_0 . IDENT_1 . runtime . impl . IDENT_6 IDENT_7 = new org . kie . IDENT_0 . IDENT_1 . runtime . impl . METHOD_1 ( IDENT_4 , 10 , 15 , IDENT_2 . IDENT_3 . IDENT_8 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( IDENT_4 , IDENT_7 . METHOD_0 ( ) ) 

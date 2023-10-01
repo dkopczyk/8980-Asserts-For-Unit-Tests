@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; gov . hhs . fha . nhinc . IDENT_0 . IDENT_1 . IDENT_2 < gov . hhs . fha . nhinc . IDENT_3 . IDENT_4 , org . IDENT_5 . IDENT_6 . IDENT_7 , gov . hhs . fha . nhinc . IDENT_0 . IDENT_1 . IDENT_8 > instance = new gov . hhs . fha . nhinc . IDENT_0 . IDENT_1 . METHOD_1 ( null , null , null , null ) ; java . lang . Object expResult = null ; java . lang . Object result = instance . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return request ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

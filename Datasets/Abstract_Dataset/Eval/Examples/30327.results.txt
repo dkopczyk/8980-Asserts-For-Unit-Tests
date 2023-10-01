@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object metadata = com . microsoft . azure . IDENT_0 . query . IDENT_1 . IDENT_2 . metrics ( ) . METHOD_1 ( com . microsoft . azure . IDENT_0 . query . IDENT_1 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } metrics ( ) { return this . metrics ; }
+org . junit . Assert . assertNotNull ( metadata ) 

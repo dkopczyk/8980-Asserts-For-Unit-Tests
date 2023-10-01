@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = IDENT_1 . METHOD_1 ( ) ; IDENT_1 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { javax . persistence . criteria . IDENT_2 builder = METHOD_3 ( ) ; return METHOD_1 ( builder , METHOD_4 ( ) . count ( ( root ) -> builder . METHOD_5 ( root . get ( STRING_0 ) ) ) ) . METHOD_6 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_1 . METHOD_1 ( ) ) 

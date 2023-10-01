@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 = INT_0 ; IDENT_0 . IDENT_1 . version = 4 ; IDENT_0 . IDENT_1 . IDENT_3 = INT_1 ; IDENT_0 . connect ( IDENT_4 ) ; boolean result ; result = IDENT_0 . IDENT_5 . IDENT_6 . METHOD_1 ( org . onosproject . IDENT_7 . IDENT_8 . IDENT_9 , TimeUnit . IDENT_10 ) ; "<AssertPlaceHolder>" ; } is ( java . lang . Class ) { return true ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . core . Is . is ( true ) ) 

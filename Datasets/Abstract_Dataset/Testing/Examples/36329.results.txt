@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 < java . lang . Integer , java . lang . Integer > c = METHOD_1 ( org . IDENT_0 . test . core . Integer . class , org . IDENT_0 . test . core . Integer . class , null , 100 , ( - 1 ) ) ; c . put ( INT_0 , INT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { throw new java . lang . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( ( ( java . lang . Integer ) ( INT_1 ) ) , c . METHOD_2 ( ) . iterator ( ) . next ( ) . getValue ( ) ) 

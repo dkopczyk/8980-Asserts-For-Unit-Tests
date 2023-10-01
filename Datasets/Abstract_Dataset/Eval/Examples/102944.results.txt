@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = "" ; state . init ( null ) ; final java . lang . String IDENT_1 = state . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return METHOD_2 ( ) . map ( IDENT_2 :: METHOD_1 ) . METHOD_3 ( "" ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_1 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } isEmpty ( java . lang . String ) { return ( s == null ) || ( "" . equals ( s ) ) ; }
+org . junit . Assert . assertEquals ( false , instance . isEmpty ( " " ) ) 

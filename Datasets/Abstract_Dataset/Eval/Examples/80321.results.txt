@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . mongodb . IDENT_0 uri = new com . mongodb . METHOD_1 ( STRING_0 ) ; final java . lang . String s = new org . IDENT_1 . plugins . metrics . mongodb . IDENT_2 . METHOD_2 ( ) . METHOD_3 ( uri ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . IDENT_1 . plugins . metrics . IDENT_3 . IDENT_4 ) { if ( value == null ) { throw new com . github . IDENT_5 . IDENT_2 . METHOD_4 ( STRING_1 ) ; } return value . name ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , s ) 

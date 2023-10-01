@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean isValid = org . apache . IDENT_0 . data . impl . util . IDENT_1 . METHOD_1 ( org . apache . IDENT_0 . data . impl . util . IDENT_2 . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class ) { return ( IDENT_4 . METHOD_2 ( javax . persistence . Entity . class ) ) || ( org . apache . IDENT_0 . jpa . spi . IDENT_5 . xml . IDENT_6 . getInstance ( ) . METHOD_3 ( IDENT_4 ) ) ; }
+org . junit . Assert . assertFalse ( isValid ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = nl . IDENT_1 . IDENT_2 . hbase . IDENT_3 . getInstance ( "test" ) ; "<AssertPlaceHolder>" ; IDENT_0 . METHOD_1 ( ) ; } getInstance ( java . lang . String ) { try { nl . IDENT_1 . IDENT_2 . IDENT_4 IDENT_0 = new nl . IDENT_1 . IDENT_2 . hbase . METHOD_2 ( IDENT_5 ) ; return IDENT_0 ; } catch ( java . io . IOException e ) { return null ; } }
+org . junit . Assert . assertTrue ( ( ( IDENT_0 ) != null ) ) 

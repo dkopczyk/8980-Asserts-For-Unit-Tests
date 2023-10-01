@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_1 . api . IDENT_2 . IDENT_3 . IDENT_4 builder = new IDENT_0 . IDENT_1 . IDENT_1 . api . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; java . util . List < java . lang . String > test = java . util . Arrays . asList ( STRING_0 , STRING_1 ) ; builder . description ( STRING_0 , STRING_1 ) ; IDENT_0 . IDENT_1 . IDENT_1 . api . IDENT_2 . IDENT_5 item = builder . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return description ; }
+org . junit . Assert . assertEquals ( test , item . METHOD_2 ( ) ) 

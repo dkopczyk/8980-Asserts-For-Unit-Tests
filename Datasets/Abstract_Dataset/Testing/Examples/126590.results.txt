@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . IDENT_1 . IDENT_2 . persistence . entities . IDENT_3 IDENT_4 = METHOD_1 ( IDENT_5 ) ; java . util . Set < io . IDENT_0 . IDENT_1 . IDENT_2 . persistence . entities . IDENT_6 > IDENT_7 = IDENT_4 . METHOD_0 ( ) ; java . util . Set < io . IDENT_0 . IDENT_1 . IDENT_2 . persistence . entities . IDENT_6 > IDENT_8 = IDENT_9 . METHOD_0 ( IDENT_4 . getId ( ) ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( IDENT_7 . size ( ) , IDENT_8 . size ( ) ) 

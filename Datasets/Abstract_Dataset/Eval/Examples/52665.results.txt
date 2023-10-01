@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nd4j . linalg . api . ndarray . INDArray IDENT_0 = org . nd4j . linalg . factory . Nd4j . METHOD_1 ( 0 , 4 , 4 ) ; org . nd4j . linalg . api . ndarray . INDArray IDENT_1 = org . nd4j . linalg . indexing . IDENT_2 . METHOD_2 ( new org . nd4j . linalg . api . ndarray . INDArray [ ] { IDENT_0 } , java . util . Arrays . asList ( 0.0 ) , java . util . Collections . emptyList ( ) , new org . nd4j . linalg . indexing . IDENT_3 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } length ( ) { return 0 ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_1 . length ( ) ) 

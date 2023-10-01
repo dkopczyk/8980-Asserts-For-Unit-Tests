@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . teiid . query . resolver . IDENT_0 IDENT_1 = ( ( org . teiid . query . resolver . IDENT_0 ) ( org . teiid . query . resolver . IDENT_2 . METHOD_1 ( STRING_0 , org . teiid . query . IDENT_3 . IDENT_4 . METHOD_2 ( ) ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( this . IDENT_5 ) != null ) { return this . IDENT_5 ; } return java . util . Collections . IDENT_6 ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_1 . METHOD_3 ( ) . size ( ) ) 

@@ -1,0 +1,2 @@
+test ( ) { redis . IDENT_0 . IDENT_1 . IDENT_2 IDENT_1 = pool . getResource ( ) ; java . lang . String keys = "name" ; java . lang . String value = STRING_0 ; IDENT_1 . METHOD_0 ( keys ) ; IDENT_1 . set ( keys , value ) ; java . lang . String v = IDENT_1 . get ( keys ) ; System . out . println ( v ) ; pool . METHOD_1 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( value , v ) 

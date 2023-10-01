@@ -1,0 +1,2 @@
+METHOD_0 ( ) { de . IDENT_0 . IDENT_1 . IDENT_2 . model . builder . IDENT_3 IDENT_4 = new de . IDENT_0 . IDENT_1 . IDENT_2 . model . builder . METHOD_1 ( base ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return base ; }
+org . junit . Assert . assertThat ( base , org . hamcrest . core . Is . is ( org . hamcrest . CoreMatchers . equalTo ( IDENT_4 . METHOD_2 ( ) ) ) ) 

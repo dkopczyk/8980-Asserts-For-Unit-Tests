@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long input = ( Long . IDENT_0 ) + INT_0 ; java . io . ByteArrayOutputStream out = new java . io . ByteArrayOutputStream ( ) ; new java . io . METHOD_1 ( out ) . METHOD_2 ( input ) ; long expected = METHOD_3 ( out ) ; IDENT_1 . METHOD_4 ( input ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return ( hash ) & INT_1 ; }
+org . junit . Assert . assertEquals ( expected , IDENT_1 . getValue ( ) ) 

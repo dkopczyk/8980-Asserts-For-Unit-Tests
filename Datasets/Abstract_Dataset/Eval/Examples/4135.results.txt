@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 , STRING_1 , IDENT_1 ) ; IDENT_2 . METHOD_2 ( 200 , com . IDENT_3 . IDENT_4 . IDENT_5 ) ; IDENT_0 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return context . METHOD_5 ( com . IDENT_3 . IDENT_6 . IDENT_7 . IDENT_8 , android . content . Context . IDENT_9 ) . getString ( STRING_2 , "" ) ; }
+org . junit . Assert . assertThat ( METHOD_4 ( ) , org . hamcrest . CoreMatchers . equalTo ( "" ) ) 

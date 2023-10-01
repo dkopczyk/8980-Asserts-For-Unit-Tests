@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] IDENT_0 = new java . lang . String [ ] { STRING_0 , STRING_1 , STRING_2 , STRING_3 , STRING_4 , STRING_5 , STRING_6 , STRING_7 , STRING_8 } ; for ( java . lang . String IDENT_1 : IDENT_0 ) { "<AssertPlaceHolder>" ; } } METHOD_1 ( java . lang . String ) { return org . apache . commons . validator . IDENT_2 . IDENT_3 . getInstance ( ) . isValid ( IDENT_4 ) ; }
+org . junit . Assert . assertTrue ( validator . METHOD_1 ( IDENT_1 ) ) 

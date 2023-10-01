@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . rules . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . rules . METHOD_1 ( new org . IDENT_0 . model . METHOD_2 ( null , org . IDENT_0 . model . IDENT_4 . IDENT_5 ) , null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( IDENT_6 . METHOD_4 ( ) ) { return IDENT_7 . IDENT_8 ; } return 0 ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_3 . METHOD_3 ( ) ) 

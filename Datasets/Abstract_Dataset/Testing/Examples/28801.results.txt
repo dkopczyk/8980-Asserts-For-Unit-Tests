@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . amazonaws . services . IDENT_0 . IDENT_1 IDENT_2 = new com . amazonaws . services . IDENT_0 . METHOD_1 ( IDENT_3 ) ; final com . amazonaws . services . IDENT_0 . model . IDENT_4 obj = IDENT_2 . METHOD_2 ( com . amazonaws . services . IDENT_0 . IDENT_5 . IDENT_6 , com . amazonaws . services . IDENT_0 . IDENT_5 . key ) ; IDENT_2 = null ; METHOD_3 ( ) ; METHOD_4 ( obj . METHOD_5 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertNotNull ( obj . METHOD_5 ( ) ) 

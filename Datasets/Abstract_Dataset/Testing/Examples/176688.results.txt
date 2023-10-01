@@ -1,0 +1,2 @@
+METHOD_0 ( ) { buffer . put ( org . talend . IDENT_0 . job . controller . internal . IDENT_1 . IDENT_2 ) ; buffer . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return status . METHOD_2 ( ) ; }
+org . junit . Assert . assertFalse ( buffer . METHOD_2 ( ) ) 

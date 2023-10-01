@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; IDENT_0 . backend . IDENT_1 instance = new IDENT_0 . backend . METHOD_1 ( STRING_1 , java . awt . IDENT_2 . IDENT_3 ) ; java . lang . String name = STRING_2 ; instance . setName ( name ) ; java . lang . String result = instance . getName ( ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( name , result ) 

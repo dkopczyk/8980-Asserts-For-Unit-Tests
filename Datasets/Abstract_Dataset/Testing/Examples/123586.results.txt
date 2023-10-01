@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . brp . model . algemeen . IDENT_0 . kern . IDENT_1 IDENT_2 = nl . bzk . brp . model . algemeen . IDENT_0 . kern . IDENT_1 . METHOD_1 ( ) ; final nl . bzk . brp . model . IDENT_3 . IDENT_4 . IDENT_5 IDENT_4 = nl . bzk . brp . model . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertThat ( IDENT_4 . METHOD_3 ( ) , org . hamcrest . Matchers . is ( IDENT_2 ) ) 

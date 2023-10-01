@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . camunda . bpm . engine . IDENT_0 . User user = IDENT_1 . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { this . IDENT_2 = org . camunda . bpm . engine . impl . IDENT_3 . IDENT_4 . IDENT_5 ; if ( ( IDENT_6 ) != null ) { return ( ( IDENT_7 ) ( IDENT_6 . execute ( this ) ) ) ; } return METHOD_4 ( org . camunda . bpm . engine . impl . context . Context . METHOD_5 ( ) ) ; }
+org . junit . Assert . assertNull ( user ) 

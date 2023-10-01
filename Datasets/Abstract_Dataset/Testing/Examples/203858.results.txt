@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] a = new int [ 100 ] ; for ( int i = a . length ; ( i OP_0 ) != 0 ; ) a [ i ] = i ; it . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( a , new java . util . METHOD_2 ( ) ) ; boolean [ ] b = new boolean [ a . length ] ; for ( int i = a . length ; ( i OP_0 ) != 0 ; ) { "<AssertPlaceHolder>" ; b [ a [ i ] ] = true ; } }
+org . junit . Assert . assertFalse ( b [ a [ i ] ] ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { this . IDENT_0 . add ( com . gs . IDENT_1 . util . IDENT_2 . METHOD_1 ( STRING_0 , STRING_1 , null , null , null ) ) ; this . IDENT_3 . METHOD_2 ( this . IDENT_4 , this . IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return this . IDENT_5 ; }
+org . junit . Assert . assertEquals ( 3 , this . METHOD_3 ( ) ) 

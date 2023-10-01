@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ch . IDENT_0 . tools . IDENT_1 IDENT_2 = new ch . IDENT_0 . tools . METHOD_1 ( STRING_0 , STRING_1 , "" ) ; IDENT_2 . connect ( "" , "" ) ; ch . IDENT_0 . tools . METHOD_1 . IDENT_3 IDENT_4 = IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; IDENT_2 . METHOD_3 ( ) ; IDENT_4 . delete ( ) ; try { IDENT_4 . exec ( "" ) ; org . junit . Assert . fail ( STRING_2 ) ; } catch ( ch . IDENT_0 . tools . IDENT_5 IDENT_6 ) { } } METHOD_2 ( ) { return IDENT_7 . METHOD_2 ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { jsprit . core . problem . solution . route . IDENT_0 route = jsprit . core . problem . solution . route . IDENT_0 . METHOD_1 ( ) ; java . util . Iterator < jsprit . core . problem . solution . route . IDENT_1 . IDENT_2 > IDENT_3 = route . METHOD_2 ( ) . iterator ( ) ; int count = 0 ; while ( IDENT_3 . hasNext ( ) ) { IDENT_3 . next ( ) ; count ++ ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 0 , count ) 

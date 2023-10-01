@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final long [ ] IDENT_0 = new long [ ] { INT_0 , INT_1 , INT_2 } ; final long [ ] IDENT_1 = new long [ ] { INT_3 , INT_4 , - INT_5 } ; final net . IDENT_2 . IDENT_3 p = new net . IDENT_2 . METHOD_1 ( IDENT_0 ) ; p . METHOD_2 ( IDENT_1 ) ; for ( int i = 0 ; i < ( IDENT_0 . length ) ; i ++ ) { "<AssertPlaceHolder>" ; } } METHOD_3 ( int ) { return source . METHOD_3 ( d ) ; }
+org . junit . Assert . assertEquals ( p . METHOD_3 ( i ) , IDENT_1 [ i ] ) 

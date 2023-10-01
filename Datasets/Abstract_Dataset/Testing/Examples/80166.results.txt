@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . plugins . IDENT_1 . rest . models . IDENT_2 response = this . resource . get ( STRING_0 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { try { return IDENT_3 . METHOD_1 ( IDENT_3 . find ( id ) ) ; } catch ( org . IDENT_4 . shared . IDENT_5 . IDENT_6 e ) { org . IDENT_4 . IDENT_5 . IDENT_7 . LOG . warn ( STRING_1 , e ) ; } catch ( org . IDENT_4 . database . IDENT_8 e ) { org . IDENT_4 . IDENT_5 . IDENT_7 . LOG . warn ( STRING_2 , id ) ; } return null ; }
+org . junit . Assert . assertNull ( response ) 

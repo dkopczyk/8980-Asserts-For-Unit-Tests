@@ -1,0 +1,2 @@
+test ( ) { com . IDENT_0 . IDENT_1 . internal . IDENT_0 . IDENT_2 . IDENT_3 IDENT_4 = new com . IDENT_0 . IDENT_1 . internal . IDENT_0 . IDENT_2 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; IDENT_4 . METHOD_1 ( ) ; } METHOD_2 ( ) { return ( com . IDENT_0 . IDENT_1 . internal . jts . IDENT_2 . IDENT_5 . IDENT_6 . IDENT_7 ) != 0 ; }
+org . junit . Assert . assertTrue ( IDENT_4 . METHOD_2 ( ) ) 

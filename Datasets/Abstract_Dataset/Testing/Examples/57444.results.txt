@@ -1,0 +1,2 @@
+test ( ) { org . tests . model . IDENT_0 . IDENT_1 e = new org . tests . model . IDENT_0 . METHOD_0 ( ) ; e . setName ( "name" ) ; io . IDENT_2 . IDENT_3 . save ( e ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertNotNull ( e . getId ( ) ) 

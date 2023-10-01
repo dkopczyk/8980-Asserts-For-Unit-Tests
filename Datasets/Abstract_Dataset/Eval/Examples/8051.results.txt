@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . calcite . IDENT_0 . IDENT_1 IDENT_2 = mock ( org . apache . calcite . IDENT_0 . IDENT_1 . class ) ; statement . IDENT_3 = IDENT_2 ; METHOD_1 ( ) . when ( statement ) . METHOD_2 ( any ( java . sql . ResultSet . class ) ) ; when ( statement . METHOD_3 ( ) ) . METHOD_4 ( ) ; when ( statement . METHOD_3 ( METHOD_5 ( ) ) ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; verify ( IDENT_2 ) . close ( ) ; } METHOD_3 ( ) { return false ; }
+org . junit . Assert . assertFalse ( statement . METHOD_3 ( ) ) 

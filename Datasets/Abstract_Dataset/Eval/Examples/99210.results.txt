@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . gson . IDENT_0 IDENT_1 = new io . IDENT_2 . IDENT_3 . METHOD_1 ( ) . set ( "a" , STRING_0 ) . set ( "b" , STRING_1 ) . build ( ) ; com . google . gson . IDENT_0 expected = new com . google . gson . METHOD_2 ( ) ; expected . METHOD_3 ( "a" , STRING_0 ) ; expected . METHOD_3 ( "b" , STRING_1 ) ; "<AssertPlaceHolder>" ; } build ( ) { return io . IDENT_2 . util . IDENT_4 . METHOD_4 ( array ) . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( expected , IDENT_1 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . cloud . tools . eclipse . IDENT_0 . ui . IDENT_1 IDENT_2 = new com . google . cloud . tools . eclipse . IDENT_0 . ui . METHOD_1 ( shell , IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( METHOD_3 ( ) ) > 0 ; }
+org . junit . Assert . assertFalse ( IDENT_2 . METHOD_2 ( ) ) 

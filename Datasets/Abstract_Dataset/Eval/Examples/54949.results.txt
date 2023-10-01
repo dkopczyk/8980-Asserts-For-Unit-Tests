@@ -1,0 +1,2 @@
+METHOD_0 ( ) { converter = com . IDENT_0 . job . IDENT_1 . builder ( ) . METHOD_1 ( com . IDENT_0 . job . IDENT_2 . IDENT_3 ) . METHOD_2 ( com . IDENT_0 . job . IDENT_2 . IDENT_4 , TimeUnit . IDENT_5 ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { for ( com . IDENT_0 . IDENT_6 . IDENT_7 IDENT_8 : IDENT_9 ) { if ( ! ( IDENT_8 . METHOD_3 ( ) ) ) { return false ; } } return true ; }
+org . junit . Assert . assertFalse ( converter . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . ambari . server . controller . spi . IDENT_0 IDENT_1 = new org . apache . ambari . server . controller . internal . METHOD_1 ( IDENT_0 . IDENT_2 . IDENT_3 , 20 , INT_0 , null , null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( 20 , IDENT_1 . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { char [ ] IDENT_0 = string . METHOD_1 ( ) ; IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . config . IDENT_5 . METHOD_2 ( IDENT_0 , IDENT_6 , len ) ; java . lang . String actual = java . lang . String . METHOD_3 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( char [ ] , int , int ) { for ( int i = IDENT_6 ; i < ( IDENT_6 + len ) ; i ++ ) { if ( IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . config . IDENT_5 . METHOD_4 ( IDENT_0 [ i ] ) ) { IDENT_0 [ i ] = STRING_0 ; } } }
+org . junit . Assert . assertEquals ( expected , actual ) 

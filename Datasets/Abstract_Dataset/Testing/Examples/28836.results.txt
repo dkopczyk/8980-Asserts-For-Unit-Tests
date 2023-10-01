@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . amazon . IDENT_1 . IDENT_2 . json . internal . dom . IDENT_3 IDENT_4 = METHOD_1 ( STRING_0 , IDENT_0 . amazon . IDENT_1 . IDENT_2 . json . IDENT_5 . IDENT_6 ) ; java . lang . String IDENT_7 = IDENT_0 . amazon . IDENT_1 . IDENT_2 . json . IDENT_5 . parser . METHOD_2 ( IDENT_8 . build ( ) , IDENT_4 ) ; "<AssertPlaceHolder>" ; } build ( ) { return new IDENT_0 . amazon . IDENT_1 . services . IDENT_9 . METHOD_3 ( this ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . amazon . IDENT_1 . IDENT_2 . json . IDENT_5 . IDENT_6 , IDENT_7 ) 

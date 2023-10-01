@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , org . eclipse . jgit . lib . IDENT_0 > IDENT_1 = db . METHOD_1 ( ) ; for ( java . util . Map . Entry < java . lang . String , org . eclipse . jgit . lib . IDENT_0 > e : IDENT_1 . entrySet ( ) ) { "<AssertPlaceHolder>" ; } } getKey ( ) { return METHOD_2 ( ref ) ; }
+org . junit . Assert . assertEquals ( e . getKey ( ) , e . getValue ( ) . getName ( ) ) 

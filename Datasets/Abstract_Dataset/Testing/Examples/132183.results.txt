@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . String > matches = IDENT_0 . METHOD_1 ( "" ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_1 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , matches . size ( ) ) 

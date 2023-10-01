@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 + ( ( ( ( ( STRING_1 + STRING_2 ) + STRING_3 ) + STRING_4 ) + STRING_5 ) + STRING_6 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . IDENT_1 . core . File ) { try ( org . IDENT_1 . core . IDENT_2 reader = new org . IDENT_1 . core . METHOD_2 ( IDENT_3 ) ) { return org . IDENT_1 . core . IDENT_4 . IDENT_5 . METHOD_1 ( new org . xml . IDENT_6 . METHOD_3 ( reader ) ) ; } }
+org . junit . Assert . assertNotNull ( IDENT_4 . IDENT_5 . METHOD_1 ( IDENT_0 ) ) 

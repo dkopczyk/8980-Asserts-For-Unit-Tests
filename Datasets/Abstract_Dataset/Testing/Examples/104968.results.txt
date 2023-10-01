@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . math . BigInteger n = java . math . BigInteger . valueOf ( ( ( int ) ( ( java . lang . Math . random ( ) ) * 1000 ) ) ) ; write ( n . toString ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return new java . math . BigInteger ( org . IDENT_0 . IDENT_1 . io . IDENT_2 . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertEquals ( n , org . IDENT_0 . IDENT_1 . io . IDENT_2 . METHOD_1 ( ) ) 

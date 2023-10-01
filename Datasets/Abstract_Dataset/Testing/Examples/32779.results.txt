@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Long l = METHOD_1 ( INT_0 , IDENT_0 . function . Long . class ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( ( ( ( ( ( ( ( ( ( STRING_0 + STRING_1 ) + ( IDENT_1 ) ) + STRING_2 ) + STRING_3 ) + ( IDENT_2 ) ) + STRING_2 ) + STRING_4 ) + ( IDENT_3 ) ) + STRING_2 ) + STRING_5 ) + ( description ) ) + STRING_2 ) + STRING_6 ; }
+org . junit . Assert . assertEquals ( java . lang . String . valueOf ( INT_0 ) , l . toString ( ) ) 

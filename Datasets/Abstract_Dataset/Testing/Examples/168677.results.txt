@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String value = com . IDENT_0 . artemis . util . IDENT_1 . IDENT_2 . toString ( new java . lang . METHOD_1 ( "" ) ) ; "<AssertPlaceHolder>" ; } toString ( java . lang . Throwable ) { java . io . ByteArrayOutputStream IDENT_3 = new java . io . ByteArrayOutputStream ( ) ; java . io . IDENT_4 out = new java . io . METHOD_2 ( IDENT_3 ) ; t . printStackTrace ( out ) ; return new java . lang . String ( IDENT_3 . toByteArray ( ) , com . google . common . base . IDENT_5 . UTF_8 ) ; }
+org . junit . Assert . assertTrue ( ( value != null ) ) 

@@ -1,0 +1,2 @@
+test ( ) { final org . opendaylight . yangtools . yang . model . api . IDENT_0 context = org . opendaylight . yangtools . yang . stmt . TestUtils . METHOD_0 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( org . opendaylight . yangtools . yang . parser . spi . source . IDENT_1 [ ] ) { return org . opendaylight . yangtools . yang . parser . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) . METHOD_2 ( ) . METHOD_3 ( IDENT_5 ) . METHOD_4 ( ) ; }
+org . junit . Assert . assertNotNull ( context ) 

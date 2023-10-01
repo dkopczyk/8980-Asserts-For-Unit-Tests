@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . setValue ( "name" , STRING_0 ) ; IDENT_0 . setValue ( "value" , STRING_1 ) ; IDENT_1 . METHOD_1 ( IDENT_2 , null , IDENT_0 ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . String ) { if ( ch . IDENT_3 . IDENT_4 . core . IDENT_5 . IDENT_6 . equals ( key ) ) return getName ( ) ; if ( ch . IDENT_3 . IDENT_4 . core . IDENT_5 . IDENT_7 . equalsIgnoreCase ( key ) ) { return METHOD_2 ( ) ; } return ( ( java . lang . String ) ( this . IDENT_8 . get ( key ) ) ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , IDENT_2 . getProperty ( STRING_0 ) ) 

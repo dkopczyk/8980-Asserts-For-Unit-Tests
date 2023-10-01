@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . microsoft . azure . maven . IDENT_0 . IDENT_1 IDENT_2 = METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return IDENT_3 ; }
+org . junit . Assert . assertNotNull ( IDENT_2 . METHOD_0 ( ) ) 

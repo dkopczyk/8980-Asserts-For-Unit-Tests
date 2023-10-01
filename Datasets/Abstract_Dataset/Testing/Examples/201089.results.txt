@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { java . util . List < com . IDENT_0 . api . IDENT_1 > IDENT_2 = METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . Exception e ) { org . junit . Assert . fail ( org . mule . IDENT_3 . tests . IDENT_4 . METHOD_2 ( e ) ) ; } }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

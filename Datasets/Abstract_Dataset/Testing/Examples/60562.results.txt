@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . cluster . testfixture . server . IDENT_0 IDENT_1 = METHOD_1 ( org . eclipse . rap . rwt . cluster . testfixture . test . IDENT_2 . class ) ; org . eclipse . rap . rwt . cluster . testfixture . server . IDENT_0 IDENT_3 = METHOD_1 ( org . eclipse . rap . rwt . cluster . testfixture . test . IDENT_2 . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 . METHOD_3 ( ) ; }
+org . junit . Assert . assertFalse ( ( ( IDENT_1 . METHOD_2 ( ) ) == ( IDENT_3 . METHOD_2 ( ) ) ) ) 

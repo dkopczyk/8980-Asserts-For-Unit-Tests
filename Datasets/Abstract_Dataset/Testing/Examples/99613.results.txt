@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . kaazing . IDENT_0 . driver . internal . netty . IDENT_1 . channel . IDENT_2 . IDENT_3 config = new org . kaazing . IDENT_0 . driver . internal . netty . IDENT_1 . channel . IDENT_2 . METHOD_1 ( ) ; final java . lang . Object value = new java . lang . Object ( ) ; config . METHOD_2 ( STRING_0 , value ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return java . util . Collections . METHOD_4 ( IDENT_4 ) ; }
+org . junit . Assert . assertSame ( value , config . METHOD_3 ( ) . get ( STRING_0 ) ) 

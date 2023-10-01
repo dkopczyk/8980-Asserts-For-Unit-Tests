@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String expected = STRING_0 ; int IDENT_0 = expected . getBytes ( ) . length ; org . openqa . selenium . remote . internal . IDENT_1 IDENT_2 = new org . openqa . selenium . remote . internal . METHOD_1 ( IDENT_0 ) ; IDENT_2 . write ( "foo" . getBytes ( ) ) ; java . lang . String IDENT_3 = IDENT_2 . toString ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { return STRING_1 ; }
+org . junit . Assert . assertEquals ( expected , IDENT_3 ) 

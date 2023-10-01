@@ -1,0 +1,2 @@
+METHOD_0 ( ) { eu . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new eu . IDENT_0 . IDENT_1 . METHOD_1 ( ) . addAll ( IDENT_4 ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( 4 , IDENT_3 . size ( ) ) 

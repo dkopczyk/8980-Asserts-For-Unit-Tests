@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . util . List < T > IDENT_0 = METHOD_2 ( ) ; java . util . Collections . METHOD_3 ( IDENT_0 ) ; return IDENT_0 ; }
+org . junit . Assert . assertThat ( f . METHOD_1 ( ) , org . hamcrest . CoreMatchers . is ( com . google . common . collect . Lists . newArrayList ( a , b , f ) ) ) 

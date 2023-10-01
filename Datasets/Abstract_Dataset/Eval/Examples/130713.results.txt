@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = new org . neo4j . server . rest . domain . METHOD_1 ( org . neo4j . server . rest . web . IDENT_1 . database ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( long ) { try { return output . METHOD_4 ( IDENT_2 . METHOD_3 ( IDENT_0 ) ) ; } catch ( org . neo4j . server . rest . web . IDENT_3 e ) { return output . METHOD_5 ( e ) ; } }
+org . junit . Assert . assertNotNull ( org . neo4j . server . rest . web . IDENT_1 . IDENT_2 . METHOD_3 ( IDENT_0 ) ) 

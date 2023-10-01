@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . core . IDENT_2 block = new com . IDENT_0 . IDENT_1 . core . METHOD_1 ( com . IDENT_0 . IDENT_1 . core . IDENT_3 . params , com . IDENT_0 . IDENT_1 . core . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return new byte [ 0 ] ; }
+org . junit . Assert . assertArrayEquals ( com . IDENT_0 . IDENT_1 . core . IDENT_3 . IDENT_4 , block . METHOD_2 ( ) ) 

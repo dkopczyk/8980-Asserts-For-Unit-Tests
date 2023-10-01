@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . text . IDENT_1 component = IDENT_2 . IDENT_3 . parse ( STRING_0 ) ; net . IDENT_0 . text . IDENT_4 expected = net . IDENT_0 . text . IDENT_4 . of ( "" ) . append ( net . IDENT_0 . text . IDENT_4 . of ( "foo" ) ) ; "<AssertPlaceHolder>" ; } append ( java . lang . String ) { this . builder . append ( string ) ; return this ; }
+org . junit . Assert . assertEquals ( expected , component ) 

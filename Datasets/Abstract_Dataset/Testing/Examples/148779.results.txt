@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String view = controller . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { java . lang . String view = controller . METHOD_0 ( ) ; org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 , view ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 , view ) 

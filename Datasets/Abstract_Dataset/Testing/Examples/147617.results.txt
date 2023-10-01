@@ -1,0 +1,2 @@
+getName ( ) { this . parameters . put ( STRING_0 , STRING_1 ) ; org . IDENT_0 . configuration . IDENT_1 s = new org . IDENT_0 . configuration . spi . METHOD_0 ( this . IDENT_2 , this . IDENT_3 ) ; "<AssertPlaceHolder>" ; } getName ( ) { org . junit . Assert . assertEquals ( STRING_2 , this . IDENT_4 . METHOD_1 ( ) . getName ( ) ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , s . getName ( ) ) 

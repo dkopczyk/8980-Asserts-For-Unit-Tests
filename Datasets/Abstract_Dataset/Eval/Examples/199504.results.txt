@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . resources . params . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . resources . params . METHOD_1 ( "test" , STRING_0 ) ; javax . ws . rs . core . Response response = client . target ( ( ( STRING_1 + ( com . IDENT_0 . IDENT_1 . IDENT_4 . IDENT_5 . METHOD_2 ( ) ) ) + STRING_2 ) ) . request ( ) . METHOD_3 ( javax . ws . rs . client . Entity . json ( IDENT_3 ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( response . getStatus ( ) , org . hamcrest . CoreMatchers . is ( 200 ) ) 

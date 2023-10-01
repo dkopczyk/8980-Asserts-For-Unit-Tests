@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . utils . exception . IDENT_1 IDENT_2 = org . IDENT_0 . utils . exception . IDENT_1 . IDENT_3 ; org . IDENT_0 . utils . exception . IDENT_4 result = new org . IDENT_0 . utils . exception . METHOD_1 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( result ) 

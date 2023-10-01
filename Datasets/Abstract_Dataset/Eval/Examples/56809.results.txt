@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . easymock . IDENT_0 < java . lang . Integer > IDENT_1 = METHOD_1 ( IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } getValue ( ) { if ( values . isEmpty ( ) ) { throw new java . lang . METHOD_2 ( STRING_0 ) ; } if ( ( values . size ( ) ) > 1 ) { throw new java . lang . METHOD_2 ( ( STRING_1 + ( values ) ) ) ; } return values . get ( 0 ) ; }
+org . junit . Assert . assertEquals ( 0 , ( ( int ) ( IDENT_1 . getValue ( ) ) ) ) 

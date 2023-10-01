@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . ibatis . session . IDENT_0 session = org . apache . ibatis . session . IDENT_1 . IDENT_2 . METHOD_1 ( IDENT_3 . IDENT_4 ) ; try { java . util . List < org . apache . ibatis . domain . IDENT_5 . IDENT_6 > IDENT_7 = session . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } finally { session . close ( ) ; } } size ( ) { return IDENT_8 . size ( ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_7 . size ( ) ) 

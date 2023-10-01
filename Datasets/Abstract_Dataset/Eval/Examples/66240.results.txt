@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( com . baeldung . IDENT_0 . values . IDENT_1 IDENT_2 : com . baeldung . IDENT_0 . values . IDENT_1 . values ( ) ) { "<AssertPlaceHolder>" ; } } name ( ) { return STRING_0 ; }
+org . junit . Assert . assertSame ( IDENT_2 , com . baeldung . IDENT_0 . values . IDENT_1 . valueOf ( IDENT_2 . name ( ) ) ) 

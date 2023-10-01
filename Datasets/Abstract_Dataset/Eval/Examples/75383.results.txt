@@ -1,0 +1,2 @@
+METHOD_0 ( ) { au . gov . IDENT_0 . IDENT_1 . core . IDENT_2 . IDENT_3 t = new au . gov . IDENT_0 . IDENT_1 . core . IDENT_2 . METHOD_1 ( java . math . BigInteger . valueOf ( Long . MAX_VALUE ) . METHOD_2 ( METHOD_1 . IDENT_4 ) . add ( BigInteger . IDENT_5 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ! ( METHOD_4 ( ) ) ) { return null ; } return new java . util . Date ( this . IDENT_6 . METHOD_5 ( au . gov . IDENT_0 . IDENT_1 . core . IDENT_2 . METHOD_1 . IDENT_4 ) . METHOD_6 ( ) ) ; }
+org . junit . Assert . assertNull ( t . METHOD_3 ( ) ) 

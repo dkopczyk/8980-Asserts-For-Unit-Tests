@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . serializer . IDENT_2 < java . lang . Boolean > IDENT_3 = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . IDENT_0 . IDENT_1 . serializer . IDENT_2 , java . lang . String ) { return this . < T > METHOD_2 ( ( ( org . IDENT_0 . IDENT_1 . serializer . IDENT_4 ) ( IDENT_3 ) ) , s ) ; }
+org . junit . Assert . assertFalse ( METHOD_2 ( IDENT_3 , null ) ) 

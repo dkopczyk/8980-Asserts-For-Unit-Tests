@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String [ ] pattern = new java . lang . String [ ] { STRING_0 } ; final org . apache . logging . log4j . core . pattern . IDENT_0 converter = org . apache . logging . log4j . core . pattern . IDENT_0 . newInstance ( pattern ) ; final java . lang . StringBuilder sb = new java . lang . StringBuilder ( ) ; converter . format ( date ( INT_0 , 1 , 1 ) , sb ) ; final java . lang . String expected = STRING_1 ; "<AssertPlaceHolder>" ; } toString ( ) { return this . internal ; }
+org . junit . Assert . assertEquals ( expected , sb . toString ( ) ) 

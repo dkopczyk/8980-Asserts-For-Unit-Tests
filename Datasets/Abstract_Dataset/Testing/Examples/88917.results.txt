@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = javax . jms . IDENT_1 . IDENT_2 ; javax . jms . IDENT_3 message = new org . apache . activemq . command . METHOD_1 ( ) ; message . METHOD_2 ( IDENT_0 ) ; message . METHOD_3 ( ) ; javax . jms . IDENT_3 result = IDENT_4 . convert ( message ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return this . IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , result . METHOD_4 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . IDENT_0 . IDENT_1 . internal . IDENT_2 . IDENT_3 IDENT_4 = new nl . IDENT_0 . IDENT_1 . internal . IDENT_2 . METHOD_1 ( ) ; IDENT_4 . IDENT_5 = true ; METHOD_2 ( IDENT_4 , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Object , java . lang . String ) { METHOD_3 ( object , IDENT_6 ) . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( false , IDENT_4 . IDENT_5 ) 

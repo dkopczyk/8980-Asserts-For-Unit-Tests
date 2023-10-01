@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String s = com . amazonaws . util . IDENT_0 . toString ( new java . io . ByteArrayInputStream ( new byte [ 0 ] ) ) ; "<AssertPlaceHolder>" ; } toString ( java . io . InputStream ) { return new java . lang . String ( com . amazonaws . util . IDENT_0 . toByteArray ( is ) , StringUtils . IDENT_1 ) ; }
+org . junit . Assert . assertEquals ( "" , s ) 

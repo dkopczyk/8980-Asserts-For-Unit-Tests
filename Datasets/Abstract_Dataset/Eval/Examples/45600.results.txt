@@ -1,0 +1,2 @@
+METHOD_0 ( ) { impl . METHOD_1 ( 50 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( IDENT_0 ) == ( - 1 ) ) { return true ; } if ( ( IDENT_1 ) == 0 ) { IDENT_1 = java . lang . System . currentTimeMillis ( ) ; return true ; } if ( ( ( java . lang . System . currentTimeMillis ( ) ) - ( IDENT_1 ) ) > ( IDENT_2 ) ) { IDENT_1 = java . lang . System . currentTimeMillis ( ) ; return true ; } return false ; }
+org . junit . Assert . assertTrue ( impl . METHOD_2 ( ) ) 

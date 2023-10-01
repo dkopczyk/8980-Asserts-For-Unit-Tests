@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . IDENT_0 reader = new com . IDENT_1 . io . METHOD_1 ( new java . lang . String [ 0 ] ) ; "<AssertPlaceHolder>" ; } read ( ) { if ( ! ( METHOD_2 ( ) ) ) { return - 1 ; } return ( buffer . get ( ) ) & 255 ; }
+org . junit . Assert . assertEquals ( ( - 1 ) , reader . read ( ) ) 

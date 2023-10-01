@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . amazon . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = mock ( IDENT_0 . amazon . IDENT_1 . IDENT_2 . IDENT_3 . class ) ; when ( IDENT_4 . METHOD_1 ( IDENT_5 ) ) . thenReturn ( null ) ; IDENT_0 . amazon . IDENT_1 . IDENT_6 . IDENT_7 task = new IDENT_0 . amazon . IDENT_1 . IDENT_6 . METHOD_2 ( IDENT_8 , IDENT_4 , IDENT_9 ) ; IDENT_0 . amazon . IDENT_1 . IDENT_6 . IDENT_10 result = task . call ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return exception ; }
+org . junit . Assert . assertNull ( result . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String str = STRING_0 + STRING_1 ; com . facebook . buck . IDENT_0 . IDENT_1 . ui . utils . IDENT_2 IDENT_3 = new com . facebook . buck . IDENT_0 . IDENT_1 . ui . utils . METHOD_1 ( str ) ; com . google . common . collect . ImmutableList < com . facebook . buck . IDENT_0 . IDENT_1 . ui . utils . IDENT_4 > errors = IDENT_3 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , errors . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { errors = IDENT_0 . METHOD_1 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return messages . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , errors . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . kernel . IDENT_1 . IDENT_2 . IDENT_3 f = new org . IDENT_0 . kernel . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; org . IDENT_0 . kernel . IDENT_4 . IDENT_5 result = f . execute ( IDENT_6 , org . IDENT_0 . kernel . IDENT_4 . IDENT_7 . asList ( IDENT_8 , FLOAT_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this ; }
+org . junit . Assert . assertEquals ( 3 , result . METHOD_2 ( ) . getValue ( ) ) 

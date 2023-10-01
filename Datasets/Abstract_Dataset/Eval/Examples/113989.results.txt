@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . management . IDENT_0 IDENT_1 = mock ( java . lang . management . IDENT_0 . class ) ; when ( IDENT_2 . METHOD_1 ( IDENT_3 ) ) . thenReturn ( IDENT_1 ) ; when ( IDENT_4 . METHOD_1 ( IDENT_5 ) ) . thenReturn ( IDENT_6 ) ; when ( IDENT_6 . METHOD_2 ( ) ) . thenReturn ( IDENT_3 ) ; com . IDENT_7 . store . cache . IDENT_8 . IDENT_9 IDENT_10 = IDENT_11 . METHOD_3 ( IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_10 . METHOD_4 ( ) ) 

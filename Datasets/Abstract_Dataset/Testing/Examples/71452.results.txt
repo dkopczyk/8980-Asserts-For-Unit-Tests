@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . reflect . Method method = org . IDENT_0 . IDENT_1 . IDENT_2 . meta . IDENT_3 . class . METHOD_1 ( STRING_0 , org . IDENT_0 . IDENT_1 . IDENT_2 . meta . IDENT_3 . IDENT_4 . class ) ; "<AssertPlaceHolder>" ; } matcher ( int ) { return org . IDENT_0 . IDENT_1 . matcher . IDENT_5 . matcher ( null , IDENT_6 ) ; }
+org . junit . Assert . assertTrue ( org . IDENT_0 . IDENT_1 . matcher . IDENT_5 . matcher ( STRING_0 ) . match ( method ) ) 

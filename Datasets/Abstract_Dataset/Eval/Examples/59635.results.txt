@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . message . device . data . IDENT_1 IDENT_2 = org . eclipse . IDENT_0 . message . internal . device . data . IDENT_3 . IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return new org . eclipse . IDENT_0 . message . internal . device . data . METHOD_2 ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

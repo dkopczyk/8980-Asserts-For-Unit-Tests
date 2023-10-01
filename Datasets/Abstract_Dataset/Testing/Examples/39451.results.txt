@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 IDENT_1 = org . openscience . cdk . interfaces . IDENT_2 . METHOD_1 ( ) . newInstance ( org . openscience . cdk . interfaces . IDENT_0 . class ) ; IDENT_1 . setProperty ( STRING_0 , 2 ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . Object ) { if ( ( properties ) == null ) return null ; @ org . openscience . cdk . IDENT_3 . METHOD_2 ( STRING_1 ) T value = ( ( T ) ( METHOD_3 ( ) . get ( description ) ) ) ; return value ; }
+org . junit . Assert . assertNotNull ( IDENT_1 . getProperty ( STRING_0 ) ) 

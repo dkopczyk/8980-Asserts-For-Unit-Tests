@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . test . IDENT_2 . IDENT_3 context = METHOD_1 ( 50 , 50 , "" ) ; context . METHOD_2 ( 0 , 0 ) ; IDENT_0 . IDENT_1 . engine . Field IDENT_4 = context . METHOD_3 ( 0 ) . METHOD_4 ( ) ; context . METHOD_5 ( ) ; context . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_4 . size ( ) ) 

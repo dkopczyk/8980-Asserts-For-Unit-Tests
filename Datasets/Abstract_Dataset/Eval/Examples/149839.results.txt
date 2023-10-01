@@ -1,0 +1,2 @@
+METHOD_0 ( ) { fr . gouv . vitam . common . model . IDENT_0 < fr . gouv . vitam . common . database . index . model . IDENT_1 > IDENT_2 = client . METHOD_1 ( fr . gouv . vitam . common . json . IDENT_3 . METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( this ) instanceof fr . gouv . vitam . common . model . IDENT_4 ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . mongodb . examples . IDENT_0 . domain . IDENT_1 c = IDENT_2 . METHOD_1 ( org . springframework . data . mongodb . examples . IDENT_0 . data . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNull ( c ) 

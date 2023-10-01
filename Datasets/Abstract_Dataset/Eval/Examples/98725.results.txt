@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( net . sf . IDENT_0 . IDENT_1 . util . IDENT_2 IDENT_3 = new net . sf . IDENT_0 . IDENT_1 . util . METHOD_1 ( 100 ) ) { IDENT_3 . write ( STRING_0 ) ; IDENT_3 . write ( ( ( java . lang . String ) ( null ) ) ) ; "<AssertPlaceHolder>" ; } } toString ( ) { return METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_3 . toString ( ) ) 

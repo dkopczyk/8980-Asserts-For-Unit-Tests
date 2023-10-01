@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . java . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . java . IDENT_1 . METHOD_1 ( java . util . Locale . IDENT_4 ) ; request . METHOD_2 ( STRING_0 ) ; request . METHOD_3 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return ( ( org . IDENT_0 . java . IDENT_1 . METHOD_1 ) ( METHOD_5 ( org . IDENT_0 . java . IDENT_1 . IDENT_5 . IDENT_6 ) ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 , request . METHOD_4 ( ) ) 

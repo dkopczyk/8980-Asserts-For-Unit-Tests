@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . ocpsoft . IDENT_0 . IDENT_1 . IDENT_2 unit = t . METHOD_1 ( org . ocpsoft . IDENT_0 . IDENT_1 . IDENT_2 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class ) { if ( IDENT_3 == null ) return null ; for ( org . ocpsoft . IDENT_0 . TimeUnit unit : IDENT_1 . METHOD_2 ( ) ) { if ( IDENT_3 . METHOD_3 ( unit . getClass ( ) ) ) { return ( ( IDENT_4 ) ( unit ) ) ; } } return null ; }
+org . junit . Assert . assertNotNull ( unit ) 

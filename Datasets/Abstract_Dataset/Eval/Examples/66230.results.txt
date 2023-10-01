@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . lang . String result ; switch ( IDENT_0 ) { case STRING_0 : System . out . println ( STRING_1 ) ; result = STRING_1 ; default : System . out . println ( STRING_2 ) ; result = STRING_2 ; } return result ; }
+org . junit . Assert . assertEquals ( STRING_2 , s . METHOD_1 ( IDENT_0 ) ) 

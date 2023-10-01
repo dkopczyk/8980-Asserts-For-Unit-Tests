@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; user . METHOD_1 ( true ) ; user . METHOD_2 ( true ) ; IDENT_0 . METHOD_3 ( ) ; verify ( IDENT_0 ) . METHOD_4 ( IDENT_1 . METHOD_5 ( ) ) ; } METHOD_6 ( ) { return ( me . METHOD_6 ( ) ) || ( user . METHOD_6 ( ) ) ; }
+org . junit . Assert . assertFalse ( me . METHOD_6 ( ) ) 

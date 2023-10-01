@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . internal . IDENT_1 . IDENT_2 . IDENT_3 test = new com . IDENT_0 . internal . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; com . IDENT_0 . internal . IDENT_1 . IDENT_4 method = com . IDENT_0 . internal . IDENT_1 . IDENT_5 . IDENT_6 . METHOD_2 ( test . getClass ( ) . METHOD_2 ( "test" ) ) ; java . lang . Integer IDENT_7 = ( ( java . lang . Integer ) ( method . invoke ( test ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return get ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_7 . METHOD_3 ( ) ) 

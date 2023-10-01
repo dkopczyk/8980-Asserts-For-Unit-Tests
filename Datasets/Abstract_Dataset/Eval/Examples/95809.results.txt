@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String key = STRING_0 ; java . lang . String IDENT_0 = STRING_1 ; org . IDENT_1 . IDENT_2 . data . IDENT_3 . IDENT_4 instance = IDENT_5 . METHOD_1 ( ) ; java . lang . String expResult = STRING_1 ; java . lang . String result = instance . getProperty ( key , IDENT_0 ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . String , java . lang . String ) { return properties . getProperty ( key , IDENT_0 ) ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

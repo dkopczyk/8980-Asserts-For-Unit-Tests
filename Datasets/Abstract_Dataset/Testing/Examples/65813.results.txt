@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 = java . nio . ByteBuffer . METHOD_1 ( INT_0 ) ; int offset = 16 ; int size = 16 ; IDENT_0 . METHOD_2 ( offset , size ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( IDENT_1 ) != null ? IDENT_1 . METHOD_4 ( ) : 0 ; }
+org . junit . Assert . assertEquals ( INT_0 , IDENT_0 . METHOD_3 ( ) ) 

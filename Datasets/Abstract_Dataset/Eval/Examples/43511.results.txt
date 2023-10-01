@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 mock = METHOD_1 ( org . IDENT_0 . IDENT_1 . class ) ; expect ( mock . METHOD_2 ( ) ) . andReturn ( true ) ; replay ( mock ) ; org . jboss . netty . logging . IDENT_2 logger = new org . jboss . netty . logging . METHOD_3 ( mock ) ; "<AssertPlaceHolder>" ; verify ( mock ) ; } METHOD_2 ( ) { return logger . METHOD_2 ( ) ; }
+org . junit . Assert . assertTrue ( logger . METHOD_2 ( ) ) 

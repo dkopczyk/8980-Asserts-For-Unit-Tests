@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . in . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . in . IDENT_2 . Configuration ( ) . driver ( STRING_0 ) . url ( STRING_1 ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { com . IDENT_0 . IDENT_1 . in . IDENT_2 source = new com . IDENT_0 . IDENT_1 . in . METHOD_2 ( new com . IDENT_0 . IDENT_1 . db . METHOD_3 ( driver , url , user , IDENT_4 ) ) ; return source ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

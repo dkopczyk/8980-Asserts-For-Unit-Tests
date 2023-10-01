@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( IDENT_1 . build ( ) ) ; org . batfish . datamodel . IDENT_2 IDENT_3 = IDENT_1 . METHOD_2 ( 200 ) . build ( ) ; IDENT_0 . METHOD_1 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertThat ( IDENT_0 . METHOD_3 ( ) , org . hamcrest . Matchers . contains ( IDENT_3 ) ) 

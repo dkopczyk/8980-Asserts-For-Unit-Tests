@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URI IDENT_0 = java . net . URI . create ( STRING_0 ) ; net . IDENT_1 . json . IDENT_2 target = new net . IDENT_1 . json . METHOD_1 ( IDENT_0 ) ; java . net . URI IDENT_3 = target . METHOD_2 ( new java . util . ArrayList < net . IDENT_1 . json . IDENT_4 > ( ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return java . lang . String . format ( STRING_1 , METHOD_3 ( ) . METHOD_4 ( ( ( java . net . URI ) ( null ) ) ) , METHOD_5 ( ) , METHOD_6 ( ) ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_3 . toString ( ) ) 

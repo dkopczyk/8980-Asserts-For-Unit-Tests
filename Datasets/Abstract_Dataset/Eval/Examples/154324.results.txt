@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . services . info . IDENT_2 result = com . IDENT_0 . IDENT_1 . services . info . IDENT_3 . client . METHOD_1 ( STRING_1 ) ; "<AssertPlaceHolder>" ; System . out . println ( result ) ; } METHOD_1 ( java . lang . String ) { com . IDENT_0 . IDENT_1 . service . IDENT_4 service = com . IDENT_0 . IDENT_1 . server . IDENT_5 . METHOD_1 ( name ) ; return METHOD_2 ( service ) ; }
+org . junit . Assert . assertNotNull ( result ) 

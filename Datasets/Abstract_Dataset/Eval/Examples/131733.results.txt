@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . UUID IDENT_0 = java . util . UUID . METHOD_1 ( ) ; java . lang . String IDENT_1 = IDENT_0 . toString ( ) ; java . util . UUID IDENT_2 = java . util . UUID . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return name ; }
+org . junit . Assert . assertEquals ( IDENT_2 . toString ( ) , IDENT_1 ) 

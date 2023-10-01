@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . IDENT_0 < java . lang . String > IDENT_1 = com . github . IDENT_2 . common . IDENT_3 . IDENT_4 . METHOD_1 ( "a" , STRING_0 , STRING_1 ) ; final boolean contains = ( com . github . IDENT_2 . common . IDENT_3 . IDENT_5 . find ( IDENT_1 , ( input ) -> ( input . length ( ) ) == 1 ) ) != null ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( contains ) 

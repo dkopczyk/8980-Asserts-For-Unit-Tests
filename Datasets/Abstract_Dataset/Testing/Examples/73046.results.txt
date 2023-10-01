@@ -1,0 +1,2 @@
+expected ( ) { org . junit . runner . IDENT_0 core = new org . junit . runner . METHOD_0 ( ) ; org . junit . runner . Result result = core . run ( org . junit . tests . IDENT_1 . methods . IDENT_2 . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( METHOD_2 ( ) ) == 0 ; }
+org . junit . Assert . assertTrue ( result . METHOD_1 ( ) ) 

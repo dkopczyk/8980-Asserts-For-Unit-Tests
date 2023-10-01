@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . Class < ? > expected = org . junit . runners . IDENT_0 . class ; final java . lang . Class < ? > actual = org . apache . logging . log4j . util . IDENT_1 . IDENT_2 . METHOD_1 ( org . junit . runners . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class ) { return org . apache . logging . log4j . util . IDENT_4 . IDENT_2 . METHOD_1 ( IDENT_5 ) ; }
+org . junit . Assert . assertSame ( expected , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . spotify . IDENT_0 . core . IDENT_1 service = com . spotify . IDENT_0 . core . IDENT_2 . METHOD_1 ( "test" ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_3 ; }
+org . junit . Assert . assertThat ( service . METHOD_2 ( ) , org . hamcrest . Matchers . is ( "test" ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 session = new org . IDENT_0 . IDENT_1 . METHOD_1 ( output , null ) ; session . METHOD_2 ( STRING_0 ) ; command . METHOD_3 ( session ) ; command . execute ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( this . getClass ( ) . METHOD_4 ( ) ) + STRING_1 ) + ( METHOD_5 ( ) ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , output . toString ( ) . trim ( ) ) 

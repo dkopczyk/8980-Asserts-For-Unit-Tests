@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 + ( ( STRING_1 + STRING_2 ) + STRING_3 ) ; org . teiid . query . parser . IDENT_1 db = org . teiid . query . parser . IDENT_2 . METHOD_1 ( IDENT_0 ) ; org . teiid . query . parser . IDENT_3 IDENT_4 = db . METHOD_2 ( STRING_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return this . IDENT_5 . get ( IDENT_6 ) ; }
+org . junit . Assert . assertNull ( IDENT_4 ) 

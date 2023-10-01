@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . core . IDENT_1 . type . IDENT_2 IDENT_3 = tx . METHOD_1 ( STRING_0 ) ; IDENT_0 . core . IDENT_1 . IDENT_4 . Entity entity = IDENT_3 . create ( ) ; "<AssertPlaceHolder>" ; } type ( ) { return this . IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_3 , entity . type ( ) ) 

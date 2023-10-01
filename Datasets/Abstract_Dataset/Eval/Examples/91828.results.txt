@@ -1,0 +1,2 @@
+METHOD_0 ( ) { b . close ( ) ; final java . io . InputStream in = a . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } read ( ) { MOD_0 ( buffer ) { try { while ( true ) { if ( IDENT_0 ) { throw new java . net . METHOD_2 ( STRING_0 ) ; } if ( other . IDENT_0 ) { return - 1 ; } final java . lang . IDENT_1 b = buffer . METHOD_3 ( ) ; buffer . METHOD_4 ( ) ; if ( b != null ) { return 255 & ( b . METHOD_5 ( ) ) ; } buffer . METHOD_6 ( ) ; } } catch ( java . lang . IDENT_2 e ) { throw new java . io . METHOD_7 ( ) ; } } }
+org . junit . Assert . assertEquals ( ( - 1 ) , in . read ( ) ) 

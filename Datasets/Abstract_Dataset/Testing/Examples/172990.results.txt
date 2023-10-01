@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . springframework . plugin . core . IDENT_0 > plugins = new java . util . ArrayList < org . springframework . plugin . core . IDENT_0 > ( ) ; plugins . add ( null ) ; registry = org . springframework . plugin . core . IDENT_1 . of ( plugins ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return super . METHOD_2 ( ) . size ( ) ; }
+org . junit . Assert . assertThat ( registry . METHOD_1 ( ) , org . hamcrest . CoreMatchers . is ( 0 ) ) 

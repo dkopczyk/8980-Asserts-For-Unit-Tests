@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . json . IDENT_1 model = METHOD_1 ( ) . create ( ) ; org . IDENT_0 . core . json . IDENT_1 user = METHOD_1 ( ) . create ( ) ; user . set ( "name" , "" ) ; model . set ( STRING_0 , user ) ; java . lang . String html = METHOD_2 ( ) . evaluate ( STRING_1 , model ) ; "<AssertPlaceHolder>" ; } evaluate ( java . lang . String , java . util . Map ) { return evaluate ( content , params , METHOD_3 ( ) ) ; }
+org . junit . Assert . assertEquals ( "" , html ) 

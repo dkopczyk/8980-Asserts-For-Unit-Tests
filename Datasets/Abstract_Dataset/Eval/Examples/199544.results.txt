@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . security . IDENT_0 random = new java . security . METHOD_1 ( ) ; double IDENT_1 = random . METHOD_2 ( 10 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( IDENT_1 <= 10 ) ) 

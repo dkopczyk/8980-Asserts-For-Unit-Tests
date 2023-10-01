@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . Map < java . lang . String , org . IDENT_0 . IDENT_1 . datamodel . interfaces . IDENT_3 > results = IDENT_4 . METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_2 . Collections . < java . lang . String > emptyList ( ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , results . size ( ) ) 

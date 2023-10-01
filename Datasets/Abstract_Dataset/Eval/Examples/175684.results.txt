@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . talend . components . IDENT_0 . avro . IDENT_1 IDENT_2 = new org . talend . components . IDENT_0 . avro . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( org . talend . components . IDENT_0 . avro . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return org . talend . components . service . rest . mock . IDENT_5 . schema ; }
+org . junit . Assert . assertEquals ( org . talend . components . IDENT_0 . avro . IDENT_3 . IDENT_4 , IDENT_2 . METHOD_3 ( ) ) 

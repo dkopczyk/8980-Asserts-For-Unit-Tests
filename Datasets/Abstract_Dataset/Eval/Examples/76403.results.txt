@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final boolean [ ] IDENT_0 = new boolean [ 1 ] ; org . geotools . map . IDENT_1 IDENT_2 = new org . geotools . IDENT_3 . IDENT_4 . METHOD_1 ( org . geotools . IDENT_3 . IDENT_5 . IDENT_6 ) { @ org . geotools . IDENT_3 . Override public void METHOD_2 ( ) { IDENT_0 [ 0 ] = true ; } } ; org . geotools . map . IDENT_7 IDENT_8 = new org . geotools . IDENT_3 . METHOD_3 ( IDENT_2 ) ; IDENT_8 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { }
+org . junit . Assert . assertFalse ( IDENT_0 [ 0 ] ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = org . apache . hadoop . hdfs . server . IDENT_1 . IDENT_2 . conf . METHOD_1 ( IDENT_3 . IDENT_4 , IDENT_3 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , int ) { java . lang . String IDENT_6 = METHOD_2 ( name ) ; if ( IDENT_6 == null ) return IDENT_7 ; java . lang . String IDENT_8 = METHOD_3 ( IDENT_6 ) ; if ( IDENT_8 != null ) { return java . lang . Integer . METHOD_4 ( IDENT_8 , 16 ) ; } return java . lang . Integer . METHOD_4 ( IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_0 ) 

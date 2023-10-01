@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < io . IDENT_0 . commons . IDENT_1 . IDENT_2 . IDENT_3 > metrics = IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , metrics . size ( ) ) 

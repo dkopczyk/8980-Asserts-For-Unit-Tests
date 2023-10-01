@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object instance = org . IDENT_0 . integration . IDENT_1 . IDENT_2 . newInstance ( ) ; java . lang . reflect . Method IDENT_3 = org . IDENT_0 . integration . IDENT_1 . IDENT_2 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( ( ( java . lang . String ) ( IDENT_3 . invoke ( instance ) ) ) , is ( equalTo ( "" ) ) ) 

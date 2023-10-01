@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final me . IDENT_0 . trace . IDENT_1 . IDENT_2 subject = new me . IDENT_0 . trace . IDENT_1 . METHOD_1 ( IDENT_3 ) ; me . IDENT_0 . trace . IDENT_1 . IDENT_4 . METHOD_2 ( IDENT_3 ) ; subject . close ( ) ; "<AssertPlaceHolder>" ; } close ( ) { delegate . close ( ) ; }
+org . junit . Assert . assertNull ( IDENT_4 . IDENT_3 ) 

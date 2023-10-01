@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . ui . model . IDENT_0 service = new org . oscm . ui . model . METHOD_1 ( new org . oscm . internal . vo . METHOD_2 ( ) ) ; service . METHOD_3 ( true ) ; model . METHOD_4 ( service ) ; when ( IDENT_1 . METHOD_5 ( ) ) . thenReturn ( Boolean . IDENT_2 ) ; java . lang . String result = IDENT_3 . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { if ( IDENT_1 . METHOD_5 ( ) ) return IDENT_4 . IDENT_5 ; else return IDENT_4 . IDENT_6 ; }
+org . junit . Assert . assertEquals ( result , IDENT_4 . IDENT_6 ) 

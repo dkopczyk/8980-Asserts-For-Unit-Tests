@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( au . gov . IDENT_0 . IDENT_1 . common . util . IDENT_2 . METHOD_2 ( s ) ) { return s ; } return ( s . substring ( 0 , 1 ) . METHOD_3 ( ) ) + ( s . substring ( 1 ) ) ; }
+org . junit . Assert . assertEquals ( "" , au . gov . IDENT_0 . IDENT_1 . common . util . IDENT_2 . METHOD_1 ( "" ) ) 

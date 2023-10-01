@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . config . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . config . METHOD_1 ( ) ; com . IDENT_0 . IDENT_1 . config . IDENT_4 IDENT_5 = new com . IDENT_0 . IDENT_1 . config . METHOD_2 ( new com . IDENT_0 . IDENT_1 . config . METHOD_1 ( ) ) ; com . IDENT_0 . IDENT_1 . IDENT_6 . IDENT_7 m = IDENT_5 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { if ( ( IDENT_6 ) == null ) { METHOD_3 ( ) ; } return IDENT_6 ; }
+org . junit . Assert . assertNotNull ( m ) 

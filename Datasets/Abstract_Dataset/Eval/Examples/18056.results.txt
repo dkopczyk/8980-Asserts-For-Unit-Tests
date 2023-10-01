@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String name = ( org . apache . jackrabbit . oak . core . IDENT_0 . IDENT_1 ) + STRING_0 ; IDENT_2 . setProperty ( name , "value" ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return delegate . METHOD_1 ( name ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_1 ( name ) ) 

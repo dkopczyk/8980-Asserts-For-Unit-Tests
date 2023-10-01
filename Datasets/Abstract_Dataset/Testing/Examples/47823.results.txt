@@ -1,0 +1,2 @@
+METHOD_0 ( ) { domain = STRING_0 ; org . springframework . mock . web . IDENT_0 request = new org . springframework . mock . web . METHOD_1 ( ) ; org . springframework . mock . web . IDENT_1 response = new org . springframework . mock . web . METHOD_2 ( ) ; request . METHOD_3 ( com . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 , STRING_1 ) ; filter . METHOD_4 ( request , response , IDENT_7 ) ; "<AssertPlaceHolder>" ; } getStatus ( ) { return status ; }
+org . junit . Assert . assertEquals ( 200 , response . getStatus ( ) ) 

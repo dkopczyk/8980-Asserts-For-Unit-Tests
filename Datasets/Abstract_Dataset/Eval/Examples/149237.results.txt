@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = METHOD_1 ( ) . METHOD_0 ( 1 , new com . IDENT_1 . app . METHOD_2 ( IDENT_2 . IDENT_3 , new com . IDENT_1 . app . METHOD_3 ( STRING_0 , STRING_1 , 0 , com . IDENT_1 . app . IDENT_4 . getText ( IDENT_5 . IDENT_6 ) , true ) ) ) ; "<AssertPlaceHolder>" ; } getText ( com . IDENT_1 . app . IDENT_5 ) { return new com . IDENT_1 . app . METHOD_4 ( size , null , null , null , null , null ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_0 > 10 ) ) 

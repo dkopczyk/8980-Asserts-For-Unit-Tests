@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { io . IDENT_0 . IDENT_1 . node . IDENT_2 IDENT_3 = io . IDENT_0 . IDENT_1 . node . IDENT_2 . IDENT_4 ; for ( final io . IDENT_0 . IDENT_1 . node . Node node : nodes ) { if ( node . id ( ) . METHOD_2 ( IDENT_3 ) ) { IDENT_3 = node . id ( ) ; } } return IDENT_3 ; }
+org . junit . Assert . assertEquals ( io . IDENT_0 . IDENT_1 . node . IDENT_2 . of ( 3 ) , config . METHOD_1 ( ) ) 

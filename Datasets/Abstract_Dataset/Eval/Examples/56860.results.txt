@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Class < ? > actual = org . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_1 ( getClass ( ) . METHOD_2 ( ) , getClass ( ) . getName ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . IDENT_3 , java . lang . String ) { try { return ( ( java . lang . Class < T > ) ( java . lang . Class . METHOD_3 ( IDENT_4 , true , IDENT_5 ) ) ) ; } catch ( java . lang . IDENT_6 e ) { return null ; } }
+org . junit . Assert . assertSame ( actual , getClass ( ) ) 

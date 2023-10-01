@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . concurrent . atomic . IDENT_0 count = new java . util . concurrent . atomic . METHOD_1 ( 0 ) ; g . tx ( ) . METHOD_2 ( ( s ) -> { if ( s == IDENT_1 . Status . IDENT_2 ) count . METHOD_3 ( ) ; } ) ; g . tx ( ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } get ( ) { return this . t ; }
+org . junit . Assert . assertEquals ( 1 , count . get ( ) ) 

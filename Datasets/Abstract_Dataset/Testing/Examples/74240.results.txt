@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final uk . gov . gchq . gaffer . operation . impl . job . IDENT_0 op = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return new uk . gov . gchq . gaffer . operation . impl . METHOD_2 ( ) ; }
+org . junit . Assert . assertNotNull ( op ) 

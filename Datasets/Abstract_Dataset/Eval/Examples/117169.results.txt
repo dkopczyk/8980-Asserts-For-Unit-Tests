@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URI uri = new java . net . URI ( STRING_0 ) ; instance . builder ( ) . uri ( uri ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return uri ; }
+org . junit . Assert . assertEquals ( uri , instance . METHOD_1 ( ) ) 

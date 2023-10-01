@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . test . IDENT_2 session = IDENT_3 . METHOD_1 ( ) ; com . IDENT_0 . IDENT_1 . test . IDENT_4 IDENT_5 = session . METHOD_2 ( STRING_0 ) ; long IDENT_6 = IDENT_5 . METHOD_3 ( ) ; int IDENT_7 = 1000 ; for ( int i = 0 ; i < IDENT_7 ; i ++ ) { IDENT_5 . METHOD_4 ( new com . IDENT_0 . IDENT_1 . core . METHOD_5 ( ) ) ; } IDENT_5 . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return this . IDENT_8 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_5 . METHOD_3 ( ) ) > IDENT_6 ) ) 

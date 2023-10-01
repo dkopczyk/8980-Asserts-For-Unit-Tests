@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . talend . components . jdbc . IDENT_0 . IDENT_1 fixture = new org . talend . components . jdbc . IDENT_0 . METHOD_1 ( ) ; java . lang . String result = fixture . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( null , result ) 

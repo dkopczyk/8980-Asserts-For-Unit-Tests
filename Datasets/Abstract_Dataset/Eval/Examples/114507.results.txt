@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Integer > IDENT_3 = com . IDENT_0 . IDENT_1 . IDENT_4 . apply ( 1 ) . to ( 10 , 3 ) ; "<AssertPlaceHolder>" ; } size ( ) { return 0 ; }
+org . junit . Assert . assertThat ( IDENT_3 . size ( ) , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( 4 ) ) ) 

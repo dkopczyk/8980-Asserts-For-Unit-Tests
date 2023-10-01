@@ -1,0 +1,2 @@
+METHOD_0 ( ) { model . METHOD_1 ( null ) ; METHOD_2 ( METHOD_3 ( ) . METHOD_4 ( ) ) . METHOD_5 ( new java . util . ArrayList < org . oscm . internal . components . IDENT_0 > ( ) ) ; java . lang . String result = IDENT_1 . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; verify ( IDENT_1 , times ( 1 ) ) . METHOD_7 ( ) ; } METHOD_6 ( ) { java . lang . String result = METHOD_8 ( ) ; if ( result . equals ( org . oscm . ui . beans . IDENT_2 ) ) { return "" ; } return result ; }
+org . junit . Assert . assertEquals ( "" , result ) 

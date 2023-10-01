@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . IDENT_0 . IDENT_1 . model . IDENT_2 . IDENT_3 . IDENT_4 > IDENT_5 = METHOD_1 ( 0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { throw new java . lang . METHOD_2 ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_5 != null ) && ( ! ( IDENT_5 . isEmpty ( ) ) ) ) ) 

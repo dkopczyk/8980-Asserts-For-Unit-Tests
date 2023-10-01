@@ -1,0 +1,2 @@
+METHOD_0 ( ) { au . gov . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . set ( METHOD_1 ( STRING_0 ) ) ; METHOD_2 ( ) ; select ( METHOD_3 ( ) . get ( 1 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return new java . util . ArrayList < au . gov . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_5 > ( IDENT_3 . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertEquals ( METHOD_3 ( ) . get ( 1 ) , au . gov . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . get ( ) ) 

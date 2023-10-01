@@ -1,0 +1,2 @@
+METHOD_0 ( ) { float IDENT_0 = java . lang . Math . min ( ( ( IDENT_1 ) * ( IDENT_2 . IDENT_3 ) ) , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( float , float ) { return java . lang . Math . min ( ( IDENT_1 * ( info . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 . application . IDENT_9 . IDENT_2 . IDENT_3 ) ) , IDENT_4 ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_0 == ( info . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 . application . IDENT_9 . IDENT_2 . METHOD_1 ( IDENT_1 , IDENT_4 ) ) ) ) 

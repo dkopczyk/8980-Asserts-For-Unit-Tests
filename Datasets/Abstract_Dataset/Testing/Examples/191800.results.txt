@@ -1,0 +1,2 @@
+METHOD_0 ( ) { store . set ( STRING_0 , "value" , STRING_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return collection . METHOD_1 ( de . IDENT_0 . IDENT_1 . session . IDENT_2 . IDENT_3 ) . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , store . size ( ) ) 

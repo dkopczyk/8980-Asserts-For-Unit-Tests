@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int expected = INT_0 ; int actual = de . IDENT_0 . IDENT_1 . header . IDENT_2 . METHOD_1 ( de . IDENT_0 . IDENT_1 . header . IDENT_3 . IDENT_4 , 7 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( byte [ ] , int ) { int IDENT_5 = ( header . length ) - 3 ; int i = IDENT_6 ; while ( i < IDENT_5 ) { i = de . IDENT_0 . IDENT_1 . header . IDENT_2 . METHOD_2 ( header , i , 2 ) ; if ( de . IDENT_0 . IDENT_1 . header . IDENT_2 . METHOD_3 ( header , ( i - 2 ) ) ) { return i - 2 ; } i ++ ; } return - 1 ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

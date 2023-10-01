@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . IDENT_0 . matchers . IDENT_1 expr = new org . openscience . cdk . IDENT_0 . matchers . METHOD_1 ( IDENT_2 ) ; org . openscience . cdk . interfaces . IDENT_3 IDENT_4 = mock ( org . openscience . cdk . interfaces . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } matches ( org . openscience . cdk . interfaces . IDENT_5 ) { return matches ( IDENT_6 , true ) ; }
+org . junit . Assert . assertFalse ( expr . matches ( IDENT_4 ) ) 

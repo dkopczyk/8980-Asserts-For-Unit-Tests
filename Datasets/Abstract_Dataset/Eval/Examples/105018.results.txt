@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . IDENT_0 IDENT_1 = mock ( java . io . IDENT_0 . class ) ; hudson . cli . IDENT_2 c = new hudson . cli . METHOD_1 ( IDENT_1 , new hudson . IDENT_3 . METHOD_2 ( new hudson . IDENT_3 . METHOD_3 ( ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { int IDENT_4 = IDENT_1 . METHOD_5 ( ) ; if ( IDENT_4 < 0 ) { throw new java . io . IOException ( STRING_0 ) ; } byte [ ] buf = new byte [ IDENT_4 ] ; IDENT_1 . METHOD_6 ( buf ) ; return buf ; }
+org . junit . Assert . assertTrue ( ( ( c . METHOD_4 ( ) . length ) == 0 ) ) 

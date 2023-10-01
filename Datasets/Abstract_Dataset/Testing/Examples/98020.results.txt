@@ -1,0 +1,2 @@
+METHOD_0 ( ) { new IDENT_0 . METHOD_1 ( ) { { a . METHOD_2 ( ) ; result = b ; } } ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { IDENT_0 . IDENT_1 IDENT_2 = null ; try { IDENT_2 = ( ( IDENT_0 . IDENT_1 ) ( super . METHOD_2 ( ) ) ) ; } catch ( java . lang . IDENT_3 IDENT_4 ) { } return IDENT_2 ; }
+org . junit . Assert . assertSame ( b , a . METHOD_2 ( ) ) 

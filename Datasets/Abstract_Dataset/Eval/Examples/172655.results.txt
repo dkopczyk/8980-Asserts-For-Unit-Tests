@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 IDENT_1 = IDENT_2 . instance ( ) ; IDENT_0 IDENT_3 = IDENT_2 . instance ( ) ; byte [ ] [ ] IDENT_4 = ( ( org . springframework . data . redis . core . IDENT_5 ) ( IDENT_6 ) ) . METHOD_1 ( IDENT_1 , IDENT_3 ) ; "<AssertPlaceHolder>" ; } instance ( ) { return IDENT_7 . METHOD_2 ( delegate . instance ( ) ) ; }
+org . junit . Assert . assertEquals ( 2 , METHOD_1 . length ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = INT_0 ; "<AssertPlaceHolder>" ; } times ( java . lang . Integer , java . util . function . IDENT_1 , IDENT_2 ) { return com . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 . IDENT_9 . < IDENT_2 > times ( n , IDENT_10 ) . apply ( a ) ; }
+org . junit . Assert . assertEquals ( ( ( java . lang . Integer ) ( IDENT_0 ) ) , com . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 . IDENT_9 . times ( IDENT_0 , ( x ) -> x + 1 , 0 ) ) 

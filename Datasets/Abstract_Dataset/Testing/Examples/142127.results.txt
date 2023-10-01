@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( int i = 0 ; i < 10 ; i ++ ) { cloud . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = METHOD_1 ( ) ; cloud . IDENT_0 . IDENT_1 . test . IDENT_1 . IDENT_4 IDENT_5 = cloud . IDENT_0 . IDENT_1 . IDENT_6 . METHOD_2 ( cloud . IDENT_0 . IDENT_1 . test . IDENT_1 . IDENT_4 . class , "1" ) ; "<AssertPlaceHolder>" ; } } METHOD_3 ( java . lang . String ) { return cloud . IDENT_0 . concurrent . IDENT_7 . METHOD_4 ( STRING_0 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_5 . METHOD_3 ( STRING_0 ) . get ( ) ) 

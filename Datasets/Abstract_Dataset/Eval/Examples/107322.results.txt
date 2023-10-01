@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new rest . METHOD_1 ( IDENT_1 ) ; IDENT_0 . METHOD_2 ( IDENT_2 ) ; java . lang . IDENT_3 < IDENT_4 . runtime . io . IDENT_5 > resource = IDENT_0 . resources ( "" , IDENT_6 . IDENT_7 ) ; "<AssertPlaceHolder>" ; } iterator ( ) { return new rest . METHOD_3 ( IDENT_8 ) ; }
+org . junit . Assert . assertTrue ( resource . iterator ( ) . hasNext ( ) ) 

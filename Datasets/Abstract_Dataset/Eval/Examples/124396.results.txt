@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . bzk . brp . model . bijhouding . IDENT_0 bericht = METHOD_1 ( ) ; final nl . bzk . brp . bijhouding . business . IDENT_1 . IDENT_2 . IDENT_3 IDENT_2 = IDENT_4 . METHOD_2 ( bericht ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return java . util . Collections . METHOD_4 ( IDENT_5 ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_3 ( ) . isEmpty ( ) ) 

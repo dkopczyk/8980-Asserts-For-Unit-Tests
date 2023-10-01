@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nuxeo . IDENT_0 . api . IDENT_1 IDENT_2 = service . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; java . io . ByteArrayOutputStream out = new java . io . ByteArrayOutputStream ( ) ; org . nuxeo . IDENT_0 . io . IDENT_3 . METHOD_2 ( IDENT_2 , out , true ) ; METHOD_3 ( STRING_1 , out ) ; } METHOD_1 ( java . lang . String ) { if ( id == null ) { return null ; } org . nuxeo . IDENT_0 . core . IDENT_4 . IDENT_5 IDENT_6 = IDENT_7 . METHOD_1 ( id ) ; return METHOD_1 ( IDENT_6 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

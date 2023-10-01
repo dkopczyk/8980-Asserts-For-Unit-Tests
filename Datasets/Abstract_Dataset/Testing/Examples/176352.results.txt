@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . IDENT_0 . IDENT_1 IDENT_2 = org . talend . IDENT_3 . runtime . utils . IDENT_4 . METHOD_1 ( new java . io . File ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . io . File ) { return org . talend . commons . utils . resource . IDENT_5 . METHOD_1 ( f ) ; }
+org . junit . Assert . assertNull ( IDENT_2 ) 

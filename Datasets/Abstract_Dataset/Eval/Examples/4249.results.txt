@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long count = com . IDENT_0 . stream . IDENT_1 . empty ( ) . stream ( ) . count ( ) ; "<AssertPlaceHolder>" ; } count ( ) { long count = 0 ; while ( iterator . hasNext ( ) ) { iterator . METHOD_1 ( ) ; count ++ ; } return count ; }
+org . junit . Assert . assertThat ( count , org . hamcrest . Matchers . is ( 0L ) ) 

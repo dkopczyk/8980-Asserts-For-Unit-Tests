@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String actual = new org . apache . IDENT_0 . common . field . METHOD_1 ( ) . convert ( STRING_0 ) ; "<AssertPlaceHolder>" ; } convert ( java . lang . String ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( STRING_0 , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . teiid . jdbc . IDENT_0 rs = METHOD_1 ( org . teiid . jdbc . IDENT_1 . IDENT_2 ) ; boolean actual = rs . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; rs . close ( ) ; } METHOD_2 ( ) { return ( ( METHOD_3 ( ) ) == ( org . teiid . jdbc . IDENT_0 . IDENT_3 ) ) && ( hasNext ( ) ) ; }
+org . junit . Assert . assertEquals ( true , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { java . lang . Class . METHOD_1 ( STRING_0 ) ; } catch ( java . lang . IDENT_0 IDENT_1 ) { log . info ( STRING_1 ) ; return ; } final org . apache . flink . core . fs . IDENT_2 IDENT_3 = new org . apache . flink . core . fs . Path ( STRING_2 ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return org . apache . flink . core . fs . IDENT_4 . IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_4 . IDENT_5 , IDENT_3 . METHOD_3 ( ) ) 

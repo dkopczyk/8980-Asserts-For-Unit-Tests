@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . microsoft . azure . sdk . iot . IDENT_0 . serializer . IDENT_1 parser = new com . microsoft . azure . sdk . iot . IDENT_0 . serializer . METHOD_1 ( ) ; parser . METHOD_2 ( IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } getType ( ) { return type ; }
+org . junit . Assert . assertEquals ( IDENT_2 . IDENT_3 , parser . getType ( ) ) 

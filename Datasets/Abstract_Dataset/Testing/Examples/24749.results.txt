@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . tinkerpop . IDENT_0 . process . IDENT_1 . IDENT_2 < org . apache . tinkerpop . IDENT_0 . IDENT_3 . IDENT_4 , java . lang . Object > IDENT_1 = METHOD_1 ( ) ; METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } toList ( ) { return this . METHOD_3 ( new java . util . ArrayList ( ) ) ; }
+org . junit . Assert . assertEquals ( java . util . Collections . emptyList ( ) , IDENT_1 . toList ( ) ) 

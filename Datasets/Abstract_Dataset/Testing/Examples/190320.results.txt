@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . IDENT_2 params = new com . github . IDENT_0 . IDENT_1 . METHOD_1 ( ) . METHOD_2 ( 1 ) . METHOD_3 ( 10 ) . METHOD_4 ( 10 ) . METHOD_5 ( 10 ) . METHOD_6 ( 5 ) . METHOD_7 ( true ) ; java . lang . String IDENT_3 = com . github . IDENT_0 . IDENT_1 . IDENT_4 . q . METHOD_8 ( com . github . IDENT_0 . IDENT_1 . IDENT_4 . METHOD_9 ( ) , IDENT_5 , 10 , params ) ; "<AssertPlaceHolder>" ; } METHOD_9 ( ) { return java . util . UUID . METHOD_10 ( ) . toString ( ) . getBytes ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . bonitasoft . engine . expression . exception . IDENT_0 IDENT_1 = new org . bonitasoft . engine . expression . exception . METHOD_1 ( message , IDENT_2 ) ; final java . lang . String result = IDENT_1 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( IDENT_2 , result ) 

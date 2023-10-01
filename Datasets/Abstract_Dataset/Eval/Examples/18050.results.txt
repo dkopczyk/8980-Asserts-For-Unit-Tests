@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . setProperty ( STRING_0 , com . google . common . collect . ImmutableList . of ( "a" , "b" ) , Type . IDENT_1 ) ; "<AssertPlaceHolder>" ; } getString ( java . lang . String ) { return delegate . getString ( name ) ; }
+org . junit . Assert . assertNull ( IDENT_0 . getString ( STRING_0 ) ) 

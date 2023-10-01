@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long id = IDENT_0 . METHOD_1 ( IDENT_1 ) ; IDENT_0 . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( long ) { return IDENT_2 . METHOD_4 ( id ) ; }
+org . junit . Assert . assertNull ( IDENT_0 . METHOD_3 ( id ) ) 

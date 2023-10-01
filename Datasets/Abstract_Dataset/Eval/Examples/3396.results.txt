@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . allanbank . mongodb . client . IDENT_0 . IDENT_1 cb = new com . allanbank . mongodb . client . IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( ( IDENT_2 ) instanceof com . allanbank . mongodb . client . IDENT_3 ) || ( ( ( IDENT_2 ) instanceof com . allanbank . mongodb . client . IDENT_0 . IDENT_4 ) && ( ( ( com . allanbank . mongodb . client . IDENT_0 . IDENT_4 ) ( IDENT_2 ) ) . METHOD_2 ( ) ) ) ; }
+org . junit . Assert . assertThat ( cb . METHOD_2 ( ) , org . hamcrest . Matchers . is ( true ) ) 

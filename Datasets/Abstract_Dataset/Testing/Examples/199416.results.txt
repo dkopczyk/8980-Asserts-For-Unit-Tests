@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( null , STRING_0 ) . METHOD_2 ( ( e ) -> { org . junit . Assert . fail ( STRING_1 ) ; return IDENT_1 . resolve ( ) ; } ) . METHOD_3 ( ( e ) -> { "<AssertPlaceHolder>" ; return IDENT_1 . resolve ( ) ; } ) ; }
+org . junit . Assert . assertEquals ( e , STRING_0 ) 

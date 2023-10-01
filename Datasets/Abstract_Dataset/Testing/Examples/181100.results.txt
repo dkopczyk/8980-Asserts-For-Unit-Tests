@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 ) { if ( ( METHOD_2 ( field ) ) && ( IDENT_6 . IDENT_7 . getName ( ) . equals ( field . METHOD_3 ( ) ) ) ) { org . IDENT_0 . impl . IDENT_1 . component . IDENT_8 . METHOD_1 ( field . METHOD_4 ( ) ) ; return true ; } return false ; }
+org . junit . Assert . assertFalse ( org . IDENT_0 . impl . IDENT_1 . component . IDENT_8 . METHOD_1 ( null ) ) 

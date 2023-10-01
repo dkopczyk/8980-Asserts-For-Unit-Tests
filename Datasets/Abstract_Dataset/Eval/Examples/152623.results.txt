@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . repository . IDENT_1 dao = this . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int , int ) { return session . METHOD_3 ( this . IDENT_2 ) . METHOD_4 ( org . hibernate . IDENT_3 . IDENT_4 . METHOD_5 ( STRING_0 ) ) . METHOD_6 ( start ) . METHOD_7 ( count ) . METHOD_8 ( STRING_1 ) . list ( ) ; }
+org . junit . Assert . assertEquals ( 0 , dao . METHOD_2 ( 0 , 10 ) . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { headers . delegate ( ) . add ( STRING_0 , "value" ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return new io . netty . handler . codec . http . METHOD_1 ( io . netty . handler . codec . http . IDENT_0 . IDENT_1 , io . netty . handler . codec . http . IDENT_2 . IDENT_3 , path ) ; }
+org . junit . Assert . assertEquals ( "value" , headers . get ( STRING_0 ) ) 

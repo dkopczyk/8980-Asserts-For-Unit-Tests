@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = ( IDENT_2 . IDENT_3 ) + STRING_1 ; org . apache . solr . client . IDENT_4 . IDENT_5 IDENT_6 = IDENT_7 . METHOD_1 ( IDENT_8 . IDENT_9 , IDENT_0 , false ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return query ; }
+org . junit . Assert . assertThat ( IDENT_6 . METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( IDENT_1 ) ) 

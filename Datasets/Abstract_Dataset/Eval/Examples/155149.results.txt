@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 ac = new org . IDENT_0 . METHOD_1 ( ) ; ac = ac . add ( 1 , 10 ) ; org . IDENT_0 . IDENT_1 IDENT_2 = new org . IDENT_0 . METHOD_1 ( ) ; IDENT_2 = IDENT_2 . add ( 5 , INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . IDENT_0 . buffer . IDENT_3 ) { return x . METHOD_2 ( this ) ; }
+org . junit . Assert . assertTrue ( ac . METHOD_2 ( IDENT_2 ) ) 

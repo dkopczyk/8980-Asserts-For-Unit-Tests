@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . IDENT_0 . IDENT_1 IDENT_2 = db . METHOD_1 ( ) ; try ( org . neo4j . IDENT_0 . IDENT_3 tx = IDENT_2 . METHOD_2 ( ) ) { IDENT_2 . METHOD_3 ( ) ; IDENT_2 . METHOD_3 ( ) ; tx . METHOD_4 ( ) ; } long IDENT_4 = METHOD_5 ( ) ; try ( org . neo4j . IDENT_0 . IDENT_3 tx = IDENT_2 . METHOD_2 ( ) ) { IDENT_2 . METHOD_3 ( ) ; long IDENT_5 = METHOD_6 ( ) ; "<AssertPlaceHolder>" ; tx . METHOD_4 ( ) ; } } METHOD_6 ( ) { return IDENT_6 . get ( ) . METHOD_7 ( ) . METHOD_6 ( IDENT_7 . IDENT_8 ) ; }
+org . junit . Assert . assertEquals ( ( IDENT_4 + 1 ) , IDENT_5 ) 

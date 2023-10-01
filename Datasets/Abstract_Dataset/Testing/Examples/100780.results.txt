@@ -1,0 +1,2 @@
+METHOD_0 ( ) { android . IDENT_0 . IDENT_1 IDENT_2 = net . IDENT_3 . IDENT_4 . android . IDENT_5 . from ( STRING_0 ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { try { return net . IDENT_3 . IDENT_4 . android . IDENT_6 . METHOD_2 ( METHOD_3 ( text ) , IDENT_7 ) ; } catch ( com . google . IDENT_8 . IDENT_9 e ) { throw new net . IDENT_3 . IDENT_4 . core . exception . METHOD_4 ( STRING_1 , e ) ; } }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . alibaba . IDENT_0 . util . io . IDENT_1 IDENT_2 ; IDENT_2 = new com . alibaba . IDENT_0 . util . io . METHOD_1 ( data ) ; java . io . ByteArrayOutputStream IDENT_3 = new java . io . ByteArrayOutputStream ( ) ; IDENT_2 . METHOD_0 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } toByteArray ( ) { shared = true ; return new com . alibaba . IDENT_0 . util . io . METHOD_1 ( buffer , 0 , index ) ; }
+org . junit . Assert . assertArrayEquals ( data , IDENT_3 . toByteArray ( ) ) 

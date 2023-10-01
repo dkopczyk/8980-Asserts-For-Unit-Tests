@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . jboss . IDENT_0 . IDENT_1 operation = new org . jboss . IDENT_0 . METHOD_1 ( ) ; operation . get ( IDENT_2 . IDENT_3 ) . set ( STRING_0 ) ; operation . get ( IDENT_2 . IDENT_4 ) . set ( org . jboss . as . controller . test . IDENT_5 . IDENT_6 . METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } transform ( org . jboss . as . controller . transform . IDENT_7 , org . jboss . as . controller . IDENT_8 , org . jboss . IDENT_0 . METHOD_1 ) { return operation ; }
+org . junit . Assert . assertNull ( transform ( operation , 1 , 1 ) ) 

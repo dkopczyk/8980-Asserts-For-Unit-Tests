@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String result = IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return null ; }
+org . junit . Assert . assertNull ( result ) 

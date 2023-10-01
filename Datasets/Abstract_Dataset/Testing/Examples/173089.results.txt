@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . springframework . IDENT_0 . project . maven . IDENT_1 IDENT_2 = METHOD_1 ( org . springframework . IDENT_0 . project . maven . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . springframework . IDENT_0 . project . IDENT_5 ) { return ! ( METHOD_3 ( IDENT_6 ) . isEmpty ( ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 . METHOD_2 ( null ) ) 

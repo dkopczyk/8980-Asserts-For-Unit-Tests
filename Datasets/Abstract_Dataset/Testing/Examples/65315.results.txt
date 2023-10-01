@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String data = "" ; final java . util . Map < java . lang . String , java . lang . String > props = org . jboss . IDENT_0 . common . client . util . Properties . load ( data ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_1 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , props . size ( ) ) 

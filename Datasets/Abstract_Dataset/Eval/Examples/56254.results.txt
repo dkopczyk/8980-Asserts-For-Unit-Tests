@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; uk . gov . IDENT_1 . IDENT_2 . IDENT_3 . utils . select . Node < uk . gov . IDENT_1 . IDENT_2 . types . IDENT_4 . IDENT_5 > doc = METHOD_1 ( IDENT_0 ) ; uk . gov . IDENT_1 . IDENT_2 . IDENT_3 . utils . select . IDENT_6 < uk . gov . IDENT_1 . IDENT_2 . types . IDENT_4 . IDENT_5 > IDENT_7 = doc . select ( STRING_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return ( ( int ) ( METHOD_2 ( ) . count ( ) ) ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_7 . size ( ) ) 

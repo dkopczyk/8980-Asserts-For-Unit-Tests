@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . slc . sli . domain . Entity > entity = java . util . Arrays . asList ( METHOD_1 ( ) ) ; org . slc . sli . domain . Entity IDENT_0 = METHOD_1 ( ) ; IDENT_1 . METHOD_2 ( entity ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return body ; }
+org . junit . Assert . assertEquals ( IDENT_0 . METHOD_3 ( ) , entity . get ( 0 ) . METHOD_3 ( ) ) 

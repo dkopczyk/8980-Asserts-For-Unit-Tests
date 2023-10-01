@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . amazon . IDENT_1 . services . IDENT_2 . document . IDENT_3 i = new IDENT_0 . amazon . IDENT_1 . services . IDENT_2 . document . METHOD_1 ( ) . METHOD_2 ( STRING_0 , INT_0 ) ; short b = i . METHOD_0 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String ) { java . math . BigDecimal IDENT_4 = METHOD_3 ( IDENT_5 ) ; if ( IDENT_4 == null ) { throw new java . lang . METHOD_4 ( ( ( STRING_1 + IDENT_5 ) + STRING_2 ) ) ; } return IDENT_4 . METHOD_5 ( ) ; }
+org . junit . Assert . assertTrue ( ( b == INT_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . collections . impl . map . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Integer , java . lang . String > IDENT_3 = new org . eclipse . collections . impl . map . IDENT_0 . IDENT_1 . METHOD_1 ( IDENT_4 . mutable . of ( 1 , "1" , 2 , "2" , 3 , STRING_0 , 4 , STRING_1 ) ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . util . IDENT_5 ) { return this . METHOD_2 ( map ) ; }
+org . junit . Assert . assertSame ( IDENT_3 , IDENT_4 . IDENT_1 . METHOD_0 ( IDENT_3 ) ) 

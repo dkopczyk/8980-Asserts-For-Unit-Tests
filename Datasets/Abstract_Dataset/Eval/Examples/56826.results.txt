@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . easymock . IDENT_0 < org . easymock . IDENT_1 . IDENT_2 . IDENT_3 > builder = METHOD_1 ( org . easymock . IDENT_1 . IDENT_2 . IDENT_3 . class ) ; org . easymock . IDENT_1 . IDENT_2 . IDENT_3 a = builder . METHOD_2 ( int . class ) . METHOD_3 ( 2 ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { org . junit . Assert . METHOD_5 ( org . easymock . tests . IllegalStateException . class , ( ) -> IDENT_4 . METHOD_4 ( . class ) ) ; }
+org . junit . Assert . assertEquals ( 2 , a . i ) 

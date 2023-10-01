@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . accumulo . core . client . IDENT_0 s = new org . apache . accumulo . core . IDENT_1 . METHOD_1 ( context , org . apache . accumulo . core . data . IDENT_2 . of ( "foo" ) , org . apache . accumulo . core . security . IDENT_3 . IDENT_4 ) ; s . METHOD_2 ( 0 ) ; s . METHOD_2 ( 10 ) ; s . METHOD_2 ( Long . MAX_VALUE ) ; "<AssertPlaceHolder>" ; s . close ( ) ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( Long . MAX_VALUE , s . METHOD_3 ( ) ) 

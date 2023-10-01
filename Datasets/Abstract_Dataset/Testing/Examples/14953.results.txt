@@ -1,0 +1,2 @@
+equal ( ) { org . apache . hadoop . hive . accumulo . IDENT_0 . compare . IDENT_1 IDENT_2 = new org . apache . hadoop . hive . accumulo . IDENT_0 . compare . METHOD_0 ( IDENT_3 ) ; byte [ ] val = STRING_0 . getBytes ( ) ; "<AssertPlaceHolder>" ; } accept ( org . apache . hadoop . fs . Path ) { java . lang . String IDENT_4 = path . getName ( ) ; return ( IDENT_4 . startsWith ( STRING_1 ) ) && ( ( IDENT_4 . compareTo ( org . apache . hadoop . hive . IDENT_5 . IDENT_6 . IDENT_7 ) ) <= 0 ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . accept ( val ) ) 

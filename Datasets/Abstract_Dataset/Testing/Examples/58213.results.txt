@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = new org . eclipse . collections . impl . IDENT_1 . METHOD_1 ( org . eclipse . collections . impl . list . IDENT_2 . METHOD_2 ( 5 ) ) . METHOD_0 ( org . eclipse . collections . impl . list . mutable . IDENT_3 . METHOD_3 ( ) ) . METHOD_4 ( 0 , IDENT_4 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( IDENT_6 , org . eclipse . collections . api . block . function . IDENT_7 ) { return this . METHOD_5 ( ) . METHOD_4 ( IDENT_8 , function ) ; }
+org . junit . Assert . assertEquals ( 15 , IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . xml . IDENT_0 . IDENT_1 exp = eu . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_0 . METHOD_1 ( STRING_0 ) ; org . w3c . dom . Node node = ( ( org . w3c . dom . Node ) ( exp . evaluate ( document , IDENT_8 . IDENT_9 ) ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( node ) 

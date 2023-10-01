@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final byte [ ] result = org . IDENT_0 . IDENT_1 . IDENT_2 . bytes . IDENT_3 . build ( new org . IDENT_0 . IDENT_1 . IDENT_2 . bytes . METHOD_1 ( 0 , 0 , 0 , 0 ) ) ; final byte [ ] IDENT_4 = new byte [ 8 ] ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . CoreMatchers . is ( IDENT_4 ) ) 

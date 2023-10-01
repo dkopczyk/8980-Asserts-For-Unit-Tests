@@ -1,0 +1,2 @@
+METHOD_0 ( ) { info . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new info . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_6 . METHOD_1 ( "name" ) ; "<AssertPlaceHolder>" ; } toString ( ) { return this . path ; }
+org . junit . Assert . assertEquals ( "name" , IDENT_5 . toString ( ) ) 

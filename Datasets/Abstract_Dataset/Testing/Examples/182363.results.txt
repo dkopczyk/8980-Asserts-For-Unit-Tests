@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 options = new org . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; options . METHOD_2 ( true ) ; org . IDENT_0 . IDENT_1 . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . METHOD_3 ( options ) ; java . io . StringWriter IDENT_5 = new java . io . StringWriter ( ) ; java . io . IDENT_6 IDENT_7 = new java . io . METHOD_4 ( IDENT_5 ) ; IDENT_4 . METHOD_5 ( IDENT_7 , null ) ; "<AssertPlaceHolder>" ; } toString ( ) { return this . IDENT_8 ; }
+org . junit . Assert . assertEquals ( "" , IDENT_5 . toString ( ) ) 

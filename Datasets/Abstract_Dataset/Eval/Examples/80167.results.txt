@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . configuration . IDENT_1 configuration = new org . IDENT_0 . configuration . METHOD_1 ( ) ; new com . github . IDENT_2 . IDENT_3 . METHOD_2 ( new com . github . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_3 ( ) , configuration ) . process ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( 1000 , configuration . METHOD_4 ( ) ) 

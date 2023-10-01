@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( IDENT_1 . IDENT_2 ) ) . thenReturn ( IDENT_3 ) ; final nl . bzk . IDENT_4 . dal . domein . brp . entity . IDENT_1 IDENT_5 = service . METHOD_0 ( ) ; verify ( IDENT_0 ) . METHOD_1 ( IDENT_1 . IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( nl . bzk . migratiebrp . conversie . model . brp . IDENT_6 . IDENT_7 ) { if ( IDENT_8 == null ) { return null ; } else { return IDENT_9 . METHOD_2 ( IDENT_8 . METHOD_3 ( ) ) ; } }
+org . junit . Assert . assertThat ( IDENT_5 , org . hamcrest . core . Is . is ( IDENT_3 ) ) 

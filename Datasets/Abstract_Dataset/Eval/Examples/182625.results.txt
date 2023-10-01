@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; net . IDENT_0 . message . IDENT_1 message = new net . IDENT_0 . message . METHOD_2 ( net . IDENT_0 . message . IDENT_2 . IDENT_3 ) ; session . METHOD_3 ( IDENT_4 , message ) ; verify ( IDENT_5 ) . METHOD_4 ( IDENT_6 . METHOD_5 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return net . IDENT_0 . message . IDENT_2 . METHOD_7 ( ( ( buffer . get ( 3 ) ) & 255 ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 . IDENT_3 , ( ( net . IDENT_0 . message . METHOD_2 ) ( IDENT_6 . getValue ( ) ) ) . METHOD_6 ( ) ) 

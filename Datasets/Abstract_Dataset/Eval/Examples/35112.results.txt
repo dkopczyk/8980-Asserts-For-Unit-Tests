@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . opengis . IDENT_0 . IDENT_1 result = IDENT_2 . METHOD_1 ( ) ; ( ( org . geotools . IDENT_0 . reference . IDENT_3 ) ( IDENT_2 ) ) . METHOD_2 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( IDENT_2 . METHOD_1 ( ) , result ) 

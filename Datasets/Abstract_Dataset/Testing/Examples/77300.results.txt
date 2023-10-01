@@ -1,0 +1,2 @@
+METHOD_0 ( ) { this . list . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return com . gs . collections . impl . list . IDENT_0 . METHOD_3 ( this . METHOD_4 ( ) ) . collect ( String :: valueOf ) . toList ( ) ; }
+org . junit . Assert . assertEquals ( this . METHOD_2 ( ) , this . list . METHOD_0 ( ( string ) -> string . charAt ( 0 ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { subject . add ( elements [ 0 ] ) ; "<AssertPlaceHolder>" ; } contains ( java . lang . Object ) { throw new java . lang . METHOD_1 ( ) ; }
+org . junit . Assert . assertTrue ( subject . contains ( elements [ 0 ] ) ) 

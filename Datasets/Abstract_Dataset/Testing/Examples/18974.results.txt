@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . apache . jena . query . IDENT_1 query = new org . apache . jena . query . METHOD_1 ( IDENT_0 ) ; org . apache . jena . query . METHOD_1 IDENT_2 = query . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return this . IDENT_3 . toString ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , METHOD_2 . METHOD_3 ( ) ) 

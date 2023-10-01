@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . data . model . IDENT_1 builder = new net . IDENT_0 . io . file . in . METHOD_1 ( IDENT_2 , STRING_0 , IDENT_3 , IDENT_4 , IDENT_5 ) ; net . IDENT_0 . data . model . IDENT_6 container = new net . IDENT_0 . data . model . METHOD_2 ( builder ) ; "<AssertPlaceHolder>" ; net . IDENT_0 . io . file . out . IDENT_7 IDENT_8 = new net . IDENT_0 . io . file . out . METHOD_3 ( IDENT_9 , STRING_1 ) ; container . METHOD_4 ( IDENT_8 ) ; } size ( ) { return list . size ( ) ; }
+org . junit . Assert . assertEquals ( 4 , container . size ( ) ) 

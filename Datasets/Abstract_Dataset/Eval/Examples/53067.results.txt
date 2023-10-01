@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long id = 1L ; IDENT_0 . IDENT_1 . IDENT_2 handler = new IDENT_0 . IDENT_1 . METHOD_1 ( STRING_0 , 200 ) ; server . METHOD_2 ( id , handler ) ; client . METHOD_3 ( id , new java . io . File ( IDENT_3 . METHOD_4 ( ) , java . util . UUID . METHOD_5 ( ) . toString ( ) ) ) ; handler . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; } METHOD_7 ( ) { if ( ( request ) == null ) { return null ; } return new java . lang . String ( request , java . nio . IDENT_4 . IDENT_5 . UTF_8 ) ; }
+org . junit . Assert . assertNull ( handler . METHOD_7 ( ) ) 

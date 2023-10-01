@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . plugin . streams . IDENT_1 stream = mock ( org . IDENT_0 . plugin . streams . IDENT_1 . class ) ; final org . IDENT_0 . IDENT_2 . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_2 . METHOD_1 ( IDENT_5 , IDENT_6 ) ; final java . util . Collection < org . IDENT_0 . plugin . IDENT_2 . IDENT_7 > IDENT_8 = IDENT_4 . METHOD_2 ( stream ) ; "<AssertPlaceHolder>" ; } size ( ) { return 0 ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_8 . size ( ) ) 

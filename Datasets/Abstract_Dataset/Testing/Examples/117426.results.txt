@@ -1,0 +1,2 @@
+METHOD_0 ( ) { edu . illinois . library . cantaloupe . resource . IDENT_0 . v1 . IDENT_1 IDENT_2 = new edu . illinois . library . cantaloupe . resource . IDENT_0 . v1 . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( true ) ; edu . illinois . library . cantaloupe . resource . IDENT_0 . v1 . METHOD_1 IDENT_3 = new edu . illinois . library . cantaloupe . resource . IDENT_0 . v1 . METHOD_1 ( ) ; IDENT_3 . METHOD_2 ( true ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( boolean ) { this . IDENT_4 = IDENT_4 ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_3 ) 

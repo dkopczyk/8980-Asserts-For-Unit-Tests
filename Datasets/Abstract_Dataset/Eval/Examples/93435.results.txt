@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Properties props = new java . util . Properties ( ) ; javax . mail . IDENT_0 IDENT_1 = javax . mail . IDENT_0 . getInstance ( props , null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( javax . mail . IDENT_0 , java . lang . String , boolean ) { return com . sun . mail . util . IDENT_2 . METHOD_2 ( com . sun . mail . util . IDENT_2 . METHOD_3 ( session . METHOD_4 ( ) , name ) , IDENT_3 ) ; }
+org . junit . Assert . assertTrue ( com . sun . mail . util . IDENT_2 . METHOD_1 ( IDENT_1 , "test" , true ) ) 

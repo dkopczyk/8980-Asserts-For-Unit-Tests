@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = "" ; java . lang . String [ ] arr = IDENT_0 . split ( STRING_0 ) ; "<AssertPlaceHolder>" ; } split ( java . lang . IDENT_1 ) { return split ( input , 0 ) ; }
+org . junit . Assert . assertEquals ( arr . length , 1 ) 

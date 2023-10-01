@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . domain . IDENT_1 IDENT_2 = new org . IDENT_0 . core . domain . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( 1 ) ; IDENT_2 . METHOD_3 ( STRING_0 ) ; IDENT_2 . METHOD_4 ( 1 ) ; IDENT_2 . METHOD_5 ( new java . util . Date ( ) ) ; IDENT_2 . METHOD_6 ( new java . util . Date ( ) ) ; IDENT_2 . METHOD_7 ( IDENT_3 . IDENT_4 . METHOD_8 ( ) ) ; IDENT_5 . insert ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_8 ( ) { return index ; }
+org . junit . Assert . assertTrue ( true ) 

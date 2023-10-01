@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . save ( new org . springframework . data . couchbase . repository . METHOD_1 ( STRING_0 , "" , STRING_0 , null , 0 , null ) ) ; final java . lang . String description = STRING_1 ; java . util . List < org . springframework . data . couchbase . repository . METHOD_1 > IDENT_1 = IDENT_0 . METHOD_2 ( description ) . METHOD_3 ( ) . block ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return size ( false ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_1 . size ( ) ) == 0 ) ) 

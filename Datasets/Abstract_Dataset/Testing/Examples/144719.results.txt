@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . cassandra . IDENT_1 . IDENT_2 database = new org . IDENT_0 . cassandra . IDENT_1 . METHOD_1 ( cassandra . METHOD_2 ( ) , org . IDENT_0 . cassandra . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return version ; }
+org . junit . Assert . assertThat ( database . METHOD_3 ( ) , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( 0 ) ) ) 

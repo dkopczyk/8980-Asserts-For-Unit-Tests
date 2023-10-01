@@ -1,0 +1,2 @@
+METHOD_0 ( ) { eu . IDENT_0 . IDENT_1 . collections . IDENT_2 < java . lang . String > test = new eu . IDENT_0 . IDENT_1 . collections . IDENT_2 . IDENT_3 < java . lang . String > ( ) . put ( STRING_0 , STRING_1 ) . put ( STRING_2 , STRING_3 ) . build ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( 2 , test . size ( ) ) 

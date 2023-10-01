@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . artemis . IDENT_0 IDENT_1 = new com . artemis . METHOD_1 ( builder . METHOD_2 ( true ) . build ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_2 ; }
+org . junit . Assert . assertTrue ( IDENT_1 . METHOD_3 ( ) ) 

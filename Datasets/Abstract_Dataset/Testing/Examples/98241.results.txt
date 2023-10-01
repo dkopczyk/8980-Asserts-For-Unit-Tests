@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . joda . IDENT_0 . IDENT_1 test = org . joda . IDENT_0 . IDENT_2 . IDENT_3 . METHOD_1 ( org . joda . IDENT_0 . IDENT_2 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( double ) { return METHOD_1 ( IDENT_5 , IDENT_6 . IDENT_7 ) ; }
+org . junit . Assert . assertSame ( org . joda . IDENT_0 . IDENT_2 . IDENT_3 , test ) 

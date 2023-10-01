@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . api . model . config . IDENT_2 . IDENT_3 . IDENT_4 rule = new org . IDENT_0 . IDENT_1 . api . model . config . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { if ( ( ( IDENT_5 ) != null ) && ( version != null ) ) { if ( ( version . compareTo ( IDENT_5 ) ) < 0 ) { return false ; } } if ( ( IDENT_6 ) != null ) { if ( ( version == null ) || ( ( version . compareTo ( IDENT_6 ) ) >= 0 ) ) { return false ; } } return true ; }
+org . junit . Assert . assertTrue ( rule . METHOD_2 ( null ) ) 

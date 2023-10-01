@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . junit . runner . Result result = org . junit . runner . IDENT_0 . METHOD_1 ( org . junit . tests . IDENT_1 . classes . IDENT_2 . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return count . get ( ) ; }
+org . junit . Assert . assertEquals ( 5 , result . METHOD_2 ( ) ) 

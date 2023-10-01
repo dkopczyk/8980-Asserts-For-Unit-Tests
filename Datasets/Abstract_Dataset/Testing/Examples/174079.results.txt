@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . IDENT_0 . core . model . User > IDENT_1 = IDENT_2 . METHOD_1 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( com . IDENT_0 . core . model . IDENT_4 ) { org . springframework . util . Assert . METHOD_2 ( IDENT_5 ) ; com . google . code . IDENT_6 . query . Query < T > q = IDENT_7 . METHOD_3 ( IDENT_8 ) ; q . criteria ( STRING_0 ) . equal ( IDENT_5 ) ; return q . asList ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_1 . size ( ) ) 

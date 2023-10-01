@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = model . toString ( ) ; java . lang . String IDENT_1 = STRING_0 ; "<AssertPlaceHolder>" ; } toString ( ) { return this . METHOD_1 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_0 ) 

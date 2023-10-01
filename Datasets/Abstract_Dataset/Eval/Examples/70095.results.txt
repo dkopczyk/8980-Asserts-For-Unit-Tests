@@ -1,0 +1,2 @@
+METHOD_0 ( ) { br . com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 obj = null ; try { obj = new br . com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( "" , INT_0 ) ; org . junit . Assert . fail ( obj . toString ( ) ) ; } catch ( java . lang . IllegalArgumentException e ) { "<AssertPlaceHolder>" ; } } toString ( ) { java . lang . String IDENT_5 = null ; IDENT_5 = ( ( this . port ) + STRING_0 ) + ( this . METHOD_2 ( ) ) ; return IDENT_5 ; }
+org . junit . Assert . assertTrue ( true ) 

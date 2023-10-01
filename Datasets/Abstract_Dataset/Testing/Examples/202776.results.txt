@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . plugins . IDENT_1 . utils . IDENT_2 [ ] result = org . IDENT_0 . plugins . IDENT_1 . utils . IDENT_2 . values ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( result . length , org . hamcrest . Matchers . equalTo ( 6 ) ) 

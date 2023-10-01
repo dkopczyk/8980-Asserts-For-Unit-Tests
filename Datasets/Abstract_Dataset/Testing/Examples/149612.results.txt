@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . junit . IDENT_1 writer = null ; java . io . File file = null ; try { file = java . io . File . METHOD_1 ( STRING_0 , "" ) ; writer = new IDENT_0 . junit . METHOD_2 ( file ) ; writer . METHOD_3 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } finally { METHOD_4 ( writer ) ; METHOD_5 ( file ) ; } } METHOD_6 ( java . io . File ) { return new java . io . METHOD_7 ( new java . io . METHOD_8 ( file ) ) . METHOD_9 ( ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , METHOD_6 ( file ) ) 

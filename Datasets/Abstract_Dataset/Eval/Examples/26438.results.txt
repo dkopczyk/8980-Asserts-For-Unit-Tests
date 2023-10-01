@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( T ) { return object == null ? org . IDENT_0 . util . Optional . < T > METHOD_2 ( ) : new org . IDENT_0 . util . Optional . IDENT_1 < T > ( object ) ; }
+org . junit . Assert . assertThat ( org . IDENT_0 . util . Optional . METHOD_1 ( "foo" ) . get ( ) , org . hamcrest . core . Is . is ( "foo" ) ) 

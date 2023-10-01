@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Object > expected = METHOD_1 ( "foo" ) ; io . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Object > actual = METHOD_2 ( "foo" ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return runtime . METHOD_2 ( str ) ; }
+org . junit . Assert . assertThat ( actual , org . hamcrest . Matchers . is ( expected ) ) 

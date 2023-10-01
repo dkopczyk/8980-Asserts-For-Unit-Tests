@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . antlr . v4 . runtime . IDENT_0 . IDENT_1 s = org . antlr . v4 . runtime . IDENT_0 . IDENT_1 . of ( INT_0 , INT_1 ) ; s . add ( INT_2 ) ; s . add ( 0 , INT_3 ) ; java . lang . String IDENT_2 = STRING_0 ; java . lang . String result = s . toString ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( METHOD_1 ( ) ) + STRING_1 ) + ( METHOD_2 ( ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 , result ) 

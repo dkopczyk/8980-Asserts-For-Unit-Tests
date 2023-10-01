@@ -1,0 +1,2 @@
+isEmpty ( ) { final com . spotify . IDENT_0 . IDENT_1 . IDENT_2 output = new com . spotify . IDENT_0 . IDENT_1 . METHOD_0 ( com . google . common . collect . ImmutableMap . of ( ) , com . google . common . collect . IDENT_3 . of ( ) , com . spotify . IDENT_0 . IDENT_4 . IDENT_5 . METHOD_1 ( com . google . common . collect . ImmutableList . of ( ) ) ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_6 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( output . isEmpty ( ) ) 

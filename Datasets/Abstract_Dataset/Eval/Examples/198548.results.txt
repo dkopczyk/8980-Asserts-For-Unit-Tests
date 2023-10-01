@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . packet . IDENT_1 test = new org . IDENT_0 . packet . METHOD_1 ( "a" , STRING_0 , STRING_1 ) ; java . io . ByteArrayOutputStream out = new java . io . ByteArrayOutputStream ( ) ; java . io . IDENT_2 IDENT_3 = new java . io . METHOD_2 ( out ) ; IDENT_3 . METHOD_3 ( test ) ; IDENT_3 . close ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( ( out . toByteArray ( ) . length ) > 0 ) ) 

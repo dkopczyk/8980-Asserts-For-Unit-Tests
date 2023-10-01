@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } hashCode ( ) { return ( ( int ) ( value ) ) ; }
+org . junit . Assert . assertEquals ( 2 , test . hashCode ( ) ) 

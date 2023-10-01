@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new org . eclipse . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; METHOD_2 ( IDENT_3 , STRING_0 , Boolean . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( ( ( IDENT_5 ) != null ) && ( ( IDENT_6 ) != null ) ) && ( ! ( IDENT_5 . equals ( IDENT_6 ) ) ) ) { METHOD_4 ( ) . warn ( STRING_1 ) ; } if ( ( IDENT_6 ) != null ) { return IDENT_6 ; } if ( ( IDENT_5 ) != null ) { return IDENT_5 ; } return IDENT_7 ; }
+org . junit . Assert . assertTrue ( IDENT_3 . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String template = STRING_0 ; org . IDENT_0 . v4 . IDENT_1 IDENT_2 = new org . IDENT_0 . v4 . METHOD_1 ( template ) ; java . lang . String [ ] IDENT_3 = new java . lang . String [ ] { STRING_1 , STRING_2 } ; IDENT_2 . add ( "name" , IDENT_3 ) ; IDENT_2 . add ( "name" , STRING_3 ) ; java . lang . String expected = STRING_4 ; java . lang . String result = IDENT_2 . render ( ) ; "<AssertPlaceHolder>" ; } render ( ) { return render ( java . util . Locale . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertEquals ( expected , result ) 

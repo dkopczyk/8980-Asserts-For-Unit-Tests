@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . allanbank . mongodb . bson . element . IDENT_0 element = new com . allanbank . mongodb . bson . element . METHOD_1 ( "foo" , new com . allanbank . mongodb . bson . element . METHOD_2 ( INT_0 , INT_1 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( new com . allanbank . mongodb . bson . element . METHOD_2 ( INT_0 , INT_1 ) , element . METHOD_3 ( ) ) 

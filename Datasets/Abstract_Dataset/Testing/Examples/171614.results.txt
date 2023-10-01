@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String result = IDENT_0 . execute ( ( ) -> STRING_0 ) ; "<AssertPlaceHolder>" ; } execute ( java . lang . IDENT_1 ) { command . run ( ) ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . Matchers . is ( STRING_0 ) ) 

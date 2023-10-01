@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . backend . IDENT_1 . Path IDENT_2 = path ( STRING_0 ) ; final java . lang . String content = STRING_1 + ( ( ( ( ( ( ( ( "\n" + STRING_2 ) + STRING_3 ) + "\n" ) + STRING_4 ) + STRING_5 ) + STRING_6 ) + "\n" ) + STRING_7 ) ; java . util . List < org . IDENT_3 . common . services . shared . validation . model . IDENT_4 > validate = validator . validate ( IDENT_2 , content ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return METHOD_1 ( ) . METHOD_2 ( this :: IDENT_5 ) ; }
+org . junit . Assert . assertTrue ( validate . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . model . IDENT_1 < com . IDENT_0 . model . test . Person > IDENT_2 = com . IDENT_0 . IDENT_3 . base . element . IDENT_4 . METHOD_1 ( METHOD_2 ( ) , com . IDENT_0 . model . test . Person . class ) ; IDENT_2 . METHOD_3 ( STRING_0 ) ; final java . util . List < com . IDENT_0 . model . test . Person > result = IDENT_2 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { throw METHOD_5 ( ) ; }
+org . junit . Assert . assertTrue ( ( ( result . size ( ) ) > 0 ) ) 

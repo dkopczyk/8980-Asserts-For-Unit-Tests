@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openqa . selenium . server . IDENT_0 IDENT_1 = new org . openqa . selenium . server . METHOD_1 ( "foo" , "bar" , STRING_0 , STRING_1 ) ; org . openqa . selenium . server . IDENT_2 IDENT_3 = org . openqa . selenium . server . METHOD_1 . parse ( IDENT_1 . toString ( ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return serialize ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_3 ) 

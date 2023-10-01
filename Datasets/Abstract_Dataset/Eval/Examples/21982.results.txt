@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . IDENT_0 . IDENT_1 . api . IDENT_2 . IDENT_3 instance = getInstance ( STRING_0 ) ; final org . apache . IDENT_0 . IDENT_1 . api . IDENT_2 . IDENT_4 child = getInstance ( STRING_1 ) ; child . METHOD_1 ( instance ) ; child . METHOD_2 ( instance ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return child ; }
+org . junit . Assert . assertEquals ( null , instance . METHOD_3 ( ) ) 

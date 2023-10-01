@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File resource = getResource ( STRING_0 ) ; java . io . InputStream IDENT_0 = new java . io . METHOD_1 ( resource ) ; java . io . File IDENT_1 = resource . METHOD_2 ( ) ; java . util . Map < org . IDENT_2 . IDENT_3 . model . IDENT_4 , org . IDENT_2 . IDENT_3 . model . IDENT_4 > IDENT_5 = IDENT_6 . io . IDENT_7 . METHOD_3 ( IDENT_0 , IDENT_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_8 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_5 . size ( ) ) > 1 ) ) 

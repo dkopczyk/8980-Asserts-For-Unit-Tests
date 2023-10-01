@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . bonitasoft . engine . IDENT_0 . model . IDENT_1 group = METHOD_1 ( STRING_0 ) ; final org . bonitasoft . engine . IDENT_2 . mapping . model . IDENT_3 IDENT_4 = METHOD_2 ( java . util . Collections . singletonList ( group ) ) . get ( 0 ) ; final org . bonitasoft . engine . IDENT_2 . mapping . model . IDENT_3 IDENT_5 = METHOD_3 ( IDENT_4 . getId ( ) ) ; "<AssertPlaceHolder>" ; METHOD_4 ( IDENT_4 ) ; METHOD_5 ( group ) ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( IDENT_4 , IDENT_5 ) 

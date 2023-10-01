@@ -1,0 +1,2 @@
+METHOD_0 ( ) { monitor . IDENT_0 = false ; monitor . update ( ) ; monitor . IDENT_0 = true ; monitor . update ( ) ; "<AssertPlaceHolder>" ; } monitor ( boolean , boolean , boolean ) { return new com . IDENT_1 . IDENT_2 . input . IDENT_3 . METHOD_1 ( IDENT_4 , IDENT_5 , IDENT_6 ) ; }
+org . junit . Assert . assertThat ( monitor , com . IDENT_1 . IDENT_2 . input . IDENT_3 . METHOD_1 . monitor ( true , false , false ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int count = 0 ; for ( final org . apache . commons . IDENT_0 . IDENT_1 handler : properties ) { count ++ ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( count > 1 ) ) 

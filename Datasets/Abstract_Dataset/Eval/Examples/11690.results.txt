@@ -1,0 +1,2 @@
+METHOD_0 ( ) { apply ( METHOD_1 ( ) , METHOD_2 ( ) ) ; java . lang . String IDENT_0 = STRING_0 ; org . apache . directory . ldap . client . api . IDENT_1 connection = METHOD_3 ( METHOD_1 ( ) , IDENT_0 , "test" ) ; "<AssertPlaceHolder>" ; connection . close ( ) ; } METHOD_4 ( ) { return ( session ) != null ; }
+org . junit . Assert . assertTrue ( connection . METHOD_4 ( ) ) 

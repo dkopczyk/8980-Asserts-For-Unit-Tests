@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . data . IDENT_2 IDENT_3 = new IDENT_0 . IDENT_1 . data . METHOD_1 ( 10 , true ) ; IDENT_0 . IDENT_1 . data . METHOD_1 IDENT_4 = new IDENT_0 . IDENT_1 . data . METHOD_1 ( 10 ) ; IDENT_4 . set ( 1 ) ; IDENT_4 . METHOD_2 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( IDENT_0 . IDENT_5 . data . IDENT_6 ) { byte [ ] IDENT_7 = other . IDENT_8 . IDENT_8 ; for ( int i = 0 ; i < ( IDENT_7 . length ) ; i ++ ) { IDENT_8 . IDENT_8 [ i ] OP_0 IDENT_7 [ i ] ; } }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_4 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File file = new java . io . File ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . model . media . IDENT_2 IDENT_3 = IDENT_4 . METHOD_1 ( 0 , new java . io . METHOD_2 ( file ) , file . getName ( ) ) ; "<AssertPlaceHolder>" ; System . out . println ( IDENT_3 ) ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertNotNull ( IDENT_3 . METHOD_3 ( ) ) 

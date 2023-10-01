@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . IDENT_1 . model . IDENT_2 > IDENT_3 = this . IDENT_4 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( buffer . size ( ) ) == 0 ; }
+org . junit . Assert . assertTrue ( IDENT_3 . isEmpty ( ) ) 

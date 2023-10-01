@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String version = STRING_0 ; when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( version ) ; listener . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( ( IDENT_1 ) != null ) && ( IDENT_1 . METHOD_4 ( ) ) ) { if ( IDENT_1 . METHOD_5 ( ) ) { return true ; } } return false ; }
+org . junit . Assert . assertTrue ( IDENT_0 . METHOD_3 ( ) ) 

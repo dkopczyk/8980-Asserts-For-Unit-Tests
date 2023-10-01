@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . session . IDENT_1 IDENT_2 = new com . IDENT_0 . session . METHOD_1 ( IDENT_3 , manager , factory ) ; when ( repository . METHOD_2 ( METHOD_3 ( "1" ) ) ) . thenReturn ( Boolean . IDENT_4 ) ; IDENT_2 . METHOD_4 ( true ) ; verify ( manager , METHOD_5 ( ) ) . METHOD_6 ( any ( com . IDENT_0 . session . METHOD_1 . class ) , eq ( true ) ) ; "<AssertPlaceHolder>" ; } isValid ( ) { return ! ( IDENT_5 ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 . isValid ( ) ) 

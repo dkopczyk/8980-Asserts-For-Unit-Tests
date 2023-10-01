@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . batfish . datamodel . IDENT_0 route = new org . batfish . datamodel . METHOD_1 ( IDENT_1 . IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Object , java . lang . Class ) { return org . batfish . common . util . IDENT_3 . IDENT_4 . METHOD_3 ( org . batfish . common . util . IDENT_3 . IDENT_5 . METHOD_4 ( o ) , clazz ) ; }
+org . junit . Assert . assertEquals ( route , org . batfish . common . util . IDENT_3 . METHOD_2 ( route , org . batfish . datamodel . METHOD_1 . class ) ) 

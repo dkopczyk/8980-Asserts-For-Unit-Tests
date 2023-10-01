@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . meta . IDENT_1 . IDENT_2 IDENT_3 = new org . jboss . IDENT_0 . meta . IDENT_1 . METHOD_1 ( java . util . Collections . METHOD_2 ( ) , false ) ; java . util . List < org . jboss . IDENT_0 . IDENT_4 . Operation > operations = IDENT_5 . create ( new org . jboss . IDENT_0 . meta . IDENT_1 . METHOD_3 ( IDENT_3 ) , false , false ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( size ( ) ) == 0 ; }
+org . junit . Assert . assertTrue ( operations . isEmpty ( ) ) 

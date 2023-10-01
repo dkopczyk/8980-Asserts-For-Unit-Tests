@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . graphhopper . jsprit . core . algorithm . IDENT_0 algorithm = new com . graphhopper . jsprit . core . algorithm . METHOD_1 ( mock ( com . graphhopper . jsprit . core . problem . IDENT_1 . class ) , mock ( com . graphhopper . jsprit . core . algorithm . IDENT_2 . class ) ) ; algorithm . METHOD_2 ( 50 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_3 ; }
+org . junit . Assert . assertEquals ( 50 , algorithm . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date IDENT_0 = METHOD_1 ( INT_0 , 2 , 12 ) ; java . util . List < com . IDENT_1 . IDENT_2 . IDENT_3 . model . IDENT_4 > events = new java . util . ArrayList < com . IDENT_1 . IDENT_2 . IDENT_3 . model . IDENT_4 > ( IDENT_5 . METHOD_2 ( org . IDENT_6 . core . date . IDENT_7 . IDENT_8 . from ( IDENT_0 , IDENT_9 . IDENT_0 , STRING_0 ) , IDENT_10 ) ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( this . size ( ) ) == 0 ; }
+org . junit . Assert . assertThat ( events . isEmpty ( ) , is ( true ) ) 

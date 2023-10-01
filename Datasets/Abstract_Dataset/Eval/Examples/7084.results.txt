@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Integer > list = new java . util . ArrayList ( ) ; org . apache . IDENT_0 . component . IDENT_1 . internal . IDENT_2 . METHOD_1 ( ( ) -> { list . add ( 1 ) ; org . apache . IDENT_0 . component . IDENT_1 . internal . IDENT_2 . METHOD_2 ( ( ) -> list . add ( 3 ) ) ; list . add ( 2 ) ; } ) ; "<AssertPlaceHolder>" ; } add ( org . apache . IDENT_0 . IDENT_3 . plugin . test . interfaces . IDENT_4 ) { }
+org . junit . Assert . assertEquals ( java . util . Arrays . asList ( 1 , 2 , 3 ) , list ) 

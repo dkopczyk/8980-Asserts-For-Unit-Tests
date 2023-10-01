@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( INT_0 ) ; when ( IDENT_1 . METHOD_2 ( 0 , 1000 ) ) . thenReturn ( INT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( ( IDENT_2 ) > 0 ) && ( ( com . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . impl . IDENT_7 . IDENT_8 . METHOD_2 ( com . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . impl . IDENT_7 . IDENT_9 , com . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . impl . IDENT_7 . IDENT_10 ) ) < ( IDENT_2 ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_3 ( ) ) 

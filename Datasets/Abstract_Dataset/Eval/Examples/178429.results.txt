@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . common . IDENT_2 . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . common . IDENT_2 . METHOD_1 ( STRING_0 ) ; org . IDENT_0 . IDENT_1 . common . IDENT_2 . METHOD_1 IDENT_5 = new org . IDENT_0 . IDENT_1 . common . IDENT_2 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return set . hashCode ( ) ; }
+org . junit . Assert . assertThat ( IDENT_4 . hashCode ( ) , org . hamcrest . CoreMatchers . is ( IDENT_5 . hashCode ( ) ) ) 

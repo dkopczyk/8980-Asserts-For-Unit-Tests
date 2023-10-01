@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Properties properties = new java . util . Properties ( ) ; org . apache . hadoop . conf . Configuration conf = new org . apache . hadoop . conf . Configuration ( ) ; properties . setProperty ( IDENT_0 . IDENT_1 , STRING_0 ) ; properties . setProperty ( IDENT_2 . IDENT_3 , STRING_1 ) ; IDENT_4 . METHOD_1 ( conf , properties ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertNotNull ( IDENT_4 . METHOD_2 ( ) ) 

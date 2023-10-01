@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 table = new org . IDENT_0 . IDENT_1 . METHOD_1 ( METHOD_2 ( 0 , 10 ) ) ; int row = 1 ; java . lang . String IDENT_3 = table . METHOD_3 ( row , 0 ) . toString ( ) ; int found = table . METHOD_4 ( ) . search ( java . util . regex . IDENT_4 . METHOD_5 ( IDENT_3 ) , ( - 1 ) , true ) ; "<AssertPlaceHolder>" ; } search ( java . lang . String , int , boolean ) { return IDENT_5 ? 100 : - 1 ; }
+org . junit . Assert . assertEquals ( row , found ) 

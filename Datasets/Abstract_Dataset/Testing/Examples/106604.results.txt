@@ -1,0 +1,2 @@
+METHOD_0 ( ) { server . METHOD_1 ( Method . IDENT_0 , "/" ) . with ( 200 , STRING_0 , STRING_1 ) ; client . METHOD_2 ( STRING_2 ) . execute ( ) . get ( ) ; org . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = server . request ( ) ; "<AssertPlaceHolder>" ; } getPath ( ) { return request . getPath ( ) . getPath ( ) ; }
+org . junit . Assert . assertEquals ( "/" , IDENT_5 . getPath ( ) ) 

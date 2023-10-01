@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; when ( IDENT_1 . METHOD_1 ( STRING_1 ) ) . thenReturn ( IDENT_0 ) ; final java . lang . String IDENT_2 = IDENT_3 . METHOD_2 ( STRING_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { final java . lang . String IDENT_4 = METHOD_1 ( type , org . kie . workbench . common . IDENT_5 . client . IDENT_6 . types . IDENT_7 . IDENT_8 . common . IDENT_9 . IDENT_10 ) ; return ! ( isEmpty ( IDENT_4 ) ) ? IDENT_4 : METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_2 ) 

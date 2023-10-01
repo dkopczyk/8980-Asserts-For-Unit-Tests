@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { new com . vaadin . data . METHOD_1 ( new com . vaadin . data . IDENT_0 < com . vaadin . tests . data . bean . Person > ( ) , null , new java . util . ArrayList ( ) ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( java . lang . IDENT_1 IDENT_2 ) { "<AssertPlaceHolder>" ; } } getMessage ( ) { return com . vaadin . tools . IDENT_3 . IDENT_4 . get ( o , STRING_1 , java . lang . String . class ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 . getMessage ( ) ) 

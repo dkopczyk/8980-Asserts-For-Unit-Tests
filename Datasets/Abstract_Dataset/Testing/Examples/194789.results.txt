@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . codice . IDENT_0 . IDENT_1 . core . image . IDENT_2 IDENT_3 = new org . codice . IDENT_0 . IDENT_1 . core . image . impl . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

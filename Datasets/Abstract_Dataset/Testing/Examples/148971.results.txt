@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; net . sourceforge . IDENT_0 . util . database . IDENT_1 instance = new net . sourceforge . IDENT_0 . util . database . METHOD_1 ( net . sourceforge . IDENT_0 . util . database . IDENT_2 . IDENT_3 ) ; java . net . URI expResult = new java . net . URI ( net . sourceforge . IDENT_0 . util . database . IDENT_2 . IDENT_3 ) ; java . net . URI result = instance . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return uri ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < net . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . model . IDENT_4 > models = new java . util . ArrayList ( ) ; when ( IDENT_5 . METHOD_1 ( ) ) . thenReturn ( models ) ; java . util . List < net . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . model . IDENT_4 > actual = service . METHOD_1 ( ) ; verify ( IDENT_5 , times ( 1 ) ) . METHOD_1 ( ) ; METHOD_2 ( IDENT_5 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( actual , org . hamcrest . Matchers . is ( models ) ) 

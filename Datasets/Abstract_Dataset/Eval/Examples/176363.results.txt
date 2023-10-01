@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = STRING_1 ; java . lang . String result = org . talend . utils . string . IDENT_2 . METHOD_1 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . lang . String str = IDENT_3 . replaceAll ( java . lang . String . format ( STRING_2 , STRING_3 , STRING_4 , STRING_5 ) , " " ) ; str = str . replaceAll ( STRING_6 , "" ) ; str = str . replaceAll ( STRING_7 , " " ) . toLowerCase ( ) ; return str ; }
+org . junit . Assert . assertEquals ( IDENT_0 , result ) 

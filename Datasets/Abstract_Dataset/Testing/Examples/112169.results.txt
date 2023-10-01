@@ -1,0 +1,2 @@
+METHOD_0 ( ) { T p = METHOD_1 ( ) ; if ( ( IDENT_0 ) != null ) { com . IDENT_1 . IDENT_2 . util . Path compare = new com . IDENT_1 . IDENT_2 . util . Path ( ( ( p . METHOD_2 ( ( ( p . METHOD_3 ( ) ) / 2 ) ) . toString ( ) ) + STRING_0 ) ) ; "<AssertPlaceHolder>" ; } } METHOD_4 ( com . IDENT_1 . IDENT_2 . util . Path ) { int n = pattern . METHOD_3 ( ) ; if ( n < ( METHOD_3 ( ) ) ) { return METHOD_2 ( n ) . matches ( pattern ) ; } else if ( n == ( METHOD_3 ( ) ) ) { return matches ( pattern ) ; } return false ; }
+org . junit . Assert . assertFalse ( p . METHOD_4 ( compare ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File file = new java . io . File ( IDENT_0 . METHOD_1 ( ) . METHOD_2 ( ) , org . apache . tools . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 ) ; if ( file . exists ( ) ) { file . delete ( ) ; } IDENT_0 . METHOD_3 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { if ( IDENT_5 == null ) { final java . lang . String msg = STRING_1 ; throw new org . apache . tools . IDENT_1 . METHOD_4 ( msg ) ; } METHOD_5 ( METHOD_6 ( IDENT_5 , IDENT_6 , false ) ) ; }
+org . junit . Assert . assertTrue ( file . exists ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { query . METHOD_1 ( IDENT_0 . METHOD_2 ( INT_0 , INT_1 ) ) ; final java . util . Iterator < com . querydsl . IDENT_1 . Document > iterator = query . METHOD_0 ( ) ; int count = 0 ; while ( iterator . hasNext ( ) ) { iterator . next ( ) ; ++ count ; } "<AssertPlaceHolder>" ; } next ( ) { return false ; }
+org . junit . Assert . assertEquals ( 4 , count ) 

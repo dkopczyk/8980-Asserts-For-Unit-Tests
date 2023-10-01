@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = uk . gov . IDENT_4 . IDENT_5 . IDENT_0 . testing . IDENT_6 . METHOD_1 ( ) ; java . lang . Class < ? > c = uk . gov . IDENT_4 . IDENT_5 . IDENT_0 . utils . IDENT_7 . getType ( STRING_0 , IDENT_3 ) ; "<AssertPlaceHolder>" ; } getType ( java . lang . String , org . apache . IDENT_0 . IDENT_1 . IDENT_2 ) { return uk . gov . IDENT_4 . IDENT_5 . IDENT_0 . utils . IDENT_7 . getType ( IDENT_8 , IDENT_3 . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertEquals ( null , c ) 

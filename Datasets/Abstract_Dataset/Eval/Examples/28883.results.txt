@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { IDENT_0 . METHOD_1 ( IDENT_1 . amazon . IDENT_2 . services . directory . model . IDENT_3 . builder ( ) . METHOD_2 ( STRING_0 ) . build ( ) ) ; } catch ( IDENT_1 . amazon . IDENT_2 . services . directory . model . IDENT_4 e ) { "<AssertPlaceHolder>" ; } } METHOD_3 ( ) { return getValue ( IDENT_1 . amazon . IDENT_2 . IDENT_5 . IDENT_6 ) ; }
+org . junit . Assert . assertNotNull ( e . METHOD_3 ( ) ) 

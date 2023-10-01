@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final ch . cyberduck . core . exception . IDENT_0 e = new ch . cyberduck . core . exception . METHOD_1 ( new ch . cyberduck . core . exception . METHOD_2 ( ) ) ; e . METHOD_3 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getMessage ( ) { return null == ( message ) ? ch . cyberduck . core . IDENT_1 . METHOD_4 ( STRING_1 ) : message ; }
+org . junit . Assert . assertEquals ( STRING_0 , e . getMessage ( ) ) 

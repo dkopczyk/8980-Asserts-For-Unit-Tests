@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nuxeo . ecm . core . api . IDENT_0 doc = session . METHOD_1 ( new org . nuxeo . ecm . core . api . METHOD_2 ( STRING_0 ) ) ; java . lang . String IDENT_1 = METHOD_3 ( doc , STRING_1 ) ; org . IDENT_2 . jackson . IDENT_3 node = METHOD_4 ( IDENT_1 ) ; org . IDENT_2 . jackson . IDENT_3 IDENT_4 = node . get ( STRING_2 ) . get ( STRING_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_4 . size ( ) ) 

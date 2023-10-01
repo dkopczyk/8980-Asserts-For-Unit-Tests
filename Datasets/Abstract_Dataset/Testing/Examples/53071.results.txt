@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 entry = IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 . create ( ) ; IDENT_5 . add ( entry ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { if ( id == null ) { return null ; } return IDENT_6 . get ( id ) ; }
+org . junit . Assert . assertEquals ( entry , IDENT_5 . get ( entry . getId ( ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . ui . model . IDENT_0 m = new org . oscm . ui . model . METHOD_1 ( ) ; m . METHOD_0 ( BigDecimal . IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { org . oscm . ui . model . METHOD_1 m = new org . oscm . ui . model . METHOD_1 ( ) ; org . junit . Assert . assertNull ( m . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertEquals ( BigDecimal . IDENT_1 , m . METHOD_2 ( ) ) 

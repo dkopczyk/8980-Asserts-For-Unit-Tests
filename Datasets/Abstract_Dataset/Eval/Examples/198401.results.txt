@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long x = IDENT_0 . METHOD_1 ( Long . IDENT_1 , Long . MAX_VALUE ) ; long y = IDENT_0 . METHOD_1 ( Long . IDENT_1 , Long . MAX_VALUE ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertFalse ( ( x == y ) ) 

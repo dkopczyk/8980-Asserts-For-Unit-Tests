@@ -1,0 +1,2 @@
+METHOD_0 ( ) { new IDENT_0 . METHOD_1 ( ) { { IDENT_1 . METHOD_2 ( IDENT_2 . IDENT_3 ) ; result = null ; } } ; java . util . Map < java . lang . String , java . lang . String > context = IDENT_4 . METHOD_3 ( ) ; IDENT_5 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return context ; }
+org . junit . Assert . assertSame ( context , IDENT_4 . METHOD_3 ( ) ) 

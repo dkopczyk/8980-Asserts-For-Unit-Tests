@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . io . IDENT_2 . IDENT_3 original = new org . IDENT_0 . IDENT_1 . io . IDENT_2 . METHOD_1 ( INT_0 , STRING_0 ) ; byte [ ] IDENT_4 = org . IDENT_0 . IDENT_1 . io . IDENT_5 . encode ( original ) ; "<AssertPlaceHolder>" ; } decode ( byte [ ] ) { return org . IDENT_0 . IDENT_1 . io . IDENT_5 . decode ( bytes , java . io . IDENT_6 . class ) ; }
+org . junit . Assert . assertEquals ( original , org . IDENT_0 . IDENT_1 . io . IDENT_5 . decode ( IDENT_4 ) ) 

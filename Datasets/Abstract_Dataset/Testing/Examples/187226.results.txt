@@ -1,0 +1,2 @@
+getType ( ) { "<AssertPlaceHolder>" ; } getType ( ) { return type ; }
+org . junit . Assert . assertEquals ( type , field . getType ( ) . toString ( ) ) 

@@ -1,0 +1,2 @@
+delete ( ) { final java . lang . String IDENT_0 = STRING_0 ; METHOD_0 ( IDENT_0 ) ; METHOD_1 ( IDENT_0 ) ; METHOD_2 ( STRING_1 ) ; METHOD_3 ( STRING_2 ) ; METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( java . lang . String ) { return METHOD_6 ( org . IDENT_1 . portal . IDENT_2 . IDENT_3 . METHOD_7 ( ( ( ( ( org . IDENT_1 . portal . IDENT_2 . IDENT_4 . IDENT_5 ) + STRING_3 ) + name ) + STRING_4 ) ) ) ; }
+org . junit . Assert . assertFalse ( METHOD_5 ( IDENT_0 ) ) 

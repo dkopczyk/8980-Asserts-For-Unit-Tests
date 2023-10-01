@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . time . IDENT_0 test = java . time . IDENT_0 . METHOD_1 ( test . java . time . IDENT_1 . IDENT_2 ) ; java . time . IDENT_0 IDENT_3 = test . METHOD_2 ( test . java . time . IDENT_1 . IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . time . IDENT_4 ) { if ( java . util . IDENT_5 . equals ( this . IDENT_6 , IDENT_6 ) ) { return this ; } return new java . time . format . METHOD_3 ( IDENT_7 , IDENT_8 , IDENT_9 , IDENT_10 , IDENT_11 , IDENT_12 , IDENT_6 ) ; }
+org . junit . Assert . assertSame ( test , IDENT_3 ) 

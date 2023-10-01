@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . solr . repository . query . IDENT_0 method = METHOD_1 ( STRING_0 , java . lang . String . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( METHOD_3 ( ) ) && ( ( java . lang . Boolean ) ( org . springframework . core . annotation . IDENT_1 . getValue ( METHOD_4 ( ) , STRING_1 ) ) ) ; }
+org . junit . Assert . assertFalse ( method . METHOD_2 ( ) ) 

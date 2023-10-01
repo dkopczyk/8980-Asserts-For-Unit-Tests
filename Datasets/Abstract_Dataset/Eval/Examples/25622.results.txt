@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 , STRING_1 ) ; org . apache . IDENT_0 . rest . IDENT_1 . collection . IDENT_2 . Entity data = new org . apache . IDENT_0 . rest . IDENT_1 . collection . IDENT_2 . Entity ( ) . METHOD_2 ( "name" , STRING_2 ) ; org . apache . IDENT_0 . rest . IDENT_1 . collection . IDENT_2 . Entity entity = this . app ( ) . collection ( STRING_3 ) . METHOD_3 ( data ) ; "<AssertPlaceHolder>" ; METHOD_4 ( ) ; METHOD_1 ( STRING_2 , STRING_4 ) ; } METHOD_5 ( ) { return error ; }
+org . junit . Assert . assertNull ( entity . METHOD_5 ( ) ) 

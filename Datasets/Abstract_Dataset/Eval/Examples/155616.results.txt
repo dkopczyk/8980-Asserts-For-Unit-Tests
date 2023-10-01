@@ -1,0 +1,2 @@
+METHOD_0 ( ) { l . add ( 3 , 100 ) ; l . add ( 6 , 200 ) ; l . add ( 0 , INT_0 ) ; "<AssertPlaceHolder>" ; } add ( double , double ) { double IDENT_0 = start + IDENT_1 ; return IDENT_0 < ( com . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 ) ? IDENT_0 : IDENT_0 - ( com . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 ) ; }
+org . junit . Assert . assertEquals ( com . IDENT_2 . IDENT_3 . Arrays . asList ( INT_0 , 1 , 2 , 3 , 100 , 4 , 5 , 200 ) , l ) 

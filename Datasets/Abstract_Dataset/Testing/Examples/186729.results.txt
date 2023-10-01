@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . core . IDENT_1 client = org . IDENT_0 . core . IDENT_2 . METHOD_1 ( ) ; final org . IDENT_0 . core . IDENT_3 IDENT_4 = client . from ( IDENT_5 ) . METHOD_2 ( STRING_0 ) . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { if ( IDENT_6 ) { throw new java . lang . IllegalStateException ( ( ( STRING_1 + ( METHOD_5 ( ) ) ) + STRING_2 ) ) ; } else { return java . net . URI . create ( METHOD_5 ( ) ) ; } }
+org . junit . Assert . assertThat ( IDENT_4 . METHOD_4 ( ) , org . hamcrest . CoreMatchers . equalTo ( IDENT_5 ) ) 

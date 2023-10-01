@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . internal . vo . IDENT_0 user = METHOD_1 ( ) ; user . METHOD_2 ( IDENT_1 . IDENT_2 ) ; container . METHOD_3 ( java . lang . String . valueOf ( user . getKey ( ) ) , org . oscm . IDENT_3 . bean . IDENT_4 ) ; IDENT_5 . METHOD_4 ( user ) ; org . oscm . internal . vo . IDENT_0 IDENT_6 = METHOD_5 ( user ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return METHOD_7 ( ) . contains ( IDENT_1 . IDENT_2 ) ; }
+org . junit . Assert . assertEquals ( false , IDENT_6 . METHOD_6 ( ) ) 

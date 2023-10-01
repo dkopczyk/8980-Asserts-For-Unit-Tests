@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = IDENT_1 . METHOD_1 ( IDENT_2 . IDENT_3 , org . neo4j . rest . IDENT_4 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . neo4j . rest . IDENT_4 . entity . IDENT_6 , org . neo4j . rest . IDENT_4 . entity . IDENT_7 ) { return METHOD_2 ( type , IDENT_8 ) . iterator ( ) . hasNext ( ) ; }
+org . junit . Assert . assertTrue ( METHOD_1 ) 

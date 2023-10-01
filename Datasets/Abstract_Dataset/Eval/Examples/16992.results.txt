@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 factory = org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( STRING_0 , null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , com . IDENT_4 . config . IDENT_5 ) { java . lang . String name = org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_6 . METHOD_2 ( IDENT_7 , null , ( ( STRING_1 + IDENT_8 ) + STRING_2 ) , STRING_3 ) ; return org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( name ) ; }
+org . junit . Assert . assertEquals ( factory , null ) 

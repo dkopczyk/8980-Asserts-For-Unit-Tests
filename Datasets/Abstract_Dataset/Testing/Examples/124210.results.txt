@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . bzk . brp . model . bericht . kern . IDENT_0 IDENT_1 = METHOD_1 ( INT_0 , IDENT_2 . IDENT_3 . METHOD_2 ( ) ) ; java . util . List < nl . bzk . brp . model . IDENT_4 . IDENT_5 > IDENT_6 = IDENT_7 . METHOD_3 ( null , IDENT_1 , null , null ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_8 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_6 . size ( ) ) 

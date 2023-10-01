@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long length = METHOD_1 ( METHOD_2 ( STRING_0 ) ) . length ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { java . net . URL url = com . google . common . io . IDENT_0 . getResource ( STRING_1 . METHOD_3 ( IDENT_1 ) ) ; java . io . File file = IDENT_2 . METHOD_4 ( IDENT_1 ) ; try ( java . io . IDENT_3 IDENT_4 = new java . io . METHOD_5 ( file ) ) { com . google . common . io . IDENT_0 . METHOD_6 ( url , IDENT_4 ) ; } return file ; }
+org . junit . Assert . assertEquals ( 0 , length ) 

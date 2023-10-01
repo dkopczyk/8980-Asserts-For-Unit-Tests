@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . time . IDENT_0 IDENT_1 = java . time . IDENT_0 . now ( ) ; java . time . IDENT_0 IDENT_2 = IDENT_1 . METHOD_1 ( 1 ) ; java . sql . Date date = java . sql . Date . valueOf ( IDENT_2 ) ; java . time . IDENT_3 IDENT_4 = type . METHOD_2 ( date ) ; java . sql . Date IDENT_5 = type . METHOD_3 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . time . IDENT_3 ) { return java . sql . Date . valueOf ( METHOD_4 ( t ) ) ; }
+org . junit . Assert . assertEquals ( date , IDENT_5 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . Object IDENT_0 = new java . lang . Object ( ) ; final org . jboss . IDENT_1 . ref . IDENT_2 < java . lang . Object , java . lang . IDENT_3 > reference = org . jboss . IDENT_1 . ref . IDENT_4 . create ( Type . IDENT_5 , IDENT_0 , null ) ; final org . jboss . IDENT_6 . value . IDENT_7 < java . lang . Object > value = new org . jboss . IDENT_6 . value . IDENT_8 < java . lang . Object > ( reference ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return ( count ) ++ ; }
+org . junit . Assert . assertSame ( IDENT_0 , value . getValue ( ) ) 

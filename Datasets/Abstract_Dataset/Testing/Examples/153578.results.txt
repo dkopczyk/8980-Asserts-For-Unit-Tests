@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return com . IDENT_0 . IDENT_1 . IDENT_2 . auth . IDENT_3 . METHOD_2 ( this . getClass ( ) . getResourceAsStream ( STRING_0 ) , STRING_1 , STRING_2 ) ; }
+org . junit . Assert . assertNotNull ( this . METHOD_1 ( ) . getKey ( ) ) 

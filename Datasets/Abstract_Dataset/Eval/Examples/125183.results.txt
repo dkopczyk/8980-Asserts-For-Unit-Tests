@@ -1,0 +1,2 @@
+test ( ) { "<AssertPlaceHolder>" ; for ( int i = INT_0 ; i > 0 ; i OP_0 ) { nl . bzk . migratiebrp . tools . brp . IDENT_0 . IDENT_1 . LOGGER . info ( ( ( STRING_0 + i ) + STRING_1 ) ) ; java . lang . Thread . sleep ( 1000 ) ; } } METHOD_0 ( ) { return nl . bzk . migratiebrp . tools . brp . IDENT_0 . IDENT_2 . context ; }
+org . junit . Assert . assertNotNull ( nl . bzk . migratiebrp . tools . brp . IDENT_0 . IDENT_2 . METHOD_0 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 resources = IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return METHOD_2 ( "" , false ) ; }
+org . junit . Assert . assertTrue ( resources . METHOD_2 ( ) . isEmpty ( ) ) 

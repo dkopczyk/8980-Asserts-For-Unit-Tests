@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( IDENT_1 ) == null ) { return false ; } for ( org . sagebionetworks . IDENT_2 . IDENT_3 handler : this . IDENT_1 ) { if ( handler . METHOD_3 ( ) ) { return true ; } } return false ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_2 ( ) ) 

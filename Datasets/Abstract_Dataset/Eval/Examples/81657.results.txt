@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { com . IDENT_0 . lang . IDENT_1 . METHOD_1 ( new java . lang . IDENT_2 [ 0 ] , STRING_0 ) ; } catch ( java . lang . IllegalArgumentException e ) { "<AssertPlaceHolder>" ; throw e ; } } contains ( int ) { for ( int i = 0 ; i < ( size ) ; i ++ ) { if ( ( values [ i ] ) == value ) { return true ; } } return false ; }
+org . junit . Assert . assertTrue ( e . getMessage ( ) . contains ( STRING_0 ) ) 

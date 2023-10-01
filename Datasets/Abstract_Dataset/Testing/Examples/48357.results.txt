@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( helper ) ; try { helper . METHOD_2 ( STRING_0 , STRING_1 , org . IDENT_1 . event . IDENT_2 . class ) ; java . lang . Thread . sleep ( INT_0 ) ; System . out . println ( ( STRING_2 + ( IDENT_0 . METHOD_3 ( ) ) ) ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . IDENT_3 IDENT_4 ) { throw new java . lang . RuntimeException ( IDENT_4 ) ; } } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_0 . METHOD_3 ( ) ) > 1 ) ) 

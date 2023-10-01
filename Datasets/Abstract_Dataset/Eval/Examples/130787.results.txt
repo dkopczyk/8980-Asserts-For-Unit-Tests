@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_3 instance = null ; java . util . HashSet < IDENT_0 . backend . IDENT_4 > expResult = null ; java . util . HashSet < IDENT_0 . backend . IDENT_4 > result = instance . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; org . junit . Assert . fail ( STRING_1 ) ; } METHOD_1 ( ) { if ( ( IDENT_5 ) != null ) { METHOD_2 ( ) ; } return IDENT_6 ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

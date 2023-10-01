@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { T node = METHOD_2 ( ) ; while ( ! ( node . METHOD_3 ( ) ) ) { node = node . METHOD_4 ( ) ; } return node ; }
+org . junit . Assert . assertEquals ( c , a . METHOD_1 ( ) ) 

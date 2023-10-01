@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String name = org . apache . commons . lang . IDENT_0 . METHOD_1 ( 8 ) ; java . lang . String IDENT_1 = org . apache . commons . lang . IDENT_0 . METHOD_1 ( 12 ) ; com . IDENT_2 . IDENT_3 . random . User user = new com . IDENT_2 . IDENT_3 . random . User ( name , IDENT_1 ) ; com . IDENT_2 . IDENT_3 . random . Person person = com . IDENT_2 . IDENT_3 . random . IDENT_4 . convert ( user ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( ( ( name + " " ) + IDENT_1 ) , person . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int hashCode = IDENT_0 . hashCode ( ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return com . google . common . base . IDENT_1 . hashCode ( description , domain , key , name ) ; }
+org . junit . Assert . assertFalse ( ( hashCode == 0 ) ) 

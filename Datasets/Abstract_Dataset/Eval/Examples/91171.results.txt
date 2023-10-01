@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( int ) { com . itextpdf . io . IDENT_0 . IDENT_1 . IDENT_2 text = new com . itextpdf . io . IDENT_0 . IDENT_1 . METHOD_2 ( com . itextpdf . layout . IDENT_3 . IDENT_4 . IDENT_5 ) ; return new com . itextpdf . layout . IDENT_3 . METHOD_3 ( ) . METHOD_4 ( text , IDENT_6 ) ; }
+org . junit . Assert . assertFalse ( com . itextpdf . layout . IDENT_3 . IDENT_4 . METHOD_1 ( 0 ) ) 

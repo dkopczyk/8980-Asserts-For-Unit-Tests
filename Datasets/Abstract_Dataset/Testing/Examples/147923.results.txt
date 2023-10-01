@@ -1,0 +1,2 @@
+METHOD_0 ( ) { this . IDENT_0 . add ( null ) ; METHOD_1 ( org . IDENT_1 . data . internal . controller . IDENT_2 . IDENT_3 , new java . lang . String [ ] { STRING_0 } ) ; final org . IDENT_1 . data . IDENT_4 < org . apache . commons . lang3 . tuple . IDENT_5 < java . lang . String , java . lang . String > > result = this . component . load ( this . IDENT_6 ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_7 . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , result . size ( ) ) 

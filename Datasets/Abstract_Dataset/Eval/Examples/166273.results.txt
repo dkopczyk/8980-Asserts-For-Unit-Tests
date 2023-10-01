@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { java . lang . String IDENT_0 = com . IDENT_1 . client . IDENT_2 . client . METHOD_1 ( ) ; org . json . IDENT_3 json = new org . json . METHOD_2 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } catch ( java . io . IOException e ) { org . junit . Assert . fail ( e . getMessage ( ) ) ; } catch ( org . json . IDENT_4 e ) { org . junit . Assert . fail ( e . getMessage ( ) ) ; } } METHOD_1 ( ) { return this . execute ( this . METHOD_3 ( STRING_0 ) , IDENT_5 . IDENT_6 , null , "" ) ; }
+org . junit . Assert . assertTrue ( ( ( json . length ( ) ) > 0 ) ) 

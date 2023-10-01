@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . sagebionetworks . repo . model . query . entity . IDENT_0 model = new org . sagebionetworks . repo . model . query . entity . METHOD_1 ( query ) ; model . METHOD_2 ( parameters ) ; java . util . Map < java . lang . String , java . lang . Object > map = parameters . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( 6 , map . size ( ) ) 

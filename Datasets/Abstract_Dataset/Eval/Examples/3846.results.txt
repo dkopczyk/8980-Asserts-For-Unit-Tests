@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 . IDENT_1 ) ; IDENT_2 . METHOD_2 ( 0 , new byte [ alluxio . client . hadoop . IDENT_3 . IDENT_4 ] ) ; alluxio . client . file . IDENT_5 IDENT_6 = IDENT_7 . getStatus ( new alluxio . METHOD_3 ( alluxio . client . hadoop . IDENT_3 . IDENT_8 ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_9 . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_6 . METHOD_4 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( 0 ) ; METHOD_2 ( io . grpc . netty . IDENT_0 . METHOD_3 ( IDENT_1 , IDENT_2 ) ) ; "<AssertPlaceHolder>" ; METHOD_4 ( Status . IDENT_3 ) ; verify ( IDENT_4 ) . METHOD_5 ( eq ( Status . IDENT_3 ) , METHOD_6 ( io . grpc . netty . IDENT_5 ) , any ( io . grpc . IDENT_6 . class ) ) ; } id ( ) { return id ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_2 . id ( ) ) 

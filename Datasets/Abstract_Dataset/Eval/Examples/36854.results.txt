@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . criteria . domain . Node node = org . IDENT_0 . IDENT_1 . criteria . builder . IDENT_2 . create ( ) . and ( ) . eq ( STRING_0 , STRING_1 ) . eq ( STRING_2 , STRING_1 ) . end ( ) . build ( ) ; org . IDENT_0 . IDENT_3 . commons . support . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 IDENT_8 = METHOD_1 ( node ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_9 ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_8 . METHOD_2 ( ) . size ( ) ) 

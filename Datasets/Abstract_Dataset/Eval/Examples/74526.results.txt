@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final uk . gov . gchq . gaffer . types . function . IDENT_0 function = new uk . gov . gchq . gaffer . types . function . METHOD_1 ( ) ; final java . lang . Object value = STRING_0 ; final uk . gov . gchq . gaffer . types . IDENT_1 result = function . apply ( value ) ; "<AssertPlaceHolder>" ; } toString ( ) { return value ; }
+org . junit . Assert . assertEquals ( new uk . gov . gchq . gaffer . types . METHOD_2 ( null , value . toString ( ) ) , result ) 

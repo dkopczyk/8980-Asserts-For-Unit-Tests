@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( IDENT_1 . IDENT_2 ) ; for ( int i = 0 ; i < INT_0 ; i ++ ) { IDENT_0 . METHOD_2 ( ( "" + i ) ) ; } com . vaadin . IDENT_3 . ui . IDENT_4 . METHOD_3 ( IDENT_0 , "2" , 0 ) ; java . util . List < ? > options = IDENT_0 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 3 , options . size ( ) ) 

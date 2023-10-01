@@ -1,0 +1,2 @@
+METHOD_0 ( org . apache . IDENT_0 . common . rest . IDENT_1 . IDENT_2 ) { new IDENT_3 . METHOD_1 ( ) { { IDENT_4 . METHOD_2 ( "name" ) ; result = IDENT_5 ; IDENT_5 . getValue ( args ) ; result = "1" ; } } ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { java . lang . String header = this . IDENT_6 . METHOD_4 ( name ) ; if ( header == null ) { return - 1 ; } return java . lang . Integer . METHOD_5 ( header ) ; }
+org . junit . Assert . assertEquals ( 1 , request . METHOD_3 ( "name" ) ) 

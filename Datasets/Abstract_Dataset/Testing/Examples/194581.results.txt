@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . config . IDENT_0 . IDENT_1 reader = new org . openscience . cdk . config . IDENT_0 . METHOD_1 ( new java . io . METHOD_2 ( "" ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( reader ) 

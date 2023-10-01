@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = 0 ; doReturn ( java . lang . Long . valueOf ( IDENT_0 ) ) . when ( IDENT_1 ) . METHOD_1 ( IDENT_2 . IDENT_3 , Configuration . IDENT_4 ) ; long result = IDENT_1 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { throw new java . lang . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String input = STRING_0 ; java . io . InputStream IDENT_0 = new java . io . ByteArrayInputStream ( input . getBytes ( ) ) ; try ( IDENT_1 . IDENT_2 . IDENT_3 . util . io . IDENT_4 reader = new IDENT_1 . IDENT_2 . IDENT_3 . util . io . METHOD_1 ( IDENT_0 ) ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( ) { return IDENT_0 . METHOD_2 ( ) ; }
+org . junit . Assert . assertFalse ( reader . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . facebook . buck . core . model . IDENT_0 target = com . facebook . buck . core . model . IDENT_1 . newInstance ( STRING_0 ) ; com . facebook . buck . core . IDENT_2 . IDENT_3 path = com . facebook . buck . core . IDENT_2 . IDENT_3 . of ( target ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return target . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( target , path . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+properties ( ) { final java . beans . IDENT_0 info = java . beans . IDENT_1 . METHOD_0 ( IDENT_2 . getClass ( ) ) ; final java . beans . IDENT_3 [ ] IDENT_4 = info . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_4 . length ) 

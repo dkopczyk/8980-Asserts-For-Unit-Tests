@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . business . util . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new org . IDENT_0 . business . util . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; java . util . Date IDENT_5 = new java . util . Date ( ) ; IDENT_4 . METHOD_2 ( IDENT_5 ) ; org . IDENT_0 . business . util . IDENT_1 . IDENT_2 . METHOD_1 IDENT_6 = new org . IDENT_0 . business . util . IDENT_1 . METHOD_3 ( ) . METHOD_4 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertSame ( IDENT_5 , METHOD_4 . METHOD_5 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . flow . component . IDENT_0 . IDENT_1 IDENT_2 = new com . vaadin . flow . component . IDENT_0 . METHOD_1 ( ) ; com . vaadin . flow . function . IDENT_3 IDENT_4 = org . mockito . Mockito . mock ( com . vaadin . flow . function . IDENT_3 . class ) ; IDENT_2 . METHOD_2 ( ) . METHOD_3 ( IDENT_4 ) ; IDENT_2 . METHOD_4 ( null ) ; "<AssertPlaceHolder>" ; org . mockito . Mockito . verify ( IDENT_4 ) . run ( ) ; } METHOD_2 ( ) { return super . METHOD_2 ( ) ; }
+org . junit . Assert . assertNull ( IDENT_2 . METHOD_2 ( ) ) 

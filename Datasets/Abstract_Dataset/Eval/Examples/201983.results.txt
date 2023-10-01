@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 IDENT_1 ; IDENT_2 api = new METHOD_1 ( ) ; if ( ( api . METHOD_2 ( STRING_0 , STRING_1 ) ) != 0 ) { System . err . println ( STRING_2 ) ; java . lang . System . METHOD_3 ( 1 ) ; } IDENT_3 image = METHOD_4 ( STRING_3 ) ; api . METHOD_5 ( image ) ; IDENT_1 = api . METHOD_6 ( ) ; java . lang . String string = IDENT_1 . getString ( ) ; "<AssertPlaceHolder>" ; System . out . println ( ( STRING_4 + string ) ) ; api . METHOD_7 ( ) ; IDENT_1 . METHOD_8 ( ) ; METHOD_9 ( image ) ; }
+org . junit . Assert . assertTrue ( ( ! ( string . isEmpty ( ) ) ) ) 

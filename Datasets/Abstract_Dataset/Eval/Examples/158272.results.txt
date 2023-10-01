@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . api . IDENT_2 event = METHOD_1 ( ) ; java . lang . String IDENT_3 = java . util . UUID . METHOD_2 ( ) . toString ( ) ; event . METHOD_3 ( STRING_0 , STRING_1 ) ; net . IDENT_4 . IDENT_5 . model . component . IDENT_6 IDENT_7 = service . METHOD_4 ( event ) ; log . debug ( STRING_2 ) ; log . debug ( STRING_3 ) ; log . debug ( STRING_4 , IDENT_7 ) ; "<AssertPlaceHolder>" ; } debug ( java . lang . String ) { if ( log . METHOD_5 ( ) ) { log . debug ( ( STRING_5 + msg ) ) ; } }
+org . junit . Assert . assertNotNull ( IDENT_7 ) 

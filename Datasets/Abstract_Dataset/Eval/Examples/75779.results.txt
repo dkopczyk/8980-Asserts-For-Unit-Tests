@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . catalog . IDENT_1 IDENT_2 = METHOD_1 ( org . IDENT_0 . catalog . IDENT_1 . class ) ; expect ( IDENT_2 . getType ( ) ) . andReturn ( IDENT_3 . IDENT_4 ) ; replay ( IDENT_2 ) ; org . IDENT_0 . security . IDENT_5 . IDENT_6 IDENT_7 = new org . IDENT_0 . security . IDENT_5 . METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } getType ( ) { return delegate . getType ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 . IDENT_4 , IDENT_7 . getType ( ) ) 

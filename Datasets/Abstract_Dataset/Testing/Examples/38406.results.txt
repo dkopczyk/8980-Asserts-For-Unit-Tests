@@ -1,0 +1,2 @@
+METHOD_0 ( ) { list . add ( com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( 1 , 2 ) ) ; list . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( size ( ) ) != ( this . buffer . length ) ) { this . buffer = com . IDENT_0 . IDENT_1 . IDENT_3 . < IDENT_4 [ ] > METHOD_3 ( toArray ( ) ) ; } }
+org . junit . Assert . assertEquals ( 2 , list . buffer . length ) 

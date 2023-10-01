@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . common . model . impl . id . IDENT_1 IDENT_2 = new org . IDENT_0 . common . model . impl . id . METHOD_1 ( ) ; java . util . Iterator < org . IDENT_0 . common . model . impl . id . IDENT_3 > IDENT_4 = IDENT_2 . iterator ( ) ; "<AssertPlaceHolder>" ; IDENT_4 . next ( ) ; } hasNext ( ) { if ( it . hasNext ( ) ) { result = it . next ( ) ; return true ; } else { return false ; } }
+org . junit . Assert . assertFalse ( IDENT_4 . hasNext ( ) ) 

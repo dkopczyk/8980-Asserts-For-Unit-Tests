@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; IDENT_0 . start ( ) ; "<AssertPlaceHolder>" ; } evaluate ( ch . IDENT_1 . IDENT_2 . IDENT_3 . spi . IDENT_4 ) { java . lang . String url = event . METHOD_2 ( ) ; for ( java . lang . String expected : IDENT_5 ) { if ( url . contains ( expected ) ) { return true ; } } return false ; }
+org . junit . Assert . assertFalse ( IDENT_0 . evaluate ( event ) ) 

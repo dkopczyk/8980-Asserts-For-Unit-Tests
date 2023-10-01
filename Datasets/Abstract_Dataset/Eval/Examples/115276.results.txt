@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . commons . lang3 . text . IDENT_0 sb = new org . apache . commons . lang3 . text . METHOD_1 ( STRING_0 ) ; sb . METHOD_2 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } indexOf ( org . apache . commons . lang3 . text . IDENT_1 ) { return indexOf ( matcher , 0 ) ; }
+org . junit . Assert . assertEquals ( ( - 1 ) , sb . indexOf ( STRING_1 ) ) 

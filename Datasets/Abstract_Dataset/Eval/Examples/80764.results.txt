@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < com . IDENT_0 . IDENT_1 . metrics . IDENT_2 . IDENT_3 > IDENT_4 = IDENT_5 . IDENT_6 . filter ( METHOD_1 ( ) ) . collect ( java . util . stream . IDENT_7 . toList ( ) ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( IDENT_8 ) == ( end ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . isEmpty ( ) ) 

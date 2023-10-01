@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final net . sf . IDENT_0 . IDENT_1 . IDENT_2 config = new net . sf . IDENT_0 . IDENT_1 . configuration . METHOD_1 ( ) . with ( java . lang . String . class , new net . sf . IDENT_0 . IDENT_1 . strategy . IDENT_3 . IDENT_4 < java . lang . String > ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Class ) { return net . sf . IDENT_0 . IDENT_1 . IDENT_5 . METHOD_2 ( clazz , this , new net . sf . IDENT_0 . IDENT_1 . METHOD_3 ( ) ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , config . METHOD_2 ( java . lang . String . class ) ) 

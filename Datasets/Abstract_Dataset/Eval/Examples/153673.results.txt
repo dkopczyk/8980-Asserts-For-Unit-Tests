@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . protocol . validation . IDENT_1 validator = new IDENT_0 . protocol . validation . METHOD_1 ( IDENT_2 ) ; boolean IDENT_3 = validator . validate ( IDENT_4 ) . isValid ( ) ; "<AssertPlaceHolder>" ; } isValid ( ) { return IDENT_3 ; }
+org . junit . Assert . assertTrue ( ( ! IDENT_3 ) ) 

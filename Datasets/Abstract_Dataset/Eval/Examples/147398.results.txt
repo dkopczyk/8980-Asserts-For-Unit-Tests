@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final IDENT_0 . IDENT_1 . IDENT_2 . data . IDENT_3 < java . lang . String , java . lang . Object > IDENT_4 = new IDENT_0 . IDENT_1 . IDENT_2 . data . METHOD_1 ( ) ; final IDENT_0 . IDENT_1 . IDENT_2 . data . IDENT_5 . IDENT_6 listener = new IDENT_0 . IDENT_1 . IDENT_2 . data . IDENT_5 . METHOD_2 ( ) ; IDENT_4 . METHOD_3 ( "test" , listener ) ; IDENT_4 . call ( "test" , IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return count . get ( ) ; }
+org . junit . Assert . assertEquals ( 1 , listener . METHOD_4 ( ) ) 

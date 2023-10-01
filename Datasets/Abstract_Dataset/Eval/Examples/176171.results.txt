@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . talend . IDENT_0 . format . IDENT_1 . IDENT_2 IDENT_3 = service . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return types . stream ( ) . filter ( ( f ) -> equalsIgnoreCase ( IDENT_4 , f . getName ( ) ) ) . METHOD_2 ( ) . METHOD_3 ( null ) ; }
+org . junit . Assert . assertNull ( IDENT_3 ) 

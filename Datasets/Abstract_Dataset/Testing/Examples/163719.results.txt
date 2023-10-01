@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . vo . IDENT_0 IDENT_1 = new org . oscm . vo . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { int result = first . hashCode ( ) ; result = ( INT_0 * result ) + ( IDENT_2 . hashCode ( ) ) ; return result ; }
+org . junit . Assert . assertEquals ( IDENT_1 . hashCode ( ) , 0 ) 

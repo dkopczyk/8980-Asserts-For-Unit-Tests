@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . fasterxml . jackson . databind . node . IDENT_0 IDENT_1 = new com . fasterxml . jackson . databind . node . METHOD_1 ( true ) ; com . fasterxml . jackson . databind . IDENT_2 IDENT_3 = IDENT_4 . METHOD_2 ( IDENT_1 , null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( com . IDENT_5 . IDENT_6 . metadata . Type , java . lang . Object ) { return type . METHOD_2 ( factory , value ) ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

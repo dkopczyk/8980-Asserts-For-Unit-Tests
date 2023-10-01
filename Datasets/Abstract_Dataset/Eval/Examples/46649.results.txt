@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( int ) { int c = 1 ; if ( IDENT_0 >= ( com . IDENT_1 . util . concurrent . IDENT_2 . IDENT_3 ) ) { c = com . IDENT_1 . util . concurrent . IDENT_2 . IDENT_3 ; } else { while ( c < IDENT_0 ) c OP_0 1 ; } if ( com . IDENT_1 . util . concurrent . IDENT_2 . METHOD_2 ( c ) ) { return c ; } else { throw new java . lang . RuntimeException ( STRING_0 ) ; } }
+org . junit . Assert . assertEquals ( 4 , com . IDENT_1 . util . concurrent . IDENT_2 . METHOD_1 ( 3 ) ) 

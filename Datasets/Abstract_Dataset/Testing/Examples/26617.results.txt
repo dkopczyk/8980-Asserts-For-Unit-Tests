@@ -1,0 +1,2 @@
+get ( ) { java . util . UUID IDENT_0 = java . util . UUID . METHOD_0 ( ) ; org . IDENT_1 . reflect . IDENT_2 . IDENT_3 < java . lang . Object > IDENT_2 = new org . IDENT_1 . reflect . IDENT_2 . IDENT_3 < java . lang . Object > ( new org . IDENT_1 . reflect . IDENT_2 . IDENT_4 < java . lang . Object , byte [ ] > ( org . IDENT_1 . util . IDENT_5 . METHOD_1 ( IDENT_0 ) ) ) ; "<AssertPlaceHolder>" ; IDENT_2 . toString ( ) ; } get ( java . sql . ResultSet ) { return target . METHOD_2 ( column ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_2 . get ( null ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . ws . rs . core . Response response = target ( STRING_0 ) . request ( ) . get ( javax . ws . rs . core . Response . class ) ; "<AssertPlaceHolder>" ; } target ( java . lang . String ) { return target ( ) . path ( path ) ; }
+org . junit . Assert . assertEquals ( 200 , response . getStatus ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . tc . util . concurrent . IDENT_0 IDENT_1 = new com . tc . util . concurrent . METHOD_1 ( ) ; IDENT_1 . set ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { MOD_0 ( this ) { if ( set ) { return false ; } set ( ) ; return set ; } }
+org . junit . Assert . assertFalse ( IDENT_1 . METHOD_2 ( ) ) 

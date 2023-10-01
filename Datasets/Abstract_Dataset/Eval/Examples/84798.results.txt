@@ -1,0 +1,2 @@
+exists ( ) { "<AssertPlaceHolder>" ; } exists ( ) { org . junit . Assert . assertThat ( new com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_0 ( IDENT_4 . getAbsolutePath ( ) ) . exists ( ) , org . hamcrest . CoreMatchers . is ( true ) ) ; }
+org . junit . Assert . assertThat ( new com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_0 ( IDENT_4 . getAbsolutePath ( ) ) . exists ( ) , org . hamcrest . CoreMatchers . is ( true ) ) 

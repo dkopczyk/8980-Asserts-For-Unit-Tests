@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; IDENT_0 = session . from ( IDENT_1 ) . list ( IDENT_1 ) ; java . util . List < java . lang . String > IDENT_2 = java . util . Arrays . asList ( IDENT_0 . get ( 0 ) . getId ( ) , IDENT_0 . get ( 1 ) . getId ( ) ) ; "<AssertPlaceHolder>" ; } from ( com . IDENT_3 . query . types . IDENT_4 [ ] ) { return IDENT_5 . from ( o ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 , session . from ( IDENT_1 ) . list ( IDENT_1 . id ) ) 

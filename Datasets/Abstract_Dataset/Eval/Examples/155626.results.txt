@@ -1,0 +1,2 @@
+length ( ) { "<AssertPlaceHolder>" ; } length ( ) { org . junit . Assert . assertEquals ( 7 , new com . IDENT_0 . IDENT_1 . METHOD_0 ( 3 , 10 ) . length ( ) ) ; }
+org . junit . Assert . assertEquals ( 7 , new com . IDENT_0 . IDENT_1 . METHOD_0 ( 3 , 10 ) . length ( ) ) 

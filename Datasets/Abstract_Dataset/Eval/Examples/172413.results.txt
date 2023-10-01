@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . neo4j . Person p = org . springframework . data . neo4j . Person . METHOD_1 ( STRING_0 , INT_0 ) ; org . springframework . data . neo4j . Person IDENT_0 = org . springframework . data . neo4j . Person . METHOD_1 ( STRING_1 , INT_1 ) ; org . springframework . data . neo4j . IDENT_1 f = p . METHOD_2 ( IDENT_0 ) ; f . METHOD_3 ( ) . setProperty ( STRING_2 , 1 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( 1 , f . METHOD_4 ( ) ) 

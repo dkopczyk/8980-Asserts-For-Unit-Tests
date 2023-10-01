@@ -1,0 +1,2 @@
+METHOD_0 ( ) { gov . hhs . fha . nhinc . IDENT_0 . IDENT_1 message = null ; gov . hhs . fha . nhinc . IDENT_0 . IDENT_2 . IDENT_3 IDENT_4 = null ; gov . hhs . fha . nhinc . IDENT_0 . IDENT_5 instance = new gov . hhs . fha . nhinc . IDENT_0 . IDENT_6 . METHOD_1 ( ) ; boolean expResult = false ; boolean result = instance . METHOD_2 ( message , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( gov . hhs . fha . nhinc . IDENT_0 . IDENT_1 , gov . hhs . fha . nhinc . IDENT_0 . IDENT_2 . IDENT_3 ) { return false ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

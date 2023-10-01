@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( com . IDENT_0 . IDENT_1 . api . models . IDENT_2 status : com . IDENT_0 . IDENT_1 . api . models . IDENT_3 . IDENT_4 ) "<AssertPlaceHolder>" ; } get ( int ) { com . IDENT_0 . IDENT_1 . api . models . IDENT_2 status = com . IDENT_0 . IDENT_1 . api . models . IDENT_2 . IDENT_5 . get ( id ) ; if ( status != null ) return status ; return com . IDENT_0 . IDENT_1 . api . models . IDENT_2 . IDENT_6 ; }
+org . junit . Assert . assertEquals ( status , com . IDENT_0 . IDENT_1 . api . models . IDENT_2 . get ( status . getId ( ) ) ) 

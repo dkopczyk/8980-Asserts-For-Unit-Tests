@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . liferay . portal . internal . dao . sql . IDENT_0 . IDENT_1 IDENT_2 = new com . liferay . portal . internal . dao . sql . IDENT_0 . METHOD_1 ( STRING_0 , "" , STRING_1 , "" ) ; java . lang . String IDENT_3 = IDENT_2 . transform ( STRING_2 ) ; "<AssertPlaceHolder>" ; } transform ( java . lang . String ) { if ( html == null ) { return null ; } if ( ( ! ( html . contains ( STRING_3 ) ) ) || ( ! ( html . contains ( STRING_4 ) ) ) ) { return html ; } return super . transform ( html ) ; }
+org . junit . Assert . assertEquals ( STRING_2 , IDENT_3 ) 

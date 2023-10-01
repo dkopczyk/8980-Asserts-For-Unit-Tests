@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . camunda . bpm . engine . task . IDENT_0 > results = IDENT_1 . METHOD_1 ( ) . METHOD_2 ( ) ; for ( org . camunda . bpm . engine . task . IDENT_0 result : results ) { "<AssertPlaceHolder>" ; } } METHOD_3 ( org . camunda . bpm . engine . task . IDENT_0 ) { return ( ( ( result . METHOD_4 ( ) ) == null ) || ( result . METHOD_4 ( ) . equals ( IDENT_2 . get ( 0 ) ) ) ) || ( result . METHOD_4 ( ) . equals ( IDENT_2 . get ( 1 ) ) ) ; }
+org . junit . Assert . assertTrue ( METHOD_3 ( result ) ) 

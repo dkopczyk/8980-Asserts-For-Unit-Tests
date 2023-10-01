@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String data = STRING_0 ; java . lang . String IDENT_0 = client . target ( ( ( STRING_1 + ( com . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) ) ) + STRING_2 ) ) . request ( ) . header ( STRING_3 , STRING_4 ) . header ( STRING_5 , STRING_6 ) . header ( STRING_3 0 , "test" ) . header ( STRING_7 , STRING_3 1 ) . header ( STRING_8 , "test" ) . put ( javax . ws . rs . client . Entity . text ( data ) ) . METHOD_2 ( java . lang . String . class ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( IDENT_0 . contains ( STRING_3 2 ) ) 

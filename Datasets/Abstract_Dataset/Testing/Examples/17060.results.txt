@@ -1,0 +1,2 @@
+METHOD_0 ( javax . servlet . http . IDENT_0 , java . io . InputStream ) { new IDENT_1 . METHOD_1 ( ) { { IDENT_2 . METHOD_2 ( ) ; result = IDENT_3 ; IDENT_3 . read ( ( ( byte [ ] ) ( any ) ) ) ; result = - 1 ; } } ; java . util . concurrent . IDENT_4 < java . lang . IDENT_5 > future = response . METHOD_3 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } get ( ) { return value ; }
+org . junit . Assert . assertNull ( future . get ( ) ) 

@@ -1,0 +1,2 @@
+simple ( ) { add ( STRING_0 , "/" ) ; METHOD_0 ( STRING_1 , false ) ; java . io . File IDENT_0 = METHOD_1 ( STRING_1 , STRING_0 ) ; java . io . File file = METHOD_2 ( IDENT_0 , STRING_2 ) ; invoke ( STRING_3 , STRING_4 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( com . asakusafw . IDENT_1 . rule . IDENT_2 ) { if ( IDENT_3 == null ) { throw new java . lang . IllegalArgumentException ( STRING_5 ) ; } return new com . asakusafw . IDENT_1 . rule . METHOD_4 ( IDENT_3 ) ; }
+org . junit . Assert . assertThat ( file , METHOD_3 ( exists ( ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . evosuite . utils . IDENT_0 . IDENT_1 IDENT_2 = new org . evosuite . utils . IDENT_0 . METHOD_1 ( java . lang . Object . class ) ; org . evosuite . utils . IDENT_0 . METHOD_1 IDENT_3 = new org . evosuite . utils . IDENT_0 . METHOD_1 ( java . lang . Object . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . reflect . Type ) { return org . evosuite . utils . IDENT_0 . METHOD_1 . METHOD_3 ( IDENT_4 , type ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_2 ( IDENT_3 ) ) 

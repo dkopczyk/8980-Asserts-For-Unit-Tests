@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . hbase . IDENT_0 cluster = org . apache . hadoop . hbase . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; org . apache . hadoop . hbase . IDENT_3 . IDENT_4 m = cluster . METHOD_2 ( ) ; m . METHOD_3 ( STRING_0 , new org . apache . IDENT_5 . IDENT_6 . METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; METHOD_5 ( ) ; } METHOD_6 ( ) { return org . apache . hadoop . hbase . IDENT_3 . IDENT_7 . IDENT_8 ; }
+org . junit . Assert . assertFalse ( m . METHOD_6 ( ) ) 

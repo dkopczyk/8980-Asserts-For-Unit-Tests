@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; com . github . IDENT_1 . IDENT_2 . query . IDENT_3 . IDENT_4 IDENT_5 = new com . github . IDENT_1 . IDENT_2 . query . IDENT_3 . METHOD_2 ( STRING_0 , new double [ ] { 1 , 1 } ) ; IDENT_0 . save ( IDENT_5 ) ; com . github . IDENT_1 . IDENT_2 . query . IDENT_3 . METHOD_2 found = IDENT_0 . find ( com . github . IDENT_1 . IDENT_2 . query . IDENT_3 . METHOD_2 . class ) . field ( STRING_1 ) . METHOD_3 ( 0 , 0 , 2 , 2 ) . get ( ) ; "<AssertPlaceHolder>" ; } get ( ) { return IDENT_0 ; }
+org . junit . Assert . assertNotNull ( found ) 

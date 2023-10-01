@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < net . IDENT_0 . IDENT_1 . persistence . project . dao . IDENT_2 > IDENT_3 = IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return nodes . size ( ) ; }
+org . junit . Assert . assertEquals ( 5 , IDENT_3 . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 IDENT_2 = new IDENT_0 . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( new java . lang . String [ ] { STRING_0 , STRING_1 + ( output . getAbsolutePath ( ) ) } ) ; java . util . List < IDENT_3 . IDENT_4 . IDENT_5 > records = METHOD_3 ( output ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_6 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , records . size ( ) ) 

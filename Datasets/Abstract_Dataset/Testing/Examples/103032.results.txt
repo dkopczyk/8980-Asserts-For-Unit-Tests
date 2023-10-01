@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final IDENT_0 . dom . IDENT_1 IDENT_2 = mock ( IDENT_0 . dom . IDENT_1 . class ) ; final IDENT_0 . dom . IDENT_3 IDENT_4 = mock ( IDENT_0 . dom . IDENT_3 . class ) ; IDENT_2 . IDENT_4 = IDENT_4 ; when ( IDENT_4 . contains ( org . kie . workbench . common . IDENT_5 . client . IDENT_6 . types . IDENT_7 . IDENT_8 ) ) . thenReturn ( false ) ; doReturn ( IDENT_2 ) . when ( view ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return METHOD_2 ( METHOD_1 ( ) ) ; }
+org . junit . Assert . assertFalse ( view . METHOD_2 ( ) ) 

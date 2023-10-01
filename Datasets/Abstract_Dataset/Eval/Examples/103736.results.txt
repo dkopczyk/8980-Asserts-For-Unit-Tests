@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . put ( IDENT_2 . METHOD_1 ( ) , IDENT_2 ) ; IDENT_0 . IDENT_1 . put ( IDENT_3 . METHOD_1 ( ) , IDENT_3 ) ; IDENT_0 . METHOD_2 ( ) ; verify ( IDENT_4 , times ( 1 ) ) . delete ( eq ( IDENT_5 ) ) ; verify ( IDENT_4 , times ( 1 ) ) . delete ( eq ( IDENT_6 ) ) ; "<AssertPlaceHolder>" ; verify ( IDENT_4 , times ( 1 ) ) . METHOD_2 ( ) ; } METHOD_3 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertTrue ( IDENT_0 . METHOD_3 ( ) . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean result = org . IDENT_0 . core . util . IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return org . IDENT_0 . core . util . IDENT_1 . METHOD_2 ( 5 ) ; }
+org . junit . Assert . assertEquals ( true , result ) 

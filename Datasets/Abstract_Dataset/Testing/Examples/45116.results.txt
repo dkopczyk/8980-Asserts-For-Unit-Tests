@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; METHOD_1 ( report , STRING_0 ) ; } METHOD_2 ( boolean , java . nio . file . IDENT_0 ) { org . apache . commons . lang . IDENT_1 . METHOD_3 ( filter , STRING_1 ) ; if ( ( IDENT_2 ) == null ) { this . IDENT_2 = false ; if ( filter . matches ( path ) ) { this . IDENT_2 = METHOD_4 ( IDENT_3 , filter ) ; } else { this . IDENT_2 = METHOD_5 ( IDENT_3 ) ; } } return IDENT_2 ; }
+org . junit . Assert . assertThat ( entry . METHOD_2 ( true , ( p ) -> false ) , org . hamcrest . CoreMatchers . equalTo ( false ) ) 

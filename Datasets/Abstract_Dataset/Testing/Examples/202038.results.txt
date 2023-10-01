@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] IDENT_0 = new byte [ 100 ] ; java . util . Arrays . METHOD_1 ( IDENT_0 , ( ( byte ) ( 5 ) ) ) ; java . io . ByteArrayInputStream IDENT_1 = new java . io . ByteArrayInputStream ( IDENT_0 ) ; java . io . IDENT_2 IDENT_3 = new java . io . METHOD_2 ( IDENT_1 ) ; byte [ ] b = new byte [ 100 ] ; IDENT_3 . read ( b , 0 , 100 ) ; IDENT_1 . close ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 5 , b [ 0 ] ) 

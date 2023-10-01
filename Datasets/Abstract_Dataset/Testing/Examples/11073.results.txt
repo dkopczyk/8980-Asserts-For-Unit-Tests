@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . String > IDENT_0 = new java . util . HashMap ( ) ; IDENT_0 . put ( STRING_0 , STRING_1 ) ; java . util . List < org . apache . cxf . jaxrs . ext . search . jpa . IDENT_1 > IDENT_2 = METHOD_1 ( STRING_2 , null , IDENT_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return cache . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_2 . size ( ) ) 

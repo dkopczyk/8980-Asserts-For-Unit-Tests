@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Class < ? > type = new org . IDENT_0 . reflect . type . Type ( org . IDENT_0 . util . IDENT_1 . class . getName ( ) ) . load ( ) ; "<AssertPlaceHolder>" ; } load ( ) { return new org . IDENT_0 . reflect . type . METHOD_1 ( METHOD_2 ( name ) , METHOD_3 ( ) ) . load ( ) ; }
+org . junit . Assert . assertEquals ( org . IDENT_0 . util . IDENT_1 . class , type ) 

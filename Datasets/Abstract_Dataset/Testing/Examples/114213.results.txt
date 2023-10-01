@@ -1,0 +1,2 @@
+METHOD_0 ( ) { jsprit . core . problem . job . IDENT_0 s = ( ( jsprit . core . problem . job . IDENT_0 ) ( IDENT_0 . Builder . newInstance ( STRING_0 ) . METHOD_1 ( jsprit . core . problem . IDENT_1 . newInstance ( STRING_1 ) ) . setName ( "name" ) . build ( ) ) ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( "name" , s . getName ( ) ) 

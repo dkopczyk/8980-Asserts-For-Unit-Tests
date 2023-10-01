@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Boolean IDENT_0 = false ; java . util . List < it . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 > IDENT_5 = it . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_6 . METHOD_1 ( ) ; for ( it . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 action : IDENT_5 ) { if ( it . IDENT_1 . IDENT_2 . IDENT_7 . IDENT_8 . IDENT_9 . class . METHOD_2 ( ) . equals ( action . getId ( ) ) ) { IDENT_0 = true ; break ; } } "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

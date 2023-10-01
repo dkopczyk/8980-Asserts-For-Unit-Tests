@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 IDENT_2 = org . apache . IDENT_0 . IDENT_1 . create ( ) . build ( ) ; java . lang . System . setProperty ( STRING_0 , "foo" ) ; "<AssertPlaceHolder>" ; java . lang . System . METHOD_1 ( STRING_0 ) ; } getProperty ( java . lang . String ) { return properties . get ( name ) ; }
+org . junit . Assert . assertEquals ( "foo" , IDENT_2 . getProperty ( STRING_0 ) ) 

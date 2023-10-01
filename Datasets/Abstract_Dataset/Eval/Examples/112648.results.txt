@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String result = IDENT_0 . METHOD_1 ( IDENT_1 . toString ( ) , f . toString ( ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( ( ( ( ( ( ( ( STRING_0 + ( IDENT_2 . getName ( ) ) ) + STRING_1 ) + ( IDENT_2 . getId ( ) ) ) + STRING_2 ) + STRING_3 ) + ( context . getName ( ) ) ) + STRING_1 ) + ( context . getId ( ) ) ) + STRING_4 ) + ( IDENT_3 . get ( 0 ) ) ) + "]" ; }
+org . junit . Assert . assertEquals ( "" , result ) 

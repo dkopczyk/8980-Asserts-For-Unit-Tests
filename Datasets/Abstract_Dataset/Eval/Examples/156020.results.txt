@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . testing . IDENT_1 IDENT_2 = new org . IDENT_0 . testing . METHOD_1 ( name ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( android . IDENT_3 . Message ) { return ( ( org . IDENT_0 . IDENT_4 . IDENT_5 ) ( org . IDENT_0 . IDENT_6 . api . IDENT_7 . METHOD_3 ( actual ) ) ) ; }
+org . junit . Assert . assertSame ( name , METHOD_2 ( IDENT_2 ) . name ) 

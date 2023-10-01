@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new com . alibaba . IDENT_1 . util . IDENT_2 . IDENT_3 . METHOD_1 ( "test" ) ; "<AssertPlaceHolder>" ; } name ( ) { IDENT_0 = new com . alibaba . IDENT_1 . util . IDENT_2 . IDENT_3 . METHOD_1 ( "test" ) ; org . junit . Assert . assertEquals ( "test" , IDENT_0 . name ( ) ) ; }
+org . junit . Assert . assertEquals ( "test" , IDENT_0 . name ( ) ) 

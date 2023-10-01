@@ -1,0 +1,2 @@
+METHOD_0 ( ) { redis . IDENT_0 . IDENT_1 . IDENT_2 pipeline = IDENT_1 . METHOD_1 ( ) ; pipeline . set ( "foo" , STRING_0 ) ; IDENT_1 . METHOD_2 ( ) ; java . lang . String result = IDENT_1 . get ( "foo" ) ; "<AssertPlaceHolder>" ; } get ( byte [ ] ) { redis . IDENT_0 . IDENT_1 . IDENT_3 . METHOD_3 ( IDENT_4 . IDENT_5 , key ) ; }
+org . junit . Assert . assertEquals ( result , STRING_0 ) 

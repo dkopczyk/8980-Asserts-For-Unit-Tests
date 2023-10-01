@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . manager . domain . IDENT_2 IDENT_3 = com . IDENT_0 . IDENT_1 . manager . service . IDENT_4 . IDENT_5 . get ( com . IDENT_0 . IDENT_1 . manager . service . IDENT_4 . IDENT_6 . getId ( ) ) ; "<AssertPlaceHolder>" ; } get ( int ) { return IDENT_7 . read ( id ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 , com . IDENT_0 . IDENT_1 . manager . service . IDENT_4 . IDENT_6 ) 

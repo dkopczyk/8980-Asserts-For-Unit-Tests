@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( query . list ( ) ) . thenReturn ( com . google . common . collect . ImmutableList . of ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; verify ( session ) . METHOD_1 ( STRING_1 ) ; verify ( query ) . list ( ) ; } METHOD_2 ( java . lang . String ) { return list ( METHOD_3 ( name ) ) ; }
+org . junit . Assert . assertThat ( dao . METHOD_2 ( STRING_1 ) , org . hamcrest . CoreMatchers . is ( ( ( java . util . List < java . lang . String > ) ( com . google . common . collect . ImmutableList . of ( STRING_0 ) ) ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = METHOD_1 ( ) ; final io . IDENT_1 . IDENT_2 . IDENT_3 resources = new io . IDENT_1 . IDENT_2 . METHOD_2 ( ) ; resources . METHOD_3 ( new io . IDENT_1 . IDENT_2 . IDENT_4 . schema . METHOD_4 ( IDENT_0 ) ) ; IDENT_5 . METHOD_5 ( resources ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_6 . METHOD_1 ( IDENT_7 . IDENT_8 ) ; }
+org . junit . Assert . assertThat ( METHOD_1 ( ) , org . hamcrest . CoreMatchers . is ( IDENT_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . conf . Configuration conf = new org . apache . hadoop . conf . Configuration ( false ) ; conf . set ( "a" , STRING_0 ) ; org . apache . hadoop . crypto . key . IDENT_0 . IDENT_1 IDENT_2 = new org . apache . hadoop . crypto . key . IDENT_0 . METHOD_1 ( conf ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return conf ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_2 . METHOD_2 ( ) . get ( "a" ) ) 

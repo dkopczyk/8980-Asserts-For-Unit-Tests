@@ -1,0 +1,2 @@
+METHOD_0 ( ) { double [ ] x = new double [ ] { 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 } ; double [ ] y = new double [ ] { FLOAT_0 , FLOAT_0 , FLOAT_1 , FLOAT_1 , FLOAT_1 , FLOAT_2 , FLOAT_2 , FLOAT_2 , FLOAT_3 , FLOAT_3 } ; IDENT_0 . matcher . solr . utils . IDENT_1 IDENT_2 = new IDENT_0 . matcher . solr . utils . METHOD_1 ( 1 ) ; int [ ] IDENT_3 = IDENT_2 . METHOD_2 ( x , y ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( double [ ] , double [ ] ) { return METHOD_3 ( x , y , true ) ; }
+org . junit . Assert . assertArrayEquals ( new int [ ] { 1 , 4 , 7 } , IDENT_3 ) 

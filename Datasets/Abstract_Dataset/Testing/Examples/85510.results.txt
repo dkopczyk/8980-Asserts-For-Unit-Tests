@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . hbase . util . IDENT_0 mock = mock ( org . apache . hadoop . hbase . util . IDENT_0 . class ) ; org . apache . hadoop . hbase . util . IDENT_1 . METHOD_1 ( mock ) ; long IDENT_2 = INT_0 ; when ( mock . currentTimeMillis ( ) ) . thenReturn ( IDENT_2 ) ; long result = org . apache . hadoop . hbase . util . IDENT_1 . currentTimeMillis ( ) ; verify ( mock ) . currentTimeMillis ( ) ; "<AssertPlaceHolder>" ; } currentTimeMillis ( ) { return t ; }
+org . junit . Assert . assertEquals ( IDENT_2 , result ) 

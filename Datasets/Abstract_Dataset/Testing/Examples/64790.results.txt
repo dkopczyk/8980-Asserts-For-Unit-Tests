@@ -1,0 +1,2 @@
+METHOD_0 ( ) { subject . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( this . METHOD_3 ( ) ) && ( METHOD_4 ( this . IDENT_0 ) ) ; }
+org . junit . Assert . assertThat ( subject . METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( false ) ) 

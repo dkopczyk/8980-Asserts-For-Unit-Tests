@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . jboss . IDENT_0 . service . util . IDENT_1 IDENT_2 = new org . jboss . IDENT_0 . service . util . METHOD_1 ( ) ; org . jboss . IDENT_0 . service . IDENT_3 . METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } get ( ) { return IDENT_4 . getValue ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . get ( ) ) 

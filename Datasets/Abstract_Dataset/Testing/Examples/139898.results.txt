@@ -1,0 +1,2 @@
+METHOD_0 ( ) { expect ( IDENT_0 . METHOD_1 ( ) ) . andReturn ( IDENT_1 ) . METHOD_2 ( ) ; replay ( IDENT_0 ) ; final javax . ws . rs . client . IDENT_2 IDENT_3 = target ( ) ; javax . ws . rs . core . Response response = IDENT_3 . path ( org . onosproject . IDENT_4 . web . IDENT_5 . IDENT_6 ) . request ( IDENT_7 . IDENT_8 ) . delete ( ) ; final int status = response . getStatus ( ) ; "<AssertPlaceHolder>" ; verify ( IDENT_0 ) ; } is ( java . lang . Class ) { return true ; }
+org . junit . Assert . assertThat ( status , org . hamcrest . Matchers . is ( 200 ) ) 

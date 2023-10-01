@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . set ( 1 ) ; "<AssertPlaceHolder>" ; } contains ( IDENT_1 extends org . IDENT_2 . IDENT_3 . impl . util . IDENT_4 ) { return ( IDENT_5 ? ( IDENT_6 . compareTo ( value ) ) <= 0 : ( IDENT_6 . compareTo ( value ) ) < 0 ) && ( IDENT_7 ? ( IDENT_8 . compareTo ( value ) ) >= 0 : ( IDENT_8 . compareTo ( value ) ) > 0 ) ; }
+org . junit . Assert . assertTrue ( IDENT_0 . contains ( 1 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . internal . vo . IDENT_0 IDENT_1 = new org . oscm . internal . vo . METHOD_1 ( ) ; java . lang . String IDENT_2 = IDENT_3 . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . oscm . internal . vo . METHOD_1 ) { if ( IDENT_1 != null ) { java . util . List < org . oscm . internal . vo . IDENT_4 > services = METHOD_3 ( ) . METHOD_4 ( IDENT_1 . getKey ( ) ) ; if ( ( services != null ) && ( ( services . size ( ) ) > 0 ) ) { return IDENT_1 . METHOD_5 ( ) ; } } return "" ; }
+org . junit . Assert . assertEquals ( "" , IDENT_2 ) 

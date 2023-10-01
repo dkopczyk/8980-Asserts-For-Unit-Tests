@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . UUID request = java . util . UUID . METHOD_1 ( ) ; final org . apache . tinkerpop . IDENT_0 . driver . message . IDENT_1 msg = org . apache . tinkerpop . IDENT_0 . driver . message . IDENT_1 . build ( STRING_0 ) . METHOD_2 ( request ) . create ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( request , msg . METHOD_3 ( ) ) 

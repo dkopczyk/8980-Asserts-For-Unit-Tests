@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . insert ( input ) ; "<AssertPlaceHolder>" ; } exists ( java . lang . String ) { if ( ( IDENT_1 ) == null ) { throw new java . lang . Exception ( STRING_0 ) ; } if ( ( this . status ) != ( IDENT_2 . IDENT_3 . data . IDENT_4 . IDENT_5 ) ) { if ( ( this . status ) == ( IDENT_2 . IDENT_3 . data . IDENT_4 . IDENT_6 ) ) { logger . log ( IDENT_7 . IDENT_8 , STRING_1 ) ; } else { throw new java . lang . Exception ( ( STRING_2 + ( status ) ) ) ; } } return IDENT_1 . exists ( IDENT_9 ) ; }
+org . junit . Assert . assertTrue ( IDENT_0 . exists ( input ) ) 

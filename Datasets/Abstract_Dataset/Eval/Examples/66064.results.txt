@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . baeldung . java . collections . Set < java . lang . String > IDENT_0 = com . google . common . collect . IDENT_1 . METHOD_1 ( "a" , "b" , STRING_0 , STRING_1 , STRING_2 , STRING_3 ) ; org . baeldung . java . collections . Iterator < java . lang . String > it = IDENT_2 . iterator ( ) ; while ( it . hasNext ( ) ) { if ( IDENT_0 . contains ( it . next ( ) ) ) { it . remove ( ) ; } } "<AssertPlaceHolder>" ; } size ( ) { return elements . size ( ) ; }
+org . junit . Assert . assertEquals ( 20 , IDENT_2 . size ( ) ) 

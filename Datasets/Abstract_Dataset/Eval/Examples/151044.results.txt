@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ca . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 cache = new ca . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( 2 ) ; cache . set ( 1 , 1 ) ; cache . set ( 2 , 2 ) ; cache . get ( 1 ) ; cache . set ( 3 , 3 ) ; "<AssertPlaceHolder>" ; } get ( int ) { list . METHOD_2 ( n ) ; return n . value ; }
+org . junit . Assert . assertEquals ( 1 , cache . get ( 1 ) ) 

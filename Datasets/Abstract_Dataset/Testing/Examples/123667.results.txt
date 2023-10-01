@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 + STRING_1 ; nl . bzk . brp . model . IDENT_1 . IDENT_2 IDENT_3 = IDENT_4 . METHOD_1 ( IDENT_0 ) ; java . lang . String IDENT_5 = IDENT_4 . METHOD_2 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( T ) { try { return nl . bzk . brp . IDENT_6 . IDENT_7 . METHOD_3 ( ) . METHOD_4 ( object ) ; } catch ( com . fasterxml . jackson . core . IDENT_8 e ) { throw new nl . bzk . brp . model . IDENT_9 . METHOD_5 ( STRING_2 , e ) ; } }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_5 ) 

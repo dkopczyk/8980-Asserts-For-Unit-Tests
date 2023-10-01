@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . Long , java . lang . Long > in = new java . util . HashMap < java . lang . Long , java . lang . Long > ( ) ; in . put ( 1L , INT_0 ) ; in . put ( INT_1 , INT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . Map ) { return new org . IDENT_0 . IDENT_1 . collection . ImmutableMap < IDENT_2 , IDENT_3 > ( new java . util . IDENT_4 < IDENT_2 , IDENT_3 > ( map ) ) ; }
+org . junit . Assert . assertEquals ( in , org . IDENT_0 . IDENT_1 . collection . ImmutableMap . METHOD_1 ( in ) ) 

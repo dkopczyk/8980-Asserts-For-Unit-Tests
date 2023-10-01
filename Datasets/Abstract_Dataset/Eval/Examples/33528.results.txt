@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final android . text . IDENT_0 IDENT_1 = new net . IDENT_2 . IDENT_3 . android . component . IDENT_4 . METHOD_1 ( "\n" ) ; IDENT_5 . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( IDENT_6 ) + STRING_0 ) + ( IDENT_7 ) ) + STRING_1 ; }
+org . junit . Assert . assertEquals ( "" , IDENT_1 . toString ( ) ) 

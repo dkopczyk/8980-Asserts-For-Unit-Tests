@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . IDENT_1 . core . event . types . IDENT_2 IDENT_3 = org . eclipse . IDENT_0 . IDENT_1 . core . event . types . IDENT_2 . METHOD_1 ( 2 , true , 1 , IDENT_4 . IDENT_5 , IDENT_6 . IDENT_7 , "" , 8 ) ; boolean result = IDENT_3 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertEquals ( true , result ) 

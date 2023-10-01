@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String json = instance . METHOD_1 ( ) ; java . io . InputStream IDENT_0 = new java . io . ByteArrayInputStream ( json . getBytes ( ) ) ; edu . illinois . library . cantaloupe . image . IDENT_1 info = edu . illinois . library . cantaloupe . image . IDENT_1 . METHOD_2 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( METHOD_3 ( ) ) + " " ) + ( edu . illinois . library . cantaloupe . resource . api . IDENT_2 . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertEquals ( info . toString ( ) , instance . toString ( ) ) 

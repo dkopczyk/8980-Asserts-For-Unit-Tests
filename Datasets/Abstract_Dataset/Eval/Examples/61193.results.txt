@@ -1,0 +1,2 @@
+METHOD_0 ( ) { writer . METHOD_1 ( STRING_0 , STRING_1 ) ; writer . METHOD_1 ( STRING_2 , STRING_1 ) ; writer . METHOD_1 ( STRING_3 , STRING_1 ) ; org . eclipse . rap . rwt . internal . protocol . Operation operation = getMessage ( ) . METHOD_2 ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return target ; }
+org . junit . Assert . assertEquals ( STRING_2 , operation . METHOD_3 ( ) ) 

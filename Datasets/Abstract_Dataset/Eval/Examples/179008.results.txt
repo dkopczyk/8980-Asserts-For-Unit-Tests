@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < java . lang . String > list = IDENT_0 . IDENT_1 . cs . IDENT_2 . cli . core . IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_0 . IDENT_1 . cs . IDENT_2 . cli . core . IDENT_3 . IDENT_4 . METHOD_2 ( ) ; }
+org . junit . Assert . assertTrue ( list . contains ( "" ) ) 

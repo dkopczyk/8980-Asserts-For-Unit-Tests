@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean property = ch . puzzle . itc . mobiliar . common . util . IDENT_0 . METHOD_0 ( IDENT_1 . IDENT_2 , false ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ch . puzzle . itc . mobiliar . common . util . IDENT_1 , java . lang . Boolean ) { java . lang . String IDENT_3 = ch . puzzle . itc . mobiliar . common . util . IDENT_0 . METHOD_1 ( key ) ; if ( IDENT_3 != null ) { return STRING_0 . equals ( IDENT_3 . toLowerCase ( ) ) ; } return IDENT_4 ; }
+org . junit . Assert . assertTrue ( property ) 

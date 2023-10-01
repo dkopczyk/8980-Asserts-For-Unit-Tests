@@ -1,0 +1,2 @@
+test ( ) { org . pentaho . commons . util . repository . IDENT_0 request = new org . pentaho . commons . util . repository . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( request ) 

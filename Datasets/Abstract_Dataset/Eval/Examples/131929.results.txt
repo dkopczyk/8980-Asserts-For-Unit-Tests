@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final net . IDENT_0 . platform . datamodel . IDENT_1 IDENT_2 = IDENT_3 . IDENT_4 . find ( 1 ) ; "<AssertPlaceHolder>" ; } find ( java . util . regex . IDENT_5 ) { int IDENT_6 = 0 ; while ( IDENT_7 . find ( ) ) { IDENT_6 ++ ; } return IDENT_6 ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

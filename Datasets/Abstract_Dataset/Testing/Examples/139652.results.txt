@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 + STRING_1 ; org . openmrs . module . IDENT_1 module = new org . openmrs . module . METHOD_1 ( "test" ) ; module . METHOD_2 ( org . openmrs . module . filter . IDENT_2 . METHOD_3 ( IDENT_0 ) ) ; java . util . List < org . openmrs . module . web . filter . IDENT_3 > out = org . openmrs . module . web . filter . IDENT_3 . METHOD_4 ( module ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( size ( ) ) == 0 ; }
+org . junit . Assert . assertTrue ( out . isEmpty ( ) ) 

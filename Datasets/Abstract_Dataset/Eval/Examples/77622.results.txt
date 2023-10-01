@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int count = com . gs . collections . impl . IDENT_0 . IDENT_1 . METHOD_0 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String , char ) { return com . gs . collections . impl . IDENT_0 . IDENT_1 . METHOD_1 ( string , value ) ; }
+org . junit . Assert . assertEquals ( 2 , count ) 

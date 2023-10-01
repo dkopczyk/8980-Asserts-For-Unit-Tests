@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . add ( new org . oscm . ui . IDENT_1 . common . IDENT_2 . METHOD_1 ( STRING_0 , STRING_1 , true ) ) ; java . util . Properties result = converter . METHOD_2 ( IDENT_0 , true ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . String ) { org . oscm . vo . IDENT_3 IDENT_4 = METHOD_3 ( key ) ; return IDENT_4 == null ? null : IDENT_4 . getValue ( ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , result . getProperty ( STRING_0 ) ) 

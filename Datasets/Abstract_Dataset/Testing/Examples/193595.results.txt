@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File IDENT_0 = new java . io . File ( STRING_0 ) ; "<AssertPlaceHolder>" ; try { org . apache . poi . IDENT_1 . IDENT_2 . IDENT_3 . create ( IDENT_0 , STRING_1 , true ) ; org . junit . Assert . fail ( STRING_2 ) ; } catch ( final java . io . IDENT_4 e ) { } }
+org . junit . Assert . assertFalse ( IDENT_0 . exists ( ) ) 

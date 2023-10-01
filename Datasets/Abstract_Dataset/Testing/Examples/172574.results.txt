@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; java . lang . Thread . sleep ( TimeUnit . IDENT_0 . METHOD_1 ( 8 ) ) ; } METHOD_2 ( ) { MOD_0 ( this . IDENT_1 ) { return IDENT_2 ; } }
+org . junit . Assert . assertTrue ( container . METHOD_2 ( ) ) 

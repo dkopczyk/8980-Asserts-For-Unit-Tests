@@ -1,0 +1,2 @@
+child ( ) { org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 child = new org . apache . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_0 ( ) . name ( STRING_0 ) ; node . child ( child . name ( ) , child ) ; "<AssertPlaceHolder>" ; } child ( java . lang . String ) { return IDENT_4 . get ( IDENT_5 ) ; }
+org . junit . Assert . assertSame ( child , node . child ( child . name ( ) ) ) 

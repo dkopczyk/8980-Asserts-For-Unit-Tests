@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . v4 . IDENT_1 group = new org . IDENT_0 . v4 . METHOD_1 ( ) ; group . METHOD_2 ( "foo" , STRING_0 ) ; group . METHOD_2 ( "test" , STRING_1 , STRING_2 ) ; org . IDENT_0 . v4 . IDENT_2 IDENT_3 = group . METHOD_3 ( "test" ) ; IDENT_3 . add ( STRING_1 , null ) ; java . lang . String expected = "" ; java . lang . String result = IDENT_3 . render ( ) ; "<AssertPlaceHolder>" ; } render ( ) { return render ( java . util . Locale . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertEquals ( expected , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . data . image . IDENT_1 IDENT_2 = org . IDENT_0 . data . IDENT_3 . METHOD_1 ( org . IDENT_0 . data . IDENT_4 . IDENT_5 , IDENT_6 . IDENT_7 , IDENT_8 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , org . IDENT_0 . data . IDENT_9 , org . IDENT_0 . data . IDENT_10 ) { return org . IDENT_0 . data . IDENT_3 . METHOD_1 ( name , IDENT_11 , org . IDENT_0 . data . IDENT_3 . METHOD_2 ( ) , props ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

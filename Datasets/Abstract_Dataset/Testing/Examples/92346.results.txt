@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final net . IDENT_0 . IDENT_1 request = net . IDENT_0 . IDENT_1 . builder ( ) . method ( net . IDENT_0 . IDENT_2 . IDENT_3 ) . METHOD_1 ( net . IDENT_0 . IDENT_2 . URI ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return this . METHOD_1 ; }
+org . junit . Assert . assertThat ( request . METHOD_0 ( ) , is ( net . IDENT_0 . IDENT_2 . URI ) ) 

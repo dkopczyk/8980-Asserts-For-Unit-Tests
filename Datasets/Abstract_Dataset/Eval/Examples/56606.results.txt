@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . sun . IDENT_0 . test . impl . service . data . IDENT_1 . IDENT_2 . METHOD_1 ( new com . sun . IDENT_0 . test . util . METHOD_2 ( ) { public void run ( ) throws java . lang . Exception { "<AssertPlaceHolder>" ; } } , com . sun . IDENT_0 . test . impl . service . data . IDENT_1 . IDENT_3 ) ; } METHOD_3 ( ) { return IDENT_4 . METHOD_3 ( ) ; }
+org . junit . Assert . assertTrue ( ( ( com . sun . IDENT_0 . test . impl . service . data . IDENT_1 . service . METHOD_3 ( ) ) > 0 ) ) 

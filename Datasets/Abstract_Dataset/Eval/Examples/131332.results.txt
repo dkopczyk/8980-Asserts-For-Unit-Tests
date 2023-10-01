@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . StringBuilder b = new java . lang . StringBuilder ( ) ; for ( int i = 0 ; i < ( 1 << 16 ) ; ++ i ) { b . append ( STRING_0 ) ; } final java . lang . String IDENT_0 = b . toString ( ) ; byte [ ] expected = IDENT_0 . getBytes ( IDENT_1 . IDENT_2 ) ; byte [ ] actual = new io . netty . util . METHOD_1 ( IDENT_0 ) . toByteArray ( ) ; "<AssertPlaceHolder>" ; } toByteArray ( ) { return toByteArray ( 0 , length ( ) ) ; }
+org . junit . Assert . assertArrayEquals ( expected , actual ) 

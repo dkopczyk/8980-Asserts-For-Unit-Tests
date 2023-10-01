@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . easymock . EasyMock . expect ( mock . METHOD_1 ( STRING_0 ) ) . andReturn ( ( ( byte ) ( - INT_0 ) ) ) ; METHOD_2 ( ) ; IDENT_0 . METHOD_3 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; METHOD_4 ( ) ; } METHOD_5 ( java . lang . String ) { if ( ! ( IDENT_1 . containsKey ( IDENT_2 ) ) ) { return true ; } if ( ! ( METHOD_6 ( IDENT_2 ) ) ) { return false ; } IDENT_1 . remove ( IDENT_2 ) ; METHOD_7 ( IDENT_2 ) ; return true ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_5 ( STRING_0 ) ) 

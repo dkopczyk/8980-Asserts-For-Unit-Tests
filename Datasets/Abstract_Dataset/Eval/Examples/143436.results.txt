@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; com . IDENT_1 . IDENT_2 . bean . IDENT_3 p = IDENT_2 . METHOD_1 ( IDENT_0 , com . IDENT_1 . IDENT_2 . bean . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } getText ( ) { return text ; }
+org . junit . Assert . assertNull ( p . getText ( ) ) 

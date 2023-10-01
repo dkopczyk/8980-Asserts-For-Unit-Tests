@@ -1,0 +1,2 @@
+METHOD_0 ( ) { servlet . METHOD_1 ( STRING_0 ) ; servlet . METHOD_2 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { com . ibm . IDENT_0 . IDENT_1 . log . IDENT_2 . info ( com . ibm . ws . security . IDENT_3 . adapter . ldap . IDENT_4 . IDENT_5 . c , STRING_0 , STRING_2 ) ; org . junit . Assert . assertEquals ( STRING_3 , com . ibm . ws . security . IDENT_3 . adapter . ldap . IDENT_4 . IDENT_5 . servlet . METHOD_0 ( ) ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , servlet . METHOD_0 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { condition . METHOD_1 ( IDENT_0 . IDENT_1 ) ; condition . setName ( STRING_0 ) ; condition . METHOD_2 ( IDENT_2 . IDENT_3 ) ; condition . setValue ( STRING_1 ) ; "<AssertPlaceHolder>" ; } process ( com . IDENT_4 . IDENT_5 . context . IDENT_6 ) { if ( ( IDENT_7 ) != null ) { for ( final com . IDENT_4 . IDENT_5 . model . IDENT_8 condition : IDENT_7 ) { if ( ( condition . process ( IDENT_9 ) ) != ( IDENT_10 . IDENT_11 ) ) { return null ; } } } return state ; }
+org . junit . Assert . assertEquals ( IDENT_10 . IDENT_11 , condition . process ( IDENT_9 ) ) 

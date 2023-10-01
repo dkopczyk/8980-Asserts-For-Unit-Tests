@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . auth . model . IDENT_1 fixture = new org . IDENT_0 . auth . model . METHOD_1 ( "" , "" , "" ) ; java . lang . String result = fixture . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return token ; }
+org . junit . Assert . assertEquals ( "" , result ) 

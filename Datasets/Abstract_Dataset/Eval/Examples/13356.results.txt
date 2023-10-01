@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String result = org . apache . hadoop . fs . IDENT_0 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . io . File ) { if ( f == null ) { org . apache . hadoop . fs . IDENT_0 . LOG . warn ( STRING_0 ) ; return "" ; } try { return org . apache . hadoop . util . IDENT_1 . METHOD_2 ( org . apache . hadoop . util . IDENT_1 . METHOD_3 ( f . toString ( ) ) ) . trim ( ) ; } catch ( java . io . IOException x ) { return "" ; } }
+org . junit . Assert . assertEquals ( "" , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . platform . engine . security . messages . IDENT_0 instance = org . pentaho . platform . engine . security . messages . IDENT_0 . getInstance ( ) ; "<AssertPlaceHolder>" ; } getInstance ( ) { return org . pentaho . platform . engine . security . messages . IDENT_0 . instance ; }
+org . junit . Assert . assertNotNull ( instance ) 

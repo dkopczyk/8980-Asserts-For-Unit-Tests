@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . data . IDENT_2 . IDENT_3 instance = IDENT_4 . METHOD_1 ( ) ; java . util . Properties result = instance . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; IDENT_4 . close ( ) ; } size ( ) { return ( ( IDENT_5 . size ( ) ) + ( IDENT_6 . size ( ) ) ) + ( IDENT_7 . size ( ) ) ; }
+org . junit . Assert . assertTrue ( ( ( result . size ( ) ) > 0 ) ) 

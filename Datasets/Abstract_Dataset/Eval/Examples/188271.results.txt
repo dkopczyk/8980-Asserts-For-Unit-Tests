@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . as . core . model . test . IDENT_0 IDENT_1 = METHOD_1 ( IDENT_2 . IDENT_3 ) . METHOD_2 ( STRING_0 ) . METHOD_3 ( STRING_1 ) . build ( ) ; "<AssertPlaceHolder>" ; java . lang . String IDENT_4 = IDENT_1 . METHOD_4 ( ) ; org . jboss . as . model . test . IDENT_5 . METHOD_5 ( org . jboss . as . model . test . IDENT_5 . METHOD_6 ( this . getClass ( ) , STRING_0 ) , IDENT_4 ) ; } METHOD_7 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertTrue ( IDENT_1 . METHOD_7 ( ) ) 

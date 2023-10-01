@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { java . lang . IDENT_0 < java . lang . String > IDENT_1 = tree . METHOD_1 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . Exception ex ) { } } iterator ( ) { return org . IDENT_3 . IDENT_4 . internal . util . java . util . IDENT_5 . METHOD_2 ( list ) ; }
+org . junit . Assert . assertFalse ( IDENT_1 . iterator ( ) . hasNext ( ) ) 

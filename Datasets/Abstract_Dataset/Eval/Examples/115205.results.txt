@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . commons . lang3 . IDENT_0 . METHOD_1 ( "a" , STRING_0 , "b" , STRING_1 ) ; try { org . apache . commons . lang3 . IDENT_0 . METHOD_1 ( STRING_2 , STRING_3 , STRING_4 , STRING_1 ) ; org . junit . Assert . fail ( STRING_5 ) ; } catch ( final java . lang . IllegalArgumentException e ) { "<AssertPlaceHolder>" ; } } getMessage ( ) { return METHOD_2 ( super . getMessage ( ) ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , e . getMessage ( ) ) 

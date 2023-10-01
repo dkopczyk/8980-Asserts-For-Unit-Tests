@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . engine . expression . api . IDENT_1 IDENT_2 = new IDENT_0 . engine . expression . api . METHOD_1 ( STRING_0 , "" ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { try { IDENT_0 . engine . expression . api . IDENT_3 IDENT_4 = new IDENT_0 . engine . expression . api . METHOD_3 ( ) ; IDENT_4 . METHOD_4 ( METHOD_5 ( ) ) ; return true ; } catch ( java . lang . Exception e ) { try { throw e ; } catch ( java . lang . Exception IDENT_5 ) { IDENT_5 . printStackTrace ( ) ; } } return false ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_2 ( ) ) 

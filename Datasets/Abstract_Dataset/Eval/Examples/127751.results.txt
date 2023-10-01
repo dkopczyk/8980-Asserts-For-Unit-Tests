@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . exception . IDENT_2 e = new com . IDENT_0 . IDENT_1 . exception . METHOD_1 ( "test" ) ; "<AssertPlaceHolder>" ; } getMessage ( ) { return msg ; }
+org . junit . Assert . assertEquals ( "test" , e . getMessage ( ) ) 

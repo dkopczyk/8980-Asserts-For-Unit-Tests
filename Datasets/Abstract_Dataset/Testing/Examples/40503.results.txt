@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . core . IDENT_1 expected = new io . IDENT_0 . core . METHOD_1 ( component , IDENT_2 , IDENT_3 ) ; io . IDENT_0 . core . METHOD_1 actual = io . IDENT_0 . core . METHOD_1 . builder ( ) . component ( component ) . METHOD_2 ( METHOD_2 ) . METHOD_3 ( io . IDENT_0 . core . IDENT_4 . METHOD_4 ( IDENT_5 ) ) . build ( ) ; "<AssertPlaceHolder>" ; } build ( ) { return io . IDENT_0 . core . System . of ( name , IDENT_6 , errors ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

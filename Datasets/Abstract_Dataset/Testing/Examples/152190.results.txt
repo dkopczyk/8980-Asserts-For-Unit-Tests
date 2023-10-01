@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] bytes = new byte [ ] { - 1 , - 2 , - 3 , - INT_0 , 0 , INT_1 } ; java . lang . String IDENT_0 = STRING_0 ; "<AssertPlaceHolder>" ; } METHOD_1 ( byte [ ] ) { java . lang . StringBuilder sb = new java . lang . StringBuilder ( ) ; int i ; int IDENT_1 ; int IDENT_2 ; for ( i = 0 ; i < ( bytes . length ) ; i ++ ) { sb . append ( org . IDENT_3 . atlas . util . IDENT_4 . IDENT_5 . METHOD_2 ( bytes [ i ] ) ) ; } return sb . toString ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , org . IDENT_3 . atlas . util . IDENT_4 . IDENT_5 . METHOD_1 ( bytes ) ) 

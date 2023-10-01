@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . time . IDENT_0 expected = java . time . IDENT_0 . now ( ) ; when ( this . IDENT_1 . METHOD_0 ( ) ) . thenReturn ( expected ) ; java . time . IDENT_0 result = this . IDENT_2 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return this . IDENT_2 . METHOD_0 ( ) ; }
+org . junit . Assert . assertSame ( expected , result ) 

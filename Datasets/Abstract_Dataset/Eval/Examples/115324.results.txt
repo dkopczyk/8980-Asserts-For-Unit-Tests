@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . io . json . IDENT_1 . IDENT_2 container = new IDENT_0 . io . json . IDENT_1 . METHOD_1 ( null ) ; java . io . StringWriter result = new java . io . StringWriter ( ) ; mapper . METHOD_2 ( result , container ) ; java . lang . String actual = result . toString ( ) ; java . lang . String expected = STRING_0 + ( STRING_1 + STRING_2 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return getValue ( IDENT_3 . IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

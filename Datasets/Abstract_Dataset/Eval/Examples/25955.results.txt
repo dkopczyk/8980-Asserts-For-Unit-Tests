@@ -1,0 +1,2 @@
+METHOD_0 ( ) { if ( log . METHOD_1 ( ) ) { log . debug ( STRING_0 ) ; } java . lang . String now = org . IDENT_0 . util . IDENT_1 . METHOD_2 ( new java . util . Date ( ) ) ; "<AssertPlaceHolder>" ; log . debug ( now ) ; } METHOD_2 ( java . util . Date ) { return org . IDENT_0 . util . IDENT_1 . METHOD_3 ( org . IDENT_0 . util . IDENT_1 . IDENT_2 , IDENT_3 ) ; }
+org . junit . Assert . assertTrue ( ( now != null ) ) 

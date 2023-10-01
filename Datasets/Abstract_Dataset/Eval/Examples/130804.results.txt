@@ -1,0 +1,2 @@
+test ( ) { int res = METHOD_0 ( 5 ) ; System . out . println ( java . lang . Integer . METHOD_1 ( 5 ) ) ; System . out . println ( java . lang . Integer . METHOD_1 ( res ) ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( int ) { int res = 0 ; for ( int i = 0 ; i < INT_0 ; i ++ ) { res += ( ( n > > > ( INT_1 - i ) ) & 1 ) << i ; } return res ; }
+org . junit . Assert . assertThat ( res , org . hamcrest . Matchers . is ( 6 ) ) 

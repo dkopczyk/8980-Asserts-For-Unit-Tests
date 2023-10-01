@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final boolean value = true ; org . IDENT_0 . util . IDENT_1 . METHOD_1 ( bean , STRING_0 , org . IDENT_0 . util . Boolean . class ) . invoke ( bean , value ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( value , bean . METHOD_2 ( ) ) 

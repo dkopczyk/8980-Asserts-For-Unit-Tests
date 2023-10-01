@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . core . task . IDENT_2 task = com . IDENT_0 . IDENT_1 . core . task . IDENT_2 . create ( ) ; task . METHOD_1 ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . core . task . IDENT_3 executor = new com . IDENT_0 . IDENT_1 . core . task . METHOD_2 ( ( k , m ) -> "<AssertPlaceHolder>" ) ; executor . METHOD_3 ( task ) ; } METHOD_1 ( java . lang . String ) { set ( IDENT_4 . IDENT_5 , IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , k ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String queue = com . github . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; java . lang . String IDENT_3 = com . github . IDENT_0 . IDENT_1 . IDENT_2 . q . METHOD_2 ( queue , STRING_0 , 10 ) ; com . github . IDENT_0 . IDENT_1 . IDENT_4 IDENT_5 = com . github . IDENT_0 . IDENT_1 . IDENT_2 . q . METHOD_0 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String ) { METHOD_3 ( IDENT_6 . IDENT_7 , IDENT_3 ) ; return IDENT_8 . IDENT_9 . build ( METHOD_4 ( ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_5 ) 

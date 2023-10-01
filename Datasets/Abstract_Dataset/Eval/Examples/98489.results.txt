@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Optional < org . IDENT_0 . IDENT_1 > type = org . IDENT_0 . IDENT_1 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } empty ( ) { org . junit . Assert . assertEquals ( STRING_1 , new org . IDENT_0 . IDENT_2 . METHOD_2 ( ) . set ( org . IDENT_0 . IDENT_2 . IDENT_3 . IDENT_4 ) . set ( STRING_2 , false ) . process ( STRING_3 , STRING_1 , com . IDENT_5 . config . IDENT_6 . empty ( ) ) ) ; }
+org . junit . Assert . assertEquals ( java . util . Optional . empty ( ) , type ) 

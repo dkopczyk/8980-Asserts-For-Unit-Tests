@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . IDENT_0 . data . api . cluster . IDENT_1 IDENT_2 = meta . METHOD_1 ( ) ; verify ( IDENT_3 ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( ( org . pentaho . di . core . osgi . api . IDENT_4 ) ( IDENT_3 . METHOD_2 ( ) ) ) ; }
+org . junit . Assert . assertNull ( IDENT_2 ) 

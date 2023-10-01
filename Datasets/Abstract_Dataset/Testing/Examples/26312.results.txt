@@ -1,0 +1,2 @@
+METHOD_0 ( com . google . IDENT_0 . IDENT_1 ) { "<AssertPlaceHolder>" ; } get ( ) { return mock ( IDENT_2 ) ; }
+org . junit . Assert . assertSame ( provider . get ( ) , provider . get ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URI IDENT_0 = java . net . URI . create ( STRING_0 ) ; java . net . URI IDENT_1 = java . net . URI . create ( STRING_1 ) ; int status = IDENT_2 . IDENT_3 . compare ( IDENT_0 , IDENT_1 ) ; "<AssertPlaceHolder>" ; } create ( java . lang . Class ) { return org . kaazing . net . auth . IDENT_4 . METHOD_1 ( clazz , java . util . IDENT_5 . load ( clazz ) ) ; }
+org . junit . Assert . assertFalse ( ( status == 0 ) ) 

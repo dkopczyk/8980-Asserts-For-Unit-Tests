@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . antlr . runtime . IDENT_0 . IDENT_1 < java . lang . String > q = new org . antlr . runtime . IDENT_0 . IDENT_1 < java . lang . String > ( ) ; java . lang . String msg = null ; try { q . remove ( ) ; } catch ( java . util . IDENT_2 IDENT_3 ) { msg = IDENT_3 . getMessage ( ) ; } java . lang . String IDENT_4 = STRING_0 ; java . lang . String found = msg ; "<AssertPlaceHolder>" ; } remove ( ) { throw new java . lang . METHOD_1 ( STRING_1 ) ; }
+org . junit . Assert . assertEquals ( IDENT_4 , found ) 

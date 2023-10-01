@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . Context context = new com . IDENT_0 . IDENT_1 . Context ( ) ; com . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . METHOD_1 ( false ) ; com . IDENT_0 . IDENT_1 . METHOD_1 IDENT_4 = new com . IDENT_0 . IDENT_1 . METHOD_1 ( true ) ; com . IDENT_0 . IDENT_1 . IDENT_5 IDENT_6 = new com . IDENT_0 . IDENT_1 . METHOD_2 ( IDENT_3 , IDENT_4 ) ; IDENT_6 . METHOD_3 ( context ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return result ; }
+org . junit . Assert . assertEquals ( false , context . METHOD_4 ( ) ) 

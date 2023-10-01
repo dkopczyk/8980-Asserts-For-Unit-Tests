@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openmrs . IDENT_0 cc = new org . openmrs . METHOD_1 ( ) ; cc . setName ( "name" ) ; cc . METHOD_2 ( STRING_0 ) ; cc . METHOD_3 ( STRING_0 ) ; org . springframework . validation . IDENT_1 errors = new org . springframework . validation . METHOD_4 ( cc , STRING_1 ) ; new org . openmrs . validator . METHOD_5 ( ) . validate ( cc , errors ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertFalse ( errors . METHOD_6 ( ) ) 

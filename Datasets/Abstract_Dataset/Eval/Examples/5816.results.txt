@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . activemq . artemis . jdbc . store . file . IDENT_0 file = ( ( org . apache . activemq . artemis . jdbc . store . file . IDENT_0 ) ( factory . METHOD_1 ( STRING_0 ) ) ) ; file . METHOD_2 ( ) ; try { final java . nio . ByteBuffer IDENT_1 = java . nio . ByteBuffer . METHOD_3 ( 0 ) ; final int bytes = file . read ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } finally { file . close ( ) ; } } read ( java . nio . ByteBuffer ) { return read ( bytes , null ) ; }
+org . junit . Assert . assertEquals ( 0 , bytes ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . gs . collections . impl . IDENT_0 . IDENT_1 < java . lang . Integer > IDENT_2 = ( ( com . gs . collections . impl . IDENT_0 . IDENT_1 < java . lang . Integer > ) ( this . METHOD_1 ( 1 , 2 , 3 , 4 , 5 , 6 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( int ) { return this . delegate . METHOD_0 ( IDENT_3 ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_2 . METHOD_0 ( 3 ) ) 

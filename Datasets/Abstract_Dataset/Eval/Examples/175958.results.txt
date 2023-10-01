@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . talend . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = org . talend . IDENT_0 . IDENT_1 . IDENT_4 . METHOD_1 ( ) . METHOD_2 ( org . talend . components . IDENT_5 . runtime . IDENT_6 . class ) ; java . lang . String IDENT_7 = IDENT_3 . getMessage ( STRING_0 ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { return ( this ) == obj ; }
+org . junit . Assert . assertFalse ( IDENT_7 . equals ( STRING_0 ) ) 

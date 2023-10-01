@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . sun . mail . util . logging . IDENT_0 IDENT_1 = new com . sun . mail . util . logging . METHOD_1 ( ( ( java . lang . String ) ( null ) ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( com . sun . mail . util . logging . METHOD_1 . class , IDENT_1 . getClass ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . orientechnologies . orient . core . serialization . serializer . record . IDENT_0 . IDENT_1 IDENT_2 = new com . orientechnologies . orient . core . serialization . serializer . record . IDENT_0 . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( ( ( short ) ( 100 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { this . METHOD_2 = IDENT_3 ; return this ; }
+org . junit . Assert . assertEquals ( IDENT_2 . offset , 100 ) 

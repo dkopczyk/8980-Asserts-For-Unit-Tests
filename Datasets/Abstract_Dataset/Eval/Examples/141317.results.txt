@@ -1,0 +1,2 @@
+METHOD_0 ( ) { buffer = org . IDENT_0 . util . IDENT_1 . METHOD_1 ( ( ( byte ) ( 1 ) ) , ( ( byte ) ( 2 ) ) , ( ( byte ) ( 3 ) ) , ( ( byte ) ( 4 ) ) ) ; short s = buffer . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { short result = 0 ; byte [ ] IDENT_2 = METHOD_3 ( org . IDENT_0 . util . ByteBuffer . IDENT_3 ) . METHOD_4 ( ) ; result OP_0 ( IDENT_2 [ 0 ] ) & 255 ; result OP_1 8 ; result OP_0 ( IDENT_2 [ 1 ] ) & 255 ; return result ; }
+org . junit . Assert . assertEquals ( ( ( 1 << 8 ) + 2 ) , s ) 

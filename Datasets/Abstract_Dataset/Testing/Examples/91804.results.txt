@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . core . IDENT_2 IDENT_3 = IDENT_2 . IDENT_4 ; org . eclipse . core . runtime . IDENT_5 status = IDENT_3 . getStatus ( ) ; "<AssertPlaceHolder>" ; } getStatus ( ) { java . lang . String m = org . eclipse . osgi . util . IDENT_6 . METHOD_1 ( message , java . lang . Integer . valueOf ( code ) ) ; return new org . eclipse . core . runtime . Status ( IDENT_7 , com . IDENT_0 . IDENT_1 . internal . core . IDENT_8 . IDENT_9 , code , m , null ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 . code , status . getCode ( ) ) 

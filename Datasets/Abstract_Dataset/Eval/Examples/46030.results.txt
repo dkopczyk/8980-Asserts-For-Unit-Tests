@@ -1,0 +1,2 @@
+METHOD_0 ( ) { gov . hhs . fha . nhinc . common . IDENT_0 . IDENT_1 IDENT_2 = new gov . hhs . fha . nhinc . common . IDENT_0 . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( STRING_0 ) ; gov . hhs . fha . nhinc . IDENT_3 . IDENT_4 IDENT_5 = METHOD_3 ( ) ; gov . hhs . fha . nhinc . common . IDENT_0 . METHOD_1 IDENT_6 = IDENT_5 . METHOD_4 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return properties . get ( IDENT_7 . IDENT_8 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_6 . METHOD_5 ( ) ) 

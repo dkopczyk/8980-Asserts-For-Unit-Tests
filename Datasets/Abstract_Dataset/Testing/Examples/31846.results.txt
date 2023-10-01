@@ -1,0 +1,2 @@
+test ( ) { IDENT_0 . IDENT_1 . IDENT_2 . parser . IDENT_3 c = new IDENT_0 . IDENT_1 . IDENT_2 . parser . METHOD_0 ( STRING_0 ) ; java . util . Map < java . lang . String , java . lang . Object > params = new java . util . HashMap < java . lang . String , java . lang . Object > ( ) ; params . put ( "name" , STRING_1 ) ; "<AssertPlaceHolder>" ; } parse ( java . lang . Object ) { throw new IDENT_0 . IDENT_1 . core . exception . METHOD_1 ( STRING_2 ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , c . parse ( params ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openqa . selenium . remote . IDENT_0 element = new org . openqa . selenium . remote . METHOD_1 ( ) ; element . setId ( STRING_0 ) ; org . openqa . selenium . IDENT_1 IDENT_2 = METHOD_2 ( ) . METHOD_3 ( element ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . openqa . selenium . IDENT_3 ) { org . openqa . selenium . remote . IDENT_4 IDENT_5 = METHOD_4 ( driver ) ; if ( IDENT_5 == null ) { return driver ; } return create ( IDENT_5 , IDENT_6 , driver ) ; }
+org . junit . Assert . assertSame ( element , IDENT_2 ) 

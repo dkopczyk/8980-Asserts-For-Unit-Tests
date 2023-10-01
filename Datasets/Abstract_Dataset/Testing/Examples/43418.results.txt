@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String message = STRING_0 ; IDENT_0 . message . Message msg = IDENT_0 . message . IDENT_1 . METHOD_1 ( IDENT_2 . IDENT_3 . IDENT_4 , message ) ; byte [ ] bytes = IDENT_5 . write ( java . util . Arrays . asList ( 2 , 0 , java . util . Arrays . asList ( 1 , message ) ) ) ; byte [ ] result = IDENT_5 . write ( msg , IDENT_0 . IDENT_6 . IDENT_7 . getInstance ( ) ) ; "<AssertPlaceHolder>" ; } getInstance ( ) { return IDENT_0 . IDENT_6 . IDENT_7 . instance ; }
+org . junit . Assert . assertArrayEquals ( bytes , result ) 

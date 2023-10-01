@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { org . eclipse . IDENT_0 . internal . IDENT_1 . IDENT_2 . core . trace . iterator . IDENT_3 iterator = METHOD_2 ( ) ; return iterator == null ? null : iterator . METHOD_1 ( ) ; }
+org . junit . Assert . assertNotNull ( fixture . METHOD_1 ( ) ) 

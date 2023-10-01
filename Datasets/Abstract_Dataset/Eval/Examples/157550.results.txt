@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Double expected = new java . lang . Double ( FLOAT_0 ) ; java . lang . Object IDENT_0 = parser . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( Boolean . IDENT_1 . toString ( ) . equalsIgnoreCase ( value ) ) { return Boolean . IDENT_1 ; } else if ( Boolean . IDENT_2 . toString ( ) . equalsIgnoreCase ( value ) ) { return Boolean . IDENT_2 ; } throw new java . lang . IllegalArgumentException ( ( STRING_1 + value ) ) ; }
+org . junit . Assert . assertEquals ( expected , IDENT_0 ) 

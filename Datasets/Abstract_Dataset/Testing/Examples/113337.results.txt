@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final long IDENT_0 = INT_0 ; IDENT_1 . execute ( STRING_0 ) ; javax . persistence . Query q = METHOD_1 ( ) . METHOD_2 ( STRING_1 ) . METHOD_3 ( STRING_2 , IDENT_0 ) ; java . util . List results = q . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { throw new java . lang . METHOD_5 ( org . IDENT_2 . server . service . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( 0 , results . size ( ) ) 

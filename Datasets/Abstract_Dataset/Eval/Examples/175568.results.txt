@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; IDENT_1 . METHOD_1 ( ) ; IDENT_0 . add ( "" ) ; IDENT_1 . add ( true ) ; IDENT_2 . IDENT_3 . setValue ( IDENT_0 ) ; IDENT_2 . IDENT_4 . setValue ( IDENT_1 ) ; METHOD_2 ( ) ; for ( java . lang . String IDENT_5 : IDENT_6 ) "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String , java . util . List ) { for ( java . lang . String cb : IDENT_7 ) { if ( cb . equals ( IDENT_5 ) ) { return true ; } } return false ; }
+org . junit . Assert . assertTrue ( METHOD_3 ( IDENT_5 , IDENT_7 ) ) 

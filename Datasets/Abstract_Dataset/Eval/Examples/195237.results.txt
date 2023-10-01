@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nhindirect . monitor . condition . impl . IDENT_0 condition = new org . nhindirect . monitor . condition . impl . METHOD_1 ( ) ; java . util . Collection < java . lang . String > IDENT_1 = condition . METHOD_2 ( new java . util . ArrayList < org . nhindirect . common . tx . model . IDENT_2 > ( ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_1 . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { char [ ] array = new char [ ] { STRING_0 , STRING_1 , STRING_2 } ; array = com . liferay . portal . kernel . util . IDENT_0 . remove ( array , STRING_2 ) ; "<AssertPlaceHolder>" ; } remove ( boolean [ ] , boolean ) { return com . liferay . portal . kernel . util . IDENT_0 . remove ( array , value ) ; }
+org . junit . Assert . assertArrayEquals ( new char [ ] { STRING_0 , STRING_1 } , array ) 

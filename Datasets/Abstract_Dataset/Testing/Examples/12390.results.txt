@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String in = STRING_0 ; org . osgi . framework . IDENT_0 ref = IDENT_1 . METHOD_1 ( org . apache . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . class . getName ( ) , in ) ; "<AssertPlaceHolder>" ; } getName ( ) { return IDENT_6 ; }
+org . junit . Assert . assertNotNull ( ref ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . commons . IDENT_0 . IDENT_1 script = org . apache . commons . IDENT_0 . IDENT_2 . METHOD_1 ( STRING_0 , STRING_1 ) ; java . lang . Object result = script . execute ( null , java . util . Collections . METHOD_2 ( "" , INT_0 ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( INT_0 , result ) 

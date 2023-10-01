@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . camel . IDENT_0 IDENT_1 = new org . apache . camel . impl . METHOD_1 ( mock ( org . apache . camel . IDENT_2 . class ) ) ; org . nhindirect . monitor . processor . IDENT_3 IDENT_4 = new org . nhindirect . monitor . processor . METHOD_2 ( STRING_0 , null ) ; boolean IDENT_5 = false ; try { IDENT_4 . METHOD_3 ( IDENT_1 ) ; } catch ( java . lang . IllegalStateException e ) { IDENT_5 = true ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( IDENT_5 ) 

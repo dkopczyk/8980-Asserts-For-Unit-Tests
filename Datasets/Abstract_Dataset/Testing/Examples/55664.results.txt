@@ -1,0 +1,2 @@
+METHOD_0 ( ) { config . METHOD_1 ( asList ( STRING_0 , STRING_1 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { java . lang . String IDENT_0 = METHOD_3 ( com . github . IDENT_1 . IDENT_2 . IDENT_3 . configuration . IDENT_4 . IDENT_5 . IDENT_6 , IDENT_7 . IDENT_8 ) ; return IDENT_7 . METHOD_4 ( IDENT_0 ) ; }
+org . junit . Assert . assertThat ( config . METHOD_2 ( ) , org . hamcrest . Matchers . is ( asList ( STRING_0 , STRING_1 ) ) ) 

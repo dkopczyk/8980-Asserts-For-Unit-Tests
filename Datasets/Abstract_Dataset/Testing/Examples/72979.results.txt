@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . junit . tests . IDENT_0 . rules . IDENT_1 . IDENT_2 = false ; org . junit . runner . IDENT_3 . METHOD_1 ( org . junit . tests . IDENT_0 . rules . IDENT_1 . IDENT_4 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class [ ] ) { return org . junit . runner . IDENT_3 . METHOD_1 ( org . junit . runner . IDENT_3 . METHOD_2 ( ) , classes ) ; }
+org . junit . Assert . assertTrue ( org . junit . tests . IDENT_0 . rules . IDENT_1 . IDENT_2 ) 

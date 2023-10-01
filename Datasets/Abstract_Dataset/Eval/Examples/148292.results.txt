@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return delegate . METHOD_1 ( ) ; }
+org . junit . Assert . assertTrue ( source . METHOD_1 ( ) ) 

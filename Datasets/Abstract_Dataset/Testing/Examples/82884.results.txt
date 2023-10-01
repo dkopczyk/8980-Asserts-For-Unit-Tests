@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . model . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . model . METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_4 . IDENT_5 , org . IDENT_0 . IDENT_1 . IDENT_4 . IDENT_6 , org . IDENT_0 . IDENT_1 . IDENT_4 . IDENT_7 , IDENT_8 ) ; java . lang . IDENT_9 IDENT_10 = IDENT_3 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_8 . METHOD_2 ( IDENT_11 , IDENT_12 , IDENT_13 ) ; }
+org . junit . Assert . assertEquals ( new java . lang . METHOD_3 ( 0 ) , IDENT_10 ) 

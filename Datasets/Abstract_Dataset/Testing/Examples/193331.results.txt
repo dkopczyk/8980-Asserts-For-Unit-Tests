@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean found = false ; for ( final org . apache . commons . IDENT_0 . IDENT_1 handler : IDENT_2 ) { if ( handler instanceof org . apache . commons . IDENT_0 . IDENT_3 . IDENT_2 . IDENT_4 ) { found = true ; } } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( found ) 

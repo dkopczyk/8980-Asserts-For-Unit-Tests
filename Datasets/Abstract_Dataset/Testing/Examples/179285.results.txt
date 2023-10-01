@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = dao . count ( ) ; "<AssertPlaceHolder>" ; } count ( ) { long c = ( ( java . lang . Long ) ( METHOD_1 ( ) . METHOD_2 ( uk . ac . IDENT_1 . IDENT_2 . IDENT_3 . core . data . IDENT_4 . class ) . METHOD_3 ( org . hibernate . IDENT_5 . IDENT_6 . METHOD_4 ( ) ) . METHOD_5 ( ) ) ) ; return ( ( int ) ( c ) ) ; }
+org . junit . Assert . assertEquals ( 20 , IDENT_0 ) 

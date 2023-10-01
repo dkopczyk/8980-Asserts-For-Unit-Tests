@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { policy . METHOD_1 ( STRING_0 , 0 , exception ) ; org . junit . Assert . fail ( STRING_1 ) ; } catch ( org . eclipse . IDENT_0 . IDENT_1 . IDENT_2 e ) { "<AssertPlaceHolder>" ; } policy . METHOD_1 ( STRING_0 , IDENT_3 . IDENT_4 , exception ) ; } METHOD_1 ( java . lang . String , int , org . eclipse . IDENT_0 . IDENT_1 . IDENT_2 ) { if ( ( IDENT_5 & ( IDENT_4 ) ) == 0 ) { throw exception ; } }
+org . junit . Assert . assertSame ( exception , e ) 

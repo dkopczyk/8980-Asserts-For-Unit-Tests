@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String xml = STRING_0 ; uk . me . IDENT_0 . IDENT_1 . compiler . IDENT_2 IDENT_3 = uk . me . IDENT_0 . IDENT_1 . compiler . IDENT_2 . METHOD_1 ( uk . me . IDENT_0 . IDENT_1 . IDENT_4 . IDENT_5 . METHOD_2 ( xml ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ! ( this . IDENT_6 ) ; }
+org . junit . Assert . assertTrue ( IDENT_3 . METHOD_3 ( ) ) 

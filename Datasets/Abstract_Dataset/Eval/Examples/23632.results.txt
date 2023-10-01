@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . shindig . common . uri . IDENT_0 builder = new org . apache . shindig . common . uri . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return super . toString ( ) . toLowerCase ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , builder . toString ( ) ) 

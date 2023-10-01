@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final double [ ] a = new double [ ] { ( - FLOAT_0 ) / FLOAT_1 , ( - FLOAT_2 ) / FLOAT_1 , ( - FLOAT_3 ) / FLOAT_4 } ; final double [ ] b = new double [ ] { ( - FLOAT_5 ) / FLOAT_6 , ( - FLOAT_7 ) / FLOAT_6 , FLOAT_8 / FLOAT_9 } ; final double IDENT_0 = org . apache . commons . math3 . util . IDENT_1 . METHOD_1 ( a [ 0 ] , b [ 0 ] , a [ 1 ] , b [ 1 ] , a [ 2 ] , b [ 2 ] ) ; final double IDENT_2 = org . apache . commons . math3 . util . IDENT_1 . METHOD_1 ( a , b ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_2 , 0 ) 

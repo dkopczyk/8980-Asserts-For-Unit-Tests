@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jackrabbit . oak . spi . security . authorization . IDENT_0 . IDENT_1 r = new org . apache . jackrabbit . oak . spi . security . authorization . IDENT_0 . METHOD_1 ( IDENT_0 . getProperty ( ) , IDENT_0 . METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , r ) 

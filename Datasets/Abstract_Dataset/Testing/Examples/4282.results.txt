@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . stream . Optional . of ( 10 ) . METHOD_1 ( new com . IDENT_0 . stream . function . IDENT_1 < java . lang . Integer > ( ) { @ com . IDENT_0 . stream . Override public void accept ( java . lang . Integer value ) { "<AssertPlaceHolder>" ; } } , null ) ; } accept ( int ) { if ( value < ( IDENT_2 ) ) { IDENT_3 [ 0 ] = true ; } IDENT_2 = value ; }
+org . junit . Assert . assertEquals ( 10 , ( ( int ) ( value ) ) ) 

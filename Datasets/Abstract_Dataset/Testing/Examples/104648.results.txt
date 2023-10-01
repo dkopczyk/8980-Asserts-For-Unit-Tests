@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } convert ( java . lang . Object , org . apache . hadoop . hive . IDENT_0 . IDENT_1 . IDENT_2 ) { if ( value == null ) { return null ; } if ( value instanceof java . lang . String ) { return com . IDENT_3 . IDENT_4 . data . IDENT_5 . IDENT_6 . convert ( ( ( java . lang . String ) ( value ) ) , com . IDENT_3 . IDENT_4 . data . IDENT_5 . type ( IDENT_7 ) ) ; } return value ; }
+org . junit . Assert . assertEquals ( "foo" , com . IDENT_3 . IDENT_4 . data . IDENT_5 . convert ( "foo" , METHOD_0 ) ) 

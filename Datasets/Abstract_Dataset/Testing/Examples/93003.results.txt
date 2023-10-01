@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( handler , STRING_0 ) ; com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . model . Field field = new com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . model . Field ( STRING_1 , STRING_2 ) ; field . METHOD_2 ( INT_0 ) ; java . util . List < java . lang . String > list = IDENT_5 . METHOD_3 ( STRING_0 , field ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return props . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( list . isEmpty ( ) ) 

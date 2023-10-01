@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Optional < org . IDENT_0 . IDENT_1 > type = org . IDENT_0 . IDENT_1 . METHOD_0 ( java . nio . file . IDENT_2 . get ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } get ( ) { request ( ) . get ( STRING_1 ) . expect ( ( STRING_2 + ( ( STRING_3 + STRING_4 ) + STRING_5 ) ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 . json , type . get ( ) ) 

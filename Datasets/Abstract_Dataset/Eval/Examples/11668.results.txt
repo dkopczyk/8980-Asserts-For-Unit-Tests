@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . directory . server . core . IDENT_0 . IDENT_1 < java . lang . Integer > tree = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertNull ( tree . METHOD_2 ( ) ) 

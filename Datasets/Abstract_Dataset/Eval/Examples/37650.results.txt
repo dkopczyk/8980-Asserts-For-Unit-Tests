@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . add ( IDENT_1 . IDENT_2 , org . IDENT_3 . auth . IDENT_4 . IDENT_5 ) ; org . IDENT_3 . auth . IDENT_6 p = ( ( org . IDENT_3 . auth . IDENT_6 ) ( auth . METHOD_1 ( request ) ) ) ; verify ( IDENT_7 , METHOD_2 ( ) ) . METHOD_3 ( any ( java . lang . String . class ) , any ( java . lang . String . class ) ) ; verify ( IDENT_7 , METHOD_2 ( ) ) . METHOD_4 ( any ( java . lang . String . class ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { org . junit . Assert . assertTrue ( IDENT_8 . METHOD_5 ( ) ) ; }
+org . junit . Assert . assertTrue ( p . METHOD_5 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; int result = IDENT_0 . METHOD_2 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { throw new java . lang . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( 8 , result ) 

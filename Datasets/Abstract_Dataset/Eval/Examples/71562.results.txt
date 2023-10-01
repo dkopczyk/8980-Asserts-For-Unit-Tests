@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date IDENT_0 = org . IDENT_1 . lang . IDENT_2 . METHOD_1 ( STRING_0 ) ; java . util . Date IDENT_3 = org . IDENT_1 . lang . IDENT_2 . METHOD_1 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } getTime ( ) { return time ; }
+org . junit . Assert . assertEquals ( IDENT_0 . getTime ( ) , IDENT_3 . getTime ( ) ) 

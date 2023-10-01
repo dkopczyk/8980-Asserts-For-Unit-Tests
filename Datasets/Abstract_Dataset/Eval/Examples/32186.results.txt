@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 ) ; METHOD_2 ( ) ; METHOD_3 ( ) ; java . nio . file . IDENT_0 . IDENT_1 attributes = METHOD_4 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return file . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( 0L , attributes . size ( ) ) 

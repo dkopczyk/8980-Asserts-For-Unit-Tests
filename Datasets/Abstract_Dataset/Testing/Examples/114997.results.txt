@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object [ ] args = new java . lang . Object [ ] { IDENT_0 , IDENT_1 } ; java . lang . Object [ ] IDENT_2 = java . util . Arrays . METHOD_1 ( args , args . length ) ; uk . org . IDENT_3 . IDENT_4 . IDENT_5 event = new uk . org . IDENT_3 . IDENT_4 . METHOD_2 ( IDENT_6 , message , args ) ; args [ 0 ] = STRING_0 ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertThat ( event . METHOD_3 ( ) , org . hamcrest . core . Is . is ( asList ( IDENT_2 ) ) ) 

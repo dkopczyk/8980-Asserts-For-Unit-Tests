@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . library . IDENT_1 . insert ( IDENT_1 . IDENT_2 , "" , "" , 1000 ) ; org . IDENT_0 . domain . Result parse = org . IDENT_0 . IDENT_3 . analysis . IDENT_4 . parse ( "" ) ; System . out . println ( parse ) ; boolean IDENT_5 = false ; for ( org . IDENT_0 . domain . IDENT_6 IDENT_7 : parse ) { IDENT_5 = IDENT_5 || ( "" . equals ( IDENT_7 . getName ( ) ) ) ; } "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertTrue ( IDENT_5 ) 

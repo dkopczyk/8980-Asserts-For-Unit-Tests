@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . core . codec . gson . IDENT_2 processor = new com . github . IDENT_0 . IDENT_1 . core . codec . gson . METHOD_1 ( ) ; java . lang . String data = STRING_0 ; com . google . gson . IDENT_3 el = processor . decode ( STRING_1 , data . getBytes ( ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( ( ( ( ( STRING_2 + ( method ) ) + STRING_3 ) + ( version ) ) + STRING_4 ) + ( java . util . Arrays . toString ( params ) ) ) + STRING_5 ) + ( id ) ) + "]" ; }
+org . junit . Assert . assertEquals ( data , el . toString ( ) ) 

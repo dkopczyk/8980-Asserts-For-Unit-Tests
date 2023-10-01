@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . Result result = new IDENT_0 . Result ( Result . IDENT_1 ) ; result . status ( Result . IDENT_2 ) ; "<AssertPlaceHolder>" ; } getStatusCode ( ) { return IDENT_3 ; }
+org . junit . Assert . assertEquals ( Result . IDENT_2 , result . getStatusCode ( ) ) 

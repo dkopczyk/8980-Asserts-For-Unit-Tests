@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int status = org . apache . hadoop . hdfs . tools . IDENT_0 . IDENT_1 . run ( new java . lang . String [ ] { STRING_0 , org . apache . hadoop . hdfs . tools . IDENT_0 . IDENT_2 . IDENT_3 . getAbsolutePath ( ) , STRING_1 , STRING_2 , STRING_3 , STRING_4 , STRING_5 , STRING_6 , STRING_7 , STRING_8 } ) ; "<AssertPlaceHolder>" ; } getAbsolutePath ( ) { final java . lang . String path = getValue ( ) ; return path == null ? null : "/" + path ; }
+org . junit . Assert . assertEquals ( 0 , status ) 

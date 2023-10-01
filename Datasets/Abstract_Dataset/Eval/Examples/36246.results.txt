@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { new de . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) . METHOD_2 ( 3 ) ; } catch ( java . lang . RuntimeException e ) { } "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return de . IDENT_0 . IDENT_1 . internal . runtime . IDENT_5 . IDENT_6 . get ( ) . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , de . IDENT_0 . IDENT_1 . internal . runtime . IDENT_5 . METHOD_3 ( ) ) 

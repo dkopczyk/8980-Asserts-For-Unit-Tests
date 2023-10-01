@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String name = ( STRING_0 + ( com . liferay . portal . kernel . util . IDENT_0 . METHOD_1 ( 20 ) ) ) + STRING_1 ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return com . liferay . document . library . kernel . util . IDENT_1 . IDENT_2 . METHOD_2 ( name ) ; }
+org . junit . Assert . assertEquals ( name , com . liferay . document . library . kernel . util . IDENT_1 . METHOD_2 ( name ) ) 

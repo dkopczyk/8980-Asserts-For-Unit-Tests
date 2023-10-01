@@ -1,0 +1,2 @@
+METHOD_0 ( ) { jenkins . util . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = METHOD_1 ( ) ; java . lang . String xml = IDENT_4 . METHOD_2 ( IDENT_3 ) ; System . out . println ( xml ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_4 ( STRING_0 ) ; }
+org . junit . Assert . assertEquals ( METHOD_3 ( ) . trim ( ) , xml . trim ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . request . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . request . METHOD_1 ( client ) ; IDENT_3 . METHOD_2 ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . result . IDENT_4 < ? > result = ( ( com . IDENT_0 . IDENT_1 . result . IDENT_4 < ? > ) ( client . request ( IDENT_3 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( IDENT_5 ) == null ? 0 : IDENT_5 . length ; }
+org . junit . Assert . assertTrue ( ( ( result . METHOD_3 ( ) ) > 0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Properties IDENT_0 = new java . util . Properties ( ) ; IDENT_0 . put ( IDENT_1 . IDENT_2 , java . lang . String . valueOf ( ( ! ( IDENT_1 . IDENT_3 ) ) ) ) ; com . IDENT_4 . IDENT_5 . config . IDENT_1 config = new com . IDENT_4 . IDENT_5 . config . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return METHOD_3 ( com . IDENT_4 . IDENT_5 . config . METHOD_1 . IDENT_2 ) ; }
+org . junit . Assert . assertEquals ( ( ! ( METHOD_1 . IDENT_3 ) ) , config . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { properties . put ( IDENT_0 . IDENT_1 , true ) ; boolean result = feature . METHOD_1 ( context ) ; "<AssertPlaceHolder>" ; verify ( context , METHOD_2 ( ) ) . METHOD_3 ( any ( ) ) ; } METHOD_1 ( javax . ws . rs . core . IDENT_2 ) { if ( ! ( context . METHOD_4 ( ) . METHOD_5 ( com . IDENT_3 . vertx . jersey . IDENT_4 . jackson . IDENT_5 . class ) ) ) { context . METHOD_3 ( com . IDENT_3 . vertx . jersey . IDENT_4 . jackson . IDENT_5 . class ) ; } }
+org . junit . Assert . assertFalse ( result ) 

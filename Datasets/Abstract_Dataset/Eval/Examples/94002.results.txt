@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . jboss . IDENT_0 . IDENT_1 value = new org . jboss . IDENT_0 . METHOD_1 ( INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return value ; }
+org . junit . Assert . assertEquals ( INT_0 , value . METHOD_2 ( ) ) 

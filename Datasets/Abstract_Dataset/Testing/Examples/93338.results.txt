@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . glassfish . IDENT_0 . api . IDENT_1 loader = new org . glassfish . IDENT_0 . IDENT_2 . METHOD_1 ( ) ; java . lang . Class < ? > IDENT_3 = loader . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { throw new java . lang . METHOD_3 ( STRING_1 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

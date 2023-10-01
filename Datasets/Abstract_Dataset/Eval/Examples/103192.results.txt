@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( view . METHOD_1 ( ) ) . thenReturn ( false ) ; when ( view . METHOD_2 ( ) ) . thenReturn ( "1" ) ; when ( view . METHOD_3 ( ) ) . thenReturn ( STRING_0 ) ; when ( view . METHOD_4 ( ) ) . thenReturn ( true ) ; final java . lang . String expected = STRING_1 ; final java . lang . String actual = IDENT_0 . getValue ( ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

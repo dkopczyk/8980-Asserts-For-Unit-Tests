@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . servlet . IDENT_1 buffer = new io . IDENT_0 . servlet . METHOD_1 ( ) ; buffer . write ( new byte [ ] { 1 , 2 , 3 , 4 } ) ; buffer . METHOD_2 ( 2 , new byte [ ] { 5 , 6 } ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertArrayEquals ( new byte [ ] { 1 , 2 , 5 , 6 , 3 , 4 } , buffer . toByteArray ( ) ) 

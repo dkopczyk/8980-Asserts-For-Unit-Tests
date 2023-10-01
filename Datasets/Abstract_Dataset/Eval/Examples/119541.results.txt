@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . brp . domain . IDENT_0 . IDENT_1 IDENT_0 = nl . bzk . brp . service . cache . IDENT_2 . METHOD_1 ( STRING_0 , 1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , int ) { try { return nl . bzk . brp . domain . IDENT_0 . parser . IDENT_3 . parse ( IDENT_4 ) ; } catch ( nl . bzk . brp . domain . IDENT_0 . IDENT_5 e ) { nl . bzk . brp . service . cache . IDENT_2 . LOGGER . error ( STRING_1 , IDENT_4 , IDENT_6 , e ) ; return null ; } }
+org . junit . Assert . assertNull ( IDENT_0 ) 

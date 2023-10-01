@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . io . ByteArrayOutputStream out = new java . io . ByteArrayOutputStream ( ) ; java . io . IDENT_1 IDENT_2 = new java . io . METHOD_1 ( out ) ; IDENT_2 . append ( IDENT_0 ) ; IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; IDENT_2 . close ( ) ; } toString ( ) { return ( ( ( ( ( getClass ( ) . getName ( ) ) + STRING_1 ) + ( IDENT_3 ) ) + STRING_2 ) + ( IDENT_4 ) ) + "]" ; }
+org . junit . Assert . assertEquals ( IDENT_0 , out . toString ( ) ) 

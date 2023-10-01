@@ -1,0 +1,2 @@
+emptyList ( ) { com . IDENT_0 . IDENT_1 . in . IDENT_2 row = new com . IDENT_0 . IDENT_1 . in . METHOD_0 ( ) ; row . METHOD_1 ( ( - 1 ) , STRING_0 , STRING_1 ) ; com . IDENT_0 . IDENT_1 . in . METHOD_0 execute = this . IDENT_3 . execute ( row , STRING_2 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return this . IDENT_4 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( execute . isEmpty ( ) ) 

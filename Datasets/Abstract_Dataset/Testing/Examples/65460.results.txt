@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( false ) ; java . util . Date date = IDENT_0 . METHOD_2 ( IDENT_1 , null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String , java . lang . String ) { java . lang . Double IDENT_2 = java . lang . Double . valueOf ( 0 ) ; try { IDENT_2 = METHOD_3 ( context , input ) ; } catch ( org . IDENT_3 . IDENT_4 . errors . IDENT_5 e ) { } return IDENT_2 ; }
+org . junit . Assert . assertEquals ( 0 , date . getTime ( ) ) 

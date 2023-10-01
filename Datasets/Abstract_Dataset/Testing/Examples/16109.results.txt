@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . core . IDENT_1 IDENT_2 = new org . apache . IDENT_0 . core . METHOD_1 ( IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } next ( ) { if ( ( ( IDENT_5 ) + 1 ) >= ( IDENT_6 . length ) ) { throw new java . util . METHOD_2 ( ) ; } ( IDENT_5 ) ++ ; return IDENT_6 [ IDENT_5 ] ; }
+org . junit . Assert . assertTrue ( ( ! ( IDENT_2 . next ( ) ) ) ) 

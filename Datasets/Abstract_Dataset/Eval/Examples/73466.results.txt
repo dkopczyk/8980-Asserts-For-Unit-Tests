@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = com . IDENT_4 . IDENT_5 . utils . IDENT_6 . create ( INT_0 , INT_1 , INT_2 ) ; org . IDENT_0 . IDENT_1 . IDENT_2 IDENT_7 = com . IDENT_4 . IDENT_5 . utils . IDENT_6 . create ( INT_0 , INT_1 , INT_2 ) ; "<AssertPlaceHolder>" ; } create ( int , int , int ) { return com . IDENT_4 . IDENT_5 . utils . IDENT_6 . create ( r , g , b , ( - 1 ) ) ; }
+org . junit . Assert . assertSame ( IDENT_3 , IDENT_7 ) 

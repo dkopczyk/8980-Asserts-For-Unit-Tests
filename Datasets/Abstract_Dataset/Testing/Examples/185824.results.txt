@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . vertx . ext . IDENT_0 . impl . config . IDENT_1 IDENT_2 = new io . vertx . ext . IDENT_0 . impl . config . METHOD_1 ( null , new io . vertx . core . json . METHOD_2 ( ) ) . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_3 ; }
+org . junit . Assert . assertNull ( IDENT_2 ) 

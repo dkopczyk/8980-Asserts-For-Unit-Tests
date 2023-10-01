@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream IDENT_0 = METHOD_1 ( ) ; IDENT_1 . METHOD_2 ( STRING_0 , IDENT_0 ) ; IDENT_0 . close ( ) ; java . io . InputStream content = IDENT_1 . METHOD_3 ( STRING_0 ) ; content . close ( ) ; "<AssertPlaceHolder>" ; } close ( ) { shell . close ( ) ; }
+org . junit . Assert . assertNotNull ( content ) 

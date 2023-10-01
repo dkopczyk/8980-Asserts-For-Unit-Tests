@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . antlr . v4 . runtime . IDENT_0 . IDENT_1 < org . antlr . v4 . runtime . tree . IDENT_2 , it . IDENT_3 . IDENT_4 . IDENT_5 . parser . IDENT_6 > IDENT_7 = METHOD_1 ( STRING_0 ) ; it . IDENT_3 . IDENT_4 . IDENT_5 . parser . IDENT_6 IDENT_8 = IDENT_7 . b ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return error ; }
+org . junit . Assert . assertFalse ( IDENT_8 . messages . METHOD_2 ( ) ) 

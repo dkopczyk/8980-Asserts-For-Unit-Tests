@@ -1,0 +1,2 @@
+METHOD_0 ( ) { mapper = METHOD_1 ( STRING_0 ) ; java . util . Map < java . lang . String , java . lang . String > IDENT_0 = newInstance ( java . util . HashMap . class ) ; IDENT_0 . put ( STRING_1 , STRING_2 ) ; com . github . IDENT_1 . core . vo . map . IDENT_2 IDENT_3 = new com . github . IDENT_1 . core . vo . map . METHOD_2 ( ) ; IDENT_3 . METHOD_3 ( STRING_3 ) ; mapper . map ( IDENT_0 , IDENT_3 , STRING_4 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( STRING_2 , IDENT_3 . METHOD_4 ( ) ) 

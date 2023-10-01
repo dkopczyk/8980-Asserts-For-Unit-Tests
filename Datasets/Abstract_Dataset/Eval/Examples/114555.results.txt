@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Integer > IDENT_3 = com . IDENT_0 . IDENT_1 . IDENT_2 . apply ( ) ; com . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Integer > actual = IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return METHOD_2 ( "" , IDENT_4 , "" ) ; }
+org . junit . Assert . assertThat ( actual . METHOD_2 ( "" ) , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( "" ) ) ) 

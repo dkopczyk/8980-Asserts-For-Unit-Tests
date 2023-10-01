@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( 1 ) ; IDENT_0 . METHOD_2 ( java . util . Arrays . < org . bonitasoft . engine . core . process . IDENT_1 . model . IDENT_2 > asList ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( ! ( METHOD_4 ( ) ) ) && ( METHOD_5 ( ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_3 ( ) ) 

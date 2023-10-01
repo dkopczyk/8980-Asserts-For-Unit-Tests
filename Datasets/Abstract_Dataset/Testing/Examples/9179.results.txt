@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = METHOD_1 ( IDENT_1 , null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . lang . String ) { org . mockito . Mockito . when ( IDENT_2 . METHOD_2 ( IDENT_3 , STRING_0 , STRING_1 , STRING_2 , path ) ) . thenReturn ( IDENT_4 ) ; return IDENT_5 . METHOD_3 ( IDENT_3 , path ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; IDENT_0 . METHOD_1 ( STRING_1 ) ; java . util . List < org . apache . IDENT_1 . data . test . domain . IDENT_2 > find = repo . METHOD_2 ( 0 , 1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return ( this . IDENT_3 . size ( ) ) + ( this . IDENT_4 . size ( ) ) ; }
+org . junit . Assert . assertEquals ( 1 , find . size ( ) ) 

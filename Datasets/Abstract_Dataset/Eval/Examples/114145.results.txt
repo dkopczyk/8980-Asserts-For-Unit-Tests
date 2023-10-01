@@ -1,0 +1,2 @@
+METHOD_0 ( ) { writer . METHOD_1 ( null , ( - 1 ) , ( - 1 ) , ( - 1 ) , ( - 1 ) , null , IDENT_0 . IDENT_1 ) ; final java . lang . StringBuilder expected = new java . lang . StringBuilder ( STRING_0 ) ; expected . append ( STRING_1 ) ; expected . append ( STRING_2 ) ; expected . append ( STRING_3 ) ; expected . append ( STRING_4 ) ; expected . append ( STRING_5 ) ; expected . append ( STRING_6 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( expected . toString ( ) , result . toString ( ) . trim ( ) ) 

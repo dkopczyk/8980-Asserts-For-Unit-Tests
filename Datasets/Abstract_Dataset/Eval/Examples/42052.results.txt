@@ -1,0 +1,2 @@
+METHOD_0 ( ) { configuration . METHOD_1 ( INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { java . lang . String value = options . get ( com . IDENT_0 . selenium . IDENT_1 . IDENT_2 ) ; if ( value == null ) return com . IDENT_0 . selenium . IDENT_1 . IDENT_3 ; return java . lang . Integer . METHOD_3 ( value ) ; }
+org . junit . Assert . assertEquals ( INT_0 , configuration . METHOD_2 ( ) ) 

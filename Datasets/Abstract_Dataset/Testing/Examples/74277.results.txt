@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final byte [ ] bytes = uk . gov . gchq . gaffer . IDENT_0 . IDENT_1 . METHOD_1 ( STRING_0 ) ; final byte [ ] IDENT_2 = uk . gov . gchq . gaffer . IDENT_3 . util . IDENT_4 . METHOD_2 ( bytes ) ; final byte [ ] IDENT_5 = uk . gov . gchq . gaffer . IDENT_3 . util . IDENT_4 . METHOD_3 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( byte [ ] ) { return uk . gov . gchq . gaffer . IDENT_3 . util . IDENT_4 . METHOD_3 ( IDENT_6 , 0 ) ; }
+org . junit . Assert . assertArrayEquals ( bytes , IDENT_5 ) 

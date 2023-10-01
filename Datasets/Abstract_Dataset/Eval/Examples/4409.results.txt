@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . model . IDENT_1 annotation = this . IDENT_0 . METHOD_1 ( com . github . IDENT_0 . model . IDENT_1 . class ) ; java . lang . String date = STRING_0 ; annotation . METHOD_2 ( date ) ; com . github . IDENT_0 . model . IDENT_1 result = this . IDENT_0 . METHOD_3 ( com . github . IDENT_0 . model . IDENT_1 . class , annotation . METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return this . IDENT_2 ; }
+org . junit . Assert . assertEquals ( date , result . METHOD_5 ( ) ) 

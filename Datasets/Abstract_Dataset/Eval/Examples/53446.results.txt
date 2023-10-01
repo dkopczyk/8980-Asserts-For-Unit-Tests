@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final IDENT_0 . api . model . IDENT_1 IDENT_2 = IDENT_0 . api . model . IDENT_3 . gson . METHOD_1 ( IDENT_0 . api . model . IDENT_3 . IDENT_4 , IDENT_0 . api . model . IDENT_1 . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return messages ; }
+org . junit . Assert . assertNull ( IDENT_2 . METHOD_2 ( ) ) 

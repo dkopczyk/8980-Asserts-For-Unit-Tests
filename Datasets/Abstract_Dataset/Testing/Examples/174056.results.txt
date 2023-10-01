@@ -1,0 +1,2 @@
+METHOD_0 ( ) { eu . IDENT_0 . api . java . io . IDENT_1 reader = eu . IDENT_0 . api . java . io . IDENT_2 . METHOD_1 ( ) ; reader . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { IDENT_3 = true ; return this ; }
+org . junit . Assert . assertTrue ( reader . IDENT_3 ) 

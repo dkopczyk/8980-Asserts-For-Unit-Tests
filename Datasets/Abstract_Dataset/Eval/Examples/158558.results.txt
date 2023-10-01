@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( IDENT_1 . METHOD_2 ( ) ) instanceof java . security . interfaces . IDENT_2 ) { java . security . interfaces . IDENT_2 pub = ( ( java . security . interfaces . IDENT_2 ) ( IDENT_1 . METHOD_2 ( ) ) ) ; return helpers . IDENT_3 . METHOD_3 ( pub . METHOD_4 ( ) . toString ( 16 ) ) ; } else { return "" ; } }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_1 . METHOD_1 ( ) ) 

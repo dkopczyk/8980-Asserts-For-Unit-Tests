@@ -1,0 +1,2 @@
+metadata ( ) { "<AssertPlaceHolder>" ; } metadata ( ) { org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 , new io . netty . transport . IDENT_2 . nio . METHOD_0 ( ) . metadata ( ) . METHOD_1 ( ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 , new io . netty . transport . IDENT_2 . nio . METHOD_0 ( ) . metadata ( ) . METHOD_1 ( ) ) 

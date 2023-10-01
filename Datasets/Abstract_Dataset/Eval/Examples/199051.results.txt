@@ -1,0 +1,2 @@
+t ( ) { "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( true ) 

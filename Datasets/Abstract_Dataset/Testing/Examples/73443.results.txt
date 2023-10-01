@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . map . IDENT_3 IDENT_4 = METHOD_1 ( 10 , 10 ) ; com . IDENT_0 . IDENT_1 . IDENT_2 . map . IDENT_3 other = METHOD_1 ( 10 , 10 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( com . IDENT_0 . IDENT_1 . IDENT_2 . map . IDENT_3 ) { if ( other == null ) return false ; return this . IDENT_5 . equals ( other . METHOD_3 ( ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . METHOD_2 ( other ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . IDENT_0 data = new java . io . StringWriter ( ) ; org . IDENT_1 . IDENT_2 . io . IDENT_3 out = new org . IDENT_1 . IDENT_2 . io . METHOD_1 ( data ) ; out . write ( STRING_0 ) ; out . write ( STRING_1 , 1 , 4 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return org . IDENT_1 . IDENT_2 . time . IDENT_4 . of ( METHOD_2 ( ) , org . IDENT_1 . IDENT_2 . time . IDENT_5 ) . toString ( ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , data . toString ( ) ) 

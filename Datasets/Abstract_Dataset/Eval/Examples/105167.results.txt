@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 cli = mock ( IDENT_0 . IDENT_1 . IDENT_2 . class ) ; when ( cli . METHOD_1 ( ) ) . thenReturn ( true ) ; config . METHOD_2 ( ( c ) -> cli ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ! ( METHOD_4 ( ) ) ) { METHOD_5 ( ) ; } return METHOD_2 . get ( ) ; }
+org . junit . Assert . assertSame ( cli , config . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . data . IDENT_1 . IDENT_2 IDENT_3 = new IDENT_0 . data . IDENT_1 . METHOD_1 ( ) ; java . lang . String a = STRING_0 ; java . lang . String b = null ; java . lang . String IDENT_4 = IDENT_3 . METHOD_2 ( b ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { int len = IDENT_5 . length ( ) ; int index ; for ( index = 0 ; ( index < len ) && ( ( IDENT_5 . charAt ( index ) ) == STRING_1 ) ; index ++ ) ; if ( index > 0 ) { IDENT_5 = IDENT_5 . substring ( index ) ; } return IDENT_5 ; }
+org . junit . Assert . assertNull ( IDENT_4 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . IDENT_0 . security . auth . IDENT_1 result = authentication . METHOD_1 ( map ( STRING_0 , STRING_1 , STRING_2 , STRING_3 , STRING_4 , org . neo4j . string . IDENT_2 . encode ( STRING_5 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( IDENT_3 . subject ( ) . METHOD_3 ( ) ) == ( org . neo4j . internal . kernel . api . security . IDENT_1 . IDENT_4 ) ; }
+org . junit . Assert . assertTrue ( result . METHOD_2 ( ) ) 

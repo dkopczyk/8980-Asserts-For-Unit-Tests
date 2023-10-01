@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = driver . METHOD_1 ( STRING_0 ) ; IDENT_4 . METHOD_2 ( "2" ) ; io . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 IDENT_6 = new io . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_3 ( driver ) ; IDENT_6 . METHOD_4 ( element ( IDENT_4 ) ) ; io . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_7 = driver . METHOD_5 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( java . lang . String ) { return ( ( T ) ( super . METHOD_5 ( IDENT_8 ) ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_7 ) 

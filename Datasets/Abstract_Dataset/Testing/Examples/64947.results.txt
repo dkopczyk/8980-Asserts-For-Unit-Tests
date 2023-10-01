@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( 1 ) ; int IDENT_1 = this . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return this . get ( this . METHOD_2 ( ) , com . IDENT_3 . IDENT_4 . IDENT_5 . services . IDENT_6 . cache . IDENT_7 , com . IDENT_3 . IDENT_4 . IDENT_5 . services . IDENT_6 . cache . Integer . class ) ; }
+org . junit . Assert . assertThat ( IDENT_1 , org . hamcrest . CoreMatchers . is ( 2 ) ) 

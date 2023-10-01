@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . transport . IDENT_2 expected = mock ( org . IDENT_0 . IDENT_1 . transport . IDENT_2 . class ) ; when ( this . manager . METHOD_0 ( ) ) . thenReturn ( expected ) ; org . IDENT_0 . IDENT_1 . transport . IDENT_2 result = this . subject . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return address ; }
+org . junit . Assert . assertSame ( expected , result ) 

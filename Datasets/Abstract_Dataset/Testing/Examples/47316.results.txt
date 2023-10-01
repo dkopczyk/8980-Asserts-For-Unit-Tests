@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String sql = ( STRING_0 + ( IDENT_0 ) ) + STRING_1 ; rs = METHOD_1 ( sql , null ) ; IDENT_1 = METHOD_2 ( sql , null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . sql . ResultSet ) { int row = 0 ; while ( rs . next ( ) ) { row ++ ; } return row ; }
+org . junit . Assert . assertEquals ( METHOD_3 ( rs ) , METHOD_3 ( IDENT_1 ) ) 

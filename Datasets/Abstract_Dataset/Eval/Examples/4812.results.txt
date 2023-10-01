@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . antlr . v4 . runtime . IDENT_0 s = org . antlr . v4 . runtime . IDENT_1 . METHOD_1 ( new java . lang . StringBuilder ( STRING_0 ) . METHOD_2 ( INT_0 ) . append ( STRING_1 ) . toString ( ) ) ; s . METHOD_3 ( 6 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( int ) { return METHOD_5 ( i ) . getType ( ) ; }
+org . junit . Assert . assertEquals ( INT_0 , s . METHOD_4 ( ( - 1 ) ) ) 

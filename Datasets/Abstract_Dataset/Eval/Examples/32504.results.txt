@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . HashSet < IDENT_0 . hash . IDENT_1 > IDENT_2 = new java . util . HashSet < IDENT_0 . hash . IDENT_1 > ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . Set ) { return false ; }
+org . junit . Assert . assertTrue ( METHOD_1 ( IDENT_2 ) ) 

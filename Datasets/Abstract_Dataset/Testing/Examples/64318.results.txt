@@ -1,0 +1,2 @@
+METHOD_0 ( ) { root . attributes = new java . util . HashMap ( ) ; root . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( ( attributes ) != null ) && ( attributes . isEmpty ( ) ) ) { attributes = null ; } if ( ( elements ) != null ) { for ( com . IDENT_0 . IDENT_1 . api . IDENT_2 . IDENT_3 IDENT_4 : elements ) { IDENT_4 . METHOD_1 ( ) ; } if ( elements . isEmpty ( ) ) { elements = null ; } } }
+org . junit . Assert . assertNull ( root . attributes ) 

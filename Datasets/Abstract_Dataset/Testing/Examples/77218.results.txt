@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . gs . collections . api . block . function . IDENT_0 < java . lang . IDENT_1 , java . lang . IDENT_1 > function = com . gs . collections . impl . block . factory . IDENT_2 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } valueOf ( com . gs . collections . impl . block . function . IDENT_3 ) { return IDENT_4 . value ; }
+org . junit . Assert . assertEquals ( 1 , function . valueOf ( 1 ) ) 

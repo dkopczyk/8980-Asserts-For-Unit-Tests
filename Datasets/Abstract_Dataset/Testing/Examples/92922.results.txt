@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] l = new byte [ ] { 1 , INT_0 , - 5 } ; java . lang . Object IDENT_0 = org . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( l ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( IDENT_4 ) { return org . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_2 ( value ) ; }
+org . junit . Assert . assertTrue ( org . IDENT_1 . IDENT_2 . Arrays . equals ( l , ( ( byte [ ] ) ( IDENT_0 ) ) ) ) 

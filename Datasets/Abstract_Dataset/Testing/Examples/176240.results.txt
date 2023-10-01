@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . talend . core . model . repository . IDENT_0 > IDENT_1 = IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_3 . getText ( ) . equals ( "" ) ; }
+org . junit . Assert . assertTrue ( IDENT_1 . isEmpty ( ) ) 

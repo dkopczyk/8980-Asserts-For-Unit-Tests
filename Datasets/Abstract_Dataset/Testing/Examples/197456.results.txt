@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = com . baeldung . java . IDENT_1 . attributes . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

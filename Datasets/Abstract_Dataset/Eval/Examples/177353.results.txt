@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( STRING_0 ) ) . thenReturn ( null ) ; net . IDENT_1 . IDENT_2 . persistence . value . IDENT_3 IDENT_4 = IDENT_5 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_4 . METHOD_3 ( ) . length ) > 1 ) ) 

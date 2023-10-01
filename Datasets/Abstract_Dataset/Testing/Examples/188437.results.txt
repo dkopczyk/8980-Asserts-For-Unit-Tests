@@ -1,0 +1,2 @@
+getId ( ) { "<AssertPlaceHolder>" ; } getId ( ) { return this . id ; }
+org . junit . Assert . assertSame ( this . id , this . session . getId ( ) ) 

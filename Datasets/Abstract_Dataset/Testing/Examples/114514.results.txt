@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Long actual = com . IDENT_0 . IDENT_1 . IDENT_2 . apply ( INT_0 ) . METHOD_1 ( 0L ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Integer ) { if ( ( value ) == null ) { return IDENT_3 ; } else { return value ; } }
+org . junit . Assert . assertThat ( actual , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( INT_0 ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( org . openscience . cdk . graph . IDENT_0 i = new org . openscience . cdk . graph . METHOD_1 ( g , "a" , STRING_0 ) ; i . hasNext ( ) ; ) { "<AssertPlaceHolder>" ; i . remove ( ) ; } } next ( ) { if ( ! ( IDENT_1 ) ) hasNext ( ) ; IDENT_1 = false ; if ( ! ( hasNext ) ) throw new java . util . METHOD_2 ( ) ; return container ; }
+org . junit . Assert . assertTrue ( ( ( ( ( java . util . List ) ( i . next ( ) ) ) . size ( ) ) == 5 ) ) 

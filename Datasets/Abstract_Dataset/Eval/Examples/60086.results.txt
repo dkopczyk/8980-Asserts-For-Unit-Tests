@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . debug . core . IDENT_0 config = METHOD_1 ( IDENT_1 . METHOD_2 ( ) ) ; METHOD_3 ( config , STRING_0 ) ; org . eclipse . IDENT_2 . IDENT_3 . core . IDENT_4 [ ] messages = org . eclipse . IDENT_2 . internal . IDENT_3 . ui . IDENT_5 . METHOD_4 ( ) . METHOD_5 ( ) . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; METHOD_7 ( messages , STRING_0 ) ; } METHOD_6 ( ) { return messages ; }
+org . junit . Assert . assertEquals ( 3 , messages . length ) 

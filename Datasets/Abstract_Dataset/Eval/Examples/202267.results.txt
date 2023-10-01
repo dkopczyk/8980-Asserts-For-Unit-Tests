@@ -1,0 +1,2 @@
+METHOD_0 ( ) { r . METHOD_0 ( com . IDENT_0 . IDENT_1 . Arrays . asList ( 2 , 4 , 10 ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( com . IDENT_0 . IDENT_1 . Arrays . asList ( 5 , 3 , 1 ) , r ) 

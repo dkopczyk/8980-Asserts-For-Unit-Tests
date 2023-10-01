@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 table = METHOD_1 ( ) ; IDENT_1 row = table . row ( 1 ) ; java . lang . Integer IDENT_2 = row . METHOD_2 ( Integer . class , 1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Class , java . lang . String ) { io . IDENT_3 . control . IDENT_4 < com . github . IDENT_5 . IDENT_6 . IDENT_7 < T > > IDENT_8 = this . table . METHOD_3 ( ) . get ( IDENT_9 ) . METHOD_4 ( type ) ; return IDENT_8 . get ( ) . METHOD_5 ( this . IDENT_10 ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_2 == 7 ) ) 

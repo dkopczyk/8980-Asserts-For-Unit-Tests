@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; java . lang . String IDENT_0 = STRING_0 ; org . nuxeo . ecm . core . api . IDENT_1 IDENT_2 = IDENT_3 . query ( new org . nuxeo . elasticsearch . query . METHOD_2 ( session ) . METHOD_3 ( METHOD_3 ) ) ; "<AssertPlaceHolder>" ; exception . expect ( org . nuxeo . ecm . core . query . IDENT_4 . class ) ; org . nuxeo . ecm . core . api . IDENT_1 IDENT_5 = session . query ( METHOD_3 ) ; } METHOD_4 ( ) { return response . METHOD_5 ( ) . METHOD_6 ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_2 . METHOD_4 ( ) ) 

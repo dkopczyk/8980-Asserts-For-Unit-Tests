@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . IDENT_0 . IDENT_1 . LOG . info ( STRING_0 ) ; IDENT_2 = true ; IDENT_3 . IDENT_4 = true ; METHOD_1 ( IDENT_5 , IDENT_6 . IDENT_7 . IDENT_8 ) ; IDENT_5 . METHOD_2 ( ) ; IDENT_5 . join ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { for ( org . apache . hadoop . hdfs . server . IDENT_9 . IDENT_10 IDENT_11 : IDENT_12 ) { if ( IDENT_11 . METHOD_3 ( ) ) { return true ; } } return false ; }
+org . junit . Assert . assertFalse ( IDENT_5 . METHOD_3 ( ) ) 

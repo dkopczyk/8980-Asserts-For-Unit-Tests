@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . support . project . IDENT_0 . IDENT_1 method = org . support . project . di . IDENT_2 . METHOD_1 ( org . support . project . IDENT_0 . IDENT_1 . class ) ; java . lang . String result = method . test ( ) ; org . support . project . IDENT_0 . IDENT_3 . LOG . info ( result ) ; "<AssertPlaceHolder>" ; } info ( java . lang . Object ) { this . METHOD_2 ( IDENT_4 . IDENT_5 , msg ) ; }
+org . junit . Assert . assertEquals ( "test" , result ) 

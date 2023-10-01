@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Iterator < org . locationtech . IDENT_0 . IDENT_1 . internal . IDENT_2 . IDENT_3 > iterator = IDENT_4 . METHOD_1 ( ) ; java . util . List < org . locationtech . IDENT_0 . IDENT_1 . internal . IDENT_2 . IDENT_3 > IDENT_5 = com . google . common . collect . Lists . newArrayList ( iterator ) ; "<AssertPlaceHolder>" ; } size ( ) { return super . count ; }
+org . junit . Assert . assertEquals ( 10 , IDENT_5 . size ( ) ) 

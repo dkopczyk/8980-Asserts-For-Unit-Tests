@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String xml = com . liferay . IDENT_0 . data . mapping . test . util . IDENT_1 . METHOD_1 ( "name" , STRING_0 ) ; java . lang . String content = ( ( java . lang . String ) ( IDENT_2 . invoke ( null , null , METHOD_2 ( ) , Constants . IDENT_3 , STRING_1 , com . liferay . portal . kernel . xml . IDENT_4 . read ( xml ) , null , com . liferay . IDENT_5 . test . util . IDENT_6 . METHOD_3 ( ) , IDENT_7 . IDENT_8 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return STRING_2 ; }
+org . junit . Assert . assertEquals ( STRING_0 , content ) 

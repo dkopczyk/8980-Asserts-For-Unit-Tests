@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new com . eclipsesource . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; org . eclipse . swt . IDENT_4 . IDENT_5 IDENT_6 = IDENT_3 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertNull ( IDENT_6 ) 

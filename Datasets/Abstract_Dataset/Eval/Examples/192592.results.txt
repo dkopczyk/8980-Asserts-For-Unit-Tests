@@ -1,0 +1,2 @@
+test ( ) { connect ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { org . openqa . selenium . IDENT_0 log = null ; try { log = METHOD_1 ( ) . METHOD_2 ( org . openqa . selenium . IDENT_1 . id ( STRING_0 ) ) ; } catch ( org . openqa . selenium . IDENT_2 e ) { } return log != null ; }
+org . junit . Assert . assertFalse ( METHOD_0 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . xml . validation . IDENT_0 validator = net . sourceforge . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) . METHOD_2 ( ) ; validator . METHOD_3 ( IDENT_4 ) ; validator . validate ( new javax . xml . transform . stream . METHOD_4 ( new java . io . ByteArrayInputStream ( METHOD_5 ( STRING_0 ) . getBytes ( IDENT_5 . UTF_8 ) ) ) ) ; "<AssertPlaceHolder>" ; IDENT_4 . METHOD_6 ( ) ; } isValid ( ) { return ( ( IDENT_6 . isEmpty ( ) ) && ( errors . isEmpty ( ) ) ) && ( IDENT_7 . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . isValid ( ) ) 

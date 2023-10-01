@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . sf . IDENT_0 . IDENT_1 . IDENT_2 a = new net . sf . IDENT_0 . IDENT_1 . IDENT_3 . METHOD_1 ( ) . build ( ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { if ( ( this ) == obj ) { return true ; } if ( obj == null ) { return false ; } if ( ( getClass ( ) ) != ( obj . getClass ( ) ) ) { return false ; } final net . sf . IDENT_0 . IDENT_4 . IDENT_5 other = ( ( net . sf . IDENT_0 . IDENT_4 . IDENT_5 ) ( obj ) ) ; if ( ( value ) != ( other . value ) ) { return false ; } return true ; }
+org . junit . Assert . assertFalse ( a . equals ( "" ) ) 

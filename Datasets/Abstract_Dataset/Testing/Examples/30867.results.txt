@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Thread . sleep ( ( ( ( IDENT_0 ) / 2 ) + 10 ) ) ; IDENT_1 . METHOD_1 ( new message . METHOD_2 ( 2 ) ) ; java . lang . Thread . sleep ( ( ( ( IDENT_0 ) / 2 ) + 10 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_1 . METHOD_3 ( ) ) 

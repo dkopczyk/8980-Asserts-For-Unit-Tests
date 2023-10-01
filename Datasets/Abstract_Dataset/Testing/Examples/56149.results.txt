@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( IDENT_1 ) ; IDENT_0 . METHOD_1 ( IDENT_2 ) ; IDENT_0 . METHOD_1 ( IDENT_3 ) ; int i = 0 ; java . lang . String [ ] expected = new java . lang . String [ ] { "bar" , "foo" , STRING_0 } ; for ( de . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 IDENT_9 : IDENT_0 ) { "<AssertPlaceHolder>" ; } } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( expected [ ( i ++ ) ] , IDENT_9 . getName ( ) ) 

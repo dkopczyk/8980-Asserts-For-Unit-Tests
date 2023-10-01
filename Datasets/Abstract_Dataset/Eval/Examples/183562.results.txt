@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; double value = 0.0 ; IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 instance = new IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; instance . setValue ( value ) ; double expResult = value ; double result = instance . getValue ( ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return METHOD_2 ( IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 . IDENT_6 . IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( expResult , result , 0.0 ) 

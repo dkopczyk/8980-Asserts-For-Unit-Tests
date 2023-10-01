@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . System . setProperty ( IDENT_0 . IDENT_1 , STRING_0 ) ; try { uk . gov . gchq . gaffer . IDENT_2 . IDENT_0 . update ( ) ; org . junit . Assert . fail ( STRING_1 ) ; } catch ( final java . lang . IllegalArgumentException e ) { "<AssertPlaceHolder>" ; } } getMessage ( ) { return ( ( ( ( super . getMessage ( ) ) + STRING_2 ) + ( this . IDENT_3 ) ) + STRING_3 ) + ( super . METHOD_1 ( ) ) ; }
+org . junit . Assert . assertTrue ( e . getMessage ( ) . contains ( STRING_0 ) ) 

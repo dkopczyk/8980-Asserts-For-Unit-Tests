@@ -1,0 +1,2 @@
+METHOD_0 ( ) { map . put ( INT_0 , STRING_0 ) ; java . lang . String v = map . remove ( INT_0 ) ; "<AssertPlaceHolder>" ; } remove ( IDENT_0 ) { throw new java . lang . METHOD_1 ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , v ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new net . sourceforge . IDENT_1 . client . update . IDENT_2 . IDENT_3 . event . METHOD_1 ( net . sourceforge . IDENT_1 . client . update . IDENT_2 . IDENT_3 . event . IDENT_4 . IDENT_5 ) ; IDENT_0 . METHOD_2 ( net . sourceforge . IDENT_1 . client . update . IDENT_2 . IDENT_3 . event . IDENT_4 . IDENT_6 ) ; "<AssertPlaceHolder>" ; } getType ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( net . sourceforge . IDENT_1 . client . update . IDENT_2 . IDENT_3 . event . IDENT_4 . IDENT_6 , IDENT_0 . getType ( ) ) 

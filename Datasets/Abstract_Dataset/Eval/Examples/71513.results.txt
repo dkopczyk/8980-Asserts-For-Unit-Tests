@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Integer > list = new java . util . ArrayList < java . lang . Integer > ( ) ; list . add ( 3 ) ; list . add ( 5 ) ; list . add ( 7 ) ; org . IDENT_0 . dao . IDENT_1 c = org . IDENT_0 . dao . IDENT_2 . METHOD_1 ( STRING_0 , STRING_1 , list ) ; java . lang . String exp = STRING_2 ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . IDENT_0 . dao . entity . Entity ) { return content ; }
+org . junit . Assert . assertEquals ( exp , c . METHOD_2 ( null ) . trim ( ) ) 

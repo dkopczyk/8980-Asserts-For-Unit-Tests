@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URL url ; try { url = new java . net . URL ( STRING_0 ) ; } catch ( java . net . IDENT_0 e ) { url = null ; } "<AssertPlaceHolder>" ; } toString ( ) { return url ; }
+org . junit . Assert . assertNull ( url . toString ( ) , null ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Properties p = new java . util . Properties ( ) ; p . setProperty ( IDENT_0 . IDENT_1 . METHOD_1 ( ) , STRING_0 ) ; final org . IDENT_2 . maven . ext . core . state . IDENT_0 state = new org . IDENT_2 . maven . ext . core . state . METHOD_2 ( p ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( ( ( IDENT_3 ) != null ) || ( ( IDENT_4 ) != null ) ) || ( ( IDENT_5 ) != null ) ; }
+org . junit . Assert . assertThat ( state . METHOD_3 ( ) , org . hamcrest . CoreMatchers . equalTo ( true ) ) 

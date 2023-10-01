@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( int i = 0 ; i < ( buffer . METHOD_1 ( ) ) ; i ++ ) { byte value = ( ( byte ) ( random . METHOD_2 ( ) ) ) ; buffer . METHOD_3 ( i , value ) ; } random . METHOD_4 ( IDENT_0 ) ; for ( int i = 0 ; i < ( buffer . METHOD_1 ( ) ) ; i ++ ) { int value = ( random . METHOD_2 ( ) ) & 255 ; "<AssertPlaceHolder>" ; } } METHOD_5 ( int ) { return ( ( short ) ( ( METHOD_6 ( index ) ) & 255 ) ) ; }
+org . junit . Assert . assertEquals ( value , buffer . METHOD_5 ( i ) ) 

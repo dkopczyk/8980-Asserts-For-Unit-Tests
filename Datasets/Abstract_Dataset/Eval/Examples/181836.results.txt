@@ -1,0 +1,2 @@
+METHOD_0 ( ) { client = com . IDENT_0 . client . IDENT_1 . METHOD_1 ( ) . METHOD_2 ( 100 ) . METHOD_3 ( 3 ) . build ( ) . IDENT_2 ; int IDENT_3 = METHOD_4 ( com . google . common . base . Optional . of ( STRING_0 ) , com . google . common . base . Optional . < org . hamcrest . IDENT_4 < java . util . Date > > METHOD_5 ( ) ) ; "<AssertPlaceHolder>" ; } of ( java . util . List ) { return new com . IDENT_0 . client . model . METHOD_6 ( IDENT_5 ) ; }
+org . junit . Assert . assertThat ( IDENT_3 , org . hamcrest . Matchers . is ( 4 ) ) 

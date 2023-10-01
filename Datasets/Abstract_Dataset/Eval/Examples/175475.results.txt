@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . System . METHOD_1 ( ) . setProperty ( IDENT_0 . IDENT_1 , STRING_0 ) ; IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { throw new java . lang . METHOD_3 ( STRING_1 ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . cache . isEmpty ( ) ) 

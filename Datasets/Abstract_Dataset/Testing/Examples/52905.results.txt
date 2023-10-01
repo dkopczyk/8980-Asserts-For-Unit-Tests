@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( "/" ) . setProperty ( "a" , org . apache . jackrabbit . oak . core . IDENT_1 . IDENT_2 ) ; IDENT_3 . METHOD_1 ( "/" ) . METHOD_2 ( "a" ) ; IDENT_0 . commit ( ) ; IDENT_3 . commit ( ) ; org . apache . jackrabbit . oak . api . IDENT_4 p = IDENT_3 . METHOD_1 ( "/" ) . getProperty ( "a" ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . String ) { METHOD_3 ( ) ; return super . getProperty ( name ) ; }
+org . junit . Assert . assertNull ( p ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . di . repository . IDENT_0 repository = null ; org . pentaho . di . repository . IDENT_0 IDENT_1 = mock ( org . pentaho . di . repository . IDENT_0 . class ) ; IDENT_2 . METHOD_1 ( STRING_0 ) ; IDENT_2 . METHOD_2 ( IDENT_1 ) ; repository = IDENT_2 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; verify ( IDENT_2 , times ( 1 ) ) . METHOD_4 ( ) ; } METHOD_3 ( ) { return repository ; }
+org . junit . Assert . assertNotNull ( repository ) 

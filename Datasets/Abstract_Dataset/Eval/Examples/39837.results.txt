@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . renderer . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = IDENT_4 . METHOD_1 ( STRING_0 , IDENT_5 . IDENT_6 ) ; java . util . List < java . awt . IDENT_7 > IDENT_8 = IDENT_3 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_9 . size ( ) ; }
+org . junit . Assert . assertThat ( IDENT_8 . size ( ) , org . hamcrest . CoreMatchers . is ( 3 ) ) 

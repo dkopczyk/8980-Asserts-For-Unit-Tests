@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . github . IDENT_0 . IDENT_1 . core . model . IDENT_2 . IDENT_3 driver = new com . github . IDENT_0 . IDENT_1 . core . model . IDENT_2 . METHOD_1 ( ) ; model . METHOD_0 ( driver ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return model ; }
+org . junit . Assert . assertEquals ( model , driver . METHOD_2 ( ) ) 

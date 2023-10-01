@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; IDENT_0 . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return new java . util . HashSet ( METHOD_4 ( com . IDENT_1 . IDENT_2 . data . IDENT_3 . IDENT_4 ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_3 ( ) . contains ( STRING_0 ) ) 

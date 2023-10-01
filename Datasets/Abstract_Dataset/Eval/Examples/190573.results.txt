@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } size ( ) { return delegate . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , headers . size ( ) ) 

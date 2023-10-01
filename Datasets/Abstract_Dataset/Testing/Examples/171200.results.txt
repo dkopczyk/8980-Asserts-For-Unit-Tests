@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set IDENT_0 = mock ( java . util . Set . class ) ; java . util . Set IDENT_1 = when ( IDENT_0 . isEmpty ( ) ) . thenReturn ( false ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return mock ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_1 ) 

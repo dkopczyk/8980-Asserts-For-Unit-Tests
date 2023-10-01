@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . hbase . IDENT_0 IDENT_1 = new org . apache . hadoop . hbase . METHOD_1 ( STRING_0 , INT_0 ) ; org . apache . hadoop . hbase . IDENT_2 IDENT_3 = new org . apache . hadoop . hbase . METHOD_2 ( IDENT_1 , 1L , INT_1 ) ; org . apache . hadoop . hbase . METHOD_2 IDENT_4 = new org . apache . hadoop . hbase . METHOD_2 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_4 ) 

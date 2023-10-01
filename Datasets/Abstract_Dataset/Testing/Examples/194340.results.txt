@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . geotools . grid . IDENT_0 IDENT_1 = new org . geotools . grid . IDENT_1 . METHOD_1 ( 0 , 0 , org . geotools . grid . IDENT_1 . IDENT_2 . IDENT_3 , org . geotools . grid . IDENT_1 . IDENT_2 . IDENT_4 , null ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_1 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . buffer . IDENT_1 IDENT_2 = new org . IDENT_0 . buffer . METHOD_1 ( ) . add ( 0 , 10 ) ; org . IDENT_0 . buffer . IDENT_1 IDENT_3 = new org . IDENT_0 . buffer . METHOD_1 ( ) . add ( 0 , 10 ) ; "<AssertPlaceHolder>" ; } contains ( int ) { throw new java . lang . METHOD_2 ( STRING_0 ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . contains ( IDENT_3 ) ) 

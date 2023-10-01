@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = "" ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { source = source . replaceAll ( STRING_0 , "" ) ; for ( java . lang . String IDENT_1 : org . IDENT_2 . IDENT_3 . IDENT_4 . api . IDENT_5 . IDENT_6 ) { if ( source . contains ( IDENT_1 ) ) { return IDENT_1 ; } } return null ; }
+org . junit . Assert . assertNull ( org . IDENT_2 . IDENT_3 . IDENT_4 . api . IDENT_5 . METHOD_1 ( IDENT_0 ) ) 

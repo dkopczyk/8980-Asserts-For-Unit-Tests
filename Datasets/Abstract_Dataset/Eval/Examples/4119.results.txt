@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; org . IDENT_0 . api . IDENT_1 instance = org . IDENT_0 . api . IDENT_1 . getInstance ( org . IDENT_0 . api . IDENT_2 . IDENT_3 ) ; org . IDENT_0 . api . IDENT_1 . IDENT_4 result = instance . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertNotNull ( result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openmrs . IDENT_0 IDENT_1 = METHOD_1 ( new org . openmrs . METHOD_2 ( ) ) ; IDENT_1 . METHOD_3 ( null ) ; org . openmrs . IDENT_2 IDENT_3 = mock ( org . openmrs . IDENT_2 . class ) ; when ( IDENT_1 . METHOD_4 ( ) ) . thenReturn ( IDENT_3 ) ; java . util . Date IDENT_4 = new java . util . Date ( ) ; when ( IDENT_3 . METHOD_5 ( IDENT_1 ) ) . thenReturn ( IDENT_4 ) ; IDENT_1 . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_4 , IDENT_1 . METHOD_5 ( ) ) 

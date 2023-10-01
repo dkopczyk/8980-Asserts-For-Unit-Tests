@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new org . IDENT_1 . IDENT_2 . input . METHOD_1 ( METHOD_2 ( STRING_0 . getBytes ( ) ) ) ; IDENT_0 . position ( 9 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { METHOD_4 ( ) ; java . lang . StringBuilder builder = pool . METHOD_5 ( ) ; try { int c ; while ( ( ( c = source . read ( ) ) != ( - 1 ) ) && ( ! ( METHOD_6 ( c ) ) ) ) { builder . append ( ( ( char ) ( c ) ) ) ; } METHOD_7 ( c ) ; return builder . toString ( ) ; } finally { pool . METHOD_8 ( builder ) ; } }
+org . junit . Assert . assertEquals ( "value" , IDENT_0 . METHOD_3 ( ) ) 

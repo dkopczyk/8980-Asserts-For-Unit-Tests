@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new IDENT_0 . IDENT_1 . METHOD_1 ( STRING_0 , 1 , 2 ) ; IDENT_0 . IDENT_1 . METHOD_1 IDENT_4 = new IDENT_0 . IDENT_1 . METHOD_1 ( STRING_1 , 2 , 2 ) ; IDENT_3 . start ( ) ; IDENT_4 . start ( ) ; IDENT_5 . METHOD_2 ( 2 ) ; java . lang . Thread . sleep ( 50 ) ; IDENT_3 . METHOD_3 ( new message . METHOD_4 ( 1 ) ) ; java . lang . Thread . sleep ( ( ( IDENT_0 . IDENT_6 . IDENT_7 ) + 50 ) ) ; "<AssertPlaceHolder>" ; } getMessage ( ) { return message ; }
+org . junit . Assert . assertNull ( IDENT_4 . getMessage ( ) ) 

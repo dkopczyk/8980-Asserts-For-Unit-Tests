@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 , IDENT_0 . amazon . IDENT_1 . services . IDENT_2 . model . IDENT_3 . builder ( ) . METHOD_2 ( true ) . build ( ) ) ; final IDENT_0 . amazon . IDENT_1 . services . IDENT_2 . mapper . IDENT_4 . IDENT_5 IDENT_6 = METHOD_3 ( IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertTrue ( IDENT_6 . METHOD_4 ( ) ) 

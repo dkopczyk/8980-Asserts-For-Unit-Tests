@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String response = IDENT_0 . METHOD_1 ( new org . IDENT_1 . exception . METHOD_2 ( "test" ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . IDENT_1 . exception . METHOD_2 ) { return ex . getMessage ( ) ; }
+org . junit . Assert . assertEquals ( "test" , response ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 , false ) ; METHOD_1 ( IDENT_1 , false ) ; final nl . bzk . migratiebrp . synchronisatie . dal . service . impl . IDENT_2 . IDENT_3 IDENT_4 = IDENT_5 . METHOD_2 ( context , IDENT_0 , IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( IDENT_6 . size ( ) ) == 0 ; }
+org . junit . Assert . assertTrue ( IDENT_4 . METHOD_3 ( ) ) 

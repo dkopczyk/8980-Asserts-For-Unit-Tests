@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String configuration = ( ( ( ( STRING_0 + ( IDENT_0 ) ) + STRING_1 ) + ( IDENT_0 ) ) + STRING_2 ) + ( IDENT_0 ) ; io . IDENT_1 . IDENT_2 . cluster . model . IDENT_3 IDENT_4 = METHOD_1 ( STRING_3 , STRING_4 , STRING_5 , STRING_6 , STRING_7 , STRING_8 ) ; io . IDENT_1 . IDENT_2 . cluster . model . IDENT_5 config = new io . IDENT_1 . IDENT_2 . cluster . model . METHOD_2 ( configuration ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return options ; }
+org . junit . Assert . assertEquals ( IDENT_4 , config . METHOD_3 ( ) ) 

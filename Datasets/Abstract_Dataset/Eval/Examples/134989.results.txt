@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 b = create ( 10 ) ; int [ ] data = new int [ ] { 1 , 2 , 3 , 4 , 5 } ; int [ ] out = new int [ 5 ] ; b . METHOD_1 ( 0 , data , 0 , data . length ) ; b . METHOD_2 ( 0 , out , 0 , data . length ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int , int [ ] , int , int ) { java . lang . System . METHOD_3 ( IDENT_4 , IDENT_5 , IDENT_6 , IDENT_7 , length ) ; }
+org . junit . Assert . assertArrayEquals ( data , out ) 

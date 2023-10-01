@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < org . dcache . util . IDENT_0 > result = org . dcache . util . IDENT_1 . METHOD_1 ( STRING_0 ) ; java . util . Set < org . dcache . util . IDENT_0 > expected = com . google . common . collect . IDENT_2 . METHOD_2 ( METHOD_3 ( STRING_1 ) , METHOD_4 ( STRING_2 ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return new org . dcache . util . METHOD_5 ( org . dcache . util . IDENT_3 . IDENT_3 . IDENT_4 , value ) ; }
+org . junit . Assert . assertThat ( result , equalTo ( expected ) ) 

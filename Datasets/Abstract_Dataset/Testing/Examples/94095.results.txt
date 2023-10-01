@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . io . File IDENT_0 = org . jboss . IDENT_1 . util . IDENT_2 . METHOD_1 ( getClass ( ) , STRING_0 ) ; final java . lang . IDENT_3 module = IDENT_4 . METHOD_2 ( IDENT_0 . METHOD_3 ( ) . METHOD_4 ( ) . toString ( ) ) ; final java . net . URL IDENT_5 = module . METHOD_5 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( java . lang . String ) { return getResource ( name ) ; }
+org . junit . Assert . assertNotNull ( IDENT_5 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = METHOD_1 ( IDENT_1 . IDENT_2 , 6 , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( io . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_1 , double , java . lang . String ) { com . IDENT_6 . exec . IDENT_7 . config . IDENT_8 filter = new com . IDENT_6 . exec . IDENT_7 . config . METHOD_2 ( null , METHOD_3 ( expr ) , FLOAT_0 ) ; return METHOD_4 ( expr , table , IDENT_9 , filter , com . IDENT_6 . IDENT_10 . op . filter . IDENT_11 . class ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_0 > 0 ) ) 

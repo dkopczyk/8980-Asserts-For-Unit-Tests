@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String s = STRING_0 + ( java . util . UUID . METHOD_1 ( ) . toString ( ) ) ; boolean result = com . IDENT_0 . IDENT_1 . utils . StringUtils . METHOD_2 ( s ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { if ( ! ( com . IDENT_0 . IDENT_1 . utils . StringUtils . METHOD_3 ( id ) ) ) { return false ; } return id . matches ( STRING_1 ) ; }
+org . junit . Assert . assertTrue ( result ) 

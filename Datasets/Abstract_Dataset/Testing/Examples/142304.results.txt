@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . ResultSet rs = conn . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } next ( ) { return METHOD_3 ( ( ++ ( IDENT_0 ) ) ) ; }
+org . junit . Assert . assertThat ( rs . next ( ) , is ( false ) ) 

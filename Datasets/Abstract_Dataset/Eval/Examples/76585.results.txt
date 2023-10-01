@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( INT_0 ) ; METHOD_2 ( 0 ) ; METHOD_3 ( 0 ) ; io . IDENT_0 . IDENT_1 client = io . IDENT_0 . IDENT_2 . METHOD_4 ( ) ; client . METHOD_5 ( STRING_0 ) ; METHOD_2 ( 1 ) ; METHOD_3 ( 0 ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( io . IDENT_0 . IDENT_1 ) { io . IDENT_0 . connection . IDENT_3 connection = IDENT_4 . IDENT_5 . METHOD_7 ( client , STRING_1 ) ; io . IDENT_0 . connection . IDENT_6 IDENT_7 = IDENT_4 . IDENT_5 . METHOD_7 ( connection , STRING_2 ) ; return IDENT_7 . METHOD_6 ( ) ; }
+org . junit . Assert . assertTrue ( METHOD_6 ( client ) ) 

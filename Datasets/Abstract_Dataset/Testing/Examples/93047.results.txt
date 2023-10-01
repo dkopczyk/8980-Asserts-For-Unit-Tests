@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Integer IDENT_0 = service . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { IDENT_1 . IDENT_2 . IDENT_3 . IDENT_0 . IDENT_4 IDENT_5 = IDENT_6 . METHOD_2 ( IDENT_1 . IDENT_2 . IDENT_3 . IDENT_0 . IDENT_4 . class ) ; int IDENT_7 = IDENT_5 . METHOD_3 ( ) ; return IDENT_7 ; }
+org . junit . Assert . assertNotNull ( IDENT_0 ) 

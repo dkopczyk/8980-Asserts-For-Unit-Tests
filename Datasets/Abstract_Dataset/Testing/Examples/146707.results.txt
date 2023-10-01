@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return repository . METHOD_1 ( ) ; }
+org . junit . Assert . assertFalse ( repo . METHOD_1 ( ) . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 . METHOD_2 ( ) ) . METHOD_3 ( parameter ) ; METHOD_1 ( parameter . METHOD_4 ( IDENT_1 . IDENT_2 ) ) . METHOD_3 ( IDENT_3 ) ; METHOD_1 ( IDENT_3 . isValid ( ) ) . METHOD_3 ( true ) ; com . IDENT_4 . model . api . Entity IDENT_5 = IDENT_6 . METHOD_5 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { com . IDENT_4 . model . api . Entity parameter = IDENT_0 . METHOD_2 ( ) ; return parameter . METHOD_4 ( IDENT_1 . IDENT_2 ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_5 ) 

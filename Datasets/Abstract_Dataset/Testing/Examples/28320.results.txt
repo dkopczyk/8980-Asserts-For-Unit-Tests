@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . event . entity . IDENT_1 event = mock ( org . IDENT_0 . event . entity . IDENT_1 . class ) ; METHOD_1 ( event . METHOD_2 ( ) ) . METHOD_3 ( null ) ; boolean result = IDENT_2 . METHOD_4 ( event ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( org . IDENT_0 . entity . IDENT_3 ) { return ( ( IDENT_4 != null ) && ( ! ( METHOD_5 ( IDENT_4 . getName ( ) ) ) ) ) && ( ! ( fr . IDENT_5 . IDENT_6 . util . IDENT_7 . METHOD_6 ( IDENT_4 ) ) ) ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . Matchers . equalTo ( false ) ) 

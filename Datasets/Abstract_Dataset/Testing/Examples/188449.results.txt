@@ -1,0 +1,2 @@
+decode ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = STRING_1 ; java . lang . String route = STRING_2 ; when ( this . IDENT_2 . parse ( IDENT_0 ) ) . thenReturn ( new java . util . IDENT_3 . METHOD_0 ( IDENT_1 , route ) ) ; java . lang . IDENT_4 result = this . codec . decode ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } decode ( java . lang . IDENT_4 ) { return IDENT_0 != null ? this . IDENT_2 . parse ( IDENT_0 ) . getKey ( ) : null ; }
+org . junit . Assert . assertSame ( IDENT_1 , result ) 

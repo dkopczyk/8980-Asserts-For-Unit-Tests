@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( new com . alibaba . IDENT_0 . service . mail . builder . content . METHOD_2 ( STRING_0 , STRING_1 ) ) ; java . lang . String result = "" ; result += STRING_2 ; result += STRING_3 ; result += STRING_4 ; result += STRING_5 ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( name ( ) ) + STRING_6 ) + ( METHOD_3 ( ) ) ) + "]" ; }
+org . junit . Assert . assertEquals ( result , content . toString ( ) ) 

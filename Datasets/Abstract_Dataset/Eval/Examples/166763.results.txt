@@ -1,0 +1,2 @@
+getValue ( ) { org . IDENT_0 . util . IDENT_1 IDENT_2 = new org . IDENT_0 . util . METHOD_0 ( STRING_0 , int . class , getClass ( ) ) ; java . lang . reflect . Method m = getClass ( ) . METHOD_1 ( STRING_1 ) ; IDENT_2 . METHOD_2 ( m ) ; "<AssertPlaceHolder>" ; } getValue ( java . lang . String ) { return METHOD_3 ( name ) ; }
+org . junit . Assert . assertThat ( ( ( java . lang . Integer ) ( IDENT_2 . getValue ( this ) ) ) , org . hamcrest . CoreMatchers . is ( 1 ) ) 

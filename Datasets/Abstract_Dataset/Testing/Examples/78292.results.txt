@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } create ( ) { return new com . google . cloud . tools . eclipse . IDENT_0 . core . project . METHOD_1 ( org . eclipse . IDENT_1 . core . IDENT_2 . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertNotNull ( com . google . cloud . tools . eclipse . IDENT_0 . core . project . METHOD_1 . create ( ) ) 

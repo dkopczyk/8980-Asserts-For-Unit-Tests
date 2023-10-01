@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = 1 ; long IDENT_1 = 2 ; int IDENT_2 = 3 ; long IDENT_3 = 4 ; state . METHOD_1 ( IDENT_1 , IDENT_2 , IDENT_0 , IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( long ) { return ( ( IDENT_4 ) != null ) && ( IDENT_4 . METHOD_3 ( IDENT_1 ) ) ; }
+org . junit . Assert . assertFalse ( state . METHOD_2 ( IDENT_1 ) ) 

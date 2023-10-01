@@ -1,0 +1,2 @@
+METHOD_0 ( org . apache . IDENT_0 . core . IDENT_1 ) { org . apache . IDENT_0 . provider . rest . common . IDENT_2 request = new org . apache . IDENT_0 . provider . rest . common . METHOD_1 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return "" ; }
+org . junit . Assert . assertEquals ( "" , request . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . IDENT_0 reader = new java . io . METHOD_1 ( STRING_0 ) ; org . openqa . selenium . IDENT_1 . IDENT_2 IDENT_3 = new org . openqa . selenium . IDENT_1 . METHOD_2 ( reader ) ; IDENT_3 . METHOD_3 ( STRING_1 , true ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return IDENT_4 . get ( key ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 . METHOD_4 ( STRING_1 ) , true ) 

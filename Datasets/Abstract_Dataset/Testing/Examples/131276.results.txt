@@ -1,0 +1,2 @@
+METHOD_0 ( ) { char key = ( ( char ) ( ( IDENT_0 . MAX_VALUE ) + 1 ) ) ; IDENT_1 . put ( key , ( ( java . lang . Long ) ( INT_0 ) ) ) ; "<AssertPlaceHolder>" ; } get ( java . lang . IDENT_2 ) { return METHOD_1 ( name ) ; }
+org . junit . Assert . assertEquals ( INT_0 , ( ( long ) ( IDENT_1 . get ( key ) ) ) ) 

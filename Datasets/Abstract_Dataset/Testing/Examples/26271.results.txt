@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Long IDENT_0 = METHOD_1 ( ) ; java . lang . Long IDENT_1 = METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { com . IDENT_2 . IDENT_3 . response . Response response = METHOD_3 ( ) . delete ( METHOD_4 ( IDENT_4 . IDENT_5 ) ) ; return gson . METHOD_5 ( response . METHOD_6 ( ) , com . IDENT_6 . IDENT_7 . server . api . Long . class ) ; }
+org . junit . Assert . assertEquals ( 0 , ( IDENT_1 - IDENT_0 ) ) 

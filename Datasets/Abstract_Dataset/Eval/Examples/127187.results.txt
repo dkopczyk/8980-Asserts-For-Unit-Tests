@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class ) { if ( clazz == null ) { return null ; } if ( ! ( clazz . METHOD_2 ( ) ) ) { return clazz ; } java . lang . String name = clazz . getName ( ) ; int IDENT_0 = name . charAt ( 0 ) ; int IDENT_1 = name . charAt ( 2 ) ; int mapper = ( ( ( IDENT_0 + IDENT_0 ) + IDENT_0 ) + 5 ) & ( INT_0 - IDENT_1 ) ; return IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . util . IDENT_6 . IDENT_7 . get ( mapper ) ; }
+org . junit . Assert . assertNull ( IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . util . IDENT_6 . METHOD_1 ( null ) ) 

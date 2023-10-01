@@ -1,0 +1,2 @@
+getName ( ) { "<AssertPlaceHolder>" ; } getName ( ) { return cache . getName ( ) ; }
+org . junit . Assert . assertEquals ( name , cache . getName ( ) ) 

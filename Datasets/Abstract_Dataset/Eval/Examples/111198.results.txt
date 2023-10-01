@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = METHOD_1 ( 3 , null , IDENT_1 . IDENT_2 , IDENT_1 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . util . Locale ) { return com . liferay . portal . kernel . util . IDENT_1 . getInstance ( ) . METHOD_3 ( IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( com . liferay . portal . kernel . util . IDENT_1 . METHOD_2 ( IDENT_1 . IDENT_2 ) , IDENT_0 ) 

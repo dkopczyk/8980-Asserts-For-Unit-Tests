@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final IDENT_0 . IDENT_1 options = IDENT_2 . parse ( STRING_0 , java . util . UUID . METHOD_1 ( ) . toString ( ) ) ; final de . IDENT_3 . IDENT_4 . commands . IDENT_5 command = new de . IDENT_3 . IDENT_4 . commands . METHOD_2 ( client , IDENT_6 , IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( IDENT_0 . IDENT_1 , de . IDENT_3 . IDENT_4 . IDENT_8 . IDENT_9 ) { return ( options . METHOD_4 ( IDENT_2 . IDENT_10 ) ) && ( options . METHOD_4 ( IDENT_2 . IDENT_11 ) ) ; }
+org . junit . Assert . assertFalse ( command . METHOD_3 ( options , IDENT_2 ) ) 

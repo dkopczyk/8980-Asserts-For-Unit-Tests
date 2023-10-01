@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . ArrayList < java . lang . String > IDENT_0 = com . google . common . collect . Lists . newArrayList ( ) ; java . util . ArrayList < java . lang . Integer > IDENT_1 = com . google . common . collect . Lists . newArrayList ( ) ; boolean result = IDENT_0 . getClass ( ) . METHOD_1 ( IDENT_1 . getClass ( ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( result ) 

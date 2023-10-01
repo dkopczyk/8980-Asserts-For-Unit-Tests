@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 IDENT_2 = IDENT_0 . IDENT_1 . create ( new org . IDENT_3 . tests . IDENT_4 . METHOD_1 ( ) ) ; org . IDENT_3 . tests . IDENT_4 . IDENT_5 service = IDENT_2 . get ( org . IDENT_3 . tests . IDENT_4 . IDENT_5 . class ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( org . IDENT_3 . tests . IDENT_4 . IDENT_5 . class . getName ( ) , service . logger . getName ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = new in . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( STRING_0 ) . toString ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { return IDENT_4 . toString ( ) ; }
+org . junit . Assert . assertThat ( IDENT_0 , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) 

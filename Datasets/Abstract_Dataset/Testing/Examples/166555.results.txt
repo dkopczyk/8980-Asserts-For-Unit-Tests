@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { org . junit . Assert . assertThat ( validator . METHOD_0 ( ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) ; }
+org . junit . Assert . assertThat ( validator . METHOD_0 ( ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) 

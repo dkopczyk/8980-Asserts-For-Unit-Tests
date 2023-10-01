@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . IDENT_2 adapter = IDENT_3 . newInstance ( org . apache . IDENT_0 . IDENT_1 . IDENT_2 . class , org . apache . IDENT_0 . IDENT_1 . IDENT_4 . class . getName ( ) ) ; org . apache . IDENT_0 . IDENT_5 . IDENT_6 . batch . IDENT_7 builder = new org . apache . IDENT_0 . IDENT_5 . IDENT_6 . batch . METHOD_1 ( mock ( org . apache . IDENT_0 . query . IDENT_8 . class ) , adapter ) ; "<AssertPlaceHolder>" ; } getName ( ) { return STRING_0 ; }
+org . junit . Assert . assertSame ( adapter , builder . adapter ) 

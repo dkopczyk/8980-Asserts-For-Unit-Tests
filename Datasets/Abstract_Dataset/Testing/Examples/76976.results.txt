@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . api . models . IDENT_1 > IDENT_2 = org . IDENT_0 . api . IDENT_3 . IDENT_4 . METHOD_1 ( ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; for ( org . IDENT_0 . api . models . IDENT_1 IDENT_5 : IDENT_2 ) { if ( org . IDENT_0 . api . IDENT_3 . IDENT_6 . equals ( IDENT_5 . getName ( ) ) ) return ; } org . junit . Assert . fail ( ( ( org . IDENT_0 . api . IDENT_3 . IDENT_6 ) + STRING_0 ) ) ; } METHOD_2 ( ) { return METHOD_2 ( METHOD_3 ( ) ) . METHOD_4 ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

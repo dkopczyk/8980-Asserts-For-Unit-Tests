@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . commons . IDENT_0 . IDENT_1 location = org . apache . commons . IDENT_0 . IDENT_2 . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) ; org . pentaho . hadoop . IDENT_3 . IDENT_4 c = new org . pentaho . hadoop . IDENT_3 . METHOD_3 ( location , STRING_1 , "name" , new org . pentaho . hadoop . IDENT_3 . spi . METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return location ; }
+org . junit . Assert . assertEquals ( location , c . METHOD_0 ( ) ) 

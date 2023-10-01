@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String result = com . github . IDENT_0 . maven . IDENT_1 . model . IDENT_2 . toString ( STRING_0 , asList ( "a" , "b" , STRING_1 ) ) ; java . lang . String expected = STRING_2 + ( ( ( STRING_3 + STRING_4 ) + STRING_5 ) + "]" ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( expected , result ) 

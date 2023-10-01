@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < org . IDENT_0 . IDENT_1 . IDENT_2 . api . execute . IDENT_3 > IDENT_4 = org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 . IDENT_6 . METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 . IDENT_6 . class . getResourceAsStream ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_7 . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_4 . size ( ) ) > 0 ) ) 

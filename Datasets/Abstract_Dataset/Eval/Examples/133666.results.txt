@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nuxeo . ecm . platform . IDENT_0 . api . IDENT_1 entry = METHOD_1 ( STRING_0 , "test" ) ; IDENT_2 . METHOD_2 ( entry ) ; boolean IDENT_3 = ( entry . getId ( ) ) != 0 ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertTrue ( IDENT_3 ) 

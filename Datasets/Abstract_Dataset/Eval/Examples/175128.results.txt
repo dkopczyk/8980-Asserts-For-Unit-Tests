@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream is = getClass ( ) . getResourceAsStream ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . IDENT_2 . results . IDENT_3 < java . lang . String > result = IDENT_4 . IDENT_5 . parse ( is ) ; "<AssertPlaceHolder>" ; } parse ( java . lang . String ) { return gson . METHOD_1 ( IDENT_6 , type . getType ( ) ) ; }
+org . junit . Assert . assertNotNull ( result ) 

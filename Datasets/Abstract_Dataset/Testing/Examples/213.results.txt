@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . IDENT_0 . IDENT_1 . utils . bean . IDENT_2 IDENT_3 = new nl . IDENT_0 . IDENT_1 . utils . bean . METHOD_1 ( nl . IDENT_0 . IDENT_1 . IDENT_4 . domain . IDENT_5 . class , STRING_0 ) ; nl . IDENT_0 . IDENT_1 . IDENT_4 . metadata . IDENT_6 IDENT_7 = new nl . IDENT_0 . IDENT_1 . IDENT_4 . metadata . METHOD_2 ( IDENT_3 , java . lang . String . class ) ; IDENT_8 . METHOD_3 ( IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_9 ; }
+org . junit . Assert . assertNull ( IDENT_7 . METHOD_4 ( ) ) 

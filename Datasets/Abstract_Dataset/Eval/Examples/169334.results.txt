@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final double [ ] data = new double [ ] { 1.0 , 2.0 , FLOAT_0 , FLOAT_1 } ; final org . apache . commons . math3 . linear . IDENT_0 v = new org . apache . commons . math3 . linear . METHOD_1 ( data ) ; v . METHOD_2 ( ) [ 0 ] = 0.0 ; "<AssertPlaceHolder>" ; } METHOD_3 ( int ) { return data [ index ] ; }
+org . junit . Assert . assertEquals ( "" , 0.0 , v . METHOD_3 ( 0 ) , 0 ) 

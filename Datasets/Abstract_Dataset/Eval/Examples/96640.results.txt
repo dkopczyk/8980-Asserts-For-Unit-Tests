@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jfree . data . IDENT_0 . IDENT_1 empty = new org . jfree . data . IDENT_0 . METHOD_1 ( new double [ 0 ] [ 0 ] , new double [ 0 ] [ 0 ] ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( this . model ) == null ) { return 0 ; } return ( this . model . METHOD_3 ( ) ) + 1 ; }
+org . junit . Assert . assertEquals ( 0 , empty . METHOD_2 ( ) ) 

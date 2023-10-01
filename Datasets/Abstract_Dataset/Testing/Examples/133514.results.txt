@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nuxeo . ecm . core . api . IDENT_0 file = session . METHOD_1 ( "/" , STRING_0 , STRING_1 ) ; file = session . METHOD_2 ( file ) ; session . save ( ) ; org . nuxeo . runtime . transaction . IDENT_1 . METHOD_3 ( ) ; org . nuxeo . runtime . transaction . IDENT_1 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return METHOD_6 ( new org . nuxeo . ecm . IDENT_2 . client . model . METHOD_7 ( "/" ) ) ; }
+org . junit . Assert . assertNotNull ( session . METHOD_5 ( ) ) 

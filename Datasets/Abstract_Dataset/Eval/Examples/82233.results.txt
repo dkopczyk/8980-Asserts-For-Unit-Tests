@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . put ( com . IDENT_1 . IDENT_2 . datamodel . IDENT_3 . METHOD_1 ( ) , STRING_0 ) ; "<AssertPlaceHolder>" ; } get ( int ) { switch ( i ) { case 0 : return METHOD_2 ( ) ; case 1 : return METHOD_3 ( ) ; default : throw new java . lang . IllegalArgumentException ( ) ; } }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_0 . get ( com . IDENT_1 . IDENT_2 . datamodel . IDENT_3 . METHOD_1 ( ) ) ) 

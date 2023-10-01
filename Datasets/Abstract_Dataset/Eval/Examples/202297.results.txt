@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . plugin . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 instance = new IDENT_0 . plugin . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) ; java . lang . String IDENT_6 = STRING_0 ; java . lang . String IDENT_7 = STRING_0 ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_6 , IDENT_7 ) 

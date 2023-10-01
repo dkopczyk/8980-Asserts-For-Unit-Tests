@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . opengis . IDENT_0 . IDENT_1 result = IDENT_2 . getName ( ) ; ( ( org . geotools . IDENT_3 . reference . IDENT_4 ) ( IDENT_2 ) ) . setName ( new org . geotools . IDENT_0 . METHOD_1 ( org . geotools . metadata . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 , STRING_0 ) ) ; "<AssertPlaceHolder>" ; } getName ( ) { return ( ( java . lang . String ) ( METHOD_2 ( ) . get ( IDENT_9 . IDENT_10 . IDENT_11 , true ) ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 . getName ( ) . equals ( result ) ) 

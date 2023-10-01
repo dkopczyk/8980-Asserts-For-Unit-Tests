@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . StringBuilder IDENT_0 = new java . lang . StringBuilder ( ) ; IDENT_0 . append ( STRING_0 ) ; java . lang . String expResult = STRING_1 ; com . microsoft . azure . sdk . iot . service . IDENT_1 . METHOD_1 ( IDENT_0 , "" , "value" , false , false ) ; "<AssertPlaceHolder>" ; } toString ( ) { com . google . gson . IDENT_2 gson = new com . google . gson . METHOD_2 ( ) . METHOD_3 ( ) . METHOD_4 ( ) . create ( ) ; return gson . METHOD_5 ( this ) ; }
+org . junit . Assert . assertEquals ( expResult , IDENT_0 . toString ( ) ) 

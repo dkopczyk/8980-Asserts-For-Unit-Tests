@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; METHOD_1 ( client . METHOD_2 ( IDENT_0 ) ) . METHOD_3 ( java . util . Arrays . asList ( IDENT_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return IDENT_1 . METHOD_4 ( IDENT_0 ) ; }
+org . junit . Assert . assertEquals ( service . METHOD_4 ( IDENT_0 ) . iterator ( ) . hasNext ( ) , true ) 

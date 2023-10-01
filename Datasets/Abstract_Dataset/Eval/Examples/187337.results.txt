@@ -1,0 +1,2 @@
+METHOD_0 ( ) { new java . io . File ( IDENT_0 , STRING_0 ) . METHOD_1 ( ) ; METHOD_2 ( IDENT_0 . getAbsolutePath ( ) , null ) ; java . lang . String [ ] IDENT_1 = ( ( com . alibaba . IDENT_2 . service . resource . IDENT_3 ) ( loader ) ) . list ( new com . alibaba . IDENT_2 . service . resource . loader . METHOD_3 ( STRING_1 ) , null ) ; "<AssertPlaceHolder>" ; } list ( java . lang . String , java . util . Set ) { return METHOD_4 ( IDENT_4 , IDENT_5 ) ; }
+org . junit . Assert . assertArrayEquals ( new java . lang . String [ 0 ] , IDENT_1 ) 

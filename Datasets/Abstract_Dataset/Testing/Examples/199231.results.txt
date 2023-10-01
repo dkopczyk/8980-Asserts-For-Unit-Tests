@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { "<AssertPlaceHolder>" ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( java . lang . IDENT_0 e ) { } }
+org . junit . Assert . assertFalse ( cache . replace ( 1L , "1" , null ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 v = IDENT_0 . IDENT_1 . IDENT_2 . of ( INT_0 , 0 , ( - INT_0 ) ) ; v . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } of ( double , double , double ) { return new IDENT_0 . IDENT_1 . METHOD_2 ( x , y , IDENT_3 ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 . IDENT_2 . of ( 1 , 0 , 0 ) , v ) 

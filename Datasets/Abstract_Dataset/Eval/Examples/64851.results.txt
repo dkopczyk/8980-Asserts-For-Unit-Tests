@@ -1,0 +1,2 @@
+METHOD_0 ( ) { session . METHOD_1 ( "foo" , 1.0 , "a" ) ; session . METHOD_1 ( "foo" , FLOAT_0 , "b" ) ; session . METHOD_1 ( "foo" , FLOAT_1 , STRING_0 ) ; session . METHOD_1 ( "foo" , 2.0 , "a" ) ; long size = session . METHOD_0 ( "foo" ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String ) { return execute ( new org . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Long > ( ) { public org . IDENT_0 . IDENT_1 . Long METHOD_2 ( org . IDENT_0 . IDENT_1 . IDENT_3 session ) { return session . METHOD_0 ( key ) ; } } ) ; }
+org . junit . Assert . assertEquals ( 3 , size ) 

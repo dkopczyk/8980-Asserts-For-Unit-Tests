@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . microsoft . IDENT_0 . services . media . models . IDENT_1 IDENT_2 = service . get ( com . microsoft . IDENT_0 . services . media . models . IDENT_3 . get ( ) ) ; "<AssertPlaceHolder>" ; } get ( ) { return new com . microsoft . IDENT_0 . services . media . IDENT_4 . IDENT_5 < com . microsoft . IDENT_0 . services . media . models . IDENT_1 > ( com . microsoft . IDENT_0 . services . media . models . IDENT_3 . IDENT_6 , com . microsoft . IDENT_0 . services . media . models . IDENT_1 . class ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

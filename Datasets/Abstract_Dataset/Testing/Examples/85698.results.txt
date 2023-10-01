@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( int ) { int [ ] components = new int [ ] { INT_0 , 10 , 5 , 1 } ; int [ ] [ ] cache = new int [ n + 1 ] [ components . length ] ; return METHOD_2 ( n , 0 , components , cache ) ; }
+org . junit . Assert . assertEquals ( 1 , s . METHOD_1 ( 3 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . dto . v1 . IDENT_2 . IDENT_3 dto = new org . IDENT_0 . IDENT_1 . dto . v1 . IDENT_2 . METHOD_1 ( 10 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( T , java . lang . Class ) { return mapper . METHOD_3 ( mapper . METHOD_4 ( entity ) , clazz ) ; }
+org . junit . Assert . assertEquals ( dto , METHOD_2 ( dto , org . IDENT_0 . IDENT_1 . dto . v1 . IDENT_2 . METHOD_1 . class ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; IDENT_0 . METHOD_1 ( null , 0 , 0 ) ; IDENT_0 . METHOD_2 ( null , 0 , null ) ; IDENT_0 . METHOD_3 ( IDENT_1 , null ) ; IDENT_0 . METHOD_4 ( null , null ) ; IDENT_0 . METHOD_5 ( null , null , null , null , null ) ; IDENT_0 . METHOD_6 ( null ) ; IDENT_0 . METHOD_7 ( null , null ) ; IDENT_0 . METHOD_8 ( null , null , null ) ; IDENT_0 . METHOD_9 ( null ) ; IDENT_0 . METHOD_10 ( null , null , null ) ; IDENT_0 . close ( ) ; } METHOD_11 ( ) { return true ; }
+org . junit . Assert . assertTrue ( IDENT_0 . METHOD_11 ( ) ) 

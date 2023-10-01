@@ -1,0 +1,2 @@
+METHOD_0 ( ) { edu . IDENT_0 . IDENT_1 . IDENT_2 . search . IDENT_3 IDENT_4 = new edu . IDENT_0 . IDENT_1 . IDENT_2 . search . METHOD_1 ( this . field , this . order ) ; int IDENT_5 = this . instance . hashCode ( ) ; int IDENT_6 = IDENT_4 . hashCode ( ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { int hash = 0 ; hash += ( ( id ) != null ) ? id . hashCode ( ) : 0 ; return hash ; }
+org . junit . Assert . assertEquals ( IDENT_5 , IDENT_6 ) 

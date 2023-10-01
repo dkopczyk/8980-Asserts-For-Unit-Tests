@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . swt . IDENT_0 . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( 255 , 0 , 0 ) ; org . eclipse . swt . IDENT_0 . IDENT_1 IDENT_4 = IDENT_3 . METHOD_1 ( 255 , 0 , 0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int , int , int ) { return METHOD_1 ( IDENT_5 , IDENT_6 , IDENT_7 , 255 ) ; }
+org . junit . Assert . assertSame ( IDENT_2 , IDENT_4 ) 

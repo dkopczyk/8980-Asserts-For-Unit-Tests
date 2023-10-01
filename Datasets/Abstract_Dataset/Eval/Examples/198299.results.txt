@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . context . IDENT_0 ctx = new org . springframework . context . support . METHOD_1 ( STRING_0 ) ; org . IDENT_1 . IDENT_2 db = ctx . METHOD_2 ( STRING_1 , org . IDENT_1 . IDENT_2 . class ) ; "<AssertPlaceHolder>" ; ctx . close ( ) ; }
+org . junit . Assert . assertNotNull ( db ) 

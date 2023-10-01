@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = IDENT_1 . getId ( ) ; org . eclipse . rap . rwt . testfixture . internal . IDENT_2 IDENT_3 = new org . eclipse . rap . rwt . testfixture . internal . METHOD_1 ( ) ; IDENT_3 . setId ( STRING_0 ) ; IDENT_1 . METHOD_2 ( IDENT_3 ) ; java . lang . String id = IDENT_1 . getId ( ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( IDENT_0 , id ) 

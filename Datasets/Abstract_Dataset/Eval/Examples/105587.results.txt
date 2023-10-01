@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( IDENT_1 . IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Object ) { return ( msg instanceof IDENT_3 . IDENT_4 . IDENT_5 ) && ( IDENT_1 . IDENT_2 . equals ( ( ( IDENT_3 . IDENT_4 . IDENT_5 ) ( msg ) ) . METHOD_1 ( ) ) ) ; }
+org . junit . Assert . assertTrue ( handler . METHOD_2 ( IDENT_0 ) ) 

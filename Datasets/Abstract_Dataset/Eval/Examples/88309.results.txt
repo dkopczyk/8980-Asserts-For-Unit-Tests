@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . sourceforge . IDENT_0 . client . IDENT_1 . IDENT_2 [ ] result = IDENT_3 . METHOD_1 ( ) ; if ( result != null ) { "<AssertPlaceHolder>" ; } } METHOD_1 ( ) { return new net . sourceforge . IDENT_0 . client . IDENT_1 . IDENT_2 [ ] { new net . sourceforge . IDENT_0 . plugins . IDENT_4 . METHOD_2 ( this ) } ; }
+org . junit . Assert . assertTrue ( ( ( result . length ) > 0 ) ) 

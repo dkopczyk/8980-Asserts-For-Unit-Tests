@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . geotools . data . simple . IDENT_0 IDENT_1 = IDENT_2 . METHOD_1 ( IDENT_3 ) . METHOD_2 ( ) ; org . geotools . data . simple . IDENT_4 reader = IDENT_1 . METHOD_3 ( ) ; int read = 0 ; try { while ( reader . hasNext ( ) ) { reader . next ( ) ; read ++ ; } } finally { reader . close ( ) ; } org . geotools . IDENT_5 . data . IDENT_6 q = METHOD_4 ( ) ; int IDENT_7 ; try { IDENT_7 = q . METHOD_5 ( ) ; } finally { q . session . METHOD_6 ( ) ; q . close ( ) ; } "<AssertPlaceHolder>" ; } close ( ) { }
+org . junit . Assert . assertEquals ( read , IDENT_7 ) 

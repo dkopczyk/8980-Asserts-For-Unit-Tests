@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . druid . indexing . common . task . IDENT_0 . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( STRING_0 , org . apache . druid . indexing . common . task . IDENT_0 . IDENT_1 . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( false , IDENT_2 . METHOD_2 ( ) ) 

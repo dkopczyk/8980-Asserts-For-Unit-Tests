@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; "<AssertPlaceHolder>" ; IDENT_0 . evaluate ( STRING_0 ) ; } isValid ( java . lang . String ) { return validate ( expression ) . METHOD_2 ( ) ; }
+org . junit . Assert . assertThat ( IDENT_0 . isValid ( STRING_0 ) , org . hamcrest . Matchers . is ( true ) ) 

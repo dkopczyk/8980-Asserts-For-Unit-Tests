@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . talend . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = org . talend . IDENT_0 . IDENT_1 . IDENT_4 . METHOD_1 ( STRING_0 , STRING_1 ) ; java . lang . String IDENT_5 = IDENT_3 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( IDENT_5 ) == null ) { return org . apache . commons . lang . StringUtils . IDENT_6 ; } return this . IDENT_5 ; }
+org . junit . Assert . assertEquals ( StringUtils . IDENT_6 , IDENT_5 ) 

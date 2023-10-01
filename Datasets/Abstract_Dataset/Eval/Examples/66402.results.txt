@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final java . io . File file = new java . io . File ( STRING_1 ) ; final com . google . common . io . IDENT_1 source = com . google . common . io . IDENT_2 . METHOD_1 ( file , IDENT_3 . UTF_8 ) ; final java . lang . String result = source . read ( ) ; "<AssertPlaceHolder>" ; } read ( ) { return this . METHOD_2 ( ) . toString ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = java . lang . System . getProperty ( STRING_0 ) ; com . IDENT_1 . IDENT_2 . bean . Result < com . IDENT_1 . IDENT_2 . IDENT_3 . bean . User > result = IDENT_3 . METHOD_1 ( ) . METHOD_2 ( IDENT_3 . METHOD_3 ( ) , null , IDENT_0 , null ) ; "<AssertPlaceHolder>" ; com . IDENT_1 . IDENT_2 . IDENT_3 . api . IDENT_4 . logger . info ( result . METHOD_4 ( ) . METHOD_5 ( ) . toString ( ) ) ; } METHOD_6 ( ) { return ( error ) == null ; }
+org . junit . Assert . assertTrue ( result . METHOD_6 ( ) ) 

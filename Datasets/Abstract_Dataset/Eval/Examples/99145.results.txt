@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } hashCode ( ) { final java . lang . Object obj = org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . get ( ) ; if ( obj != null ) { return obj . hashCode ( ) ; } else return 0 ; }
+org . junit . Assert . assertEquals ( delegate . hashCode ( ) , subject . hashCode ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 , null , java . util . Collections . singletonList ( org . camunda . bpm . engine . test . api . IDENT_1 . query . IDENT_2 . IDENT_3 . IDENT_4 ) ) ; IDENT_5 . METHOD_2 ( IDENT_6 . getId ( ) ) ; IDENT_0 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return new org . camunda . bpm . engine . impl . batch . IDENT_2 . METHOD_5 ( IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_5 . METHOD_4 ( ) . count ( ) ) 

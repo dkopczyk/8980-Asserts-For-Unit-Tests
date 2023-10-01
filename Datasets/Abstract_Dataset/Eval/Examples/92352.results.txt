@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final net . IDENT_0 . IDENT_1 req = net . IDENT_0 . IDENT_1 . builder ( ) . method ( STRING_0 ) . METHOD_1 ( java . net . URI . create ( STRING_1 ) ) . body ( java . lang . String . format ( STRING_2 , net . IDENT_0 . IDENT_2 . IDENT_3 , net . IDENT_0 . IDENT_2 . IDENT_4 ) . getBytes ( ) ) . header ( STRING_3 , STRING_4 ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . parameters ; }
+org . junit . Assert . assertThat ( req . METHOD_2 ( ) . getValue ( net . IDENT_0 . IDENT_2 . IDENT_3 ) , is ( net . IDENT_0 . IDENT_2 . IDENT_4 ) ) 

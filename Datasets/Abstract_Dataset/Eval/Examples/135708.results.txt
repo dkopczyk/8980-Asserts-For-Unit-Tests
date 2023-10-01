@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = IDENT_1 . compare ( IDENT_2 , IDENT_3 ) ; "<AssertPlaceHolder>" ; } compare ( java . nio . file . Path , java . nio . file . Path ) { int IDENT_4 = java . lang . Integer . METHOD_1 ( IDENT_5 . METHOD_2 ( ) . toString ( ) . split ( STRING_0 ) [ 0 ] ) ; int IDENT_6 = java . lang . Integer . METHOD_1 ( IDENT_7 . METHOD_2 ( ) . toString ( ) . split ( STRING_0 ) [ 0 ] ) ; return IDENT_4 - IDENT_6 ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_0 ) 

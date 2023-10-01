@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final java . net . URL url = com . google . common . io . IDENT_1 . getResource ( STRING_1 ) ; final java . lang . String result = com . google . common . io . IDENT_1 . toString ( url , IDENT_2 . UTF_8 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_0 , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . yarn . api . IDENT_0 . IDENT_1 request = org . apache . hadoop . yarn . api . IDENT_0 . IDENT_1 . newInstance ( cluster . METHOD_1 ( ) ) ; long IDENT_2 = org . apache . hadoop . yarn . client . IDENT_3 . METHOD_2 ( this . conf , org . apache . hadoop . yarn . api . IDENT_4 . class ) . METHOD_3 ( request ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return STRING_0 . getBytes ( ) . length ; }
+org . junit . Assert . assertEquals ( IDENT_2 , cluster . METHOD_5 ( ) ) 

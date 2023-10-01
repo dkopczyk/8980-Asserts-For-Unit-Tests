@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . maven . IDENT_1 IDENT_2 = new org . jboss . IDENT_0 . maven . METHOD_1 ( ) ; org . jboss . IDENT_0 . maven . METHOD_1 . METHOD_2 ( java . nio . file . IDENT_3 . get ( org . jboss . IDENT_0 . maven . IDENT_4 . class . getResource ( STRING_0 ) . METHOD_3 ( ) ) , IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return delegate . METHOD_4 ( ) ; }
+org . junit . Assert . assertNull ( IDENT_2 . METHOD_4 ( ) ) 

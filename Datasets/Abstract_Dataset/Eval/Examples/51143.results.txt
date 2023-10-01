@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . filter . IDENT_1 filter = parse ( STRING_0 ) ; "<AssertPlaceHolder>" ; } parse ( java . util . Map ) { java . lang . String IDENT_2 = METHOD_1 ( IDENT_3 , STRING_1 ) ; java . lang . String format = IDENT_3 . get ( STRING_2 ) ; if ( format == null ) { format = org . IDENT_0 . protocol . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 ; } return new org . IDENT_0 . protocol . IDENT_4 . IDENT_5 . METHOD_2 ( IDENT_2 , format ) ; }
+org . junit . Assert . assertNotNull ( filter ) 

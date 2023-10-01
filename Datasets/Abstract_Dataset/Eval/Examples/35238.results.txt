@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 = java . util . Arrays . asList ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { int indexOf = IDENT_1 . indexOf ( com . IDENT_2 . IDENT_3 . IDENT_4 . cli . command . IDENT_5 ) ; if ( indexOf == ( - 1 ) ) { indexOf = IDENT_1 . indexOf ( com . IDENT_2 . IDENT_3 . IDENT_4 . cli . command . IDENT_6 ) ; } return indexOf ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_0 . METHOD_0 ( ) ) 

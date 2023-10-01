@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jfree . chart . renderer . IDENT_0 . IDENT_1 r = new org . jfree . chart . renderer . IDENT_0 . METHOD_1 ( ) ; r . METHOD_2 ( IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( int , int ) { org . jfree . data . IDENT_4 . IDENT_5 dataset = METHOD_4 ( ) . METHOD_5 ( ) ; if ( ( dataset . METHOD_6 ( IDENT_6 , item ) ) >= 0.0 ) { return java . awt . IDENT_2 . IDENT_7 ; } else { return java . awt . IDENT_2 . IDENT_8 ; } }
+org . junit . Assert . assertEquals ( IDENT_2 . IDENT_3 , r . METHOD_3 ( 0 , 0 ) ) 

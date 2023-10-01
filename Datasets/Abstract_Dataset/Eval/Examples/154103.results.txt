@@ -1,0 +1,2 @@
+METHOD_0 ( ) { writer . METHOD_0 ( "foo" ) ; "<AssertPlaceHolder>" ; } toString ( ) { return com . IDENT_0 . util . IDENT_1 . toString ( this ) ; }
+org . junit . Assert . assertEquals ( "foo" , output . toString ( ) ) 

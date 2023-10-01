@@ -1,0 +1,2 @@
+name ( ) { final com . IDENT_0 . IDENT_1 . metrics . expression . IDENT_2 expr = new com . IDENT_0 . IDENT_1 . metrics . expression . METHOD_0 ( resolver ) ; "<AssertPlaceHolder>" ; } getName ( ) { return IDENT_3 ; }
+org . junit . Assert . assertSame ( resolver , expr . getName ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . Integer IDENT_1 = 12 ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { if ( ( this ) == o ) return true ; if ( ( o == null ) || ( ( getClass ( ) ) != ( o . getClass ( ) ) ) ) return false ; org . baeldung . IDENT_2 . web . model . IDENT_3 IDENT_4 = ( ( org . baeldung . IDENT_2 . web . model . IDENT_3 ) ( o ) ) ; return java . util . IDENT_5 . equals ( id , IDENT_4 . id ) ; }
+org . junit . Assert . assertEquals ( java . lang . Integer . valueOf ( IDENT_0 ) . equals ( IDENT_1 ) , true ) 

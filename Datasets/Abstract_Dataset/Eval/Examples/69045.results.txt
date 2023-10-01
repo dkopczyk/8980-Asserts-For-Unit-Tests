@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final long result = com . facebook . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_1 ( 2 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int ) { if ( n < 2 ) { return n ; } else { return ( com . facebook . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_1 ( ( n - 1 ) ) ) + ( com . facebook . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_1 ( ( n - 2 ) ) ) ; } }
+org . junit . Assert . assertEquals ( 1 , result ) 

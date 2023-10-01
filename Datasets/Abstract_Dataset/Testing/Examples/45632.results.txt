@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long start = ( Long . MAX_VALUE ) - INT_0 ; long end = start + INT_1 ; "<AssertPlaceHolder>" ; } METHOD_1 ( long , long ) { if ( end > start ) return end - start ; return ( ( ( Long . MAX_VALUE ) - start ) + 1 ) + ( end - ( Long . IDENT_0 ) ) ; }
+org . junit . Assert . assertEquals ( INT_1 , impl . METHOD_1 ( start , end ) ) 

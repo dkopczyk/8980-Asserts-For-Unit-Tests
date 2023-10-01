@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . io . IDENT_1 out = new org . IDENT_0 . io . METHOD_1 ( new java . io . METHOD_2 ( file ) , org . IDENT_0 . data . IDENT_2 . IDENT_3 ) ; try { out . METHOD_3 ( METHOD_4 ( ) ) ; } finally { out . close ( ) ; } "<AssertPlaceHolder>" ; } METHOD_5 ( ) { org . IDENT_0 . io . IDENT_4 in = new org . IDENT_0 . io . METHOD_6 ( file ) ; try { return in . METHOD_7 ( ( - 1 ) , ( - 1 ) ) ; } finally { in . close ( ) ; } }
+org . junit . Assert . assertEquals ( 4 , METHOD_5 ( ) . size ( ) ) 

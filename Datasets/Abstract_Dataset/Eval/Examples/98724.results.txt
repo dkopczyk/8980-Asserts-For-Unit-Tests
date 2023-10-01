@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . json . JSONObject obj = METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . json . JSONObject ) { java . lang . Object o = description . METHOD_3 ( net . sf . IDENT_0 . IDENT_1 . core . IDENT_2 . IDENT_3 . IDENT_4 ) ; return o instanceof org . json . JSONObject ; }
+org . junit . Assert . assertTrue ( net . sf . IDENT_0 . IDENT_1 . core . IDENT_2 . IDENT_3 . METHOD_2 ( obj ) ) 

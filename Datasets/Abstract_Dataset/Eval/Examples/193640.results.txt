@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new org . apache . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; int [ ] IDENT_5 = IDENT_4 . METHOD_2 ( org . apache . IDENT_0 . IDENT_6 . com . google . common . collect . Lists . newArrayList ( 9 , 8 , 7 , 6 ) , org . apache . IDENT_0 . IDENT_1 . IDENT_7 . IDENT_8 . IDENT_9 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( IDENT_5 . length , org . hamcrest . Matchers . equalTo ( 2 ) ) 

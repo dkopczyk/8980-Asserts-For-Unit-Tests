@@ -1,0 +1,2 @@
+METHOD_0 ( ) { data . METHOD_1 ( ) . add ( 1 , STRING_0 , STRING_1 , IDENT_0 . IDENT_1 ) ; data . METHOD_2 ( java . util . Arrays . asList ( new java . lang . Object [ ] { java . lang . Long . valueOf ( 1L ) } ) ) ; data . next ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( int ) { return ( ( java . lang . Long ) ( IDENT_2 . METHOD_4 ( IDENT_3 ) ) ) . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( 1L , data . METHOD_3 ( STRING_0 ) ) 

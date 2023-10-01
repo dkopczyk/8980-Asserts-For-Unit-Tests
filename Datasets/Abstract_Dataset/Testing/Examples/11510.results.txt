@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String name = STRING_0 ; final java . lang . String expected = STRING_1 + STRING_2 ; java . lang . String result = org . apache . IDENT_0 . data . impl . builder . IDENT_1 . IDENT_2 . create ( name , IDENT_3 , new org . apache . IDENT_0 . data . impl . meta . METHOD_1 ( STRING_3 , name ) ) . METHOD_2 ( ) . trim ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( expected , result ) 

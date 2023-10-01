@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new com . IDENT_1 . IDENT_2 . METHOD_1 ( null , version ) ; "<AssertPlaceHolder>" ; } toString ( ) { return IDENT_3 [ 0 ] ; }
+org . junit . Assert . assertTrue ( IDENT_0 . toString ( ) . contains ( version ) ) 

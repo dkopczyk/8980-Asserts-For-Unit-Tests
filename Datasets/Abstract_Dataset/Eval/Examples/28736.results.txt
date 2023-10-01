@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; when ( IDENT_1 . getString ( eq ( IDENT_0 ) , anyString ( ) ) ) . thenReturn ( null ) ; com . amazonaws . IDENT_2 . IDENT_3 . internal . core . IDENT_4 . IDENT_5 IDENT_6 = IDENT_7 . METHOD_1 ( IDENT_8 ) ; "<AssertPlaceHolder>" ; verify ( IDENT_1 , times ( 1 ) ) . METHOD_2 ( eq ( IDENT_0 ) , any ( java . lang . String . class ) ) ; } getValue ( ) { return value ; }
+org . junit . Assert . assertNotNull ( IDENT_6 . getValue ( ) ) 

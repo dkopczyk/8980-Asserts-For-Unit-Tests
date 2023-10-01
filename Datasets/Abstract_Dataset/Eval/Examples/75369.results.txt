@@ -1,0 +1,2 @@
+METHOD_0 ( ) { au . gov . IDENT_0 . IDENT_1 . core . IDENT_2 . IDENT_3 IDENT_4 = new au . gov . IDENT_0 . IDENT_1 . core . IDENT_2 . METHOD_1 ( 1000 , METHOD_1 . IDENT_5 ) ; au . gov . IDENT_0 . IDENT_1 . core . IDENT_2 . METHOD_1 IDENT_6 = new au . gov . IDENT_0 . IDENT_1 . core . IDENT_2 . METHOD_1 ( 1000 , METHOD_1 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { return ( object == null ) || ( object == ( this ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . equals ( IDENT_6 ) ) 

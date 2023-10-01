@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String [ ] array = new java . lang . String [ ] { STRING_0 } ; final java . lang . String [ ] IDENT_0 = net . sf . IDENT_1 . IDENT_2 . METHOD_1 ( array , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( boolean , java . lang . String ) { if ( expression ) { throw new net . sf . IDENT_1 . exception . METHOD_2 ( name ) ; } }
+org . junit . Assert . assertSame ( array , IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ! ( METHOD_2 ( ) ) ) { return true ; } final java . lang . String binding = METHOD_3 ( ) ; if ( ( binding == null ) || ( binding . isEmpty ( ) ) ) { return true ; } if ( ! ( METHOD_4 ( ) ) ) { if ( binding . equals ( METHOD_5 ( ) . METHOD_3 ( ) ) ) { return true ; } } return ! ( METHOD_6 ( ) . METHOD_7 ( binding ) ) ; }
+org . junit . Assert . assertTrue ( plugin . METHOD_1 ( ) ) 

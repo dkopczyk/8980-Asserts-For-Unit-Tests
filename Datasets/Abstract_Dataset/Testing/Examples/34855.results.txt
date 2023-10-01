@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . IDENT_2 field = new com . github . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; java . lang . String expected = IDENT_3 . IDENT_4 . getValue ( ) ; field . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_4 ( ) . IDENT_5 ; }
+org . junit . Assert . assertEquals ( expected , field . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . core . executor . graph . IDENT_3 < java . lang . Integer > IDENT_4 = IDENT_0 . IDENT_1 . IDENT_2 . core . executor . graph . IDENT_3 . of ( 1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_4 . size ( ) , 1 ) 

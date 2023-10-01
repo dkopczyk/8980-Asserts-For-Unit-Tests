@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 < IDENT_0 . IDENT_2 > IDENT_3 = METHOD_1 ( 2 ) ; IDENT_0 . IDENT_4 < ? > info = IDENT_0 . IDENT_5 . METHOD_2 ( 3 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( IDENT_0 . IDENT_4 ) { return ( IDENT_6 . METHOD_3 ( info ) ) || ( IDENT_7 . METHOD_3 ( info ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_3 . METHOD_3 ( info ) ) 

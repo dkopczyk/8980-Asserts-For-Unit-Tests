@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . springframework . data . solr . repository . IDENT_0 > found = repo . METHOD_1 ( java . util . Arrays . asList ( 3 , 5 ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 1 , found . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( new com . IDENT_1 . IDENT_2 . IDENT_3 . model . METHOD_2 ( 0 , 0 , STRING_0 , STRING_0 ) , 0 , 0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { for ( int x = 0 ; x < ( size ) ; x ++ ) { for ( int y = 0 ; y < ( size ) ; y ++ ) { if ( ( METHOD_3 ( x , y ) ) && ( ( data [ x ] [ y ] ) != ( com . IDENT_1 . IDENT_2 . IDENT_4 . model . IDENT_5 . IDENT_6 ) ) ) return false ; } } return true ; }
+org . junit . Assert . assertTrue ( IDENT_0 . isEmpty ( ) ) 

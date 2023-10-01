@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < IDENT_0 . IDENT_1 . jenkins . IDENT_2 . model . IDENT_3 > IDENT_4 = new java . util . ArrayList ( ) ; IDENT_0 . IDENT_1 . jenkins . IDENT_2 . model . IDENT_5 component = new IDENT_0 . IDENT_1 . jenkins . IDENT_2 . model . METHOD_1 ( STRING_0 , null , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertThat ( component . METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( IDENT_4 ) ) 

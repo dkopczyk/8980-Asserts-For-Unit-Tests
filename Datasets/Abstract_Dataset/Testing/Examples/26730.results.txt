@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = org . jboss . IDENT_1 . container . tomcat . IDENT_2 . IDENT_3 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { org . jboss . IDENT_1 . container . tomcat . IDENT_4 . METHOD_2 ( name , STRING_1 ) ; if ( STRING_2 . equals ( name ) ) { return "" ; } if ( ( name . indexOf ( STRING_3 ) ) != ( - 1 ) ) { return name . substring ( 0 , name . METHOD_3 ( STRING_4 ) ) ; } return name ; }
+org . junit . Assert . assertEquals ( "test" , METHOD_1 ) 

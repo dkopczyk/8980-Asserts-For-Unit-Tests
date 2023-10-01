@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . setProperty ( STRING_0 , STRING_1 ) ; java . io . File IDENT_1 = configuration . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } getPath ( ) { if ( ( IDENT_2 ) != null ) { return IDENT_2 . getPath ( ) ; } else { return null ; } }
+org . junit . Assert . assertThat ( IDENT_1 . getPath ( ) , org . hamcrest . core . Is . is ( STRING_1 ) ) 

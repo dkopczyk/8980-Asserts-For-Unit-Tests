@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; IDENT_1 . METHOD_1 ( IDENT_0 ) ; boolean result = IDENT_1 . METHOD_2 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return ( IDENT_2 . get ( IDENT_0 ) ) > 0 ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . Matchers . equalTo ( true ) ) 

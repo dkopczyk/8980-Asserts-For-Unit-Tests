@@ -1,0 +1,2 @@
+get ( ) { cache . put ( 1 , 1 ) ; "<AssertPlaceHolder>" ; } get ( ) { cache . put ( 1 , 1 ) ; org . junit . Assert . assertEquals ( new org . springframework . cache . support . METHOD_0 ( 1 ) . get ( ) , IDENT_0 . get ( 1 ) . get ( ) ) ; }
+org . junit . Assert . assertEquals ( new org . springframework . cache . support . METHOD_0 ( 1 ) . get ( ) , IDENT_0 . get ( 1 ) . get ( ) ) 

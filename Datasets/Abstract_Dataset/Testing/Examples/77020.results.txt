@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int l = 0 ; int y = edu . IDENT_0 . cs . IDENT_1 . IDENT_2 . runtime . IDENT_3 . METHOD_1 ( 10 , STRING_0 ) ; if ( y > 100 ) l = 10 ; System . out . println ( edu . IDENT_0 . cs . IDENT_1 . IDENT_2 . runtime . IDENT_3 . METHOD_2 ( l ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( boolean ) { throw new java . lang . IllegalStateException ( STRING_1 ) ; }
+org . junit . Assert . assertNotNull ( edu . IDENT_0 . cs . IDENT_1 . IDENT_2 . runtime . IDENT_3 . METHOD_2 ( l ) ) 

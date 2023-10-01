@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 . IDENT_1 ) ; METHOD_2 ( METHOD_3 ( driver ( ) , STRING_0 ) , 10 , TimeUnit . IDENT_2 ) ; org . openqa . selenium . IDENT_3 element = driver ( ) . METHOD_4 ( org . openqa . selenium . IDENT_4 . id ( STRING_1 ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { throw new java . lang . RuntimeException ( io . IDENT_5 . server . model . IDENT_6 . IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( element . METHOD_5 ( ) , false ) 

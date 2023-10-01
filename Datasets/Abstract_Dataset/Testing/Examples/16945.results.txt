@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = IDENT_1 . METHOD_1 ( INT_0 ) ; "<AssertPlaceHolder>" ; } getStatusCode ( ) { return 200 ; }
+org . junit . Assert . assertEquals ( INT_0 , IDENT_0 . getStatusCode ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . insert ( new java . io . ByteArrayInputStream ( com . IDENT_1 . IDENT_2 . IDENT_3 . integration . IDENT_4 . IDENT_5 . getBytes ( ) ) ) ; boolean result = IDENT_0 . METHOD_1 ( new java . io . ByteArrayInputStream ( com . IDENT_1 . IDENT_2 . IDENT_3 . integration . IDENT_4 . IDENT_5 . getBytes ( ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . io . InputStream ) { return METHOD_2 ( IDENT_6 ) ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . CoreMatchers . is ( true ) ) 

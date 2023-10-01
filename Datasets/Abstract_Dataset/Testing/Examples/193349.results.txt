@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final double [ ] a = new double [ ] { 0 , 1 , 2 } ; final double [ ] b = new double [ ] { 3 , 5 , 7 } ; final double [ ] r = org . apache . commons . math4 . util . IDENT_0 . METHOD_1 ( a , b ) ; for ( int i = 0 ; i < ( a . length ) ; i ++ ) { "<AssertPlaceHolder>" ; } }
+org . junit . Assert . assertEquals ( ( ( a [ i ] ) - ( b [ i ] ) ) , r [ i ] , 0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . add ( STRING_0 ) ; IDENT_0 . add ( STRING_1 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { for ( org . talend . core . model . metadata . connection . hive . IDENT_1 m : org . talend . core . model . metadata . connection . hive . IDENT_1 . values ( ) ) { if ( m . getName ( ) . equals ( name ) ) { return m ; } } return null ; }
+org . junit . Assert . assertTrue ( STRING_1 . equals ( IDENT_0 . get ( 1 ) ) ) 

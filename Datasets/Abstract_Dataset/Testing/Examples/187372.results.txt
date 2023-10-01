@@ -1,0 +1,2 @@
+METHOD_0 ( com . IDENT_0 . api . IDENT_1 . IDENT_2 . IDENT_3 ) { byte [ ] bytes = IDENT_4 . encode ( channel , request ) ; com . IDENT_0 . api . IDENT_1 . IDENT_2 . IDENT_3 result = ( ( com . IDENT_0 . api . IDENT_1 . IDENT_2 . IDENT_3 ) ( IDENT_4 . decode ( channel , "" , bytes ) ) ) ; "<AssertPlaceHolder>" ; } equals ( com . IDENT_0 . api . IDENT_1 . IDENT_2 . IDENT_3 , com . IDENT_0 . api . IDENT_1 . IDENT_2 . IDENT_3 ) { return toString ( IDENT_5 ) . equals ( toString ( target ) ) ; }
+org . junit . Assert . assertTrue ( equals ( request , result ) ) 

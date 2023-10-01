@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = "bar" ; org . IDENT_1 . IDENT_2 . search . IDENT_3 instance = new org . IDENT_1 . IDENT_2 . search . METHOD_1 ( IDENT_0 , null , null , false , false ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return this . IDENT_4 . hashCode ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . hashCode ( ) , instance . hashCode ( ) ) 

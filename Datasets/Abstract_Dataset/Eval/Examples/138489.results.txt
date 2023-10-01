@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . meta . IDENT_1 IDENT_2 = new org . IDENT_0 . meta . METHOD_1 ( STRING_0 ) ; java . lang . Long value = java . lang . Long . valueOf ( STRING_0 ) ; org . IDENT_0 . meta . METHOD_1 result = org . IDENT_0 . meta . METHOD_1 . METHOD_2 ( value . METHOD_3 ( ) , null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return value ; }
+org . junit . Assert . assertEquals ( IDENT_2 , result ) 

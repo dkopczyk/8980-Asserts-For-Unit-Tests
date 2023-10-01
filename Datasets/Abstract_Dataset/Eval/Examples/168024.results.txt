@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( org . IDENT_0 . IDENT_1 . repository . maven . internal . IDENT_2 . name ( ) ) ; org . IDENT_0 . IDENT_1 . repository . storage . IDENT_3 IDENT_4 = IDENT_5 . select ( IDENT_6 , org . IDENT_0 . IDENT_1 . repository . maven . internal . IDENT_7 ) ; "<AssertPlaceHolder>" ; } select ( org . IDENT_0 . IDENT_1 . repository . storage . IDENT_8 , org . IDENT_0 . IDENT_1 . repository . storage . IDENT_3 ) { return IDENT_9 ; }
+org . junit . Assert . assertEquals ( IDENT_4 , org . IDENT_0 . IDENT_1 . repository . maven . internal . IDENT_7 ) 

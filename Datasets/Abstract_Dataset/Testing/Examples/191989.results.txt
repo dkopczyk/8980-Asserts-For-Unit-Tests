@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . METHOD_1 ( STRING_0 ) ; IDENT_0 . com . IDENT_1 . model . IDENT_2 . IDENT_3 IDENT_2 = IDENT_0 . com . IDENT_1 . model . IDENT_2 . IDENT_3 . METHOD_2 ( ) . build ( ) ; java . util . List < IDENT_0 . com . IDENT_1 . model . IDENT_4 . IDENT_5 > IDENT_6 = METHOD_3 ( ) ; IDENT_2 . METHOD_4 ( IDENT_6 ) ; IDENT_2 . METHOD_5 ( IDENT_6 ) ; "<AssertPlaceHolder>" ; System . out . println ( STRING_1 ) ; } METHOD_6 ( ) { return this . IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_2 . METHOD_6 ( ) . size ( ) , 0 ) 

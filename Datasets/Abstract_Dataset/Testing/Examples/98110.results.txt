@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; IDENT_0 . METHOD_2 ( com . IDENT_1 . model . time . generator . IDENT_2 . IDENT_3 ) ; } METHOD_2 ( int ) { return 0 ; }
+org . junit . Assert . assertEquals ( com . IDENT_1 . model . time . generator . IDENT_2 . IDENT_3 , IDENT_0 . METHOD_2 ( 1 ) ) 

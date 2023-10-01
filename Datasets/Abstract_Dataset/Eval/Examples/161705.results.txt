@@ -1,0 +1,2 @@
+METHOD_0 ( ) { start ( ) ; monitor . METHOD_0 ( ) ; verify ( IDENT_0 ) . METHOD_1 ( monitor , new org . springframework . data . redis . listener . METHOD_2 ( IDENT_1 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertFalse ( monitor . METHOD_3 ( ) ) 

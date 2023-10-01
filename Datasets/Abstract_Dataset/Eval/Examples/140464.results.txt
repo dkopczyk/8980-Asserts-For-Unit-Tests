@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . Object > parameters = METHOD_1 ( ) ; parameters . put ( STRING_0 , STRING_1 ) ; org . opennms . IDENT_0 . IDENT_1 . IDENT_2 status = monitor . METHOD_2 ( METHOD_3 ( ) , parameters ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_3 ; }
+org . junit . Assert . assertFalse ( status . METHOD_4 ( ) ) 

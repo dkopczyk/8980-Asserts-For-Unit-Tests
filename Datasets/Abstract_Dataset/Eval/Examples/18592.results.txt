@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jackrabbit . oak . spi . security . authentication . IDENT_0 . IDENT_1 cb = new org . apache . jackrabbit . oak . spi . security . authentication . IDENT_0 . METHOD_1 ( ) ; org . apache . jackrabbit . api . security . user . IDENT_2 IDENT_3 = org . mockito . Mockito . mock ( org . apache . jackrabbit . api . security . user . IDENT_2 . class ) ; cb . METHOD_2 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { root . METHOD_4 ( ) ; return METHOD_3 ( root ) ; }
+org . junit . Assert . assertSame ( IDENT_3 , cb . METHOD_3 ( ) ) 

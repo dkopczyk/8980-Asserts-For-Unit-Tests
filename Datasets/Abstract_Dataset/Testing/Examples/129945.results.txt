@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( org . neo4j . IDENT_0 . IDENT_1 server = METHOD_1 ( ) . METHOD_2 ( STRING_0 , org . neo4j . IDENT_0 . doc . IDENT_2 . IDENT_3 . class ) . METHOD_3 ( ) ) { org . neo4j . doc . server . IDENT_4 . Response response = org . neo4j . doc . server . IDENT_4 . METHOD_4 ( org . neo4j . doc . server . IDENT_4 . METHOD_4 ( server . METHOD_5 ( ) . resolve ( STRING_1 ) . toString ( ) ) . location ( ) ) ; "<AssertPlaceHolder>" ; } } status ( ) { return response . getStatus ( ) ; }
+org . junit . Assert . assertEquals ( 200 , response . status ( ) ) 

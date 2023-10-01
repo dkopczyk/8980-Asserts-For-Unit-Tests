@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final nl . bzk . brp . bijhouding . bericht . model . IDENT_1 IDENT_2 = nl . bzk . brp . bijhouding . bericht . model . IDENT_1 . getInstance ( STRING_1 , IDENT_0 , null , null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( nl . bzk . brp . bijhouding . bericht . model . IDENT_3 ) { return IDENT_4 != null ? IDENT_4 . METHOD_2 ( ) : null ; }
+org . junit . Assert . assertEquals ( IDENT_0 , nl . bzk . brp . bijhouding . bericht . model . IDENT_3 . METHOD_1 ( IDENT_2 . METHOD_0 ( ) ) ) 

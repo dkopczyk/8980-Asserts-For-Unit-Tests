@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; boolean IDENT_1 = true ; boolean result = dao . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { try { org . oscarehr . common . model . IDENT_2 q = new org . oscarehr . common . model . METHOD_2 ( ) ; q . setName ( IDENT_3 ) ; IDENT_4 . METHOD_3 ( q ) ; } catch ( java . lang . Exception e ) { org . oscarehr . util . IDENT_5 . METHOD_4 ( ) . error ( STRING_1 , e ) ; return false ; } return true ; }
+org . junit . Assert . assertEquals ( IDENT_1 , result ) 

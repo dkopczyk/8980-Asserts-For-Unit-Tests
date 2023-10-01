@@ -1,0 +1,2 @@
+get ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 < com . IDENT_0 . IDENT_4 . IDENT_5 . client . IDENT_6 > IDENT_7 = IDENT_8 . get ( IDENT_9 ) ; "<AssertPlaceHolder>" ; } get ( com . IDENT_0 . IDENT_1 . hive . IDENT_10 . client . IDENT_11 . IDENT_12 ) { return new com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_0 ( METHOD_1 ( IDENT_9 ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_7 ) 

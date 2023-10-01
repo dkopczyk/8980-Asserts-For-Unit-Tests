@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . Iterator ) { return com . IDENT_0 . common . util . IDENT_1 . METHOD_1 ( iterator , STRING_0 ) ; }
+org . junit . Assert . assertEquals ( "test" , METHOD_1 ( java . util . Collections . singletonList ( "test" ) ) ) 

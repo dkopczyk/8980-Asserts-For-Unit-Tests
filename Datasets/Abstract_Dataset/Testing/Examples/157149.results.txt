@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . sagebionetworks . repo . model . Node node = METHOD_1 ( STRING_0 ) ; node . setName ( null ) ; node = IDENT_0 . METHOD_2 ( node ) ; IDENT_1 . add ( node . getId ( ) ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( node . getId ( ) , node . getName ( ) ) 

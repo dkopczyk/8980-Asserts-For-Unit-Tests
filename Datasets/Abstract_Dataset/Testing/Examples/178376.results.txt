@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . authorization . rest . model . IDENT_2 IDENT_3 = ( ( com . IDENT_0 . IDENT_1 . authorization . rest . model . IDENT_2 ) ( IDENT_4 . METHOD_1 ( STRING_0 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return null ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

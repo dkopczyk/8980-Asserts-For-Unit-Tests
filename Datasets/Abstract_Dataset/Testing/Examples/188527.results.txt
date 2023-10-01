@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . as . test . integration . IDENT_0 . IDENT_1 . resource . IDENT_2 . IDENT_3 bean = ( ( org . jboss . as . test . integration . IDENT_0 . IDENT_1 . resource . IDENT_2 . IDENT_3 ) ( new javax . IDENT_4 . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) ) ) ; java . net . URL expected = new java . net . URL ( STRING_1 ) ; java . net . URL actual = bean . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

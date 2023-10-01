@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . core . model . beans . IDENT_1 IDENT_2 = new net . IDENT_0 . core . model . beans . METHOD_1 ( "test" , false , false ) ; "<AssertPlaceHolder>" ; } toString ( ) { return this . name ; }
+org . junit . Assert . assertEquals ( "test" , IDENT_2 . toString ( ) ) 

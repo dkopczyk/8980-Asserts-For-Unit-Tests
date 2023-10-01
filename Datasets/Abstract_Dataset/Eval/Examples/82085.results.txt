@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . System . setProperty ( IDENT_0 . IDENT_1 , org . IDENT_2 . IDENT_3 . server . elasticsearch . IDENT_4 . IDENT_5 ) ; org . IDENT_2 . IDENT_3 . server . elasticsearch . IDENT_0 client = new org . IDENT_2 . IDENT_3 . server . elasticsearch . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( org . IDENT_2 . IDENT_3 . server . elasticsearch . IDENT_4 . IDENT_5 , client . METHOD_2 ( ) ) 

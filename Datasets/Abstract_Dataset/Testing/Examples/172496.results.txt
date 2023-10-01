@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . bson . Document document = new org . bson . Document ( STRING_0 , STRING_1 ) ; org . springframework . data . mongodb . core . convert . IDENT_0 . IDENT_1 result = converter . read ( org . springframework . data . mongodb . core . convert . IDENT_0 . IDENT_1 . class , document ) ; "<AssertPlaceHolder>" ; } read ( java . lang . Class , org . bson . IDENT_2 . IDENT_3 ) { return ( ( IDENT_4 ) ( person ) ) ; }
+org . junit . Assert . assertThat ( result . url , is ( new java . net . URL ( STRING_1 ) ) ) 

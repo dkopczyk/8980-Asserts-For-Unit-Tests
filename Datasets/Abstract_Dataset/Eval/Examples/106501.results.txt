@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . apache . hadoop . security . token . IDENT_0 < ? > > IDENT_1 = IDENT_2 . METHOD_1 ( new org . apache . hadoop . fs . Path ( "/" ) , STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_3 . size ( ) ; }
+org . junit . Assert . assertEquals ( 7 , IDENT_1 . size ( ) ) 

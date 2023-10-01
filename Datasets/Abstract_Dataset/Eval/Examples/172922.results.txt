@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . osgi . framework . IDENT_0 version = client . METHOD_1 ( ) ; System . out . println ( ( STRING_0 + version ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return org . springframework . IDENT_1 . eclipse . IDENT_2 . IDENT_3 . IDENT_4 . client . v2 . IDENT_5 . get ( info . map ( ( i ) -> new org . osgi . framework . METHOD_2 ( i . METHOD_1 ( ) ) ) ) ; }
+org . junit . Assert . assertNotNull ( version ) 

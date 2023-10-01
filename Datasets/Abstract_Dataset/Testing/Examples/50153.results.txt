@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . domain . IDENT_1 IDENT_2 = null ; try { this . dao . create ( IDENT_2 ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( java . lang . Exception e ) { "<AssertPlaceHolder>" ; } } create ( com . IDENT_0 . domain . IDENT_1 ) { com . googlecode . IDENT_3 . IDENT_4 IDENT_5 = IDENT_6 . METHOD_1 ( ) ; IDENT_5 . put ( IDENT_2 ) ; }
+org . junit . Assert . assertTrue ( true ) 

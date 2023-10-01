@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 a = ( ( org . openscience . cdk . interfaces . IDENT_0 ) ( METHOD_1 ( ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return null ; }
+org . junit . Assert . assertNull ( a . METHOD_2 ( ) ) 

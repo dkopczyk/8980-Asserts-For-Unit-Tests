@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object , java . lang . Object ) { return null ; }
+org . junit . Assert . assertNull ( e . METHOD_1 ( o ( 0 ) , o ( 0 ) ) ) 

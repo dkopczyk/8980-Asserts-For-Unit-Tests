@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . layout . IDENT_1 fixture = new org . IDENT_0 . core . layout . METHOD_1 ( ) ; fixture . init ( ) ; fixture . METHOD_2 ( STRING_0 ) ; fixture . METHOD_3 ( STRING_1 ) ; java . lang . String result = fixture . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertNotNull ( result ) 

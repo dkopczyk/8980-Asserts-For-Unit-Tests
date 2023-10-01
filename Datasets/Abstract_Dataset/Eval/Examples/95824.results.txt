@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File file = org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( this , STRING_0 ) ; org . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 instance = new org . IDENT_0 . IDENT_1 . IDENT_3 . METHOD_2 ( file ) ; java . lang . String expResult = STRING_1 ; java . lang . String result = instance . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( IDENT_5 ) == null ) { this . IDENT_5 = METHOD_4 ( org . IDENT_0 . IDENT_1 . IDENT_3 . METHOD_2 . IDENT_6 ) ; } return this . IDENT_5 ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . policy . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . policy . IDENT_1 . METHOD_1 ( STRING_0 , "bar" ) ; java . lang . Double IDENT_4 = FLOAT_0 ; "<AssertPlaceHolder>" ; } METHOD_2 ( com . IDENT_0 . cluster . IDENT_5 ) { boolean accept = false ; try { IDENT_6 . IDENT_7 . valueOf ( msg . getType ( ) ) ; accept = true ; } catch ( java . lang . IllegalArgumentException e ) { } return accept ; }
+org . junit . Assert . assertFalse ( IDENT_3 . METHOD_2 ( IDENT_4 ) ) 

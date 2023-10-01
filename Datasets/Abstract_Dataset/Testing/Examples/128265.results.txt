@@ -1,0 +1,2 @@
+METHOD_0 ( ) { gov . IDENT_0 . IDENT_1 . common . IDENT_2 . IDENT_3 executor = new gov . IDENT_0 . IDENT_1 . common . IDENT_2 . METHOD_1 ( STRING_0 , new java . lang . String [ 0 ] , null , true ) ; executor . METHOD_2 ( true ) ; executor . start ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { int value = 0 ; if ( ( IDENT_4 ) != null ) { value = IDENT_4 . METHOD_4 ( ) ; } return value ; }
+org . junit . Assert . assertEquals ( 0 , executor . METHOD_3 ( ) ) 

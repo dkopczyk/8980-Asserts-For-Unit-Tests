@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < org . apache . druid . collections . IDENT_0 < java . lang . Integer > > IDENT_1 = pool . METHOD_1 ( 100 , INT_0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( length ( ) ) == 0 ; }
+org . junit . Assert . assertTrue ( IDENT_1 . isEmpty ( ) ) 

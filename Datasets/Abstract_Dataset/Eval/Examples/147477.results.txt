@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . sql . IDENT_0 IDENT_1 = IDENT_2 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . Properties ) { props = new org . IDENT_3 . osgi . IDENT_4 . METHOD_2 ( props ) ; org . IDENT_3 . IDENT_5 . IDENT_6 IDENT_1 = new org . IDENT_3 . IDENT_5 . METHOD_3 ( ) ; METHOD_4 ( IDENT_1 , props ) ; return IDENT_1 ; }
+org . junit . Assert . assertNotNull ( IDENT_1 ) 

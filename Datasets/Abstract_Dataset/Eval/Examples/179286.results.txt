@@ -1,0 +1,2 @@
+METHOD_0 ( ) { uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . core . data . IDENT_3 IDENT_4 = dao . get ( 1L ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . core . data . IDENT_3 ) { return ! ( uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . core . util . IDENT_5 . METHOD_2 ( IDENT_4 ) ) ; }
+org . junit . Assert . assertTrue ( uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . core . util . IDENT_5 . METHOD_1 ( IDENT_4 ) ) 

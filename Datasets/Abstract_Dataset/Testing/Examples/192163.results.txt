@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( final java . sql . IDENT_0 connection = java . sql . IDENT_1 . METHOD_1 ( IDENT_2 . METHOD_2 ( ) ) ) { try ( final java . sql . IDENT_3 statement = connection . METHOD_3 ( ) ) { try ( final java . sql . ResultSet IDENT_4 = statement . METHOD_4 ( STRING_0 ) ) { "<AssertPlaceHolder>" ; } } } } METHOD_3 ( ) { return null ; }
+org . junit . Assert . assertTrue ( IDENT_4 . next ( ) ) 

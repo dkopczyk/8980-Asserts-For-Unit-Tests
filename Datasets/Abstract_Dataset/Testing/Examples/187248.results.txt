@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Integer > list = METHOD_1 ( ( ( java . lang . Integer [ ] ) ( null ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int ) { return new java . util . ArrayList < T > ( IDENT_0 ) ; }
+org . junit . Assert . assertTrue ( ( list instanceof java . util . ArrayList < ? > ) ) 

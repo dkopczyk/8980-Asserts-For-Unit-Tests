@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URI uri = IDENT_0 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { try { return new java . net . URI ( IDENT_1 ) ; } catch ( java . net . IDENT_2 e ) { org . nuxeo . ecm . IDENT_3 . core . IDENT_4 . log . error ( ( STRING_1 + IDENT_1 ) , e ) ; return null ; } }
+org . junit . Assert . assertNotNull ( uri ) 

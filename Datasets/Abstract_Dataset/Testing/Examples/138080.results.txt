@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String min = STRING_1 ; java . util . List < java . lang . String > IDENT_1 = null ; com . ibm . ws . security . authorization . IDENT_2 . IDENT_3 IDENT_4 = new com . ibm . ws . security . authorization . IDENT_2 . METHOD_1 ( IDENT_0 , min , IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( min , IDENT_4 . METHOD_2 ( ) ) 

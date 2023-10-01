@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 = STRING_0 ; IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; verify ( IDENT_2 , times ( 1 ) ) . METHOD_2 ( ) ; verify ( IDENT_3 , times ( 1 ) ) . METHOD_2 ( ) ; } METHOD_1 ( ) { super . METHOD_1 ( ) ; IDENT_4 . METHOD_1 ( ) ; }
+org . junit . Assert . assertNull ( IDENT_0 . IDENT_1 ) 

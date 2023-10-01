@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( factory . METHOD_1 ( eq ( fs ) , eq ( IDENT_0 ) , eq ( IDENT_1 ) , anyString ( ) ) ) . thenReturn ( ( x ) -> java . util . stream . IDENT_2 . empty ( ) ) ; org . neo4j . kernel . impl . transaction . log . IDENT_3 . IDENT_4 IDENT_3 = new org . neo4j . kernel . impl . transaction . log . IDENT_3 . METHOD_2 ( fs , IDENT_0 , IDENT_5 , factory , IDENT_1 , config ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( IDENT_6 . METHOD_4 ( IDENT_0 . METHOD_5 ( ) ) . count ( ) ) > 0 ; }
+org . junit . Assert . assertFalse ( IDENT_3 . METHOD_3 ( ) ) 

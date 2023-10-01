@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . IDENT_1 . core . event . IDENT_2 IDENT_3 = new org . eclipse . IDENT_0 . IDENT_1 . core . event . METHOD_1 ( STRING_0 , null , null ) ; org . eclipse . IDENT_0 . IDENT_1 . core . event . IDENT_2 IDENT_4 = new org . eclipse . IDENT_0 . IDENT_1 . core . event . METHOD_1 ( STRING_1 , null , new org . eclipse . IDENT_0 . IDENT_1 . core . event . IDENT_2 [ ] { IDENT_3 } ) ; java . lang . String value = IDENT_4 . METHOD_2 ( java . lang . String . class , STRING_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNull ( value ) 

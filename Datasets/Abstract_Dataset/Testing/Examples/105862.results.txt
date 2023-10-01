@@ -1,0 +1,2 @@
+METHOD_0 ( ) { this . IDENT_0 . METHOD_1 ( new de . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_0 . model . METHOD_2 ( new de . IDENT_1 . IDENT_2 . IDENT_3 . model . METHOD_3 ( null , "test" , null , null , null ) ) , 0 , 1 , 3 , 1 ) ; this . IDENT_0 . METHOD_1 ( new de . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_0 . model . METHOD_2 ( new de . IDENT_1 . IDENT_2 . IDENT_3 . model . METHOD_3 ( null , STRING_0 , null , null , null ) ) , 1 , 0 , 1 , 6 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_4 . size ( ) ; }
+org . junit . Assert . assertEquals ( 2 , this . IDENT_0 . size ( ) ) 

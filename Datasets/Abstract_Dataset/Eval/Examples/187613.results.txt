@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . api . util . auth . IDENT_1 other = com . IDENT_0 . api . util . auth . IDENT_1 . create ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return com . google . common . base . IDENT_2 . hashCode ( date , IDENT_3 , IDENT_4 ) ; }
+org . junit . Assert . assertThat ( user . hashCode ( ) , org . hamcrest . CoreMatchers . is ( other . hashCode ( ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( any ( org . IDENT_1 . security . IDENT_2 . class ) , eq ( IDENT_3 ) ) ) . thenReturn ( false ) ; java . util . Set < org . IDENT_1 . client . IDENT_4 . IDENT_5 > IDENT_6 = IDENT_7 . METHOD_2 ( IDENT_8 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_9 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_6 . size ( ) ) 

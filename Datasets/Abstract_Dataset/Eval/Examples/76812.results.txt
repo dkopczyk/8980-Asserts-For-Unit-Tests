@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . test . IDENT_1 . IDENT_2 dao = db . METHOD_1 ( com . IDENT_0 . test . IDENT_1 . IDENT_2 . class ) ; com . IDENT_0 . test . models . IDENT_3 [ ] IDENT_4 = dao . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class ) { return new com . IDENT_0 . IDENT_5 < IDENT_6 > ( this , IDENT_7 ) . build ( ) ; }
+org . junit . Assert . assertEquals ( 10 , IDENT_4 . length ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . opennms . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = METHOD_1 ( ) ; org . opennms . IDENT_0 . IDENT_1 . IDENT_4 val = org . opennms . IDENT_0 . IDENT_1 . IDENT_5 . METHOD_2 ( IDENT_3 , org . opennms . IDENT_0 . IDENT_1 . IDENT_6 . get ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return new org . opennms . IDENT_0 . IDENT_1 . METHOD_3 ( IDENT_7 ) ; }
+org . junit . Assert . assertNotNull ( val ) 

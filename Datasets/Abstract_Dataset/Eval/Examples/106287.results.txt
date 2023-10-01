@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File file = new java . io . File ( STRING_0 ) ; IDENT_0 . METHOD_1 ( file , STRING_1 , 12 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . io . File , java . lang . String , int ) { if ( file == null ) { return false ; } java . io . File IDENT_1 = METHOD_3 ( file ) ; for ( com . googlecode . IDENT_2 . core . IDENT_3 IDENT_4 : IDENT_5 ) { if ( IDENT_4 . METHOD_4 ( IDENT_1 , IDENT_6 , line , project ) ) { return true ; } } return false ; }
+org . junit . Assert . assertTrue ( IDENT_0 . METHOD_2 ( file , STRING_1 , 12 ) ) 

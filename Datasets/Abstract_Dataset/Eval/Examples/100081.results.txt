@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String in = STRING_0 ; org . kaazing . IDENT_0 . transport . ws . extension . IDENT_1 IDENT_2 = new org . kaazing . IDENT_0 . transport . ws . extension . METHOD_1 ( in ) ; "<AssertPlaceHolder>" ; } toString ( ) { return STRING_1 + ( name ) ; }
+org . junit . Assert . assertEquals ( in , IDENT_2 . toString ( ) ) 

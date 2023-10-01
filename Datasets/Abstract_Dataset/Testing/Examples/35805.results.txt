@@ -1,0 +1,2 @@
+METHOD_0 ( ) { store . METHOD_1 ( org . IDENT_0 . IDENT_1 . db . jdbc . IDENT_2 , IDENT_3 . IDENT_4 , IDENT_5 . IDENT_6 . toString ( ) ) ; org . IDENT_0 . IDENT_1 . db . IDENT_7 < org . IDENT_0 . IDENT_1 . IDENT_8 . model . IDENT_9 > IDENT_10 = store . METHOD_2 ( Integer . MAX_VALUE , null , true , org . IDENT_0 . IDENT_1 . db . jdbc . IDENT_11 ) ; int IDENT_12 = 0 ; while ( IDENT_10 . hasNext ( ) ) { IDENT_10 . next ( ) ; IDENT_12 ++ ; } "<AssertPlaceHolder>" ; } next ( ) { return iterator . next ( ) ; }
+org . junit . Assert . assertEquals ( 5 , IDENT_12 ) 

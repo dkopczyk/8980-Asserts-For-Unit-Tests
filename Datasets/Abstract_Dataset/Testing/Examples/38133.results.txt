@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . model . IDENT_1 IDENT_2 = mock ( org . IDENT_0 . model . IDENT_1 . class ) ; when ( IDENT_2 . METHOD_1 ( ) ) . thenReturn ( new org . IDENT_0 . model . METHOD_2 ( IDENT_3 ) ) ; org . IDENT_0 . sync . IDENT_4 IDENT_5 = new org . IDENT_0 . sync . METHOD_3 ( IDENT_2 ) ; java . io . StringWriter writer = new java . io . StringWriter ( ) ; IDENT_5 . METHOD_4 ( writer ) ; "<AssertPlaceHolder>" ; } toString ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_3 , writer . toString ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . IDENT_1 . domain . IDENT_2 > results = instance . METHOD_1 ( IDENT_3 ) . METHOD_2 ( IDENT_4 , IDENT_5 ) . list ( ) ; "<AssertPlaceHolder>" ; } size ( ) { if ( ( IDENT_6 . METHOD_3 ( ) ) instanceof net . sf . IDENT_7 . IDENT_8 ) { net . sf . IDENT_7 . IDENT_8 IDENT_7 = ( ( net . sf . IDENT_7 . IDENT_8 ) ( IDENT_6 . METHOD_3 ( ) ) ) ; return IDENT_7 . METHOD_4 ( ) ; } throw new java . lang . METHOD_5 ( STRING_0 ) ; }
+org . junit . Assert . assertEquals ( 12 , results . size ( ) ) 

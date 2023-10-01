@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; final org . jboss . IDENT_0 . IDENT_1 . maven . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = project . METHOD_2 ( org . jboss . IDENT_0 . IDENT_1 . maven . IDENT_2 . IDENT_3 . IDENT_4 . class ) ; final java . util . List < org . jboss . IDENT_0 . IDENT_1 . IDENT_6 . IDENT_7 > IDENT_6 = IDENT_5 . METHOD_3 ( ) ; IDENT_8 . execute ( context ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_9 . size ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_6 . size ( ) , IDENT_5 . METHOD_3 ( ) . size ( ) ) 

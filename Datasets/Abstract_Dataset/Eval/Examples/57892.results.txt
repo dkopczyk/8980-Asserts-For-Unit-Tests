@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; verify ( IDENT_1 , times ( 2 ) ) . getValue ( org . eclipse . IDENT_2 . IDENT_3 . ext . IDENT_4 . client . IDENT_5 . IDENT_6 . IDENT_7 ) ; verify ( IDENT_1 , times ( 2 ) ) . getValue ( org . eclipse . IDENT_2 . IDENT_3 . ext . IDENT_4 . client . IDENT_5 . IDENT_6 . IDENT_8 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return false ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . integration . IDENT_0 . IDENT_1 . IDENT_2 IDENT_1 = new org . springframework . integration . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; try { IDENT_1 . METHOD_2 ( null ) ; } catch ( java . lang . IllegalArgumentException e ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( org . springframework . integration . IDENT_0 . core . IDENT_3 ) { org . springframework . util . Assert . METHOD_3 ( executor , STRING_0 ) ; this . executor = executor ; }
+org . junit . Assert . assertEquals ( STRING_0 , e . getMessage ( ) ) 

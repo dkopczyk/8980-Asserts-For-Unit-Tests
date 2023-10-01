@@ -1,0 +1,2 @@
+METHOD_0 ( ) { parser = new com . github . IDENT_0 . IDENT_1 . METHOD_1 ( IDENT_2 . test . IDENT_3 . class ) ; java . lang . String [ ] args = parser . parse ( STRING_0 . split ( STRING_1 ) ) . get ( IDENT_2 . test . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Class ) { return ( ( T ) ( IDENT_4 . get ( IDENT_5 ) ) ) ; }
+org . junit . Assert . assertEquals ( 0 , args . length ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = java . util . Optional . of ( new org . kie . workbench . common . IDENT_1 . client . widgets . grid . IDENT_2 . IDENT_3 . METHOD_1 ( "name" ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return super . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( "name" , header . METHOD_2 ( ) ) 

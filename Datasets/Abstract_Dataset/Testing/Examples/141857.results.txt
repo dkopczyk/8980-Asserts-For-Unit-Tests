@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int index = 0 ; org . mockito . Mockito . when ( IDENT_0 . METHOD_1 ( index ) ) . thenReturn ( false ) ; org . mockito . Mockito . METHOD_2 ( ) . when ( IDENT_0 ) . METHOD_3 ( index ) ; boolean IDENT_1 = false ; try { IDENT_0 . METHOD_3 ( index ) ; } catch ( com . IDENT_2 . IDENT_3 . IDENT_4 . core . IDENT_5 . IDENT_6 e ) { IDENT_1 = true ; } "<AssertPlaceHolder>" ; } METHOD_3 ( int ) { if ( METHOD_1 ( index ) ) { return IDENT_7 [ index ] ; } else { throw METHOD_4 ( index ) ; } }
+org . junit . Assert . assertTrue ( IDENT_1 ) 

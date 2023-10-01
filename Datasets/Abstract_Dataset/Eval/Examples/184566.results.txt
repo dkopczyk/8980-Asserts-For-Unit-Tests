@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . client . flow . IDENT_0 . IDENT_1 data = new com . vaadin . client . flow . IDENT_0 . METHOD_1 ( ) ; node . METHOD_2 ( data ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . Class ) { return ( ( T ) ( IDENT_2 . get ( clazz ) ) ) ; }
+org . junit . Assert . assertEquals ( data , node . METHOD_3 ( com . vaadin . client . flow . IDENT_0 . METHOD_1 . class ) ) 

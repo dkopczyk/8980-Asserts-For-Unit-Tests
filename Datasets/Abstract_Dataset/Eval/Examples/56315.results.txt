@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 < java . lang . String > first = new IDENT_0 . IDENT_1 . METHOD_1 ( ) ; first . put ( 0 , IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 ) ; IDENT_0 . IDENT_1 . METHOD_1 < java . lang . String > IDENT_5 = new IDENT_0 . IDENT_1 . METHOD_1 ( first ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return metadata . find ( key ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 , IDENT_5 . get ( 0 ) ) 

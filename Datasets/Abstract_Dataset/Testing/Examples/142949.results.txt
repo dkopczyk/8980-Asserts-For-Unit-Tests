@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } count ( ) { return persistence . count ( IDENT_0 ) ; }
+org . junit . Assert . assertNotNull ( dao . count ( ) ) 

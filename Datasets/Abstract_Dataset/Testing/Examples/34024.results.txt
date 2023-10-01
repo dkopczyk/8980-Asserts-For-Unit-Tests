@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String unit = STRING_0 ; IDENT_0 . METHOD_1 ( unit ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return unit ; }
+org . junit . Assert . assertEquals ( unit , IDENT_0 . METHOD_2 ( ) ) 

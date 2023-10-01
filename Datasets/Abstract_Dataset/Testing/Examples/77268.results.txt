@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . gs . collections . impl . IDENT_0 . IDENT_1 < java . lang . Integer > IDENT_2 = new com . gs . collections . impl . IDENT_0 . METHOD_1 ( ) ; java . util . List < java . lang . Integer > expected = com . gs . collections . impl . list . IDENT_3 . METHOD_2 ( 5 ) ; IDENT_2 . add ( expected ) ; IDENT_2 . add ( ( ) -> { throw new java . lang . RuntimeException ( STRING_0 ) ; } ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( int ) { return null ; }
+org . junit . Assert . assertEquals ( expected , IDENT_2 . METHOD_3 ( expected . size ( ) ) . toList ( ) ) 

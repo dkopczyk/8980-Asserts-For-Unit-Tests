@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( com . IDENT_0 . server . error . IDENT_1 IDENT_2 : com . IDENT_0 . server . error . IDENT_1 . values ( ) ) { "<AssertPlaceHolder>" ; } } getMessage ( ) { return com . IDENT_0 . server . error . IDENT_1 . IDENT_3 . getString ( name ( ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 . getMessage ( ) ) 

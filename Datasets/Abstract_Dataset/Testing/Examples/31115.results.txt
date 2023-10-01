@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . batfish . datamodel . IDENT_0 IDENT_1 = org . batfish . datamodel . IDENT_0 . builder ( ) . METHOD_1 ( com . google . common . collect . ImmutableList . of ( new org . batfish . datamodel . METHOD_2 ( 8 , 8 ) ) ) . build ( ) ; net . sf . IDENT_2 . IDENT_3 IDENT_4 = IDENT_5 . METHOD_3 ( IDENT_1 ) ; net . sf . IDENT_2 . IDENT_3 IDENT_6 = IDENT_7 . METHOD_4 ( ) . value ( 8 ) ; "<AssertPlaceHolder>" ; } value ( int ) { return IDENT_8 . get ( i ) ; }
+org . junit . Assert . assertThat ( IDENT_4 , org . hamcrest . Matchers . equalTo ( IDENT_6 ) ) 

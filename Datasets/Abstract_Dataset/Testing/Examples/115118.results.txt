@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . Boolean [ ] original = new java . lang . Boolean [ ] { Boolean . IDENT_0 , Boolean . IDENT_1 } ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object [ ] ) { if ( org . apache . commons . lang3 . IDENT_2 . isEmpty ( array ) ) { return org . apache . commons . lang3 . IDENT_2 . IDENT_3 ; } return array ; }
+org . junit . Assert . assertArrayEquals ( original , org . apache . commons . lang3 . IDENT_2 . METHOD_1 ( original ) ) 

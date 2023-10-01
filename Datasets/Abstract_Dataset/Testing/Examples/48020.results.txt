@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . util . Map < java . lang . String , java . lang . String > > result ; try ( java . io . InputStream is = org . eclipse . IDENT_0 . utils . IDENT_1 . tests . IDENT_2 . class . getResourceAsStream ( STRING_0 ) ) { result = org . eclipse . IDENT_0 . utils . IDENT_1 . IDENT_3 . METHOD_1 ( is ) ; } "<AssertPlaceHolder>" ; } METHOD_1 ( java . io . InputStream ) { return org . eclipse . IDENT_0 . utils . IDENT_1 . IDENT_4 . METHOD_2 ( IDENT_5 ) ; }
+org . junit . Assert . assertEquals ( 2 , result . size ( ) ) 

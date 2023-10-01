@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . apache . IDENT_0 . core . job . entity . IDENT_1 > IDENT_2 = IDENT_3 . METHOD_0 ( 1L , false ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_2 . size ( ) , 4 ) 

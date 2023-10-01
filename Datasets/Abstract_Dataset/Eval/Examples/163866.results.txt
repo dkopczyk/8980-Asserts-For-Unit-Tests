@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . oscm . internal . IDENT_0 . IDENT_1 > result = IDENT_2 . METHOD_0 ( ) ; verify ( IDENT_2 . IDENT_3 , times ( 1 ) ) . METHOD_1 ( ) ; verify ( IDENT_2 . dc , times ( 1 ) ) . METHOD_2 ( eq ( IDENT_4 ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , result . size ( ) ) 

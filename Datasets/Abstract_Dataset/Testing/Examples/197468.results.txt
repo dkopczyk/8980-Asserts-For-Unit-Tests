@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] a = new int [ ] { INT_0 , INT_1 , INT_2 , 2 , INT_3 , 3 } ; int [ ] b = new int [ a . length ] ; java . lang . System . METHOD_1 ( a , 0 , b , 0 , a . length ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertArrayEquals ( a , b ) 

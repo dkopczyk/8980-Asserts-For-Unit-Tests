@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . atlas . api . validation . results . IDENT_1 result = validator . validate ( IDENT_2 , org . IDENT_0 . atlas . api . IDENT_3 . validation . IDENT_4 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_6 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( result . METHOD_1 ( ) ) 

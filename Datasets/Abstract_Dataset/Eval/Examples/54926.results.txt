@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . util . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . util . METHOD_1 ( ) . create ( org . IDENT_0 . util . IDENT_1 . IDENT_2 . class ) ; "<AssertPlaceHolder>" ; } create ( java . lang . Class ) { sun . reflect . IDENT_4 IDENT_5 = sun . reflect . IDENT_4 . METHOD_2 ( ) ; java . lang . reflect . IDENT_6 IDENT_7 = IDENT_5 . METHOD_3 ( clazz , java . lang . Object . class . METHOD_4 ( ) ) ; return clazz . METHOD_5 ( IDENT_7 . newInstance ( ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

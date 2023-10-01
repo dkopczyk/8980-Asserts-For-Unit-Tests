@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = org . IDENT_1 . platform . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_1 ( ) ; org . IDENT_1 . platform . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . logger . info ( ( STRING_0 + IDENT_0 ) ) ; "<AssertPlaceHolder>" ; } info ( org . xml . IDENT_7 . IDENT_8 ) { }
+org . junit . Assert . assertNotNull ( STRING_0 , IDENT_0 ) 

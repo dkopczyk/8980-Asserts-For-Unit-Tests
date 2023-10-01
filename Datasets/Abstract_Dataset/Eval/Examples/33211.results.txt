@@ -1,0 +1,2 @@
+METHOD_0 ( ) { de . IDENT_0 . IDENT_1 . util . IDENT_2 IDENT_3 = new de . IDENT_0 . IDENT_1 . util . METHOD_1 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } replaceAll ( java . lang . String ) { java . lang . String result ; if ( s != null ) { result = pattern . matcher ( s ) . replaceAll ( IDENT_4 ) ; } else { result = null ; } return result ; }
+org . junit . Assert . assertNull ( IDENT_3 . replaceAll ( null ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . sagebionetworks . table . cluster . IDENT_0 query = new org . sagebionetworks . table . cluster . METHOD_1 ( sql ) . METHOD_2 ( schema ) . METHOD_3 ( false ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return this . METHOD_3 ; }
+org . junit . Assert . assertFalse ( query . METHOD_3 ( ) ) 

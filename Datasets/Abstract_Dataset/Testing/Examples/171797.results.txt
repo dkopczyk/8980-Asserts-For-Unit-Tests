@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . spotify . logging . IDENT_0 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { final ch . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = ( ( ch . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 ) ( org . IDENT_6 . IDENT_7 . METHOD_3 ( STRING_1 ) ) ) ; final ch . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_8 IDENT_9 = IDENT_5 . METHOD_4 ( ) ; return IDENT_9 . getProperty ( STRING_2 ) ; }
+org . junit . Assert . assertNotNull ( METHOD_2 ( ) ) 

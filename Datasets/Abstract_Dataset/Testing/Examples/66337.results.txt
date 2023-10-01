@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . baeldung . drools . model . IDENT_0 IDENT_1 = new com . baeldung . drools . model . METHOD_1 ( com . baeldung . drools . model . METHOD_1 . IDENT_2 . IDENT_3 , 1 ) ; IDENT_4 . insert ( IDENT_1 ) ; IDENT_4 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_1 . METHOD_3 ( ) , 5 ) 

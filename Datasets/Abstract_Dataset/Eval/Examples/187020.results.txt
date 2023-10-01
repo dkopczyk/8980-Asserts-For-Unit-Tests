@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . security . authentication . IDENT_0 . IDENT_1 IDENT_2 = new org . springframework . security . authentication . IDENT_0 . METHOD_1 ( ) ; java . lang . String IDENT_3 = "test" ; java . lang . String IDENT_4 = STRING_0 ; java . lang . String res = IDENT_2 . METHOD_2 ( IDENT_3 , IDENT_4 . getBytes ( ) ) ; System . out . println ( ( STRING_1 + res ) ) ; boolean IDENT_5 = IDENT_2 . METHOD_3 ( res , IDENT_3 , STRING_2 ) ; "<AssertPlaceHolder>" ; } getBytes ( ) { return content ; }
+org . junit . Assert . assertTrue ( IDENT_5 ) 

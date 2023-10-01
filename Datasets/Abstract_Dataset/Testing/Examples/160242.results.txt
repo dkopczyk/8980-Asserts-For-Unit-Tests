@@ -1,0 +1,2 @@
+METHOD_0 ( ) { cache . put ( "test" , STRING_0 ) ; "<AssertPlaceHolder>" ; } get ( IDENT_0 ) { return map . get ( key ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , cache . get ( "test" ) ) 

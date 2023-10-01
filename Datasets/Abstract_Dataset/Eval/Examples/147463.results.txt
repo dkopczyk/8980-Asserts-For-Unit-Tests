@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . IDENT_0 stmt = conn . METHOD_1 ( ) ; stmt . METHOD_2 ( ) ; stmt . METHOD_3 ( org . IDENT_1 . test . IDENT_2 . METHOD_4 ( STRING_0 , "1" ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return ( IDENT_3 ) == null ; }
+org . junit . Assert . assertFalse ( stmt . METHOD_5 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . hbase . IDENT_0 . IDENT_1 m = org . apache . hadoop . hbase . IDENT_2 . IDENT_3 . METHOD_1 ( ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_4 ( IDENT_4 . IDENT_5 ) ; }
+org . junit . Assert . assertTrue ( m . METHOD_3 ( ) ) 

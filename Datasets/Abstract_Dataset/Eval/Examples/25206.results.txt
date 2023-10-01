@@ -1,0 +1,2 @@
+run ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; org . junit . Assert . assertEquals ( 0 , em . METHOD_2 ( STRING_0 , org . apache . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . class ) . METHOD_3 ( ) . METHOD_4 ( ) ) ; IDENT_0 . METHOD_5 ( ) ; org . junit . Assert . assertEquals ( 1 , em . METHOD_2 ( STRING_0 , org . apache . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . class ) . METHOD_3 ( ) . METHOD_4 ( ) ) ; return STRING_1 ; }
+org . junit . Assert . assertEquals ( STRING_1 , bean . METHOD_0 ( ) ) 

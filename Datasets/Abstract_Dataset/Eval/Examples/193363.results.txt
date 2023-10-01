@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . ws . rs . ext . IDENT_0 p = new org . apache . cxf . jaxrs . provider . METHOD_1 ( ) ; byte [ ] IDENT_1 = "" . getBytes ( STRING_0 ) ; byte [ ] IDENT_2 = ( ( byte [ ] ) ( p . METHOD_2 ( byte [ ] . class , byte [ ] . class , new java . lang . annotation . IDENT_3 [ ] { } , IDENT_4 . IDENT_5 , new org . apache . cxf . jaxrs . impl . IDENT_6 < java . lang . String , java . lang . Object > ( ) , new java . io . ByteArrayInputStream ( IDENT_1 ) ) ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertArrayEquals ( IDENT_1 , IDENT_2 ) 

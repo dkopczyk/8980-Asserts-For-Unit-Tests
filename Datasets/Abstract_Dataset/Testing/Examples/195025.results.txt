@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . net . URL > res = new org . IDENT_0 . IDENT_1 . METHOD_1 ( ) . get ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertFalse ( res . isEmpty ( ) ) 

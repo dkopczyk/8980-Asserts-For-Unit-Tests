@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . maven . plugin . IDENT_1 . header . IDENT_2 parser = new com . IDENT_0 . maven . plugin . IDENT_1 . header . METHOD_1 ( new com . IDENT_0 . maven . plugin . IDENT_1 . util . METHOD_2 ( new java . io . File ( STRING_0 ) , java . lang . System . getProperty ( STRING_1 ) ) , IDENT_3 . IDENT_4 . METHOD_3 ( ) , new java . lang . String [ ] { STRING_2 } ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertFalse ( parser . METHOD_4 ( ) ) 

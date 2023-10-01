@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( int k = alluxio . IDENT_0 . IDENT_1 ; k <= ( alluxio . IDENT_0 . IDENT_2 ) ; k += alluxio . IDENT_0 . IDENT_3 ) { alluxio . IDENT_4 IDENT_5 = new alluxio . METHOD_1 ( k , alluxio . IDENT_0 . IDENT_6 ) ; "<AssertPlaceHolder>" ; } } METHOD_2 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( k , IDENT_5 . METHOD_2 ( ) ) 

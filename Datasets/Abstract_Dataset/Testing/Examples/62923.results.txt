@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . IDENT_1 . internal . unit . IDENT_2 IDENT_3 = new com . eclipsesource . IDENT_0 . IDENT_1 . internal . unit . METHOD_1 ( INT_0 ) ; java . math . BigDecimal value = IDENT_3 . getValue ( ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return value ; }
+org . junit . Assert . assertEquals ( java . math . BigDecimal . valueOf ( INT_0 ) , value ) 

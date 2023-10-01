@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . gs . collections . api . IDENT_0 < java . lang . Integer > select = com . gs . collections . impl . IDENT_1 . IDENT_2 . METHOD_1 ( com . gs . collections . impl . list . IDENT_3 . METHOD_2 ( 5 ) , com . gs . collections . impl . block . factory . IDENT_4 . METHOD_3 ( 5 ) ) ; int IDENT_5 = select . METHOD_4 ( 0 , IDENT_6 . IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( double , com . gs . collections . api . block . function . IDENT_8 . IDENT_9 ) { return 0 ; }
+org . junit . Assert . assertEquals ( 5 , IDENT_5 ) 

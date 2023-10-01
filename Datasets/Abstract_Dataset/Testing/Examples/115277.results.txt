@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . commons . lang3 . text . IDENT_0 sb = new org . apache . commons . lang3 . text . METHOD_1 ( ) . METHOD_2 ( STRING_0 , " " , STRING_1 , " " , STRING_2 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return java . lang . String . format ( STRING_3 , IDENT_1 , METHOD_3 ( ) , METHOD_4 ( ) ) ; }
+org . junit . Assert . assertEquals ( sb . toString ( ) , sb . build ( ) ) 

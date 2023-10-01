@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URL IDENT_0 = org . IDENT_1 . IDENT_2 . feature . IDENT_3 . class . getResource ( STRING_0 ) ; org . IDENT_1 . IDENT_2 . IDENT_4 IDENT_5 = org . IDENT_1 . IDENT_2 . IDENT_6 . METHOD_1 ( org . IDENT_1 . IDENT_2 . IDENT_7 . IDENT_8 , IDENT_0 ) ; org . IDENT_1 . IDENT_2 . feature . IDENT_9 IDENT_10 = IDENT_5 . METHOD_2 ( ) ; int i = 0 ; while ( ( IDENT_10 . read ( ) ) != null ) { i ++ ; } "<AssertPlaceHolder>" ; } read ( ) { return is . read ( ) ; }
+org . junit . Assert . assertEquals ( 4 , i ) 

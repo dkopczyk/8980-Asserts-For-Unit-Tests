@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . accumulo . core . data . IDENT_0 v = new org . apache . accumulo . core . data . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } get ( ) { return sb . toString ( ) ; }
+org . junit . Assert . assertEquals ( 0 , v . get ( ) . length ) 

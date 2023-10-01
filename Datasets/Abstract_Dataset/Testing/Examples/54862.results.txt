@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . model . User > found = IDENT_1 . METHOD_1 ( ) ; log . debug ( ( STRING_0 + found ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return dao . METHOD_1 ( ) ; }
+org . junit . Assert . assertEquals ( 3 , found . size ( ) ) 

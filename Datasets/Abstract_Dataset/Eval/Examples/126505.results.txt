@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . bson . Document from = new org . bson . Document ( ) ; final org . bson . Document val = new org . bson . Document ( ) ; val . put ( "value" , STRING_0 ) ; from . put ( STRING_1 , val ) ; org . IDENT_0 . domain . mapper . IDENT_1 instance = new org . IDENT_0 . domain . mapper . METHOD_1 ( STRING_2 ) ; METHOD_2 ( ) . METHOD_3 ( instance , from ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertThat ( instance . METHOD_4 ( ) . getValue ( ) , org . hamcrest . Matchers . is ( STRING_0 ) ) 

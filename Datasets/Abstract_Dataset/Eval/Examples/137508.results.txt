@@ -1,0 +1,2 @@
+METHOD_0 ( ) { @ org . IDENT_0 . IDENT_1 . IDENT_2 final java . lang . String IDENT_3 = STRING_0 ; @ org . IDENT_0 . IDENT_1 . IDENT_2 final net . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 IDENT_6 = METHOD_1 ( ) ; IDENT_6 . write ( ) . text ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } read ( ) { METHOD_2 ( METHOD_3 ( ) , null , net . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_8 . IDENT_9 . IDENT_10 . code ( ) ) ; return ( bytes . METHOD_4 ( ) ) <= 0 ? METHOD_5 ( ) : IDENT_11 ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_6 . read ( ) . text ( ) ) 

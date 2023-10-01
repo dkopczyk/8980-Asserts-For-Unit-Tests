@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = METHOD_1 ( ) ; java . lang . String result = handler . METHOD_2 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { try { return IDENT_0 . substring ( IDENT_0 . indexOf ( STRING_0 ) , IDENT_0 . indexOf ( STRING_1 ) ) . substring ( 1 ) . replace ( STRING_2 , STRING_3 ) ; } catch ( java . lang . IDENT_1 e ) { return "" ; } }
+org . junit . Assert . assertEquals ( "" , result ) 

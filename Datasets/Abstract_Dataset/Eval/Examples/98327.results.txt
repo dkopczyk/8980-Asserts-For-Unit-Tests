@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . joda . IDENT_0 . format . IDENT_1 a = IDENT_1 . IDENT_2 ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { if ( ( this ) == other ) { return true ; } if ( other instanceof org . joda . IDENT_0 . IDENT_3 ) { org . joda . IDENT_0 . IDENT_3 IDENT_4 = ( ( org . joda . IDENT_0 . IDENT_3 ) ( other ) ) ; return ( IDENT_5 . equals ( IDENT_4 . METHOD_1 ( ) ) ) && ( IDENT_6 . equals ( IDENT_4 . IDENT_6 ) ) ; } return false ; }
+org . junit . Assert . assertEquals ( true , a . equals ( a ) ) 

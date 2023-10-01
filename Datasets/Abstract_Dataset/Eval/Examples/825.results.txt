@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . log ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 instance = IDENT_5 . METHOD_1 ( ) ; long expResult = 0L ; long result = instance . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

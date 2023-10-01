@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . finra . herd . model . api . xml . IDENT_0 IDENT_1 = new org . finra . herd . model . api . xml . METHOD_1 ( ) ; when ( IDENT_2 . METHOD_2 ( IDENT_1 ) ) . thenReturn ( true ) ; java . util . List < com . amazonaws . services . IDENT_3 . model . IDENT_4 > result = IDENT_5 . METHOD_3 ( IDENT_1 ) ; verify ( IDENT_2 ) . METHOD_2 ( IDENT_1 ) ; METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { METHOD_5 ( IDENT_6 , IDENT_7 , IDENT_8 , IDENT_9 ) ; }
+org . junit . Assert . assertNull ( result ) 

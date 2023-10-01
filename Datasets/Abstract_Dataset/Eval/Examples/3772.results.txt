@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 ) ; alluxio . IDENT_1 . job . IDENT_2 IDENT_3 = alluxio . IDENT_1 . job . IDENT_2 . create ( IDENT_4 , IDENT_5 , IDENT_6 , IDENT_7 , IDENT_8 , null ) ; METHOD_2 ( IDENT_3 , Status . IDENT_9 , Status . IDENT_10 , Status . IDENT_9 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return new alluxio . job . IDENT_11 . METHOD_4 ( IDENT_12 ) ; }
+org . junit . Assert . assertEquals ( Status . IDENT_10 , IDENT_3 . METHOD_3 ( ) . getStatus ( ) ) 

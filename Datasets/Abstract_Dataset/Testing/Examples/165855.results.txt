@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . nio . file . IDENT_0 IDENT_1 = org . jboss . IDENT_2 . api . IDENT_3 . file . IDENT_4 . METHOD_1 ( org . jboss . IDENT_2 . api . IDENT_5 . create ( org . jboss . IDENT_2 . api . IDENT_6 . class ) ) ; final java . nio . file . Path IDENT_7 = IDENT_1 . getPath ( STRING_0 ) ; final boolean IDENT_8 = IDENT_9 . getPath ( STRING_1 ) . METHOD_2 ( IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return false ; }
+org . junit . Assert . assertFalse ( METHOD_2 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { service . put ( STRING_0 , "value" ) ; service . delete ( STRING_0 ) ; "<AssertPlaceHolder>" ; } contains ( java . lang . Object ) { return cache . containsKey ( METHOD_1 ( key ) ) ; }
+org . junit . Assert . assertFalse ( service . contains ( STRING_0 ) ) 

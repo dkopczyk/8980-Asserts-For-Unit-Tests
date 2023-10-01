@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Long > result = IDENT_0 . METHOD_1 ( null , null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( T , java . util . List ) { java . util . List < T > IDENT_1 = null ; if ( id != null ) { if ( ( IDENT_2 != null ) && ( ! ( IDENT_2 . isEmpty ( ) ) ) ) { throw new com . cloud . exception . METHOD_2 ( STRING_0 ) ; } IDENT_1 = new java . util . ArrayList < T > ( ) ; IDENT_1 . add ( id ) ; } else { IDENT_1 = IDENT_2 ; } return IDENT_1 ; }
+org . junit . Assert . assertNull ( result ) 

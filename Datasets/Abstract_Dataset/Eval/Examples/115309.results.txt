@@ -1,0 +1,2 @@
+getMessage ( ) { java . lang . String expected = load ( ) . getProperty ( STRING_0 ) ; java . lang . String actual = messages . getMessage ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . Class ) { return clazz . METHOD_0 ( properties . first ( clazz ) ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

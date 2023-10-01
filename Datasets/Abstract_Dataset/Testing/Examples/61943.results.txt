@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( mock ( org . eclipse . swt . events . IDENT_1 . class ) ) ; org . eclipse . swt . widgets . IDENT_2 [ ] IDENT_3 = IDENT_0 . METHOD_2 ( IDENT_4 . IDENT_5 ) ; for ( org . eclipse . swt . widgets . IDENT_2 listener : IDENT_3 ) { IDENT_0 . METHOD_3 ( IDENT_4 . IDENT_5 , listener ) ; } "<AssertPlaceHolder>" ; } METHOD_4 ( int ) { METHOD_5 ( ) ; return ( IDENT_6 ) == null ? false : IDENT_6 . METHOD_6 ( IDENT_7 ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_4 ( IDENT_4 . IDENT_5 ) ) 

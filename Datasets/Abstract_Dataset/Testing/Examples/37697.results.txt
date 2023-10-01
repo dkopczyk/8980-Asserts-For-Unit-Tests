@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . dto . api . v1 . IDENT_1 dto = new org . IDENT_0 . dto . api . v1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { if ( ( IDENT_2 == null ) || ( IDENT_2 . isEmpty ( ) ) ) { throw new java . lang . IllegalArgumentException ( STRING_0 ) ; } if ( ( this . IDENT_3 ) == null ) { this . IDENT_3 = new java . util . HashSet ( ) ; } return this . IDENT_3 . add ( IDENT_2 ) ; }
+org . junit . Assert . assertTrue ( dto . METHOD_2 ( "" ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . HashSet < org . IDENT_0 . common . domain . IDENT_1 > IDENT_2 = METHOD_1 ( true ) ; for ( final org . IDENT_0 . common . domain . IDENT_1 resource : IDENT_2 ) { IDENT_3 . METHOD_2 ( resource ) ; } final java . util . HashSet < org . IDENT_0 . common . domain . IDENT_1 > IDENT_4 = METHOD_3 ( IDENT_3 , STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return isEmpty ( ) ? 0 : events . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_4 . size ( ) ) <= 3 ) ) 

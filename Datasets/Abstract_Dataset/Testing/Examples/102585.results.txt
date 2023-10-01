@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . services . task . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . services . task . IDENT_1 . METHOD_1 ( props ) ; boolean exists = IDENT_3 . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return true ; }
+org . junit . Assert . assertTrue ( exists ) 

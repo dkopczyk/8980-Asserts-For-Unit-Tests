@@ -1,0 +1,2 @@
+METHOD_0 ( ) { buffer = org . IDENT_0 . util . IDENT_1 . METHOD_1 ( org . IDENT_0 . util . IDENT_1 . IDENT_2 , org . IDENT_0 . util . IDENT_1 . IDENT_3 , org . IDENT_0 . util . IDENT_1 . IDENT_4 ) ; buffer . METHOD_2 ( ( - 1 ) ) ; "<AssertPlaceHolder>" ; } length ( ) { if ( ( buffer ) == null ) { return 0 ; } else { return buffer . length ; } }
+org . junit . Assert . assertEquals ( 0 , buffer . length ( ) ) 

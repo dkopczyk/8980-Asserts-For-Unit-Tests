@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; verify ( org . IDENT_1 . IDENT_2 . IDENT_3 . test . IDENT_0 . IDENT_4 . logger , times ( 2 ) ) . debug ( anyString ( ) ) ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_2 ( ) ) 

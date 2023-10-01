@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . talend . IDENT_0 . api . service . api . IDENT_1 params = new org . talend . IDENT_0 . api . service . api . METHOD_1 ( ) ; params . METHOD_2 ( STRING_0 ) ; java . util . Set < javax . validation . IDENT_2 < org . talend . IDENT_0 . api . service . api . METHOD_1 > > IDENT_3 = validator . validate ( params ) ; "<AssertPlaceHolder>" ; } size ( ) { return org . talend . IDENT_0 . IDENT_4 . store . file . IDENT_5 . METHOD_3 ( IDENT_6 . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_3 . size ( ) ) 

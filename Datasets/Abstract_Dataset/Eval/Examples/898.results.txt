@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; boolean expResult = true ; boolean result = com . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return com . IDENT_0 . IDENT_1 . util . IDENT_2 . IDENT_3 ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

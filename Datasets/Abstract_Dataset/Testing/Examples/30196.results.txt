@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . microsoft . azure . sdk . iot . service . IDENT_0 . IDENT_1 IDENT_2 = com . microsoft . azure . sdk . iot . service . IDENT_0 . IDENT_1 . METHOD_1 ( tests . unit . com . microsoft . azure . sdk . iot . service . IDENT_0 . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( ( IDENT_5 == null ) || ( ( IDENT_5 . length ( ) ) == 0 ) ) { IDENT_6 . IDENT_7 = com . microsoft . azure . sdk . iot . service . IDENT_8 . METHOD_2 ( IDENT_5 ) ; return IDENT_6 ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

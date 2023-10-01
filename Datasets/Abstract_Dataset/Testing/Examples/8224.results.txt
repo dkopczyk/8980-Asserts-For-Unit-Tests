@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . camel . component . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = ( ( org . apache . camel . component . IDENT_0 . IDENT_1 . IDENT_2 ) ( context . METHOD_1 ( ( STRING_0 + ( ( STRING_1 + STRING_2 ) + STRING_3 ) ) ) ) ) ; "<AssertPlaceHolder>" ; verify ( IDENT_4 , METHOD_2 ( ) ) . METHOD_3 ( ) ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertThat ( IDENT_3 . METHOD_3 ( ) , org . hamcrest . CoreMatchers . is ( "" ) ) 

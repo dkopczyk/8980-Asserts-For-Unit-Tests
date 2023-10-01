@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = org . apache . IDENT_0 . IDENT_4 . factory . IDENT_5 . METHOD_1 ( ) ; uk . gov . IDENT_6 . IDENT_7 . IDENT_8 . IDENT_9 factory = new uk . gov . IDENT_6 . IDENT_7 . IDENT_8 . METHOD_2 ( IDENT_3 ) ; java . util . List < uk . gov . IDENT_6 . IDENT_7 . IDENT_8 . IDENT_10 > IDENT_11 = factory . create ( ) ; "<AssertPlaceHolder>" ; } create ( ) { return ( ( T ) ( org . apache . IDENT_0 . IDENT_4 . factory . IDENT_12 . METHOD_3 ( clazz ) ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_11 ) 

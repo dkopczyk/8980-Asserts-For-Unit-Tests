@@ -1,0 +1,2 @@
+METHOD_0 ( ) { char [ ] arr = METHOD_1 ( new char [ ] { 1 , 2 } ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertArrayEquals ( new char [ ] { 1 , 2 } , arr ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . IDENT_0 . runner . options . IDENT_1 options = com . google . IDENT_0 . runner . options . IDENT_2 . from ( new java . lang . String [ ] { com . google . IDENT_0 . runner . options . IDENT_3 . IDENT_4 } , true ) ; "<AssertPlaceHolder>" ; METHOD_1 ( options ) ; } METHOD_2 ( ) { return METHOD_2 ; }
+org . junit . Assert . assertEquals ( com . google . IDENT_0 . runner . options . IDENT_3 . IDENT_4 , options . METHOD_2 ( ) ) 

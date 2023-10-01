@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( org . apache . hadoop . hbase . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new org . apache . hadoop . hbase . IDENT_0 . IDENT_1 . METHOD_1 ( IDENT_4 , org . apache . hadoop . hbase . IDENT_0 . IDENT_1 . IDENT_5 . IDENT_6 , 0 , log , null , new org . apache . hadoop . hbase . IDENT_0 . IDENT_1 . METHOD_2 ( "1" ) ) ) { "<AssertPlaceHolder>" ; } } hasNext ( ) { return false ; }
+org . junit . Assert . assertFalse ( IDENT_3 . hasNext ( ) ) 

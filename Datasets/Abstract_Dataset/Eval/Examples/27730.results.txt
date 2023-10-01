@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Boolean t = null ; java . lang . IDENT_0 c = converter . METHOD_1 ( t ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Long ) { if ( value == null ) { return null ; } if ( ( value < ( IDENT_0 . IDENT_1 ) ) || ( value > ( IDENT_0 . MAX_VALUE ) ) ) { throw new io . IDENT_2 . api . METHOD_2 ( java . lang . String . format ( STRING_0 , value ) ) ; } return java . lang . IDENT_0 . valueOf ( ( ( char ) ( value . METHOD_3 ( ) ) ) ) ; }
+org . junit . Assert . assertNull ( c ) 

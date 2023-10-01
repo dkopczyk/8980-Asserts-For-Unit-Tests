@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . IDENT_0 < byte [ ] , byte [ ] > map = mock ( java . util . IDENT_0 . class ) ; IDENT_1 . IDENT_2 = METHOD_1 ( STRING_0 , map ) ; IDENT_1 . IDENT_3 = new org . apache . hadoop . hbase . client . METHOD_2 ( ) ; IDENT_1 . IDENT_4 = mock ( org . apache . hadoop . hbase . client . IDENT_5 . class ) ; java . util . IDENT_0 < byte [ ] , byte [ ] > IDENT_6 = IDENT_1 . METHOD_3 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { return delegate . METHOD_3 ( IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( map , IDENT_6 ) 

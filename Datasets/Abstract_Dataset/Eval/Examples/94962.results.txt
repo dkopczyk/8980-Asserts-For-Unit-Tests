@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 action = IDENT_4 . METHOD_1 ( STRING_0 , INT_0 ) ; log . info ( action . toString ( ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return org . apache . commons . lang3 . builder . IDENT_5 . toString ( this ) ; }
+org . junit . Assert . assertNotNull ( action ) 

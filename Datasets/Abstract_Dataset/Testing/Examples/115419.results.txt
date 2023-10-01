@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . StringWriter IDENT_0 = new java . io . StringWriter ( ) ; IDENT_1 . io . json . IDENT_2 writer = new IDENT_1 . io . json . METHOD_1 ( IDENT_0 , false ) ; writer . METHOD_2 ( ) ; writer . METHOD_3 ( STRING_0 , null , IDENT_1 . io . json . IDENT_3 . METHOD_4 ( "value" ) ) ; writer . close ( ) ; java . lang . String actual = IDENT_0 . toString ( ) ; java . lang . String expected = STRING_1 + ( ( ( STRING_2 + STRING_3 ) + "]" ) + "]" ) ; "<AssertPlaceHolder>" ; } toString ( ) { return value ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

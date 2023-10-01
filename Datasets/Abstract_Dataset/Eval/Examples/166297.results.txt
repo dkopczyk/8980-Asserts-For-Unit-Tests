@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( new com . IDENT_1 . maven . plugins . android . config . METHOD_2 ( STRING_0 , null ) ) ; com . IDENT_1 . maven . plugins . android . config . IDENT_2 IDENT_3 = new com . IDENT_1 . maven . plugins . android . config . METHOD_3 ( IDENT_0 , this . session , this . IDENT_4 ) ; IDENT_3 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_0 . METHOD_5 ( ) ) 

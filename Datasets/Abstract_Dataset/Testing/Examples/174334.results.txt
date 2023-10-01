@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . streamsets . pipeline . api . impl . IDENT_0 > IDENT_1 = com . streamsets . IDENT_2 . IDENT_3 . IDENT_4 . get ( ) . validate ( com . streamsets . IDENT_2 . IDENT_3 . IDENT_5 . IDENT_6 . class , java . util . Collections . < java . lang . String > emptyList ( ) , STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return delegate . size ( ) ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_1 . size ( ) ) 

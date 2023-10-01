@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . graphhopper . jsprit . core . problem . job . IDENT_0 s = IDENT_0 . Builder . newInstance ( STRING_0 ) . METHOD_1 ( IDENT_1 . Builder . newInstance ( ) . setId ( STRING_1 ) . build ( ) ) . METHOD_2 ( com . graphhopper . jsprit . core . util . TestUtils . METHOD_3 ( STRING_2 ) ) . setName ( "name" ) . build ( ) ; "<AssertPlaceHolder>" ; } getName ( ) { return null ; }
+org . junit . Assert . assertEquals ( "name" , s . getName ( ) ) 

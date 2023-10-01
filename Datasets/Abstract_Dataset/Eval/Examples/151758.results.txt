@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String test = STRING_0 + ( ( ( STRING_1 + STRING_2 ) + STRING_3 ) + STRING_4 ) ; IDENT_0 . IDENT_1 IDENT_2 = new IDENT_0 . METHOD_1 ( IDENT_0 . IDENT_3 . METHOD_2 ( ) ) ; IDENT_0 . Message message = new IDENT_0 . Message ( ) ; message . METHOD_3 ( test . replaceAll ( STRING_5 , STRING_6 ) , IDENT_2 , true ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( test , message . METHOD_4 ( ) . replaceAll ( STRING_6 , STRING_5 ) ) 

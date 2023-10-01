@@ -1,0 +1,2 @@
+METHOD_0 ( ) { operation = new com . IDENT_0 . IDENT_1 . IDENT_2 . operations . METHOD_1 ( STRING_0 , IDENT_3 , null , null , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( IDENT_5 ) == null ) { return null ; } return com . IDENT_0 . IDENT_1 . protocol . core . IDENT_6 . METHOD_3 ( IDENT_5 ) ; }
+org . junit . Assert . assertNull ( operation . METHOD_2 ( ) ) 

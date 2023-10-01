@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new org . apache . IDENT_1 . filter . METHOD_1 ( org . apache . IDENT_1 . filter . METHOD_1 . IDENT_2 . IDENT_3 , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_2 . IDENT_3 , IDENT_0 . METHOD_2 ( ) ) 

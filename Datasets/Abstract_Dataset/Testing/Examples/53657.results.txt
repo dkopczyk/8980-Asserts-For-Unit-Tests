@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . irods . jargon . core . connection . IDENT_0 IDENT_1 = org . irods . jargon . core . pub . IDENT_2 . IDENT_3 . METHOD_1 ( org . irods . jargon . core . pub . IDENT_2 . IDENT_4 ) ; org . irods . jargon . core . pub . IDENT_2 . IDENT_5 . METHOD_2 ( ) . METHOD_3 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . irods . jargon . core . connection . IDENT_0 ) { METHOD_4 ( ) ; return new org . irods . jargon . core . pub . METHOD_5 ( IDENT_6 , IDENT_1 ) ; }
+org . junit . Assert . assertTrue ( true ) 

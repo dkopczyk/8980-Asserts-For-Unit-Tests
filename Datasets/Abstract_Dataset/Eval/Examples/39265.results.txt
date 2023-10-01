@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 builder = org . openscience . cdk . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; org . openscience . cdk . interfaces . IDENT_3 IDENT_4 = builder . newInstance ( org . openscience . cdk . interfaces . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return org . openscience . cdk . IDENT_5 . getInstance ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

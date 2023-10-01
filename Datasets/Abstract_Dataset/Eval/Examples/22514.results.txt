@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( java . lang . String IDENT_0 : IDENT_1 . METHOD_1 ( ) ) { IDENT_1 . get ( IDENT_0 ) . METHOD_2 ( IDENT_2 . IDENT_3 ) ; } org . apache . phoenix . mapreduce . index . IDENT_4 . IDENT_5 IDENT_6 = new org . apache . phoenix . mapreduce . index . IDENT_4 . METHOD_3 ( ) ; java . util . Set < org . apache . phoenix . mapreduce . index . IDENT_4 . IDENT_7 > IDENT_8 = IDENT_6 . METHOD_4 ( IDENT_1 , IDENT_9 ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_10 . size ( ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_8 . size ( ) ) 

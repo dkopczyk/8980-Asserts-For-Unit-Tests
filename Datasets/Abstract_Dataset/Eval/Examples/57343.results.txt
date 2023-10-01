@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . cache . IDENT_1 options = IDENT_2 . METHOD_1 ( org . tests . model . IDENT_3 . IDENT_4 . class , IDENT_5 . IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( options . METHOD_2 ( ) , 15 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . StringBuilder sb = new java . lang . StringBuilder ( ) ; sb . append ( STRING_0 ) ; sb . append ( STRING_1 ) . append ( STRING_2 ) ; "<AssertPlaceHolder>" ; } toString ( ) { java . lang . StringBuilder sb = new java . lang . StringBuilder ( ) ; sb . append ( STRING_3 ) ; return sb . toString ( ) ; }
+org . junit . Assert . assertEquals ( message . toString ( ) , sb . toString ( ) ) 

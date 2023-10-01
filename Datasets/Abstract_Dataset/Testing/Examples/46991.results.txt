@@ -1,0 +1,2 @@
+size ( ) { java . util . List < java . lang . Object > list = new com . couchbase . client . java . IDENT_0 . collections . METHOD_0 ( IDENT_1 , com . couchbase . client . java . IDENT_0 . collections . IDENT_2 . ctx . METHOD_1 ( ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_3 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , list . size ( ) ) 

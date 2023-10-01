@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . io . IDENT_2 loader = new com . github . IDENT_0 . IDENT_1 . io . METHOD_1 ( STRING_0 ) ; com . github . IDENT_0 . IDENT_1 . IDENT_3 IDENT_1 = new com . github . IDENT_0 . IDENT_1 . METHOD_2 ( loader ) ; IDENT_1 . METHOD_3 ( true ) ; com . github . IDENT_0 . IDENT_1 . IDENT_4 template = IDENT_1 . METHOD_4 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return METHOD_4 ( template , new com . github . IDENT_0 . IDENT_1 . IDENT_5 . METHOD_5 ( ) ) ; }
+org . junit . Assert . assertNotNull ( template ) 

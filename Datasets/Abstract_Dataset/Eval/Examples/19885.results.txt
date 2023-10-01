@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < org . apache . kafka . streams . state . IDENT_0 < java . lang . Object , java . lang . Object > > IDENT_1 = IDENT_2 . METHOD_1 ( STRING_0 , org . apache . kafka . streams . state . IDENT_3 . METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return ( headers ) == null ? 0 : headers . size ( ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_1 . size ( ) ) 

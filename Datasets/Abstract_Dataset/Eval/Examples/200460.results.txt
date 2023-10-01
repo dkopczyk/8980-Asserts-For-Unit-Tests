@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { uk . me . IDENT_0 . IDENT_1 . beans . IDENT_2 . ctx . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } catch ( javax . IDENT_3 . IDENT_4 e ) { e . printStackTrace ( ) ; org . junit . Assert . fail ( STRING_1 ) ; } }
+org . junit . Assert . assertTrue ( true ) 

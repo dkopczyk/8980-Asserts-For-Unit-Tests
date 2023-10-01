@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . locationtech . jts . geom . IDENT_0 [ ] IDENT_1 = METHOD_1 ( ) ; org . locationtech . jts . geom . IDENT_2 IDENT_3 = new org . locationtech . jts . geom . METHOD_2 ( ) ; org . locationtech . jts . geom . IDENT_4 geom = IDENT_3 . METHOD_3 ( IDENT_3 . METHOD_4 ( IDENT_1 ) , null ) ; org . geotools . geometry . jts . IDENT_5 IDENT_6 = org . geotools . geometry . jts . IDENT_7 . METHOD_0 ( geom ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return super . METHOD_5 ( ) ; }
+org . junit . Assert . assertTrue ( geom . METHOD_5 ( ) . equals ( IDENT_6 ) ) 

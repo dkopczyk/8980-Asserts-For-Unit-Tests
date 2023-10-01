@@ -1,0 +1,2 @@
+METHOD_0 ( ) { model . IDENT_0 IDENT_1 = new model . METHOD_1 ( model . IDENT_2 . METHOD_2 ( STRING_0 , STRING_1 ) ) ; model . METHOD_1 IDENT_3 = new model . METHOD_1 ( model . IDENT_2 . METHOD_2 ( STRING_2 , STRING_1 ) ) ; "<AssertPlaceHolder>" ; } compareTo ( model . METHOD_1 ) { if ( this . IDENT_4 . METHOD_3 ( other . IDENT_4 ) ) { return 1 ; } else if ( ( this ) == other ) { return 0 ; } else { return - 1 ; } }
+org . junit . Assert . assertEquals ( IDENT_1 . compareTo ( IDENT_3 ) , 1 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { double l = net . sf . IDENT_0 . IDENT_1 . METHOD_1 ( java . lang . Double . valueOf ( FLOAT_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . IDENT_2 ) { net . sf . IDENT_0 . IDENT_3 . METHOD_2 ( IDENT_4 , STRING_0 ) ; if ( ! ( net . sf . IDENT_0 . IDENT_1 . METHOD_3 ( IDENT_4 ) ) ) { throw new net . sf . IDENT_0 . exception . METHOD_4 ( IDENT_4 . toString ( ) , net . sf . IDENT_0 . IDENT_1 . IDENT_5 , net . sf . IDENT_0 . IDENT_1 . IDENT_6 ) ; } return IDENT_4 . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( FLOAT_0 , l , 0.0 ) 

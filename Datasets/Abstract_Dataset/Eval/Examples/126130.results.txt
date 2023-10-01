@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; try { "<AssertPlaceHolder>" ; } catch ( javax . jcr . IDENT_0 e ) { org . junit . Assert . fail ( STRING_0 ) ; } session . getProperty ( STRING_1 ) ; } METHOD_2 ( java . lang . String ) { return session ( ) . METHOD_2 ( string ) ; }
+org . junit . Assert . assertThat ( session . METHOD_2 ( STRING_1 ) , org . hamcrest . core . Is . is ( false ) ) 

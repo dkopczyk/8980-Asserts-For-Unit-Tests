@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { org . junit . Assert . assertEquals ( INT_0 , com . cloud . utils . storage . IDENT_0 . METHOD_0 ( ) ) ; }
+org . junit . Assert . assertEquals ( INT_0 , com . cloud . utils . storage . IDENT_0 . METHOD_0 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . ibm . ws . logging . internal . impl . IDENT_0 out = new com . ibm . ws . logging . internal . impl . METHOD_1 ( new java . io . ByteArrayOutputStream ( ) ) ; try { out . write ( new byte [ 0 ] , 0 , ( - 1 ) ) ; } catch ( java . lang . IDENT_1 e ) { } "<AssertPlaceHolder>" ; } count ( ) { return IDENT_2 . get ( ) ; }
+org . junit . Assert . assertEquals ( 0 , out . count ( ) ) 

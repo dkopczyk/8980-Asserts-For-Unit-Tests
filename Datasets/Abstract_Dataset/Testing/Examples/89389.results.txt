@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( java . sql . IDENT_0 stmt = conn . METHOD_1 ( STRING_0 ) ) { stmt . METHOD_2 ( 1 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( STRING_1 ) ; } METHOD_4 ( ) { try { return IDENT_1 . METHOD_4 ( ) ; } catch ( java . sql . IDENT_2 IDENT_3 ) { IDENT_4 . METHOD_5 ( this , IDENT_3 ) ; throw IDENT_3 ; } }
+org . junit . Assert . assertEquals ( stmt . METHOD_4 ( ) , 1 ) 

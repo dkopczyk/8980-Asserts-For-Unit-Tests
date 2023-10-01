@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . cloud . IDENT_0 . admin . v2 . models . IDENT_1 req = com . google . cloud . IDENT_0 . admin . v2 . models . IDENT_1 . of ( com . google . cloud . IDENT_0 . grpc . IDENT_2 . IDENT_3 ) ; com . google . cloud . IDENT_0 . admin . v2 . models . IDENT_4 response = IDENT_5 . METHOD_1 ( req ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . apache . hadoop . hbase . IDENT_6 ) { METHOD_1 ( IDENT_7 , null ) ; }
+org . junit . Assert . assertEquals ( com . google . cloud . IDENT_0 . grpc . IDENT_2 . IDENT_3 , response . getId ( ) ) 

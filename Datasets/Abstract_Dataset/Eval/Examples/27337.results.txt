@@ -1,0 +1,2 @@
+simple ( ) { com . asakusafw . IDENT_0 . model . IDENT_1 < com . asakusafw . IDENT_0 . testing . model . IDENT_2 > IDENT_3 = new com . asakusafw . IDENT_0 . model . METHOD_0 ( com . asakusafw . IDENT_0 . testing . model . IDENT_2 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return type ; }
+org . junit . Assert . assertThat ( IDENT_3 . METHOD_1 ( ) , equalTo ( com . asakusafw . IDENT_0 . testing . model . IDENT_2 . class ) ) 

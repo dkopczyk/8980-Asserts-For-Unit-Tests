@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . jdbc . IDENT_2 . impl . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . jdbc . IDENT_2 . impl . METHOD_1 ( ) ; java . util . Properties props = METHOD_2 ( ) ; net . sourceforge . IDENT_2 . jdbc . IDENT_5 driver = IDENT_4 . METHOD_3 ( props ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . util . Properties ) { org . apache . IDENT_6 . jdbc . IDENT_7 driver = new org . apache . IDENT_6 . jdbc . METHOD_4 ( ) ; return driver ; }
+org . junit . Assert . assertNotNull ( driver ) 

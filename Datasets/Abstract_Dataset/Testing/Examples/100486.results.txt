@@ -1,0 +1,2 @@
+METHOD_0 ( ) { model = new com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( IDENT_4 , IDENT_5 ) ; when ( IDENT_5 . METHOD_2 ( ) ) . thenReturn ( 10 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( 10 , model . METHOD_2 ( ) ) 

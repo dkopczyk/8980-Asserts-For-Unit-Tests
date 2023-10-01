@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final int IDENT_0 = 4 ; final java . lang . String line = ( STRING_0 + IDENT_0 ) + "\n" ; final java . io . IDENT_1 in = METHOD_1 ( ( ( org . IDENT_2 . beam . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_2 ( ) ) + line ) ) ; final org . IDENT_2 . beam . IDENT_3 . IDENT_4 . IDENT_6 header = new org . IDENT_2 . beam . IDENT_3 . IDENT_4 . METHOD_3 ( in ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_7 . size ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , header . METHOD_4 ( ) ) 

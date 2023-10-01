@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . classes . IDENT_3 . IDENT_4 IDENT_5 = new com . IDENT_0 . IDENT_1 . IDENT_2 . classes . IDENT_3 . METHOD_1 ( ) ; IDENT_5 . METHOD_2 ( "1" ) ; IDENT_5 . METHOD_3 ( "2" ) ; IDENT_5 . METHOD_4 ( STRING_0 ) ; IDENT_5 . METHOD_5 ( new java . math . BigDecimal ( STRING_1 ) ) ; IDENT_5 . METHOD_6 ( new java . math . BigDecimal ( STRING_2 ) ) ; java . lang . String xml = STRING_3 ; "<AssertPlaceHolder>" ; } toString ( ) { return this . METHOD_7 ( ) ; }
+org . junit . Assert . assertEquals ( xml , IDENT_5 . toString ( ) ) 

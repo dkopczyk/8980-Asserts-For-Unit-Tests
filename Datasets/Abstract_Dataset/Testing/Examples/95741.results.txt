@@ -1,0 +1,2 @@
+type ( ) { io . IDENT_0 . IDENT_1 . IDENT_2 IDENT_1 = new io . IDENT_0 . IDENT_1 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } type ( ) { io . IDENT_0 . IDENT_1 . METHOD_0 IDENT_1 = new io . IDENT_0 . IDENT_1 . METHOD_0 ( ) ; org . junit . Assert . assertEquals ( io . IDENT_0 . IDENT_1 . IDENT_3 . class , IDENT_1 . type ( ) ) ; }
+org . junit . Assert . assertEquals ( io . IDENT_0 . IDENT_1 . IDENT_3 . class , IDENT_1 . type ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { eu . IDENT_0 . IDENT_1 . feature . IDENT_2 . test . IDENT_3 status = IDENT_3 . IDENT_4 ; eu . IDENT_0 . IDENT_1 . feature . IDENT_2 . test . IDENT_5 result = IDENT_2 . METHOD_1 ( status ) ; "<AssertPlaceHolder>" ; } getStatus ( ) { return status ; }
+org . junit . Assert . assertThat ( result . getStatus ( ) , org . hamcrest . core . Is . is ( status ) ) 

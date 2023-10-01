@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( org . eclipse . jgit . transport . IDENT_0 t = org . eclipse . jgit . transport . IDENT_0 . METHOD_1 ( IDENT_1 ) ; org . eclipse . jgit . transport . IDENT_2 c = t . METHOD_2 ( ) ) { org . eclipse . jgit . lib . IDENT_3 IDENT_4 = c . METHOD_3 ( Constants . IDENT_5 ) ; "<AssertPlaceHolder>" ; } } METHOD_3 ( java . lang . String ) { return IDENT_6 . get ( name ) ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

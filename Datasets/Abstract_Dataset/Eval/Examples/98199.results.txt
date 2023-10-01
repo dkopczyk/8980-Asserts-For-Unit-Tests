@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . joda . beans . IDENT_0 . Person IDENT_1 = new org . joda . beans . IDENT_0 . Person ( ) ; org . joda . beans . IDENT_0 . Person IDENT_2 = new org . joda . beans . IDENT_0 . Person ( ) ; IDENT_1 . METHOD_1 ( STRING_0 ) ; IDENT_2 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return ( IDENT_3 . hashCode ( ) ) + 3 ; }
+org . junit . Assert . assertEquals ( IDENT_1 . hashCode ( ) , IDENT_2 . hashCode ( ) ) 

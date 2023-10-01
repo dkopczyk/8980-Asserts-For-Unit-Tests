@@ -1,0 +1,2 @@
+METHOD_0 ( ) { doReturn ( mock ( org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_1 . class ) ) . when ( IDENT_2 ) . METHOD_1 ( ) ; java . lang . String IDENT_3 = IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { java . lang . String IDENT_4 = METHOD_1 ( ) . METHOD_3 ( IDENT_5 ) ; return IDENT_4 != null ? METHOD_4 ( IDENT_4 ) : "" ; }
+org . junit . Assert . assertEquals ( "" , IDENT_3 ) 

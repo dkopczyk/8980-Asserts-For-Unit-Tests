@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . query . IDENT_2 array = new org . IDENT_0 . IDENT_1 . query . METHOD_1 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return java . sql . IDENT_4 . IDENT_5 ; }
+org . junit . Assert . assertEquals ( array . METHOD_2 ( ) , java . sql . IDENT_4 . IDENT_5 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { field . METHOD_1 ( true ) ; field . setValue ( "foo" ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return field . getValue ( ) ; }
+org . junit . Assert . assertEquals ( "foo" , field . getValue ( ) ) 

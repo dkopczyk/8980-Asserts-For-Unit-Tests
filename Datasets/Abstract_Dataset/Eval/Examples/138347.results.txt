@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . transaction . IDENT_0 t = null ; try { t = METHOD_1 ( METHOD_2 ( new com . ibm . tx . IDENT_1 . IDENT_2 . IDENT_3 . beans . METHOD_3 ( ) ) , null ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( java . lang . Exception e ) { "<AssertPlaceHolder>" ; } } fail ( java . lang . String ) { IDENT_4 . client . IDENT_5 . IDENT_6 . IDENT_7 = false ; System . out . println ( ( ( IDENT_4 . client . IDENT_5 . IDENT_6 . IDENT_8 ) + message ) ) ; throw new java . lang . RuntimeException ( STRING_1 ) ; }
+org . junit . Assert . assertNull ( t ) 

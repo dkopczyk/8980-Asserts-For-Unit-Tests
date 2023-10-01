@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . core . widgets . IDENT_1 IDENT_2 = ( ( com . github . IDENT_0 . core . widgets . IDENT_1 ) ( IDENT_3 . METHOD_1 ( IDENT_4 . id . IDENT_5 ) ) ) ; android . IDENT_6 . IDENT_7 . IDENT_8 IDENT_9 = IDENT_10 . application . METHOD_2 ( ) . METHOD_3 ( android . IDENT_4 . IDENT_7 . IDENT_11 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_12 ; }
+org . junit . Assert . assertEquals ( IDENT_9 , IDENT_2 . METHOD_4 ( ) ) 

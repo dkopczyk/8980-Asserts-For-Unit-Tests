@@ -1,0 +1,2 @@
+setId ( ) { org . pentaho . di . core . IDENT_0 . IDENT_1 IDENT_0 = new org . pentaho . di . core . IDENT_0 . METHOD_0 ( METHOD_0 . IDENT_2 , STRING_0 ) ; IDENT_0 . setId ( STRING_1 ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( STRING_1 , IDENT_0 . getId ( ) ) 

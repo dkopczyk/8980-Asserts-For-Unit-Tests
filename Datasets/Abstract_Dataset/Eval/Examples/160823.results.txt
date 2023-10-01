@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . String > fields = org . IDENT_0 . IDENT_1 . common . util . IDENT_2 . create ( STRING_0 , "2" ) . map ( ) ; "<AssertPlaceHolder>" ; } apply ( org . IDENT_0 . IDENT_1 . util . IDENT_3 ) { return new org . IDENT_0 . IDENT_1 . service . IDENT_4 . METHOD_1 ( ) . METHOD_2 ( IDENT_5 . IDENT_6 , IDENT_7 ) ; }
+org . junit . Assert . assertFalse ( rule . apply ( new org . IDENT_0 . IDENT_1 . util . METHOD_3 ( fields ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . nio . file . Path file = java . nio . file . IDENT_0 . METHOD_1 ( root . resolve ( STRING_0 ) ) ; java . lang . Long IDENT_1 = ( ( java . lang . Long ) ( java . nio . file . IDENT_0 . METHOD_2 ( file , STRING_1 ) ) ) ; "<AssertPlaceHolder>" ; } resolve ( com . github . IDENT_2 . IDENT_3 . IDENT_4 ) { return com . github . IDENT_2 . IDENT_3 . IDENT_5 . resolve ( path , false ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_1 > 0 ) ) 

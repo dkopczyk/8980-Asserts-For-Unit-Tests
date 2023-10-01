@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; java . util . List < org . oscm . IDENT_1 . IDENT_2 > result = METHOD_2 ( new java . util . concurrent . IDENT_3 < java . util . List < org . oscm . IDENT_1 . IDENT_2 > > ( ) { @ org . oscm . IDENT_4 . dao . Override public java . util . List < org . oscm . IDENT_1 . IDENT_2 > call ( ) throws org . oscm . IDENT_4 . dao . Exception { return dao . METHOD_0 ( IDENT_5 . METHOD_3 ( ) ) ; } } ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_6 . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , result . size ( ) ) 

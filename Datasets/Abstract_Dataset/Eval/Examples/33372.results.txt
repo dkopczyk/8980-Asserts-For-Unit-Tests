@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , int , int ) { return com . IDENT_0 . net . http . IDENT_1 . IDENT_2 . METHOD_1 ( IDENT_3 , IDENT_4 , IDENT_5 , false , false , com . IDENT_0 . net . http . IDENT_1 . IDENT_2 . IDENT_6 ) ; }
+org . junit . Assert . assertNull ( com . IDENT_0 . net . http . IDENT_1 . IDENT_2 . METHOD_1 ( "" , 0 , 0 ) . dataset ) 

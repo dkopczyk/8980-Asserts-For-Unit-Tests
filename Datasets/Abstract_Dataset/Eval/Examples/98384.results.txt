@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( java . math . BigDecimal . valueOf ( INT_0 ) ) ; IDENT_0 . METHOD_2 ( java . math . BigDecimal . valueOf ( 2 ) ) ; IDENT_0 . METHOD_3 ( java . math . BigDecimal . valueOf ( INT_1 ) ) ; com . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 result = IDENT_5 . METHOD_4 ( ) ; java . math . BigDecimal IDENT_6 = result . METHOD_5 ( ) ; java . math . BigDecimal IDENT_7 = java . math . BigDecimal . valueOf ( INT_2 ) . METHOD_6 ( 2 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_7 , IDENT_6 ) 

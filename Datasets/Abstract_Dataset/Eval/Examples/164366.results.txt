@@ -1,0 +1,2 @@
+METHOD_0 ( ) { model . METHOD_1 ( new java . util . Date ( ) ) ; model . METHOD_2 ( new java . util . Date ( ) ) ; boolean result = IDENT_0 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( ( ( model . METHOD_4 ( ) ) == null ) || ( ( model . METHOD_5 ( ) ) == null ) ) || ( ( model . METHOD_6 ( ) ) == null ) ) { return true ; } return model . METHOD_4 ( ) . METHOD_7 ( model . METHOD_5 ( ) ) ; }
+org . junit . Assert . assertTrue ( result ) 

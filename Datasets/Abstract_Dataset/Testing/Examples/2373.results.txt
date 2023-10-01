@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . reflect . core . IDENT_1 . Person person = new org . IDENT_0 . reflect . core . IDENT_1 . Person ( ) ; org . IDENT_0 . reflect . core . IDENT_2 . property ( "name" ) . METHOD_1 ( java . lang . String . class ) . in ( person ) . set ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( STRING_0 , person . getName ( ) ) 

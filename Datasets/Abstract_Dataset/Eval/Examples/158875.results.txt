@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 target = project . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return METHOD_3 ( ) . getString ( "name" ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , target . getName ( ) ) 

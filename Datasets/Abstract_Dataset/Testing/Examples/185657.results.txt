@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String value = STRING_0 ; java . net . URI uri = com . IDENT_0 . core . net . IDENT_1 . create ( value ) ; "<AssertPlaceHolder>" ; } toString ( ) { return org . apache . commons . lang3 . builder . IDENT_2 . METHOD_1 ( this , org . apache . commons . lang3 . builder . IDENT_3 . IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( value , uri . toString ( ) ) 

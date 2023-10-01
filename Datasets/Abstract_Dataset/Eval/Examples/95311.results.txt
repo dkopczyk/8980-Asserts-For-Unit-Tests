@@ -1,0 +1,2 @@
+METHOD_0 ( ) { hudson . plugins . IDENT_0 . IDENT_1 loader = new hudson . plugins . IDENT_0 . METHOD_1 ( ) ; loader . METHOD_2 ( new hudson . METHOD_3 ( new java . io . File ( STRING_0 ) ) ) ; org . IDENT_0 . core . analysis . IDENT_2 IDENT_3 = loader . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { METHOD_5 ( ) ; this . IDENT_4 = METHOD_6 ( ) ; return this . IDENT_4 ; }
+org . junit . Assert . assertNull ( IDENT_3 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( edu . illinois . cs . IDENT_0 . core . IDENT_1 . IDENT_2 . IDENT_3 < java . lang . String > t : tree . METHOD_1 ( ) ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( ) { return this . parent ; }
+org . junit . Assert . assertEquals ( t . METHOD_2 ( ) . equals ( tree ) , true ) 

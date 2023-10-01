@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . Object > IDENT_0 = METHOD_1 ( ) ; com . ibm . ws . security . authentication . IDENT_1 . IDENT_2 . IDENT_3 module = METHOD_2 ( new javax . security . auth . METHOD_3 ( ) , IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { javax . security . auth . METHOD_3 IDENT_4 = com . ibm . ws . security . client . internal . IDENT_1 . IDENT_5 . METHOD_5 ( ) . METHOD_6 ( IDENT_6 , subject ) ; METHOD_7 ( IDENT_4 ) ; METHOD_8 ( ) ; return true ; }
+org . junit . Assert . assertTrue ( module . METHOD_4 ( ) ) 

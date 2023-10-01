@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long expResult = 0 ; javax . xml . IDENT_0 . IDENT_1 expr = IDENT_0 . METHOD_1 ( STRING_0 ) ; long result = ( ( java . lang . Double ) ( expr . evaluate ( IDENT_2 , IDENT_3 . IDENT_4 ) ) ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

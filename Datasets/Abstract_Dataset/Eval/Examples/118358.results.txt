@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final info . IDENT_0 . IDENT_1 . query . IDENT_2 < java . lang . IDENT_3 > res = ( ( info . IDENT_0 . IDENT_1 . query . IDENT_2 < java . lang . IDENT_3 > ) ( this . c ( ) . execute ( STRING_0 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return this . IDENT_4 ; }
+org . junit . Assert . assertEquals ( java . lang . IDENT_3 . valueOf ( ( ( byte ) ( 0 ) ) ) , res . METHOD_1 ( ) ) 

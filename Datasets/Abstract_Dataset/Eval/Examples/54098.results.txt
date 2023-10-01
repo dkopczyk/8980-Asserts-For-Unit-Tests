@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final uk . gov . IDENT_0 . IDENT_1 . core . interfaces . config . IDENT_2 config = new uk . gov . IDENT_0 . IDENT_1 . core . interfaces . config . METHOD_1 ( ) ; final java . nio . file . Path IDENT_3 = java . nio . file . IDENT_4 . get ( java . lang . System . getProperty ( STRING_0 ) , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_3 , config . METHOD_2 ( ) ) 

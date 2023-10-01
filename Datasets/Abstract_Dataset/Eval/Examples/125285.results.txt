@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final byte [ ] IDENT_1 = IDENT_0 . getBytes ( ) ; "<AssertPlaceHolder>" ; } getBytes ( ) { return data ; }
+org . junit . Assert . assertEquals ( 5 , IDENT_1 . length , 0 ) 

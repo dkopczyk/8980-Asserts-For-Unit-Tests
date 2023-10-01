@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String id = STRING_0 ; IDENT_0 . IDENT_1 . services . IDENT_2 expected = new IDENT_0 . IDENT_1 . services . METHOD_1 ( ) ; expected . setId ( id ) ; IDENT_3 . METHOD_2 ( expected ) ; IDENT_0 . IDENT_1 . services . IDENT_4 actual = IDENT_3 . METHOD_3 ( id ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( javax . management . IDENT_5 ) { services . add ( value ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

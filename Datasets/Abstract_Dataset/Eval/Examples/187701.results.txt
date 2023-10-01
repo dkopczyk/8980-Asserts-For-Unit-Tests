@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . collect . api . IDENT_1 < java . lang . String > array = new IDENT_0 . collect . impl . IDENT_2 < java . lang . String > ( java . lang . String . class ) ; array . add ( "1" ) ; java . lang . String [ ] IDENT_3 = array . toArray ( ) ; "<AssertPlaceHolder>" ; } get ( IDENT_4 ) { return IDENT_5 . io ( key ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 [ 0 ] , array . get ( 0 ) ) 

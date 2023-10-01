@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { org . springframework . util . Assert . METHOD_3 ( IDENT_2 , STRING_0 ) ; org . springframework . util . Assert . METHOD_3 ( IDENT_1 , STRING_1 ) ; return org . springframework . IDENT_3 . framework . IDENT_4 . METHOD_4 ( nl . IDENT_5 . IDENT_6 . utils . IDENT_7 . hibernate . IDENT_8 . class , new nl . IDENT_5 . IDENT_6 . utils . IDENT_7 . hibernate . IDENT_9 . METHOD_5 ( IDENT_2 , IDENT_1 ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_0 . METHOD_2 ( ) ) 

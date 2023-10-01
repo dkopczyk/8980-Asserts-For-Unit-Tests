@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Integer > list = io . IDENT_0 . IDENT_1 . METHOD_1 ( 4 , 3 , 2 , 1 ) . METHOD_2 ( com . github . davidmoten . IDENT_2 . IDENT_3 . IDENT_4 . < java . lang . Integer > METHOD_3 ( 2 ) ) . toList ( ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( java . util . Arrays . asList ( 3 , 2 , 1 ) , list ) 

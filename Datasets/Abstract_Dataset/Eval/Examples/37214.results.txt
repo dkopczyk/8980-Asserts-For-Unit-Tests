@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 , null , null ) ; IDENT_1 . METHOD_2 ( false ) ; IDENT_2 . METHOD_3 ( IDENT_3 ) ; IDENT_0 . METHOD_4 ( ) ; org . camunda . bpm . engine . runtime . IDENT_4 IDENT_5 = METHOD_5 ( ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return ( state ) == ( org . camunda . bpm . engine . impl . IDENT_6 . event . IDENT_7 . METHOD_7 ( ) ) ; }
+org . junit . Assert . assertThat ( IDENT_5 . METHOD_6 ( ) , org . hamcrest . CoreMatchers . is ( true ) ) 

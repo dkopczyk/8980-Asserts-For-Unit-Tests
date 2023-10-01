@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ca . uhn . fhir . model . IDENT_0 . IDENT_1 id = new ca . uhn . fhir . model . IDENT_0 . METHOD_1 ( new java . math . BigDecimal ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( id . METHOD_2 ( ) , new java . math . BigDecimal ( STRING_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . poi . IDENT_0 . util . IDENT_1 IDENT_2 = new org . apache . poi . IDENT_0 . util . METHOD_1 ( 6 , 4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { throw new java . lang . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( 6 , IDENT_2 . METHOD_2 ( ) ) 

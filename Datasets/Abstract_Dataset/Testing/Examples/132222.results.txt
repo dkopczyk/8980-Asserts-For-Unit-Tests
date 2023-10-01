@@ -1,0 +1,2 @@
+METHOD_0 ( ) { de . IDENT_0 . xml . IDENT_1 . IDENT_2 p = new de . IDENT_0 . xml . IDENT_1 . METHOD_1 ( ) ; p . set ( STRING_0 , "2" ) ; p . set ( "value" , STRING_1 ) ; IDENT_3 . add ( p ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( values . isEmpty ( ) ) { return false ; } for ( de . IDENT_0 . xml . IDENT_1 . METHOD_1 p : values ) { if ( p . METHOD_3 ( STRING_2 ) ) { return true ; } } return false ; }
+org . junit . Assert . assertFalse ( IDENT_3 . METHOD_2 ( ) ) 

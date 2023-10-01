@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( int i = 0 ; i < ( bytes . length ) ; i ++ ) { for ( boolean IDENT_0 : new boolean [ ] { false , true } ) { java . lang . String name = ( IDENT_1 [ i ] ) + ( IDENT_0 ? STRING_0 : "" ) ; byte [ ] a = java . util . Arrays . METHOD_1 ( bytes [ i ] , bytes [ i ] . length ) ; net . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_2 ( a , null , IDENT_0 ) ; for ( int j = 1 ; j < ( a . length ) ; j ++ ) { "<AssertPlaceHolder>" ; } } } }
+org . junit . Assert . assertTrue ( name , ( ( a [ ( j - 1 ) ] ) <= ( a [ j ] ) ) ) 

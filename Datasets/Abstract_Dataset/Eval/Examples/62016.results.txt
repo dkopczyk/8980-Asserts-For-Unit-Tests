@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . System . setProperty ( IDENT_0 . IDENT_1 . getName ( ) , STRING_0 ) ; "<AssertPlaceHolder>" ; } getValue ( ) { java . lang . String value = METHOD_1 ( ) ; METHOD_2 ( value ) ; return value ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_0 . IDENT_1 . getValue ( ) ) 

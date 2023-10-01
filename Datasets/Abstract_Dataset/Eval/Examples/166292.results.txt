@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . maven . plugins . android . IDENT_1 sdk = new com . IDENT_0 . maven . plugins . android . METHOD_1 ( new java . io . File ( IDENT_2 . METHOD_2 ( ) ) , STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_4 ( IDENT_3 . IDENT_4 . IDENT_5 ) ; }
+org . junit . Assert . assertTrue ( ( ( ( sdk . METHOD_3 ( ) ) != null ) && ( ! ( sdk . METHOD_3 ( ) . equals ( "" ) ) ) ) ) 

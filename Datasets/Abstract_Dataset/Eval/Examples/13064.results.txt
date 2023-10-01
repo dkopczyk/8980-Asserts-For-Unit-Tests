@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . conf . IDENT_1 configuration = new org . apache . IDENT_0 . conf . METHOD_1 ( org . apache . IDENT_0 . conf . IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return errors ; }
+org . junit . Assert . assertTrue ( configuration . METHOD_2 ( ) . isEmpty ( ) ) 

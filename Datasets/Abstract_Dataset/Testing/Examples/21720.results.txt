@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . olingo . commons . api . IDENT_0 . IDENT_1 IDENT_0 = client . METHOD_1 ( ) . METHOD_2 ( getClass ( ) . getResourceAsStream ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; org . apache . olingo . client . api . serialization . IDENT_2 IDENT_3 = client . METHOD_3 ( ) ; IDENT_3 . METHOD_4 ( IDENT_0 ) ; } METHOD_2 ( java . io . InputStream ) { return METHOD_2 ( client . METHOD_5 ( IDENT_4 . IDENT_5 ) . METHOD_6 ( input ) . METHOD_7 ( ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_0 ) 

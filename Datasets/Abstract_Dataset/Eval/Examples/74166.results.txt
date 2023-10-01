@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final uk . gov . gchq . gaffer . operation . IDENT_0 . graph . handler . IDENT_1 handler = new uk . gov . gchq . gaffer . operation . IDENT_0 . graph . handler . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return uk . gov . gchq . gaffer . operation . IDENT_0 . graph . IDENT_2 . class ; }
+org . junit . Assert . assertEquals ( uk . gov . gchq . gaffer . operation . IDENT_0 . graph . IDENT_2 . class , handler . METHOD_2 ( ) ) 

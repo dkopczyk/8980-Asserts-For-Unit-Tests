@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; when ( IDENT_1 . METHOD_1 ( IDENT_0 ) ) . thenReturn ( IDENT_0 ) ; org . pentaho . di . IDENT_2 . IDENT_3 IDENT_4 = org . pentaho . IDENT_5 . data . IDENT_6 . plugins . mapreduce . entry . IDENT_7 . IDENT_8 . METHOD_2 ( IDENT_1 , null , IDENT_0 , IDENT_9 , null , null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_10 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_4 . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . liferay . portal . search . web . internal . IDENT_0 . IDENT_1 . IDENT_2 . context . IDENT_3 IDENT_4 = METHOD_1 ( ) ; IDENT_4 . METHOD_2 ( STRING_0 ) ; IDENT_4 . METHOD_3 ( STRING_1 ) ; com . liferay . portal . search . web . internal . IDENT_0 . IDENT_1 . IDENT_2 . context . IDENT_5 IDENT_6 = IDENT_4 . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { if ( IDENT_7 . isEmpty ( ) ) { return true ; } return false ; }
+org . junit . Assert . assertFalse ( IDENT_6 . METHOD_4 ( ) ) 

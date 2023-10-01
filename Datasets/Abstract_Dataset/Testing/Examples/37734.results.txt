@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( javax . servlet . IDENT_0 ) { return com . google . IDENT_1 . IDENT_2 . IDENT_3 ; }
+org . junit . Assert . assertEquals ( IDENT_2 . IDENT_3 , listener . METHOD_1 ( ctx ) ) 

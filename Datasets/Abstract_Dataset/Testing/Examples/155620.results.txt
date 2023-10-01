@@ -1,0 +1,2 @@
+toArray ( ) { "<AssertPlaceHolder>" ; } toArray ( ) { org . junit . Assert . assertArrayEquals ( new java . lang . Integer [ ] { 1 , 2 , 3 , 4 , 5 } , l . toArray ( ) ) ; }
+org . junit . Assert . assertArrayEquals ( new java . lang . Integer [ ] { 1 , 2 , 3 , 4 , 5 } , l . toArray ( ) ) 

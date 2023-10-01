@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( java . lang . String IDENT_0 : com . liferay . document . library . util . test . IDENT_1 . IDENT_2 ) { java . lang . String name = ( com . liferay . portal . kernel . util . IDENT_3 . METHOD_1 ( 20 ) ) + IDENT_0 ; "<AssertPlaceHolder>" ; } } METHOD_2 ( java . lang . String ) { return com . liferay . document . library . kernel . util . IDENT_4 . IDENT_5 . METHOD_2 ( name ) ; }
+org . junit . Assert . assertFalse ( name , com . liferay . document . library . kernel . util . IDENT_4 . METHOD_2 ( name ) ) 

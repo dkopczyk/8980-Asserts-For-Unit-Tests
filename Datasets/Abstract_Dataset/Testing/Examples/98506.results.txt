@@ -1,0 +1,2 @@
+values ( ) { "<AssertPlaceHolder>" ; } values ( ) { org . junit . Assert . assertEquals ( 5 , org . IDENT_0 . internal . IDENT_1 . values ( ) . length ) ; }
+org . junit . Assert . assertEquals ( 5 , org . IDENT_0 . internal . IDENT_1 . values ( ) . length ) 

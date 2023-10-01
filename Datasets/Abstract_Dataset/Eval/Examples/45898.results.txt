@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final int IDENT_0 = 3 ; final int IDENT_1 = 1000 ; final io . IDENT_2 . IDENT_3 . unit . IDENT_4 pool = new io . IDENT_2 . IDENT_3 . unit . METHOD_1 ( IDENT_0 , IDENT_1 , new io . IDENT_2 . IDENT_3 . unit . METHOD_2 ( ) , IDENT_5 ) ; for ( int i = 0 ; i < 10 ; i ++ ) { io . IDENT_2 . IDENT_3 . unit . IDENT_6 IDENT_7 = pool . get ( "" , 0 ) ; IDENT_7 . close ( ) ; } "<AssertPlaceHolder>" ; } size ( ) { return IDENT_8 . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( pool . size ( ) ) == 1 ) ) 

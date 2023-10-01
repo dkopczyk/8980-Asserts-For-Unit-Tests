@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { IDENT_0 . start ( ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( final org . apache . kafka . streams . errors . IDENT_1 e ) { } "<AssertPlaceHolder>" ; } METHOD_1 ( ) { MOD_0 ( IDENT_2 ) { return state . METHOD_2 ( ) ; } }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_1 ( ) ) 

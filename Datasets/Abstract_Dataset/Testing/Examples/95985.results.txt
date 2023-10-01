@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . sun . jersey . spi . container . IDENT_0 app = new com . sun . jersey . server . impl . application . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertFalse ( app . METHOD_2 ( ) ) 

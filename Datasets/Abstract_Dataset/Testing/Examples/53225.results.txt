@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . data . List < org . IDENT_0 . IDENT_1 . IDENT_2 . data . Map < java . lang . String , java . lang . Object > > IDENT_3 = IDENT_4 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return messages . size ( ) ; }
+org . junit . Assert . assertEquals ( 7 , IDENT_3 . size ( ) ) 

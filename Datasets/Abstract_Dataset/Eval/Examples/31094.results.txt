@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 pattern = com . IDENT_0 . IDENT_1 . IDENT_3 . METHOD_1 ( STRING_0 , IDENT_4 . IDENT_5 ) ; com . IDENT_0 . IDENT_1 . IDENT_6 matcher = pattern . matcher ( STRING_1 ) ; "<AssertPlaceHolder>" ; } find ( ) { return find ( IDENT_7 ) ; }
+org . junit . Assert . assertTrue ( matcher . find ( ) ) 

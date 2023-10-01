@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . yarn . api . IDENT_0 . IDENT_1 request = METHOD_1 ( 1 , 1 , 1 , 5 , 3 ) ; org . apache . hadoop . yarn . server . IDENT_2 . IDENT_3 . IDENT_4 plan = null ; try { plan = IDENT_5 . METHOD_2 ( IDENT_6 , request ) ; } catch ( org . apache . hadoop . yarn . exceptions . IDENT_7 e ) { org . junit . Assert . fail ( e . getMessage ( ) ) ; } "<AssertPlaceHolder>" ; } getMessage ( ) { return message ; }
+org . junit . Assert . assertNotNull ( plan ) 

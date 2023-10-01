@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . persistence . IDENT_1 network = new com . IDENT_0 . persistence . METHOD_1 ( STRING_0 , new java . net . URI ( STRING_1 ) , options ) ; network . set ( IDENT_2 , new java . lang . String [ ] { STRING_2 } , "value" ) ; IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; com . IDENT_0 . persistence . IDENT_3 . METHOD_3 ( STRING_3 ) ; } METHOD_4 ( java . lang . String [ ] ) { return source . METHOD_4 ( key ) ; }
+org . junit . Assert . assertTrue ( network . METHOD_4 ( new java . lang . String [ ] { STRING_2 } ) ) 

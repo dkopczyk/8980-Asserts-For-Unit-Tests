@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . web . token . transaction . IDENT_2 token = new org . IDENT_0 . IDENT_1 . web . token . transaction . METHOD_1 ( null , STRING_0 , STRING_1 ) ; boolean IDENT_3 = token . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return false ; }
+org . junit . Assert . assertFalse ( METHOD_2 ) 

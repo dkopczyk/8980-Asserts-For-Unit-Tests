@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 config = new org . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; config . METHOD_2 ( false ) ; config . METHOD_3 ( STRING_0 ) ; config . METHOD_4 ( STRING_0 ) ; org . IDENT_0 . IDENT_1 . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . METHOD_5 ( config ) ; "<AssertPlaceHolder>" ; } accept ( java . lang . String ) { return IDENT_5 . equals ( org . IDENT_0 . IDENT_1 . web . impl . IDENT_6 . IDENT_7 ) ; }
+org . junit . Assert . assertFalse ( IDENT_4 . accept ( STRING_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . reflect . IDENT_1 < org . IDENT_0 . poi . test . impl . IDENT_2 , java . lang . String > IDENT_3 = IDENT_4 . METHOD_1 ( java . lang . String . class , IDENT_5 , IDENT_6 . IDENT_7 ) ; "<AssertPlaceHolder>" ; } get ( java . sql . ResultSet ) { return target . METHOD_2 ( column ) ; }
+org . junit . Assert . assertEquals ( "" , IDENT_3 . get ( row ) ) 

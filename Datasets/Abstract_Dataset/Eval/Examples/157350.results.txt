@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = org . sagebionetworks . table . cluster . utils . IDENT_1 . METHOD_1 ( IDENT_2 ) ; org . sagebionetworks . table . cluster . IDENT_3 IDENT_4 = new org . sagebionetworks . table . cluster . METHOD_2 ( STRING_0 , IDENT_2 ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_4 . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int actual = new fr . IDENT_0 . IDENT_1 . examples . IDENT_2 . METHOD_1 ( ) . METHOD_2 ( 1 , 0 , 100 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int , int , int ) { int IDENT_3 ; if ( 0 != IDENT_4 ) { IDENT_3 = IDENT_5 ; } else { IDENT_3 = IDENT_6 ; } if ( IDENT_3 > IDENT_5 ) { return 1 ; } else { return 0 ; } }
+org . junit . Assert . assertEquals ( 0 , actual ) 

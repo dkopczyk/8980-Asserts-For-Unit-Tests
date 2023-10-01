@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . IDENT_1 . server . model . IDENT_2 IDENT_3 = METHOD_1 ( ) ; IDENT_3 . METHOD_2 ( ( ( io . IDENT_0 . IDENT_1 . server . model . impl . IDENT_4 . IDENT_5 ) + 2 ) ) ; "<AssertPlaceHolder>" ; } next ( ) { if ( IDENT_6 . isEmpty ( ) ) { return null ; } java . util . Collections . METHOD_3 ( IDENT_6 ) ; java . lang . Integer port = IDENT_6 . get ( 0 ) ; IDENT_7 . add ( port ) ; IDENT_6 . remove ( port ) ; return port ; }
+org . junit . Assert . assertNull ( IDENT_3 . next ( ) ) 

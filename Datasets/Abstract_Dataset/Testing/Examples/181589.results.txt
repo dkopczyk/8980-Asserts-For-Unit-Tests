@@ -1,0 +1,2 @@
+map ( ) { io . IDENT_0 . future . IDENT_1 < java . lang . Integer > future = io . IDENT_0 . future . IDENT_1 . exception ( ex ) ; "<AssertPlaceHolder>" ; } map ( java . util . function . IDENT_2 ) { try { return new io . IDENT_0 . future . METHOD_0 ( f . apply ( value ) ) ; } catch ( final java . lang . Throwable ex ) { return new io . IDENT_0 . future . METHOD_1 ( ex ) ; } }
+org . junit . Assert . assertEquals ( future , future . map ( ( i ) -> i + 1 ) ) 

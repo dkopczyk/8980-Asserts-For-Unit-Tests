@@ -1,0 +1,2 @@
+test ( ) { try { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = connect ( ) ; IDENT_4 . query ( STRING_0 ) . METHOD_0 ( ) ; } catch ( org . IDENT_0 . IDENT_1 . IDENT_5 e ) { org . junit . Assert . fail ( ) ; } "<AssertPlaceHolder>" ; } METHOD_0 ( ) { System . out . println ( STRING_1 ) ; }
+org . junit . Assert . assertTrue ( true ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . group . IDENT_0 p = new org . openscience . cdk . group . METHOD_1 ( ) ; p . METHOD_2 ( 0 , 1 ) ; p . METHOD_2 ( 2 , 3 ) ; org . openscience . cdk . group . METHOD_1 q = new org . openscience . cdk . group . METHOD_1 ( p ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( p , q ) 

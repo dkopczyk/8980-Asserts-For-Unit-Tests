@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { IDENT_0 . METHOD_1 ( params ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( java . lang . IDENT_1 e ) { "<AssertPlaceHolder>" ; } } METHOD_1 ( java . util . Map ) { return null ; }
+org . junit . Assert . assertTrue ( true ) 

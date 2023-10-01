@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . IDENT_0 . algorithm . IDENT_1 . interfaces . IDENT_2 mapper = new org . openscience . cdk . IDENT_0 . algorithm . IDENT_1 . map . METHOD_1 ( IDENT_3 , true ) ; java . util . List < java . util . Map < org . openscience . cdk . IDENT_0 . algorithm . IDENT_1 . interfaces . IDENT_4 , org . openscience . cdk . interfaces . IDENT_5 > > IDENT_6 = mapper . METHOD_2 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_7 . size ( ) ; }
+org . junit . Assert . assertEquals ( 12 , IDENT_6 . size ( ) ) 

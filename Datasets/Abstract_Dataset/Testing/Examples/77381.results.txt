@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . gs . collections . api . map . IDENT_0 < java . lang . String , java . lang . Integer > map = this . METHOD_1 ( "1" , 1 , "2" , 2 , STRING_0 , 3 , STRING_1 , 4 ) ; long actual = map . METHOD_2 ( 0 , IDENT_1 . IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( IDENT_3 , com . gs . collections . api . block . function . IDENT_4 ) { return this . METHOD_3 ( ) . METHOD_2 ( IDENT_5 , function ) ; }
+org . junit . Assert . assertEquals ( 10 , actual ) 

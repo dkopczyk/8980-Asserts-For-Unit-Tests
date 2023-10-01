@@ -1,0 +1,2 @@
+METHOD_0 ( ) { target . METHOD_1 ( ( ( float ) ( java . lang . System . currentTimeMillis ( ) ) ) ) ; "<AssertPlaceHolder>" ; } getTime ( ) { return time ; }
+org . junit . Assert . assertThat ( target . getTime ( ) , org . hamcrest . CoreMatchers . is ( target . getTime ( ) ) ) 

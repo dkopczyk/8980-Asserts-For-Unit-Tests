@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . Object > attributes = new java . util . HashMap ( ) ; org . IDENT_0 . model . IDENT_1 IDENT_2 = new org . IDENT_0 . model . IDENT_1 . Builder ( ) . addAll ( attributes ) . build ( ) ; java . lang . String [ ] IDENT_3 = IDENT_2 . METHOD_1 ( STRING_0 , Utils . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , T ) { return ( ( T ) ( METHOD_1 ( IDENT_5 ) . METHOD_2 ( IDENT_6 ) ) ) ; }
+org . junit . Assert . assertEquals ( Utils . IDENT_4 , IDENT_3 ) 

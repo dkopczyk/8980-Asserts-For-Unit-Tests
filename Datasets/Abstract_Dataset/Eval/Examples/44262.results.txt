@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . impl . provider . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class ) { return this ; }
+org . junit . Assert . assertSame ( IDENT_3 , IDENT_2 ) 

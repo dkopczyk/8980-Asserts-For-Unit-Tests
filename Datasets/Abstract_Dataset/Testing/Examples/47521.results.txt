@@ -1,0 +1,2 @@
+METHOD_0 ( ) { de . IDENT_0 . IDENT_1 . domain . IDENT_2 meta = new de . IDENT_0 . IDENT_1 . domain . METHOD_1 ( "test" ) . METHOD_2 ( 7 ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_2 ; }
+org . junit . Assert . assertEquals ( 7 , meta . METHOD_3 ( ) ) 

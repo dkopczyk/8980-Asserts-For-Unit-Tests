@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . query . IDENT_1 . IDENT_2 IDENT_3 = org . IDENT_0 . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_1 ( ) ; org . IDENT_0 . query . IDENT_1 . Query q = IDENT_3 . from ( org . IDENT_0 . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_2 ( ) . METHOD_3 ( ) ) . METHOD_4 ( "name" ) . eq ( STRING_0 ) . build ( ) ; java . util . List < org . IDENT_0 . IDENT_4 . IDENT_5 . IDENT_7 . User > list = q . list ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return cache . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , list . size ( ) ) 

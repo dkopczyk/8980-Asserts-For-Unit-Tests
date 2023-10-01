@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; IDENT_0 . close ( ) ; "<AssertPlaceHolder>" ; } read ( long ) { try { if ( METHOD_2 ( now ) ) { return true ; } close ( ) ; } catch ( java . nio . IDENT_1 . IDENT_2 e ) { close ( ) ; } catch ( java . lang . Exception e ) { METHOD_3 ( e , STRING_0 , this ) ; } return false ; }
+org . junit . Assert . assertFalse ( IDENT_0 . read ( now ) ) 

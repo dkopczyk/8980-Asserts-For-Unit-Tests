@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . nio . ByteBuffer buffer = java . nio . ByteBuffer . METHOD_1 ( 4 ) ; long IDENT_0 = INT_0 ; org . apache . kafka . common . utils . IDENT_1 . METHOD_2 ( buffer , IDENT_0 ) ; buffer . METHOD_3 ( ) ; long IDENT_2 = org . apache . kafka . common . utils . IDENT_1 . METHOD_4 ( buffer ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . nio . ByteBuffer ) { return ( buffer . METHOD_5 ( ) ) & INT_1 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_2 ) 

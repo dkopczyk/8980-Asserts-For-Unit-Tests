@@ -1,0 +1,2 @@
+METHOD_0 ( ) { client = new IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . impl . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertThat ( client . METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( false ) ) 

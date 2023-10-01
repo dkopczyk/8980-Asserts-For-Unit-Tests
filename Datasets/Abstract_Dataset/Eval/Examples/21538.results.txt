@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . olingo . odata2 . jpa . processor . api . IDENT_0 . IDENT_1 builder = org . apache . olingo . odata2 . jpa . processor . core . model . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( builder ) == null ) { builder = new org . apache . olingo . odata2 . jpa . processor . core . model . IDENT_4 . METHOD_2 ( ) ; } return builder ; }
+org . junit . Assert . assertNotNull ( builder ) 

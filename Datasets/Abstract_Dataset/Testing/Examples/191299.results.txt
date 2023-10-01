@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . xwiki . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new org . xwiki . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( 0 , 0 ) ; org . xwiki . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 IDENT_5 = new org . xwiki . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( 0 , 0 , null ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return ( IDENT_6 . hashCode ( ) ) OP_0 ( ( IDENT_7 ) != null ? IDENT_7 . hashCode ( ) : 0 ) ; }
+org . junit . Assert . assertEquals ( IDENT_4 . hashCode ( ) , IDENT_5 . hashCode ( ) ) 

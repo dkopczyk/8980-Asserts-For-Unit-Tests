@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . server . protocol . IDENT_1 doc = METHOD_1 ( null ) ; IDENT_0 . server . protocol . IDENT_2 . IDENT_3 IDENT_4 = new IDENT_0 . server . protocol . IDENT_2 . METHOD_2 ( ) ; server . request ( doc , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( ( org . eclipse . core . resources . IDENT_5 ) ( IDENT_6 . METHOD_4 ( ) . getResource ( ) ) ) ; }
+org . junit . Assert . assertNull ( IDENT_4 . METHOD_3 ( ) ) 

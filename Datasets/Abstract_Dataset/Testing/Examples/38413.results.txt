@@ -1,0 +1,2 @@
+METHOD_0 ( ) { set . addAll ( com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( 1 , 2 , 3 ) ) ; set . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { if ( ( IDENT_3 ) <= ( IDENT_4 ) ) return ( IDENT_4 ) - ( IDENT_3 ) ; else return ( ( IDENT_4 ) - ( IDENT_3 ) ) + ( buffer . length ) ; }
+org . junit . Assert . assertEquals ( 0 , set . size ( ) ) 

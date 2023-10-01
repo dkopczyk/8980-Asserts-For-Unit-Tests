@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String path = STRING_0 ; this . path . IDENT_0 = STRING_1 ; view . METHOD_1 ( path ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { this . path . IDENT_0 = path ; }
+org . junit . Assert . assertEquals ( path , this . path . IDENT_0 ) 

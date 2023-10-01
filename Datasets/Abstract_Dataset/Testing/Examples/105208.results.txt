@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . io . IDENT_1 writer = new java . io . METHOD_1 ( 10 ) ; writer . append ( IDENT_0 , 1 , 3 ) ; writer . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; writer . close ( ) ; } substring ( int , int ) { if ( IDENT_2 > IDENT_3 ) { throw new org . IDENT_4 . IDENT_5 . java . lang . METHOD_3 ( ) ; } return new org . IDENT_4 . IDENT_5 . java . lang . METHOD_4 ( IDENT_6 , IDENT_2 , ( IDENT_3 - IDENT_2 ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . substring ( 1 , 3 ) , writer . toString ( ) ) 

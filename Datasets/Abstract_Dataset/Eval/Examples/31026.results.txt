@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = ( ( STRING_1 + ( ( STRING_2 + STRING_3 ) + STRING_4 ) ) + ( com . IDENT_2 . IDENT_3 . jdbc . IDENT_4 . METHOD_1 ( IDENT_0 ) ) ) + STRING_5 ; com . IDENT_2 . IDENT_3 . jdbc . IDENT_5 statement = ( ( com . IDENT_2 . IDENT_3 . jdbc . IDENT_5 ) ( com . IDENT_2 . IDENT_3 . jdbc . IDENT_6 . IDENT_7 . METHOD_2 ( IDENT_1 ) ) ) ; int result = statement . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return 0 ; }
+org . junit . Assert . assertTrue ( ( result == 0 ) ) 

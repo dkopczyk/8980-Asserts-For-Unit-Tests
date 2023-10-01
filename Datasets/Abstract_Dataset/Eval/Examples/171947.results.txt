@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . addAll ( IDENT_1 ) ; IDENT_0 . METHOD_1 ( IDENT_1 ) ; for ( org . IDENT_2 . api . IDENT_0 . IDENT_3 item : IDENT_1 ) { "<AssertPlaceHolder>" ; } } contains ( java . lang . Object ) { if ( o instanceof org . IDENT_2 . api . IDENT_4 . IDENT_5 ) { return contains ( ( ( org . IDENT_2 . api . IDENT_4 . IDENT_5 ) ( o ) ) ) ; } else if ( o instanceof org . IDENT_2 . api . IDENT_0 . IDENT_3 ) { return contains ( ( ( org . IDENT_2 . api . IDENT_0 . IDENT_3 ) ( o ) ) ) ; } return false ; }
+org . junit . Assert . assertFalse ( IDENT_0 . contains ( item ) ) 

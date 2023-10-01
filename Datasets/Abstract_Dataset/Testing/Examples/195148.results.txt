@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . nhindirect . config . store . IDENT_0 > IDENT_1 = IDENT_2 . METHOD_1 ( null , null ) ; if ( IDENT_1 != null ) for ( org . nhindirect . config . store . IDENT_0 dom : IDENT_1 ) IDENT_2 . delete ( dom . METHOD_2 ( ) ) ; IDENT_1 = IDENT_2 . METHOD_1 ( null , null ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_1 . size ( ) ) 

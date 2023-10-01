@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = java . lang . System . currentTimeMillis ( ) ; int IDENT_1 = com . IDENT_2 . IDENT_3 . core . utils . IDENT_4 . METHOD_1 ( TimeUnit . IDENT_5 , IDENT_0 , INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . concurrent . TimeUnit , long , int ) { int IDENT_6 = com . IDENT_2 . IDENT_3 . core . utils . IDENT_4 . METHOD_2 ( unit , IDENT_0 ) ; return com . IDENT_2 . IDENT_3 . core . utils . IDENT_4 . METHOD_3 ( IDENT_6 , IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( ( ( ( IDENT_0 / 1000 ) / INT_0 ) * INT_0 ) , IDENT_1 ) 

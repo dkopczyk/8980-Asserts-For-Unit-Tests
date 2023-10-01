@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; f . METHOD_1 ( ) ; } METHOD_1 ( ) { if ( ( METHOD_2 ( ) ) == 0 ) { throw new java . util . METHOD_3 ( STRING_0 ) ; } return METHOD_4 ( ( ( METHOD_2 ( ) ) - 1 ) ) ; }
+org . junit . Assert . assertEquals ( e , a . METHOD_1 ( ) ) 

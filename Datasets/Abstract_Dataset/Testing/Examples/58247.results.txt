@@ -1,0 +1,2 @@
+indexOf ( ) { super . indexOf ( ) ; org . eclipse . collections . api . list . IDENT_0 < java . lang . Integer > IDENT_1 = org . eclipse . collections . impl . list . IDENT_2 . IDENT_3 . METHOD_0 ( 1 , 2 , 3 ) ; "<AssertPlaceHolder>" ; } indexOf ( java . lang . Object ) { int result = 0 ; for ( int i = 0 ; i < ( this . elements . length ) ; i ++ ) { if ( object . equals ( this . elements [ i ] ) ) { return result ; } result += this . IDENT_4 [ i ] ; } return - 1 ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_1 . indexOf ( 2 ) ) 

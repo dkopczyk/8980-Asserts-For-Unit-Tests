@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . IDENT_1 . IDENT_2 expr = org . jboss . IDENT_0 . IDENT_1 . util . IDENT_3 . expr ( 1 , IDENT_4 . IDENT_5 , ( ( long ) ( 3 ) ) ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return org . jboss . IDENT_0 . IDENT_1 . meta . IDENT_6 . METHOD_1 ( IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( org . jboss . IDENT_0 . IDENT_1 . meta . IDENT_6 . get ( long . class ) , expr . getType ( ) ) 

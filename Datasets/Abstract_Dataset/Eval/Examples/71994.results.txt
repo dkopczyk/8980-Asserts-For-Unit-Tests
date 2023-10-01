@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 fixture = new com . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; int [ ] [ ] [ ] [ ] [ ] IDENT_3 = fixture . create ( int [ ] [ ] [ ] [ ] [ ] . class ) ; "<AssertPlaceHolder>" ; } create ( java . lang . reflect . Type ) { return ( ( T ) ( this . create ( ( ( java . lang . Object ) ( type ) ) ) ) ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_3 != null ) ) 

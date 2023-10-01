@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . cxf . IDENT_0 . IDENT_1 ex = new org . apache . cxf . IDENT_0 . METHOD_1 ( new java . lang . Throwable ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { java . lang . Throwable ex = METHOD_3 ( ) ; return ex instanceof java . lang . RuntimeException ? ( ( java . lang . RuntimeException ) ( ex ) ) : null ; }
+org . junit . Assert . assertNull ( ex . METHOD_2 ( ) ) 

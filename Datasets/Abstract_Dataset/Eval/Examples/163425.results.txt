@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String string = " " ; boolean result = org . oscm . validator . IDENT_0 . METHOD_1 ( string ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( value == null ) { return true ; } java . util . regex . IDENT_1 matcher = org . oscm . validator . IDENT_0 . IDENT_2 . matcher ( value ) ; return ! ( matcher . find ( ) ) ; }
+org . junit . Assert . assertTrue ( result ) 

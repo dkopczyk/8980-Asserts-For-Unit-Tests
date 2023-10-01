@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . sql . element . IDENT_2 IDENT_3 = org . IDENT_0 . IDENT_1 . sql . IDENT_4 . field ( STRING_0 ) . METHOD_1 ( org . IDENT_0 . IDENT_1 . sql . IDENT_4 . field ( STRING_1 ) ) ; java . lang . String sql = IDENT_5 . METHOD_2 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return STRING_2 ; }
+org . junit . Assert . assertEquals ( METHOD_3 ( ) , sql ) 

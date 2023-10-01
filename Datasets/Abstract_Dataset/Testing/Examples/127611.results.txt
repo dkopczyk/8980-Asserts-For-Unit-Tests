@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . mule . runtime . api . connection . IDENT_0 IDENT_1 = METHOD_1 ( false ) ; "<AssertPlaceHolder>" ; } isValid ( ) { java . lang . String expression = STRING_0 ; org . junit . Assert . assertThat ( IDENT_2 . isValid ( expression ) , org . hamcrest . Matchers . is ( true ) ) ; }
+org . junit . Assert . assertThat ( IDENT_1 . isValid ( ) , org . hamcrest . core . Is . is ( false ) ) 

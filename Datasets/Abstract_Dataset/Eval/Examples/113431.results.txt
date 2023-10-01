@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . locationtech . IDENT_0 . repository . IDENT_1 IDENT_2 = new org . locationtech . IDENT_0 . repository . METHOD_1 ( ) ; IDENT_2 . set ( STRING_0 , STRING_1 ) ; IDENT_2 . set ( STRING_2 , STRING_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return new java . util . HashMap ( this . IDENT_3 ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 . METHOD_2 ( ) . toString ( ) , IDENT_2 . toString ( ) ) 

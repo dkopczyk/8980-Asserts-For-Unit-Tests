@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . security . IDENT_0 . common . IDENT_1 token = IDENT_2 . METHOD_1 ( STRING_0 ) ; IDENT_2 . METHOD_2 ( token . METHOD_3 ( ) ) ; token = IDENT_2 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( IDENT_3 == null ) { return null ; } org . IDENT_4 . persistence . jpa . entities . IDENT_5 IDENT_6 = IDENT_7 . METHOD_4 ( IDENT_3 ) ; return METHOD_5 ( IDENT_6 ) ; }
+org . junit . Assert . assertNull ( token ) 

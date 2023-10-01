@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream content = new java . io . ByteArrayInputStream ( org . apache . olingo . odata2 . core . commons . IDENT_0 . IDENT_1 . getBytes ( STRING_0 ) ) ; javax . xml . stream . IDENT_2 IDENT_3 = METHOD_1 ( content ) ; boolean IDENT_4 = false ; while ( IDENT_3 . hasNext ( ) ) { IDENT_3 . next ( ) ; if ( ( IDENT_3 . METHOD_2 ( ) ) && ( STRING_1 . equals ( IDENT_3 . getText ( ) ) ) ) { IDENT_4 = true ; break ; } } "<AssertPlaceHolder>" ; } getText ( ) { return text ; }
+org . junit . Assert . assertTrue ( IDENT_4 ) 

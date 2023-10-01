@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . String [ ] > parameters = new java . util . HashMap ( ) ; parameters . put ( STRING_0 , null ) ; parameters . put ( STRING_1 , null ) ; when ( request . METHOD_1 ( ) ) . thenReturn ( parameters ) ; state . METHOD_2 ( IDENT_0 . IDENT_1 , STRING_2 ) ; boolean IDENT_2 = strategy . METHOD_3 ( state , user ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . IDENT_3 . core . repository . IDENT_4 , org . IDENT_3 . core . user . IDENT_5 ) { return true ; }
+org . junit . Assert . assertTrue ( METHOD_3 ) 

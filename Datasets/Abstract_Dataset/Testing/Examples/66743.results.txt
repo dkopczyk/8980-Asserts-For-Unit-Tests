@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . baeldung . IDENT_0 < java . lang . String , com . baeldung . IDENT_1 > map = com . baeldung . IDENT_2 . client . METHOD_1 ( STRING_0 ) ; map . put ( STRING_1 , new com . baeldung . METHOD_2 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Integer ) { return IDENT_3 . METHOD_3 ( org . hibernate . IDENT_4 . class ) . METHOD_4 ( ) . get ( org . baeldung . IDENT_5 . model . IDENT_6 . class , id ) ; }
+org . junit . Assert . assertTrue ( map . get ( STRING_1 ) . getName ( ) . equals ( STRING_0 ) ) 

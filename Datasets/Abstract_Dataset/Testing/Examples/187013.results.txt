@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object array = new java . lang . Object [ ] { STRING_0 , INT_0 , STRING_1 } ; java . util . List rs = org . IDENT_0 . common . utils . IDENT_1 . asList ( array ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object ) { if ( obj == null ) return null ; return ( ( T ) ( org . IDENT_0 . common . utils . IDENT_1 . METHOD_2 ( obj , org . IDENT_0 . common . utils . IDENT_1 . IDENT_2 ) ) ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , org . IDENT_0 . common . utils . IDENT_1 . METHOD_1 ( rs ) ) 

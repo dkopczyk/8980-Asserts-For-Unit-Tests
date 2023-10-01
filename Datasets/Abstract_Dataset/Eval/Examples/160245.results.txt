@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . sun . jersey . api . client . IDENT_0 response = METHOD_1 ( ) ; java . lang . String IDENT_1 = METHOD_2 ( response ) ; response = METHOD_1 ( ) ; java . lang . String IDENT_2 = METHOD_2 ( response ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . io . File ) { return new java . lang . StringBuilder ( STRING_0 ) . append ( file . length ( ) ) . append ( file . METHOD_3 ( ) ) . append ( STRING_1 ) . toString ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_2 ) 

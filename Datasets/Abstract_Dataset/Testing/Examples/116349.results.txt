@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 instance = new org . IDENT_0 . IDENT_1 . METHOD_1 ( java . lang . Integer . valueOf ( INT_0 ) , org . IDENT_0 . IDENT_1 . IDENT_3 . image , 0 , 0 , org . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 , false , null ) ; java . awt . IDENT_5 result = instance . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return new java . awt . METHOD_3 ( location ) ; }
+org . junit . Assert . assertTrue ( ( ( ( result . x ) == 0 ) && ( ( result . y ) == 0 ) ) ) 

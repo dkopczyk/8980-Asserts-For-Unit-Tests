@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object o = new java . lang . Object ( ) ; IDENT_0 . put ( org . IDENT_1 . server . domain . IDENT_2 . IDENT_3 , o ) ; org . IDENT_1 . server . domain . IDENT_4 < java . lang . Object > result = IDENT_0 . get ( org . IDENT_1 . server . domain . IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return value ; }
+org . junit . Assert . assertEquals ( o , result . getValue ( ) ) 

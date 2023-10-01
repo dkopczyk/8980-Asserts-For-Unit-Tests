@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . service . IDENT_1 sb = IDENT_2 . METHOD_1 ( org . jboss . IDENT_0 . IDENT_3 . IDENT_4 . IDENT_5 ) ; sb . METHOD_2 ( org . jboss . IDENT_0 . IDENT_3 . IDENT_4 . IDENT_6 ) ; "<AssertPlaceHolder>" ; try { sb . METHOD_3 ( IDENT_7 . IDENT_8 . IDENT_9 ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( java . lang . IllegalStateException IDENT_10 ) { } } METHOD_4 ( ) { return METHOD_5 ( ) . METHOD_4 ( ) ; }
+org . junit . Assert . assertNotNull ( sb . METHOD_4 ( ) ) 

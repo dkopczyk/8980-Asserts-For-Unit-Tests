@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . request . IDENT_2 . IDENT_3 < com . IDENT_0 . IDENT_1 . request . IDENT_2 . IDENT_4 > request = METHOD_1 ( url , clazz , listener ) ; request . METHOD_2 ( new com . IDENT_0 . IDENT_1 . request . IDENT_2 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return this . response ; }
+org . junit . Assert . assertNotNull ( listener . METHOD_4 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { hudson . model . IDENT_0 run = mock ( hudson . model . IDENT_0 . class ) ; hudson . model . IDENT_1 . IDENT_2 IDENT_3 = new hudson . model . IDENT_1 . METHOD_1 ( ) ; IDENT_3 . METHOD_2 ( run , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertTrue ( IDENT_3 . METHOD_3 ( ) ) 

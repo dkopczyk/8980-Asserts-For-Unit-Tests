@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . utils . IDENT_1 context = METHOD_1 ( IDENT_2 ) ; when ( IDENT_3 . METHOD_2 ( Context . IDENT_4 , false ) ) . thenReturn ( Boolean . IDENT_5 ) ; doReturn ( STRING_0 ) . when ( context ) . METHOD_3 ( ) ; doReturn ( STRING_1 ) . when ( context ) . METHOD_4 ( Context . IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_7 . METHOD_5 ( ) ; }
+org . junit . Assert . assertThat ( context . METHOD_5 ( ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) 

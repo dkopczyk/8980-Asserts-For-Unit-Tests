@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = INT_0 ; java . util . Set < com . facebook . buck . IDENT_1 . IDENT_2 > IDENT_3 = new java . util . HashSet ( ) ; com . facebook . buck . IDENT_1 . IDENT_4 pool = com . facebook . buck . IDENT_1 . IDENT_5 . METHOD_1 ( ( IDENT_0 * 2 ) , IDENT_3 :: add ) ; com . facebook . buck . IDENT_1 . IDENT_5 . METHOD_2 ( pool , IDENT_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_6 . size ( ) ; }
+org . junit . Assert . assertThat ( IDENT_3 . size ( ) , org . hamcrest . Matchers . is ( IDENT_0 ) ) 

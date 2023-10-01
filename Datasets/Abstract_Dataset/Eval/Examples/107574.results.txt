@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = IDENT_1 . list ( org . IDENT_2 . business . IDENT_3 . entities . IDENT_4 . class ) . size ( ) ; org . IDENT_2 . business . IDENT_3 . entities . IDENT_4 IDENT_5 = METHOD_1 ( ) ; IDENT_1 . save ( IDENT_5 ) ; "<AssertPlaceHolder>" ; } list ( java . lang . Class ) { return METHOD_2 ( ) . METHOD_3 ( IDENT_6 ) . list ( ) ; }
+org . junit . Assert . assertEquals ( ( IDENT_0 + 1 ) , IDENT_1 . list ( org . IDENT_2 . business . IDENT_3 . entities . IDENT_4 . class ) . size ( ) ) 

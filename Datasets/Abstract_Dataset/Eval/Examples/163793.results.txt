@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . internal . IDENT_0 . IDENT_1 IDENT_2 = org . oscm . internal . IDENT_3 . IDENT_4 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . oscm . IDENT_5 . IDENT_6 ) { return org . oscm . internal . IDENT_3 . IDENT_4 . METHOD_1 ( IDENT_7 , IDENT_8 . IDENT_9 ) ; }
+org . junit . Assert . assertNull ( IDENT_2 ) 

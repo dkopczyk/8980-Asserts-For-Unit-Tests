@@ -1,0 +1,2 @@
+METHOD_0 ( ) { double [ ] values = new double [ ] { 1 , 2 , 0 } ; net . IDENT_0 . math . IDENT_1 . IDENT_2 v2 = new net . IDENT_0 . math . IDENT_1 . METHOD_1 ( values ) ; net . IDENT_0 . math . IDENT_1 . IDENT_3 IDENT_4 = new net . IDENT_0 . math . IDENT_1 . METHOD_2 ( v2 ) ; System . out . println ( ( "" + ( IDENT_4 . METHOD_3 ( ) ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return length ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_4 . METHOD_3 ( ) ) 

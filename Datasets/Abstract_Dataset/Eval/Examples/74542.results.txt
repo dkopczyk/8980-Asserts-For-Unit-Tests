@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; uk . gov . gchq . gaffer . cache . impl . IDENT_0 . service . METHOD_2 ( uk . gov . gchq . gaffer . cache . impl . IDENT_0 . IDENT_1 , "test" , 1 ) ; uk . gov . gchq . gaffer . cache . impl . IDENT_0 . service . METHOD_3 ( uk . gov . gchq . gaffer . cache . impl . IDENT_0 . IDENT_1 , "test" ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return 0 ; }
+org . junit . Assert . assertEquals ( 0 , uk . gov . gchq . gaffer . cache . impl . IDENT_0 . service . METHOD_4 ( uk . gov . gchq . gaffer . cache . impl . IDENT_0 . IDENT_1 ) ) 

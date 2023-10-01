@@ -1,0 +1,2 @@
+METHOD_0 ( java . time . IDENT_0 . IDENT_1 , int , int , java . lang . String , int , java . lang . Class ) { try { METHOD_1 ( field , IDENT_2 , IDENT_3 ) . METHOD_2 ( text , new java . text . METHOD_3 ( pos ) ) ; } catch ( java . lang . RuntimeException ex ) { "<AssertPlaceHolder>" ; } } METHOD_4 ( java . lang . Object ) { return false ; }
+org . junit . Assert . assertTrue ( expected . METHOD_4 ( ex ) ) 

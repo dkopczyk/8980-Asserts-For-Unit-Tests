@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . tools . IDENT_0 . IDENT_1 IDENT_2 = new org . apache . tools . IDENT_0 . METHOD_1 ( STRING_0 ) ; IDENT_2 . METHOD_2 ( INT_0 ) ; IDENT_2 . METHOD_3 ( METHOD_1 . IDENT_3 ) ; IDENT_2 . METHOD_4 ( ) . METHOD_5 ( true ) ; org . apache . tools . IDENT_0 . METHOD_1 IDENT_4 = new org . apache . tools . IDENT_0 . METHOD_1 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( boolean ) { IDENT_5 = b ; if ( b ) { METHOD_6 ( true ) ; } }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_4 ) 

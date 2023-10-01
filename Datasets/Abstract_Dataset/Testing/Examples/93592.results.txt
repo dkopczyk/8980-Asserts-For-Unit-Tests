@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . common . IDENT_2 IDENT_3 = org . IDENT_0 . IDENT_1 . common . IDENT_2 . of ( org . IDENT_0 . IDENT_1 . common . IDENT_4 . of ( FLOAT_0 , 1 ) ) ; "<AssertPlaceHolder>" ; } of ( org . IDENT_0 . IDENT_1 . common . IDENT_5 , int ) { return new org . IDENT_0 . IDENT_1 . common . METHOD_1 ( IDENT_6 , IDENT_7 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

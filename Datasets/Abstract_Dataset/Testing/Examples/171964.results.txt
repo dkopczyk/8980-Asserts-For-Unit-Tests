@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } get ( java . lang . Class ) { return METHOD_1 ( ) . METHOD_2 ( x , y , IDENT_0 , true ) . get ( type ) ; }
+org . junit . Assert . assertNull ( subject . get ( key ) ) 

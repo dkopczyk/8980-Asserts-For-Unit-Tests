@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = "" ; java . lang . String actual = com . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( IDENT_0 ) ; java . lang . String expected = STRING_0 ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return com . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( IDENT_0 , STRING_1 ) ; }
+org . junit . Assert . assertThat ( actual , is ( equalTo ( expected ) ) ) 

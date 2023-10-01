@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . junit . IDENT_0 . METHOD_1 ( ( ( ! ( org . springframework . data . redis . connection . IDENT_1 . METHOD_2 ( factory ) ) ) && ( ! ( org . springframework . data . redis . connection . IDENT_1 . METHOD_3 ( factory ) ) ) ) ) ; IDENT_2 . set ( 0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return operations . METHOD_5 ( key , 1 ) . METHOD_6 ( ) ; }
+org . junit . Assert . assertEquals ( 1.0 , IDENT_2 . METHOD_4 ( ) , 0 ) 

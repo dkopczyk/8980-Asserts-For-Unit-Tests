@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . batfish . IDENT_0 . expr . IDENT_1 IDENT_2 = METHOD_1 ( ) ; org . batfish . IDENT_0 . expr . IDENT_3 IDENT_4 = new org . batfish . IDENT_0 . expr . METHOD_2 ( of ( IDENT_2 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . batfish . IDENT_0 . expr . IDENT_1 ) { return expr . accept ( new org . batfish . IDENT_0 . expr . IDENT_5 . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertThat ( org . batfish . IDENT_0 . expr . IDENT_5 . METHOD_4 . METHOD_3 ( IDENT_4 ) , org . hamcrest . Matchers . equalTo ( IDENT_2 ) ) 

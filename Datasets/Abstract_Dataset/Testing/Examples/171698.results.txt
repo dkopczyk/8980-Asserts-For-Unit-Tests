@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . spotify . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = com . spotify . IDENT_0 . IDENT_1 . IDENT_2 . builder ( ) . METHOD_1 ( "test" ) . host ( com . spotify . IDENT_0 . IDENT_1 . IDENT_4 . IDENT_5 ) . job ( com . spotify . IDENT_0 . IDENT_1 . IDENT_4 . IDENT_6 ) . build ( ) ; final com . spotify . IDENT_0 . IDENT_7 . IDENT_8 . IDENT_9 IDENT_10 = IDENT_3 . METHOD_2 ( ) . METHOD_3 ( ) . get ( 0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_11 ; }
+org . junit . Assert . assertNull ( IDENT_10 . METHOD_4 ( ) ) 

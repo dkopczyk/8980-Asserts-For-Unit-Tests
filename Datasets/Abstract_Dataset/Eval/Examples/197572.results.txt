@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . IDENT_0 . IDENT_1 IDENT_2 = com . google . IDENT_0 . IDENT_3 . METHOD_1 ( new com . baeldung . examples . IDENT_4 . IDENT_5 . METHOD_2 ( ) ) ; com . baeldung . examples . IDENT_4 . Person person = IDENT_2 . getInstance ( com . baeldung . examples . IDENT_4 . Person . class ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( person ) 

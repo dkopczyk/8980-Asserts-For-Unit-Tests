@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . conf . graph . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . conf . graph . METHOD_1 ( FLOAT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { return 0 ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_3 . METHOD_2 ( false ) ) 

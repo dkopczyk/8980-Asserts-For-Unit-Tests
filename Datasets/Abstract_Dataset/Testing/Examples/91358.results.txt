@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . String > actual = com . itextpdf . IDENT_0 . utils . IDENT_1 . METHOD_1 ( "" ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( IDENT_2 . size ( ) ) == 0 ; }
+org . junit . Assert . assertTrue ( actual . isEmpty ( ) ) 

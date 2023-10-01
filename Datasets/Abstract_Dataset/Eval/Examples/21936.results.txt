@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . IDENT_0 . IDENT_1 . api . action . IDENT_2 streaming = new org . apache . IDENT_0 . IDENT_1 . api . action . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) . METHOD_3 ( STRING_1 ) . build ( ) ; final org . apache . IDENT_0 . IDENT_1 . api . action . IDENT_3 builder = METHOD_4 ( ) ; builder . METHOD_5 ( streaming ) ; final org . apache . IDENT_0 . IDENT_1 . api . action . IDENT_4 IDENT_5 = builder . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return streaming ; }
+org . junit . Assert . assertEquals ( streaming , IDENT_5 . METHOD_6 ( ) ) 

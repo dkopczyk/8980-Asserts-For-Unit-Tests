@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . cs . IDENT_2 . cli . backend . IDENT_3 IDENT_4 = new IDENT_0 . IDENT_1 . cs . IDENT_2 . cli . backend . METHOD_1 ( ) ; IDENT_5 . METHOD_2 ( null , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { METHOD_4 ( ) ; return IDENT_4 ; }
+org . junit . Assert . assertEquals ( IDENT_4 , IDENT_5 . METHOD_3 ( ) ) 

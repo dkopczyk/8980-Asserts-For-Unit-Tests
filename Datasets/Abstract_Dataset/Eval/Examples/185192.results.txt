@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . ui . components . grid . IDENT_0 IDENT_1 = grid . METHOD_1 ( ) . join ( IDENT_2 , IDENT_3 ) ; IDENT_1 . METHOD_2 ( STRING_0 ) ; IDENT_2 . METHOD_3 ( "foo" ) ; IDENT_3 . METHOD_3 ( "bar" ) ; "<AssertPlaceHolder>" ; } getText ( ) { return METHOD_4 ( ) . METHOD_5 ( "value" ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_1 . getText ( ) ) 

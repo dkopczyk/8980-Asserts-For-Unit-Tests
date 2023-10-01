@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . baeldung . IDENT_0 . IDENT_1 . Builder IDENT_2 = java . lang . module . IDENT_3 . METHOD_1 ( STRING_0 ) ; java . lang . module . IDENT_3 IDENT_4 = IDENT_2 . build ( ) ; "<AssertPlaceHolder>" ; } name ( ) { return STRING_1 ; }
+org . junit . Assert . assertThat ( IDENT_4 . name ( ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) 

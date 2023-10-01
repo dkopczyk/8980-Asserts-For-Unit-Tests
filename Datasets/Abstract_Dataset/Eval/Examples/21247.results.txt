@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . nifi . controller . repository . io . IDENT_0 IDENT_1 = new org . apache . nifi . controller . repository . io . METHOD_1 ( IDENT_2 , 6 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return stream . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 . METHOD_2 ( ) , IDENT_1 . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = 3 ; java . lang . String IDENT_1 = ( STRING_0 + IDENT_0 ) + STRING_1 ; org . eclipse . IDENT_2 . core . condition . IDENT_3 IDENT_4 = new org . eclipse . IDENT_2 . core . condition . METHOD_1 ( org . eclipse . swt . widgets . IDENT_5 . class , new org . eclipse . IDENT_2 . core . test . condition . matchers . METHOD_2 ( IDENT_1 ) ) ; "<AssertPlaceHolder>" ; } test ( ) { return ( job . METHOD_3 ( ) ) == ( state ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . test ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . concurrent . atomic . IDENT_0 IDENT_1 = new java . util . concurrent . atomic . METHOD_1 ( 0 ) ; METHOD_2 ( new com . liferay . document . library . web . IDENT_2 . data . handler . test . IDENT_3 . METHOD_3 ( IDENT_1 ) ) ; METHOD_4 ( ) ; IDENT_4 . METHOD_5 ( IDENT_5 ) ; "<AssertPlaceHolder>" ; } get ( ) { return IDENT_6 . get ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_1 . get ( ) ) >= 1 ) ) 

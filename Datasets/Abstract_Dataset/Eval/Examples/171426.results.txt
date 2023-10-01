@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( resolver . resolve ( java . lang . String . class ) ) . thenReturn ( STRING_0 ) ; final com . spotify . IDENT_0 . IDENT_1 IDENT_2 = IDENT_3 . build ( ) . create ( com . spotify . IDENT_0 . IDENT_2 . IDENT_4 . IDENT_5 , IDENT_6 ) ; final java . lang . String resolve = IDENT_2 . resolve ( java . lang . String . class ) ; "<AssertPlaceHolder>" ; } resolve ( java . lang . Class ) { return resolver . resolve ( clazz ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , resolve ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = io . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_0 ( IDENT_0 ) ; java . lang . String IDENT_5 = STRING_1 ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String ) { return IDENT_6 . substring ( IDENT_6 . METHOD_1 ( STRING_2 ) ) . replace ( STRING_3 , STRING_2 ) ; }
+org . junit . Assert . assertEquals ( IDENT_5 , IDENT_1 ) 

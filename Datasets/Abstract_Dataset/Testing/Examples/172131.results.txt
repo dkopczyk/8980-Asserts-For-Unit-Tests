@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { int count = 0 ; int start = 0 ; int IDENT_0 = 100 ; java . util . Collection < org . springframework . batch . core . IDENT_1 > IDENT_2 ; do { IDENT_2 = IDENT_3 . METHOD_3 ( IDENT_4 , IDENT_5 , start , IDENT_0 ) ; start += IDENT_0 ; for ( org . springframework . batch . core . IDENT_1 IDENT_6 : IDENT_2 ) { if ( IDENT_6 . getStatus ( ) . METHOD_4 ( ) ) { count ++ ; } } } while ( ! ( IDENT_2 . isEmpty ( ) ) ) ; return count ; }
+org . junit . Assert . assertEquals ( 1 , metrics . METHOD_2 ( ) ) 

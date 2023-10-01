@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( org . openmrs . api . IDENT_0 . IDENT_1 ) ; org . openmrs . Person person = new org . openmrs . Person ( INT_0 ) ; java . util . List < org . openmrs . User > IDENT_2 = IDENT_3 . METHOD_2 ( person , true ) ; "<AssertPlaceHolder>" ; } size ( ) { return METHOD_3 ( ) . stream ( ) . filter ( ( m ) -> ! ( m . METHOD_4 ( ) ) ) . collect ( java . util . stream . IDENT_4 . toList ( ) ) . size ( ) ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_2 . size ( ) ) 

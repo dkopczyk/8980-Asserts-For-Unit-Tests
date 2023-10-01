@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . joda . time . IDENT_0 now = new org . joda . time . METHOD_1 ( STRING_0 ) ; doReturn ( now ) . when ( IDENT_1 ) . now ( ) ; org . joda . time . METHOD_1 IDENT_2 = new org . joda . time . METHOD_1 ( STRING_1 ) ; boolean IDENT_3 = IDENT_4 . METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . joda . time . METHOD_1 ) { org . joda . time . METHOD_1 now = IDENT_1 . now ( ) ; return IDENT_2 . METHOD_3 ( now . METHOD_4 ( IDENT_5 . METHOD_5 ( ) ) ) ; }
+org . junit . Assert . assertFalse ( METHOD_2 ) 

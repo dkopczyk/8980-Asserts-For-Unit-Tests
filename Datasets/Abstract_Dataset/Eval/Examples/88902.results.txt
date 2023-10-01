@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . security . model . IDENT_1 policy = this . IDENT_2 . METHOD_1 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . lang . String ) { org . IDENT_0 . security . service . IDENT_1 policy = new org . IDENT_0 . security . service . METHOD_2 ( ) ; policy . setName ( name ) ; policy . METHOD_3 ( description ) ; this . IDENT_3 . METHOD_4 ( policy ) ; return policy ; }
+org . junit . Assert . assertNotNull ( policy ) 

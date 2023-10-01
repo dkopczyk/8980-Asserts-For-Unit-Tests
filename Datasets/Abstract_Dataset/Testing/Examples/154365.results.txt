@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_0 . stream ( ) . METHOD_2 ( ( IDENT_1 ) -> IDENT_1 . METHOD_3 ( ) . count ( ) ) . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( 2 , order . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( Map . Entry < java . lang . reflect . Field , IDENT_0 . IDENT_1 . IDENT_2 . meta . IDENT_3 > e : fields . entrySet ( ) ) { IDENT_0 . IDENT_1 . IDENT_2 . meta . IDENT_4 expected = IDENT_5 . METHOD_1 ( e . getKey ( ) . getType ( ) ) . METHOD_2 ( ) ; IDENT_0 . IDENT_1 . IDENT_2 . meta . IDENT_4 actual = e . getValue ( ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } }
+org . junit . Assert . assertEquals ( expected , actual ) 

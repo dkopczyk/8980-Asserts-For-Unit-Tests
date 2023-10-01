@@ -1,0 +1,2 @@
+METHOD_0 ( ) { actual . add ( connection . set ( "foo" , "bar" ) ) ; actual . add ( connection . METHOD_1 ( "foo" , 1 ) ) ; METHOD_2 ( org . springframework . data . redis . connection . Arrays . asList ( true , true ) ) ; connection . select ( 1 ) ; try { "<AssertPlaceHolder>" ; } finally { if ( connection . exists ( "foo" ) ) { connection . METHOD_3 ( "foo" ) ; } } } get ( byte [ ] ) { return delegate . get ( key ) ; }
+org . junit . Assert . assertEquals ( "bar" , connection . get ( "foo" ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { uk . gov . IDENT_0 . IDENT_1 . core . logging . IDENT_2 . IDENT_3 < ch . IDENT_4 . IDENT_5 . IDENT_6 . spi . IDENT_7 > IDENT_8 = new uk . gov . IDENT_0 . IDENT_1 . core . logging . IDENT_2 . IDENT_3 < ch . IDENT_4 . IDENT_5 . IDENT_6 . spi . IDENT_7 > ( ( - 1 ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_9 ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_8 . METHOD_1 ( ) ) 

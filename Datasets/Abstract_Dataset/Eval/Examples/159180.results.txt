@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String s = STRING_0 ; final byte [ ] bytes = org . IDENT_0 . util . IDENT_1 . bytes ( s ) ; final byte [ ] expected = new byte [ ] { INT_0 , INT_1 , INT_2 , INT_2 , INT_3 , INT_4 , INT_5 , INT_3 , INT_6 , INT_2 , 100 } ; "<AssertPlaceHolder>" ; } bytes ( java . lang . String ) { try { return s . getBytes ( STRING_1 ) ; } catch ( final java . io . IDENT_2 IDENT_3 ) { return s . getBytes ( ) ; } }
+org . junit . Assert . assertArrayEquals ( expected , bytes ) 

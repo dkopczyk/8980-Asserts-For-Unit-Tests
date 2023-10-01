@@ -1,0 +1,2 @@
+METHOD_0 ( ) { parent = path ( STRING_0 ) ; path = new org . IDENT_0 . jcr . value . IDENT_1 . METHOD_1 ( parent , org . IDENT_0 . jcr . value . Path . IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return true ; }
+org . junit . Assert . assertThat ( path . METHOD_2 ( ) , org . hamcrest . core . Is . is ( true ) ) 

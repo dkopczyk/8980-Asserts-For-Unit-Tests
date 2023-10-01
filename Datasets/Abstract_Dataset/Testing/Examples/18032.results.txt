@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jackrabbit . oak . cache . IDENT_0 < java . lang . Integer , java . lang . String > cache = org . apache . jackrabbit . oak . cache . IDENT_1 . METHOD_1 ( 0 , 100 ) ; cache . put ( 1 , STRING_0 , 100 ) ; cache . put ( 2 , STRING_1 , 100 ) ; cache . put ( 3 , STRING_2 , 100 ) ; "<AssertPlaceHolder>" ; } containsKey ( java . lang . Object ) { return options . containsKey ( key ) ; }
+org . junit . Assert . assertFalse ( cache . containsKey ( 1 ) ) 

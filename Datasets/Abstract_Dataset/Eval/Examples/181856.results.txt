@@ -1,0 +1,2 @@
+METHOD_0 ( ) { connect ( ) ; METHOD_1 ( ) ; try { METHOD_2 ( STRING_0 , "value" ) ; org . springframework . shell . core . IDENT_0 result = METHOD_3 ( STRING_1 , STRING_0 , "value" ) ; "<AssertPlaceHolder>" ; } finally { METHOD_4 ( ) ; } } METHOD_5 ( ) { return new fr . IDENT_1 . IDENT_2 . cli . integration . IDENT_3 . METHOD_6 ( false ) ; }
+org . junit . Assert . assertThat ( result , METHOD_5 ( ) ) 

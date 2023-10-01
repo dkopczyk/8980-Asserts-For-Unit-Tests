@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_1 IDENT_2 = org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_1 . valueOf ( STRING_0 ) ; org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_3 IDENT_4 = org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_3 . create ( false , 10 , 10 , 0 , 0 , IDENT_2 ) ; java . lang . String expected = STRING_1 ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return METHOD_2 ( ) ? "" : value ; }
+org . junit . Assert . assertEquals ( expected , IDENT_4 . METHOD_1 ( ) ) 

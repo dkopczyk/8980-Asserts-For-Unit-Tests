@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . dao . test . IDENT_1 . IDENT_2 IDENT_3 = dao . METHOD_1 ( org . IDENT_0 . dao . test . IDENT_1 . IDENT_2 . class , INT_0 , 3 ) ; IDENT_3 . setName ( STRING_0 ) ; dao . update ( IDENT_3 ) ; IDENT_3 = dao . METHOD_1 ( org . IDENT_0 . dao . test . IDENT_1 . IDENT_2 . class , INT_0 , 3 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_3 . getName ( ) ) 

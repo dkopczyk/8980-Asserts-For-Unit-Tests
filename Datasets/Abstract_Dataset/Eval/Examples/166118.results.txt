@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . ws . rs . core . Response response = METHOD_1 ( METHOD_2 ( ) , org . IDENT_0 . web . IDENT_1 . METHOD_3 ( METHOD_4 ( ) ) , org . IDENT_0 . web . IDENT_1 . METHOD_5 ( java . util . UUID . METHOD_6 ( ) . toString ( ) ) ) ; int IDENT_2 = response . getStatus ( ) ; int IDENT_3 = Status . IDENT_4 . getStatusCode ( ) ; "<AssertPlaceHolder>" ; } is ( T ) { return java . util . IDENT_5 . equals ( this . value , value ) ; }
+org . junit . Assert . assertThat ( IDENT_2 , org . hamcrest . Matchers . is ( IDENT_3 ) ) 

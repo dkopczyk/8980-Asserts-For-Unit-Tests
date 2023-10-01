@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 IDENT_1 = METHOD_1 ( ) ; java . time . IDENT_3 IDENT_4 = java . time . IDENT_3 . METHOD_2 ( INT_0 , INT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { return ( STRING_0 + string ) + STRING_0 ; }
+org . junit . Assert . assertEquals ( METHOD_3 ( IDENT_4 . toString ( ) ) , IDENT_1 . serialize ( IDENT_4 ) ) 

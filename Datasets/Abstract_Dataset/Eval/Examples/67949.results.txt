@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . xml . IDENT_0 . IDENT_1 IDENT_2 = new org . exist . IDENT_3 . METHOD_1 ( ) ; METHOD_2 ( IDENT_2 ) ; org . IDENT_4 . api . base . IDENT_5 result = METHOD_3 ( "" , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return model . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , result . METHOD_4 ( ) ) 

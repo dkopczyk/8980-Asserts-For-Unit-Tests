@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . common . kernel . IDENT_1 . IDENT_2 element = METHOD_1 ( ) . METHOD_2 ( ) ; METHOD_3 ( element ) ; METHOD_3 ( element ) ; METHOD_3 ( element ) ; "<AssertPlaceHolder>" ; } count ( ) { int count = 0 ; java . util . Iterator < org . IDENT_0 . common . kernel . batch . IDENT_3 > iterator = IDENT_4 . iterator ( ) ; while ( iterator . hasNext ( ) ) { count ++ ; iterator . next ( ) ; } return count ; }
+org . junit . Assert . assertEquals ( 1 , count ( ) ) 

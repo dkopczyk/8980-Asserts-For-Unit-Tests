@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . sf . IDENT_0 . IDENT_1 . util . Date expected = new net . sf . IDENT_0 . IDENT_1 . util . Date ( INT_0 , 8 , 7 ) ; net . sf . IDENT_0 . IDENT_1 . util . Date IDENT_2 = IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return date ; }
+org . junit . Assert . assertEquals ( expected , IDENT_2 ) 

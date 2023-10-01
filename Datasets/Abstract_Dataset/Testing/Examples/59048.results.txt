@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { final org . eclipse . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 parse = this . parser . parse ( STRING_0 ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . Throwable IDENT_4 ) { throw org . eclipse . xtext . IDENT_5 . lib . IDENT_6 . METHOD_1 ( IDENT_4 ) ; } } getName ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( "foo" , parse . getName ( ) ) 

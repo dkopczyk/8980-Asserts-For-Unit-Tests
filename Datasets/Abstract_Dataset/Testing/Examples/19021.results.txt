@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jena . graph . IDENT_0 graph = org . apache . jena . IDENT_1 . graph . IDENT_2 . METHOD_1 ( ) ; org . apache . jena . IDENT_3 . IDENT_4 . create ( ) . METHOD_2 ( STRING_0 ) . lang ( IDENT_5 . IDENT_6 ) . parse ( graph ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_7 . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , graph . size ( ) ) 

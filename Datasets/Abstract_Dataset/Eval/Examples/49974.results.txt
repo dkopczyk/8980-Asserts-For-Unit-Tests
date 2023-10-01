@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . concurrent . atomic . IDENT_0 b = new java . util . concurrent . atomic . METHOD_1 ( ) ; com . github . davidmoten . IDENT_1 . IDENT_2 . METHOD_2 ( b ) . run ( ) ; "<AssertPlaceHolder>" ; } get ( ) { com . github . davidmoten . IDENT_3 . IDENT_4 . METHOD_3 ( t ) ; return t ; }
+org . junit . Assert . assertTrue ( b . get ( ) ) 

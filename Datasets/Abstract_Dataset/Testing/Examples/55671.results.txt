@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = METHOD_1 ( ) ; org . IDENT_1 . api . project . IDENT_2 project = factory . METHOD_2 ( IDENT_0 , IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . IDENT_4 . IDENT_5 . IDENT_6 , org . IDENT_1 . spi . project . IDENT_7 ) { return METHOD_3 ( IDENT_8 ) ? new com . github . IDENT_9 . IDENT_10 . IDENT_1 . project . METHOD_4 ( IDENT_8 , state ) : null ; }
+org . junit . Assert . assertNotNull ( project ) 

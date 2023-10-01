@@ -1,0 +1,2 @@
+METHOD_0 ( ) { logger . METHOD_1 ( IDENT_0 , IDENT_1 , IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( IDENT_3 . IDENT_4 , java . lang . String , java . lang . String ) { this . IDENT_5 = true ; this . IDENT_1 = IDENT_1 ; this . IDENT_0 = IDENT_0 ; this . IDENT_2 = IDENT_2 ; return this ; }
+org . junit . Assert . assertTrue ( logger . IDENT_5 ) 

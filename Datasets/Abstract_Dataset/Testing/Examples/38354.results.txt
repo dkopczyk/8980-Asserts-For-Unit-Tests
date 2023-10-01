@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new IDENT_1 . IDENT_2 < java . lang . Object > ( ) . add ( STRING_0 , STRING_1 , STRING_2 ) . append ( java . util . Arrays . asList ( "a" , null , STRING_3 ) ) . append ( java . util . Arrays . asList ( STRING_4 , STRING_5 , STRING_6 ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return METHOD_1 ( IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 ) ; }
+org . junit . Assert . assertArrayEquals ( new java . lang . Object [ ] { STRING_4 , STRING_5 , STRING_6 } , IDENT_0 . METHOD_1 ( ) . toArray ( ) ) 

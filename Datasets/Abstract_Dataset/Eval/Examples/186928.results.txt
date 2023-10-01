@@ -1,0 +1,2 @@
+test ( ) { java . net . URL url = IDENT_0 . com . IDENT_1 . IDENT_2 . db . test . config . IDENT_3 . class . METHOD_0 ( ) . getResource ( STRING_0 ) ; try { IDENT_0 . com . IDENT_1 . IDENT_2 . db . config . IDENT_4 . parse ( url ) ; } catch ( java . lang . Exception e ) { e . printStackTrace ( ) ; "<AssertPlaceHolder>" ; } } parse ( java . net . URL ) { return IDENT_0 . com . IDENT_1 . IDENT_2 . db . config . IDENT_4 . parse ( IDENT_5 . METHOD_1 ( ) ) ; }
+org . junit . Assert . assertTrue ( false ) 

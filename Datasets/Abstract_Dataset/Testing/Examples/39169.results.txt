@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] [ ] IDENT_0 = org . openscience . cdk . graph . IDENT_1 . METHOD_1 ( ) ; org . openscience . cdk . graph . IDENT_2 IDENT_3 = new org . openscience . cdk . graph . METHOD_2 ( METHOD_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_4 . size ( ) ; }
+org . junit . Assert . assertThat ( IDENT_3 . size ( ) , org . hamcrest . CoreMatchers . is ( 1 ) ) 

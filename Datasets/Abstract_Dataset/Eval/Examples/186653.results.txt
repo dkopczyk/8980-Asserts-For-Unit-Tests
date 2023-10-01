@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final IDENT_0 . IDENT_1 . IDENT_2 . generator . IDENT_3 model = METHOD_1 ( new com . fasterxml . jackson . core . type . IDENT_4 < IDENT_0 . IDENT_1 . IDENT_2 . generator . List < IDENT_0 . IDENT_1 . IDENT_2 . generator . IDENT_5 > > ( ) { } . getType ( ) , IDENT_0 . IDENT_1 . IDENT_2 . generator . IDENT_5 . class . getName ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return beans ; }
+org . junit . Assert . assertEquals ( 0 , model . METHOD_2 ( ) . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } count ( java . lang . IDENT_0 ) { int count = 0 ; for ( com . google . common . collect . IDENT_1 < java . lang . Long > range : IDENT_2 ) { org . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_1 ( range ) ; count ++ ; } return count ; }
+org . junit . Assert . assertEquals ( 4 , org . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . count ( IDENT_2 ) ) 

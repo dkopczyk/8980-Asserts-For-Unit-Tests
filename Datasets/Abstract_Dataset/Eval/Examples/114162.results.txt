@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( com . IDENT_0 . IDENT_1 . core . runtime . internal . IDENT_2 . IDENT_3 IDENT_4 : IDENT_2 . IDENT_3 . values ( ) ) { "<AssertPlaceHolder>" ; } } toString ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_4 . toString ( ) . toLowerCase ( ) , IDENT_4 . toString ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( IDENT_1 . IDENT_2 . core . route . IDENT_3 . METHOD_2 ( "/" , IDENT_1 . IDENT_2 . core . route . IDENT_4 . IDENT_5 ) ) ; IDENT_0 . METHOD_1 ( IDENT_1 . IDENT_2 . core . route . IDENT_3 . METHOD_2 ( STRING_0 , IDENT_1 . IDENT_2 . core . route . IDENT_4 . IDENT_5 ) ) ; java . util . List < IDENT_1 . IDENT_2 . core . route . IDENT_6 > matches = IDENT_0 . METHOD_3 ( IDENT_7 . Method . METHOD_2 , "/" ) ; "<AssertPlaceHolder>" ; } size ( ) { return list . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , matches . size ( ) ) 

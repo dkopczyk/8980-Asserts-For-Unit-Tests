@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final int expResult = 0 ; IDENT_0 . METHOD_1 ( ) ; final int result = cache . size ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return cache . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

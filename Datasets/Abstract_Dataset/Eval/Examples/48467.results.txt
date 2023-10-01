@@ -1,0 +1,2 @@
+METHOD_0 ( ) { @ com . artemis . IDENT_0 . METHOD_1 ( IDENT_1 = true ) class IDENT_2 extends net . IDENT_3 . api . plugin . IDENT_4 . IDENT_5 . IDENT_6 { @ net . IDENT_3 . api . plugin . IDENT_4 . Override MOD_0 void process ( net . IDENT_3 . api . plugin . IDENT_4 . Entity e ) { IDENT_7 . set ( e , false ) ; "<AssertPlaceHolder>" ; } } METHOD_2 ( new METHOD_3 ( ) ) ; } METHOD_4 ( int ) { return mapper . METHOD_4 ( IDENT_8 ) ; }
+org . junit . Assert . assertFalse ( IDENT_7 . METHOD_4 ( e ) ) 

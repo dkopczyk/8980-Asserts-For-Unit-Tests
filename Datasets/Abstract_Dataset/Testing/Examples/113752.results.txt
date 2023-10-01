@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < java . lang . String > set = IDENT_0 . IDENT_1 . core . collection . IDENT_2 . METHOD_1 ( ( ( java . lang . String [ ] ) ( null ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . Collection ) { return IDENT_0 . IDENT_1 . core . collection . IDENT_3 . METHOD_1 ( false , collection ) ; }
+org . junit . Assert . assertNotNull ( set ) 

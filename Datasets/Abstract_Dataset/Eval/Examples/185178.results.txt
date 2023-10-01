@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . tests . IDENT_0 . IDENT_1 IDENT_2 = new com . vaadin . tests . IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { int count = 0 ; if ( ( METHOD_3 ( ) ) != null ) { count ++ ; } if ( ( METHOD_4 ( ) ) != null ) { count ++ ; } return count ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_2 . METHOD_2 ( ) ) 

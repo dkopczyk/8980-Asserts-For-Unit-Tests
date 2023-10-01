@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int start = 0 ; int end = 10 ; char [ ] data = new char [ ( end - start ) + 1 ] ; for ( int i = start ; i <= end ; i ++ ) { data [ ( i - start ) ] = ( ( char ) ( i ) ) ; } IDENT_0 . write ( data ) ; for ( int i = start ; i <= end ; i ++ ) { "<AssertPlaceHolder>" ; } } charAt ( int ) { return sb . charAt ( index ) ; }
+org . junit . Assert . assertEquals ( ( ( char ) ( i ) ) , sb . charAt ( ( i - start ) ) ) 

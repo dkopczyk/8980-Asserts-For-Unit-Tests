@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = false ; try { org . nhindirect . config . store . IDENT_1 IDENT_2 = new org . nhindirect . config . store . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( METHOD_3 ( STRING_0 ) ) ; IDENT_3 . METHOD_4 ( INT_0 , IDENT_2 . METHOD_5 ( ) ) ; } catch ( org . nhindirect . config . store . IDENT_4 ex ) { IDENT_0 = true ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

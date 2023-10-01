@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( STRING_0 ) ; final net . ripe . db . whois . common . IDENT_1 . IDENT_2 result = subject . METHOD_2 ( IDENT_3 . IDENT_4 , net . ripe . db . whois . common . domain . IDENT_5 . METHOD_3 ( STRING_1 ) ) ; "<AssertPlaceHolder>" ; } getKey ( ) { return IDENT_6 . getKey ( ) . toString ( ) ; }
+org . junit . Assert . assertThat ( result . getKey ( ) . toString ( ) , org . hamcrest . Matchers . is ( STRING_1 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 . IDENT_1 ) ; com . liferay . message . IDENT_2 . model . IDENT_3 IDENT_4 = METHOD_2 ( ) ; METHOD_1 ( IDENT_4 . METHOD_3 ( ) ) ; com . liferay . message . IDENT_2 . model . IDENT_3 IDENT_5 = METHOD_2 ( ) ; METHOD_1 ( IDENT_5 . METHOD_3 ( ) ) ; METHOD_1 ( IDENT_0 . IDENT_1 ) ; int IDENT_6 = com . liferay . message . IDENT_2 . service . IDENT_7 . METHOD_4 ( IDENT_8 . METHOD_5 ( ) , IDENT_0 . IDENT_1 , IDENT_9 . IDENT_10 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_11 ; }
+org . junit . Assert . assertEquals ( 4 , IDENT_6 ) 

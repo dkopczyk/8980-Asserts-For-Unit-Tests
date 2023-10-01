@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; com . IDENT_0 . IDENT_1 . of ( ) . METHOD_1 ( com . IDENT_0 . IDENT_2 . http . IDENT_3 . class ) ; } of ( ) { return new com . IDENT_0 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( com . IDENT_0 . IDENT_2 . http . IDENT_3 . class , com . IDENT_0 . METHOD_2 . of ( ) . METHOD_1 ( ) ) 

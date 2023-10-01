@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . json . IDENT_1 array = METHOD_1 ( ) . METHOD_2 ( ) ; array . add ( STRING_0 ) ; java . lang . String result = array . getString ( 3 ) ; "<AssertPlaceHolder>" ; } getString ( java . lang . String ) { return this . IDENT_2 . getString ( IDENT_3 ) ; }
+org . junit . Assert . assertNull ( result ) 

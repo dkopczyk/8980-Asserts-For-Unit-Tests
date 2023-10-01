@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . util . array . IDENT_1 IDENT_2 = new org . IDENT_0 . util . array . METHOD_1 ( ) ; for ( int i = 0 ; i < INT_0 ; i ++ ) { IDENT_2 . METHOD_2 ( i ) ; } org . IDENT_0 . util . array . IDENT_3 reference = new org . IDENT_0 . util . array . METHOD_3 ( new int [ ] { 0 , 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 } ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { data [ IDENT_4 ] = value ; ( IDENT_4 ) ++ ; if ( ( IDENT_4 ) == ( data . length ) ) METHOD_4 ( ) ; }
+org . junit . Assert . assertThat ( IDENT_2 , equalTo ( reference ) ) 

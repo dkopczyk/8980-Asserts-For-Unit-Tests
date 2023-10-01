@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] bytes = IDENT_0 . METHOD_1 ( 0 , 0 ) ; byte [ ] expected = new byte [ ] { 0 , 0 } ; "<AssertPlaceHolder>" ; } METHOD_1 ( int , int ) { byte [ ] bytes = new byte [ 2 ] ; bytes [ 0 ] = ( ( byte ) ( IDENT_1 & 255 ) ) ; bytes [ 1 ] = ( ( byte ) ( ( ( IDENT_1 & INT_0 ) > > 8 ) | ( ( IDENT_2 & INT_1 ) << 2 ) ) ) ; return bytes ; }
+org . junit . Assert . assertArrayEquals ( expected , bytes ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . core . services . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . core . services . METHOD_1 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

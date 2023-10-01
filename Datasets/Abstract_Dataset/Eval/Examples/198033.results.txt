@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] a = new int [ 5 ] ; java . lang . Object f = a ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertSame ( f , a ) 

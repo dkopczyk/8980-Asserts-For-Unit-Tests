@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . String > IDENT_0 = new java . util . ArrayList ( ) ; IDENT_0 . add ( STRING_0 ) ; IDENT_0 . add ( STRING_1 ) ; IDENT_0 . add ( STRING_2 ) ; java . lang . String IDENT_1 = com . baeldung . stream . IDENT_2 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . List ) { java . util . stream . IDENT_3 < java . lang . String > stream = IDENT_0 . stream ( ) ; return stream . METHOD_2 ( ( first , IDENT_4 ) -> IDENT_4 ) . METHOD_3 ( null ) ; }
+org . junit . Assert . assertEquals ( STRING_2 , IDENT_1 ) 

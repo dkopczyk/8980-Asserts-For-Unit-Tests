@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . flow . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . flow . METHOD_1 ( STRING_0 ) ; java . lang . String result = ( ( java . lang . String ) ( IDENT_3 . METHOD_2 ( ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . actual ; }
+org . junit . Assert . assertEquals ( STRING_0 , result ) 

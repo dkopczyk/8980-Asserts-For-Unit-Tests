@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String expected = STRING_0 ; org . openscience . cdk . interfaces . IDENT_0 IDENT_1 = org . openscience . cdk . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; java . lang . String IDENT_2 = this . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . openscience . cdk . interfaces . IDENT_0 ) { org . openscience . cdk . IDENT_2 . IDENT_4 IDENT_2 = new org . openscience . cdk . IDENT_2 . METHOD_3 ( IDENT_5 ) ; return IDENT_2 . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( expected , IDENT_2 ) 

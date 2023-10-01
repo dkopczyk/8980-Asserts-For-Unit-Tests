@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . commons . util . ByteBuffer buffer = com . IDENT_0 . commons . util . IDENT_1 . METHOD_1 ( com . IDENT_0 . commons . util . IDENT_1 . IDENT_2 . length ) ; buffer . delete ( 0 ) ; buffer . add ( com . IDENT_0 . commons . util . IDENT_1 . IDENT_2 ) ; buffer . delete ( com . IDENT_0 . commons . util . IDENT_1 . IDENT_2 . length ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . IDENT_3 ; }
+org . junit . Assert . assertEquals ( 0 , buffer . size ( ) ) 

@@ -1,0 +1,2 @@
+save ( ) { IDENT_0 . execute ( org . jboss . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 , org . jboss . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_5 ) ; IDENT_0 . execute ( org . jboss . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_6 ) ; IDENT_0 . execute ( org . jboss . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return METHOD_0 ; }
+org . junit . Assert . assertEquals ( org . jboss . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_5 , IDENT_0 . METHOD_0 ( ) ) 

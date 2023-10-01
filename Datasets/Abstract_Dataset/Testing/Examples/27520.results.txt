@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . core . collections . IDENT_1 < java . lang . String > l = new com . IDENT_0 . core . collections . IDENT_1 < java . lang . String > ( com . IDENT_0 . core . collections . IDENT_2 . cache , 1L ) ; l . addAll ( java . util . Arrays . asList ( STRING_0 , STRING_1 , STRING_2 ) ) ; for ( java . util . Iterator < java . lang . String > it = l . iterator ( ) ; it . hasNext ( ) ; ) { it . next ( ) ; it . remove ( ) ; } "<AssertPlaceHolder>" ; } isEmpty ( ) { return delegate . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( l . isEmpty ( ) ) 

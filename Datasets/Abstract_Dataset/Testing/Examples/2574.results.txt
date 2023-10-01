@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = 1L ; long IDENT_1 = IDENT_2 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( long ) { if ( IDENT_0 <= 1 ) { return IDENT_0 ; } return ( METHOD_1 ( ( IDENT_0 - 1 ) ) ) + ( METHOD_1 ( ( IDENT_0 - 2 ) ) ) ; }
+org . junit . Assert . assertEquals ( 1L , IDENT_1 ) 

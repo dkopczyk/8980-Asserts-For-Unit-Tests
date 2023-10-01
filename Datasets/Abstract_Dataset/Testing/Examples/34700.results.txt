@@ -1,0 +1,2 @@
+create ( ) { byte [ ] IDENT_0 = array ( ( ( byte ) ( 0 ) ) , ( ( byte ) ( 1 ) ) , ( ( byte ) ( 2 ) ) , ( ( byte ) ( 3 ) ) ) ; "<AssertPlaceHolder>" ; } len ( java . lang . Object ) { return org . IDENT_1 . core . IDENT_2 . len ( obj ) ; }
+org . junit . Assert . assertEquals ( 4 , len ( IDENT_0 ) ) 

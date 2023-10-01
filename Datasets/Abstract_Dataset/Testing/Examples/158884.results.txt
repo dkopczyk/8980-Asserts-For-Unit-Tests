@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new IDENT_0 . IDENT_1 . IDENT_4 . METHOD_1 ( ) ; controller . select ( IDENT_3 ) ; controller . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( IDENT_0 . IDENT_1 . IDENT_2 ) { return IDENT_5 . contains ( component ) ; }
+org . junit . Assert . assertFalse ( controller . METHOD_3 ( IDENT_3 ) ) 

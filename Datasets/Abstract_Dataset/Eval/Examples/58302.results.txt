@@ -1,0 +1,2 @@
+iterator ( ) { int IDENT_0 = 0 ; org . eclipse . collections . impl . list . mutable . IDENT_1 < java . lang . Integer > IDENT_2 = this . METHOD_0 ( 1 , 2 , 3 , 4 ) ; for ( java . lang . Integer IDENT_3 : IDENT_2 ) { IDENT_0 += IDENT_3 . METHOD_1 ( ) ; } "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( ( int ) ( this . value ) ) ; }
+org . junit . Assert . assertEquals ( 10 , IDENT_0 ) 

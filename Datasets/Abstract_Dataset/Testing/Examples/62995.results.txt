@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( 0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { int [ ] result = METHOD_3 ( ) ; if ( ( IDENT_1 ) && ( ( IDENT_2 ) != ( - 1 ) ) ) { result = METHOD_4 ( ) ; IDENT_1 = false ; } return result ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_0 . METHOD_2 ( ) . length ) 

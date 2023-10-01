@@ -1,0 +1,2 @@
+METHOD_0 ( ) { builder . METHOD_1 ( new java . io . METHOD_2 ( getClass ( ) . getResourceAsStream ( STRING_0 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return errors ; }
+org . junit . Assert . assertEquals ( 3 , builder . METHOD_3 ( ) . METHOD_3 ( ) . length ) 

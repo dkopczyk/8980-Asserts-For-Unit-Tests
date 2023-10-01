@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = false ; try { IDENT_1 . METHOD_1 ( STRING_0 , null ) ; } catch ( org . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 e ) { IDENT_0 = true ; } "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . lang . String ) { if ( ! ( IDENT_7 . contains ( IDENT_8 ) ) ) { IDENT_7 . add ( IDENT_8 ) ; } METHOD_2 ( IDENT_8 , location ) ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

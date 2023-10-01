@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . facebook . buck . io . IDENT_0 . impl . IDENT_1 IDENT_0 = new com . facebook . buck . io . IDENT_0 . impl . METHOD_1 ( ) ; IDENT_0 . METHOD_2 ( java . nio . file . IDENT_2 . get ( "foo" ) , java . nio . file . IDENT_2 . get ( "bar" ) , false ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . nio . file . Path ) { return IDENT_3 . containsKey ( path ) ; }
+org . junit . Assert . assertTrue ( IDENT_0 . METHOD_3 ( java . nio . file . IDENT_2 . get ( "foo" ) ) ) 

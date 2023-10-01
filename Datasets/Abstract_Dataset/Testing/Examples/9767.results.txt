@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . nio . ByteBuffer b = java . nio . ByteBuffer . METHOD_1 ( 20 ) ; final byte [ ] source = new byte [ 20 ] ; for ( byte i = 0 ; i < 20 ; i ++ ) { source [ i ] = i ; } org . apache . commons . IDENT_0 . utils . IDENT_1 . METHOD_2 ( source , b ) ; "<AssertPlaceHolder>" ; } array ( ) { return data ; }
+org . junit . Assert . assertArrayEquals ( source , b . array ( ) ) 

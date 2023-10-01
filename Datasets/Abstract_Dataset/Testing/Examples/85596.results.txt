@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( ( hudson . IDENT_1 . IDENT_2 . get ( ) . METHOD_1 ( ) ) + STRING_1 ) + ( id ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_0 . METHOD_1 ( ) ) 

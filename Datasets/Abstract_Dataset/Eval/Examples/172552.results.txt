@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . stream . IDENT_0 < org . springframework . data . neo4j . examples . IDENT_1 . domain . IDENT_2 > IDENT_3 = IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } count ( ) { return session . METHOD_2 ( clazz ) ; }
+org . junit . Assert . assertEquals ( 10 , IDENT_3 . count ( ) ) 

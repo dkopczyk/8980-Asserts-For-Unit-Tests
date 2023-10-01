@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . internal . IDENT_0 . IDENT_1 group = new org . oscm . internal . IDENT_0 . METHOD_1 ( ) ; doReturn ( group ) . when ( IDENT_2 ) . METHOD_2 ( METHOD_3 ( ) ) ; IDENT_3 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( group , model . METHOD_4 ( ) ) 

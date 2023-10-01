@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String content = STRING_0 ; org . IDENT_0 . Element IDENT_1 = builder . build ( new java . io . METHOD_1 ( content ) ) . METHOD_2 ( ) ; new org . apache . maven . shared . IDENT_2 . transform . IDENT_0 . METHOD_3 ( IDENT_1 ) . METHOD_4 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( org . IDENT_0 . Element ) { return IDENT_1 . METHOD_6 ( STRING_2 , IDENT_1 . METHOD_7 ( ) ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , METHOD_5 ( IDENT_1 ) ) 

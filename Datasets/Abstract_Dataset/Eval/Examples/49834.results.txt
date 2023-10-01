@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] bytes = new byte [ ] { 1 , 2 , 3 , 4 , 5 } ; org . davidmoten . IDENT_0 . IDENT_1 . METHOD_1 ( bytes ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( byte [ ] ) { if ( array == null ) { return ; } int i = 0 ; int j = ( array . length ) - 1 ; byte IDENT_2 ; while ( j > i ) { IDENT_2 = array [ j ] ; array [ j ] = array [ i ] ; array [ i ] = IDENT_2 ; j OP_0 ; i ++ ; } }
+org . junit . Assert . assertArrayEquals ( new byte [ ] { 5 , 4 , 3 , 2 , 1 } , bytes ) 

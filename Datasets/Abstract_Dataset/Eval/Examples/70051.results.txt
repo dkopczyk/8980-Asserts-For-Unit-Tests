@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . IDENT_1 IDENT_2 = new org . IDENT_0 . neo4j . store . METHOD_1 ( org . IDENT_0 . neo4j . IDENT_3 . IDENT_4 ) ; IDENT_2 . METHOD_2 ( ) ; IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { throw new java . lang . METHOD_3 ( STRING_0 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

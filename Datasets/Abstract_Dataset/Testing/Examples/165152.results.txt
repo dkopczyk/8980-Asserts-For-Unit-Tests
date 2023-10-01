@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . IDENT_0 . IDENT_1 IDENT_2 = METHOD_1 ( IDENT_3 . IDENT_4 , IDENT_5 ) ; bean . METHOD_2 ( IDENT_2 , IDENT_6 ) ; verify ( as , times ( 1 ) ) . METHOD_3 ( eq ( IDENT_2 ) , eq ( IDENT_6 ) ) ; "<AssertPlaceHolder>" ; } getStatus ( ) { return this . status ; }
+org . junit . Assert . assertEquals ( IDENT_3 . IDENT_4 , IDENT_2 . getStatus ( ) ) 

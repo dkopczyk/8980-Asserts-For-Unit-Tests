@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jackrabbit . api . security . user . User IDENT_0 = new org . apache . jackrabbit . oak . security . user . IDENT_1 . METHOD_1 ( IDENT_2 , IDENT_3 ) ; "<AssertPlaceHolder>" ; verify ( IDENT_4 , times ( 1 ) ) . METHOD_2 ( IDENT_2 ) ; verify ( IDENT_3 , times ( 1 ) ) . METHOD_3 ( ) ; } METHOD_2 ( java . security . IDENT_5 ) { if ( ! ( METHOD_4 ( user ) ) ) { return false ; } else { throw new java . lang . METHOD_5 ( STRING_0 ) ; } }
+org . junit . Assert . assertTrue ( group . METHOD_2 ( IDENT_0 ) ) 

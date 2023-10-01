@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . Object IDENT_0 = new org . apache . commons . lang3 . text . METHOD_1 ( ) { @ org . apache . commons . lang3 . text . Override java . lang . Object METHOD_2 ( ) throws java . lang . IDENT_1 { throw new java . lang . METHOD_3 ( "test" ) ; } } . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { try { return METHOD_2 ( ) ; } catch ( final java . lang . METHOD_3 ex ) { return null ; } }
+org . junit . Assert . assertNull ( IDENT_0 ) 

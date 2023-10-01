@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . xwiki . IDENT_0 . IDENT_1 . IDENT_2 context = METHOD_1 ( STRING_0 , STRING_0 ) ; org . xwiki . IDENT_3 . event . IDENT_4 event = new org . xwiki . script . event . METHOD_2 ( ) ; this . validator . METHOD_3 ( event , context , null ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return this . IDENT_5 ; }
+org . junit . Assert . assertTrue ( event . METHOD_4 ( ) ) 

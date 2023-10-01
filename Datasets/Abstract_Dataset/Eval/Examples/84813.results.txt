@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 resource = new com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( IDENT_5 . getAbsolutePath ( ) ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { return ( obj == ( this ) ) || ( ( obj instanceof com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ) && ( location . equals ( ( ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ) ( obj ) ) . location ) ) ) ; }
+org . junit . Assert . assertTrue ( resource . equals ( resource ) ) 

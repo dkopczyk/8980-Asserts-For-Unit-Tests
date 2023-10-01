@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . collection . IDENT_1 IDENT_2 = new org . eclipse . IDENT_0 . util . graph . IDENT_3 . METHOD_1 ( ) ; org . eclipse . IDENT_0 . collection . IDENT_1 IDENT_4 = new org . eclipse . IDENT_0 . util . graph . IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return getClass ( ) . hashCode ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 . hashCode ( ) , IDENT_4 . hashCode ( ) ) 

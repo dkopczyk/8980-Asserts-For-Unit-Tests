@@ -1,0 +1,2 @@
+newInstance ( ) { context = new com . alibaba . IDENT_0 . service . template . support . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return map ; }
+org . junit . Assert . assertNotNull ( context . METHOD_1 ( ) ) 

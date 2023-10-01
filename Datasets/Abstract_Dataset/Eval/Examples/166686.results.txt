@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . System . setProperty ( IDENT_0 . IDENT_1 , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { java . lang . System . setProperty ( IDENT_0 . IDENT_1 , STRING_0 ) ; org . junit . Assert . assertThat ( org . IDENT_2 . util . IDENT_0 . METHOD_0 ( ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) ; }
+org . junit . Assert . assertThat ( org . IDENT_2 . util . IDENT_0 . METHOD_0 ( ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) 

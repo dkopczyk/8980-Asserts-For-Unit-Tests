@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File IDENT_0 = IDENT_1 . METHOD_1 ( ) ; java . io . File root = new java . io . File ( IDENT_0 , "foo" ) ; METHOD_2 ( root . METHOD_3 ( ) , STRING_0 ) ; "<AssertPlaceHolder>" ; METHOD_2 ( root . METHOD_4 ( false ) , STRING_1 ) ; IDENT_2 . expect ( org . apache . beam . runners . IDENT_3 . IDENT_4 . IDENT_5 . IllegalStateException . class ) ; org . apache . beam . runners . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_5 ( root ) ; }
+org . junit . Assert . assertThat ( root . exists ( ) , org . hamcrest . Matchers . is ( true ) ) 

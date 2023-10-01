@@ -1,0 +1,2 @@
+size ( ) { com . IDENT_0 . IDENT_1 . util . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . util . METHOD_0 ( new com . IDENT_0 . IDENT_1 . util . IDENT_4 . METHOD_1 ( ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return ( IDENT_5 . size ( ) ) + 2 ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_3 . size ( ) ) 

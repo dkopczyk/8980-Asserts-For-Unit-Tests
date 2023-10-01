@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class , java . lang . reflect . Type , java . lang . annotation . IDENT_0 [ ] , javax . ws . rs . core . IDENT_1 ) { return type . METHOD_2 ( org . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . class ) ; }
+org . junit . Assert . assertFalse ( writer . METHOD_1 ( java . lang . String . class , null , null , null ) ) 

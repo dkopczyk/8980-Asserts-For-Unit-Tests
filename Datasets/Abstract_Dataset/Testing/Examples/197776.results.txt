@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new org . IDENT_1 . kernel . IDENT_2 . IDENT_3 . impl . IDENT_4 . METHOD_1 ( IDENT_5 ) ; final java . util . List < javax . jcr . IDENT_6 > values = newArrayList ( IDENT_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( values . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; IDENT_1 . lang . jsoup . nodes . Document doc = IDENT_1 . lang . jsoup . IDENT_2 . parse ( IDENT_0 ) ; IDENT_1 . lang . jsoup . select . IDENT_3 IDENT_4 = doc . select ( STRING_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . resources . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_4 . size ( ) ) 

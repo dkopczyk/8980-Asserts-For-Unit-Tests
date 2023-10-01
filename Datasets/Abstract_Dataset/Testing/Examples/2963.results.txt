@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . String > properties = IDENT_0 . METHOD_1 ( ) . get ( ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; System . out . println ( properties ) ; } size ( ) { return METHOD_3 ( ) . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( properties . size ( ) ) > 0 ) ) 

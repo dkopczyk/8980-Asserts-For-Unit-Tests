@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . api . IDENT_3 expected = new com . IDENT_0 . IDENT_1 . IDENT_2 . api . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) . build ( ) ; when ( IDENT_4 . METHOD_3 ( STRING_1 ) ) . thenReturn ( expected ) ; com . IDENT_0 . IDENT_1 . IDENT_2 . api . IDENT_3 actual = METHOD_4 ( ) . METHOD_3 ( STRING_1 ) ; "<AssertPlaceHolder>" ; verify ( IDENT_4 ) . METHOD_3 ( STRING_1 ) ; METHOD_5 ( IDENT_4 ) ; } METHOD_3 ( java . lang . String ) { return IDENT_5 . METHOD_3 ( table ) ; }
+org . junit . Assert . assertEquals ( actual , expected ) 

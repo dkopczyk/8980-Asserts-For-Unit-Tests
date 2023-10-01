@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; try { final java . lang . String mail = STRING_0 ; METHOD_2 ( mail , mail ) ; "<AssertPlaceHolder>" ; METHOD_3 ( 0 , mail ) ; } finally { IDENT_0 . METHOD_1 ( ) ; } } size ( ) { return IDENT_1 . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_0 . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 , this . IDENT_0 ) ; com . IDENT_1 . IDENT_2 . config . json . IDENT_3 result = parser . METHOD_2 ( directory ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertThat ( result . METHOD_3 ( ) . size ( ) , org . hamcrest . core . Is . is ( 1 ) ) 

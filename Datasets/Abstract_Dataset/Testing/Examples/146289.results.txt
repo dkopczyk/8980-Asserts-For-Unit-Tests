@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . platform . engine . core . IDENT_0 . IDENT_1 IDENT_2 = new org . pentaho . platform . engine . core . IDENT_0 . METHOD_1 ( input ) ; java . lang . String actual = IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . pentaho . platform . web . http . context . IDENT_3 . IDENT_4 ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

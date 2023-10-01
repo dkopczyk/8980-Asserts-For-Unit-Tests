@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( g ) ; com . graphhopper . IDENT_0 . IDENT_1 IDENT_2 = g . METHOD_2 ( ) . METHOD_3 ( 0 ) ; IDENT_2 . next ( ) ; com . graphhopper . IDENT_0 . IDENT_3 IDENT_4 = new com . graphhopper . IDENT_0 . METHOD_4 ( 2 ) ; IDENT_4 . add ( IDENT_2 . METHOD_5 ( false ) ) ; "<AssertPlaceHolder>" ; } next ( ) { com . graphhopper . reader . IDENT_5 . IDENT_6 . IDENT_7 result = IDENT_8 ; IDENT_8 = null ; return result ; }
+org . junit . Assert . assertTrue ( IDENT_4 . next ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { fr . IDENT_0 . IDENT_1 . beans . IDENT_2 IDENT_3 = new fr . IDENT_0 . IDENT_1 . beans . METHOD_1 ( ) ; IDENT_3 . METHOD_2 ( STRING_0 ) ; when ( IDENT_4 . METHOD_3 ( anyString ( ) ) ) . thenReturn ( IDENT_3 ) ; fr . IDENT_0 . IDENT_1 . beans . METHOD_1 IDENT_5 = IDENT_6 . METHOD_3 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_5 . METHOD_4 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { junit . framework . IDENT_0 adapter = new junit . framework . METHOD_1 ( org . junit . tests . IDENT_1 . classes . IDENT_2 . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( 2 , adapter . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { container . METHOD_1 ( IDENT_0 , org . oscm . IDENT_1 . bean . IDENT_2 ) ; org . oscm . internal . vo . IDENT_3 IDENT_4 = METHOD_2 ( true ) ; METHOD_3 ( IDENT_4 ) ; java . util . List < org . oscm . internal . vo . IDENT_3 > list = IDENT_5 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; org . oscm . internal . vo . IDENT_3 IDENT_6 = list . get ( 0 ) ; container . METHOD_1 ( IDENT_7 , org . oscm . IDENT_1 . bean . IDENT_2 ) ; METHOD_5 ( IDENT_6 . getKey ( ) ) ; } size ( ) { return IDENT_8 . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , list . size ( ) ) 

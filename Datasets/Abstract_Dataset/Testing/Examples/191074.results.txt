@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String html = ( ( header ) + STRING_0 ) + ( IDENT_0 ) ; org . w3c . dom . Document doc = IDENT_1 . METHOD_1 ( new java . io . METHOD_2 ( html ) ) ; org . w3c . dom . IDENT_2 nodes = doc . METHOD_3 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return org . xwiki . extension . script . internal . IDENT_3 . IDENT_4 . METHOD_5 ( ) . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( 0 , nodes . METHOD_4 ( ) ) 

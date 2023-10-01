@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { java . util . List < net . IDENT_1 . message . IDENT_2 > IDENT_3 = new java . util . ArrayList < net . IDENT_1 . message . IDENT_2 > ( ( ( ( IDENT_4 . size ( ) ) + ( METHOD_3 ( ) ) ) + ( METHOD_4 ( ) ) ) ) ; IDENT_3 . addAll ( IDENT_4 ) ; IDENT_3 . addAll ( IDENT_5 . values ( ) ) ; if ( ( IDENT_6 ) != null ) { IDENT_3 . add ( IDENT_6 ) ; } IDENT_3 . addAll ( IDENT_7 ) ; return IDENT_3 ; }
+org . junit . Assert . assertTrue ( IDENT_0 . METHOD_2 ( ) . isEmpty ( ) ) 

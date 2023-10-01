@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File f = this . IDENT_0 . METHOD_1 ( ) ; net . IDENT_1 . core . utils . Utils . METHOD_2 ( STRING_0 , f ) ; net . IDENT_1 . core . model . IDENT_2 IDENT_3 = new net . IDENT_1 . core . model . METHOD_3 ( f ) ; IDENT_3 . validate ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return this . errors ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_3 . METHOD_4 ( ) . size ( ) ) 

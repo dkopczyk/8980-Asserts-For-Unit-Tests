@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URL url = new java . net . URL ( STRING_0 ) ; java . lang . String IDENT_0 = com . google . common . io . IDENT_1 . METHOD_1 ( url ) . METHOD_2 ( IDENT_2 . UTF_8 ) . read ( ) ; com . IDENT_3 . java . net . IDENT_4 . logger . info ( IDENT_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( android . location . IDENT_1 . IDENT_2 , true ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String , boolean ) { return METHOD_2 ( provider , IDENT_3 , null ) ; }
+org . junit . Assert . assertTrue ( IDENT_0 . METHOD_2 ( IDENT_1 . IDENT_2 , true ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . analysis . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . analysis . METHOD_1 ( IDENT_4 ) ; java . lang . String json = IDENT_3 . METHOD_2 ( ) ; com . IDENT_0 . IDENT_1 . analysis . METHOD_1 IDENT_5 = com . IDENT_0 . IDENT_1 . analysis . METHOD_1 . create ( json ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_3 . METHOD_3 ( ) , IDENT_5 . METHOD_3 ( ) ) 

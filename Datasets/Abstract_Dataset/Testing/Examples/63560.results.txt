@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . vertx . core . IDENT_0 IDENT_1 = METHOD_1 ( ) ; java . lang . String name = "1" ; "<AssertPlaceHolder>" ; } get ( int ) { switch ( id ) { case 1 : return IDENT_2 ; case 2 : return IDENT_3 ? 1L : 0L ; case 3 : return IDENT_4 ; case 4 : return ( ( long ) ( IDENT_5 ) ) ; case 5 : return ( ( long ) ( IDENT_6 ) ) ; case 6 : return ( ( long ) ( IDENT_7 ) ) ; default : return ( IDENT_8 ) != null ? IDENT_8 . get ( id ) : null ; } }
+org . junit . Assert . assertNull ( IDENT_1 . get ( name ) ) 

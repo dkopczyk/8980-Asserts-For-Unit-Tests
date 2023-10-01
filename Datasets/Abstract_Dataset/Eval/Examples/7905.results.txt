@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . commons . configuration . IDENT_0 config = new org . apache . commons . configuration . METHOD_1 ( ) ; config . setProperty ( IDENT_1 . IDENT_2 , false ) ; org . apache . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_1 provider = new org . apache . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_2 ( ) ; try { provider . start ( config ) ; "<AssertPlaceHolder>" ; } finally { provider . METHOD_3 ( ) ; } } start ( org . apache . commons . configuration . Configuration ) { this . IDENT_6 . start ( conf ) ; }
+org . junit . Assert . assertNull ( provider . server ) 

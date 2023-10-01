@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 < int [ ] , java . lang . Integer , org . IDENT_0 . tests . IDENT_2 > IDENT_3 = org . IDENT_0 . tests . IDENT_4 . IDENT_5 . view ( STRING_0 ) . METHOD_0 ( 2 ) . METHOD_1 ( int [ ] . class , org . IDENT_0 . tests . Integer . class , org . IDENT_0 . tests . IDENT_2 . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertThat ( IDENT_3 . METHOD_2 ( ) . size ( ) , org . hamcrest . CoreMatchers . is ( 2 ) ) 

@@ -1,0 +1,2 @@
+root ( ) { org . jboss . IDENT_0 . meta . IDENT_1 IDENT_2 = IDENT_1 . IDENT_3 ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return template ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_2 . METHOD_0 ( ) . length ( ) ) == 0 ) ) 

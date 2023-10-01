@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( ( ( METHOD_2 ( ) ) == ( IDENT_0 ) ) || ( ( METHOD_3 ( ) ) == ( org . drools . workbench . models . datamodel . rule . IDENT_1 . IDENT_2 ) ) ) || ( ( METHOD_3 ( ) ) == ( org . drools . workbench . models . datamodel . rule . IDENT_1 . IDENT_3 ) ) ; }
+org . junit . Assert . assertFalse ( plugin . METHOD_1 ( ) ) 

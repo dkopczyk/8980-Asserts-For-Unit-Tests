@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { boolean METHOD_1 = false ; try { METHOD_1 = backend . METHOD_2 ( ) . METHOD_3 ( ) . METHOD_1 ( ) ; } catch ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 ) { } return METHOD_1 ; }
+org . junit . Assert . assertFalse ( target . METHOD_1 ( ) ) 

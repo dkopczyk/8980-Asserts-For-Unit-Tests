@@ -1,0 +1,2 @@
+METHOD_0 ( ) { eu . IDENT_0 . IDENT_1 . utils . IDENT_2 IDENT_3 = new eu . IDENT_0 . IDENT_1 . utils . METHOD_1 ( ) { @ eu . IDENT_0 . IDENT_1 . utils . Override public eu . IDENT_0 . IDENT_1 . models . IDENT_4 METHOD_2 ( ) { return null ; } } ; java . util . List < eu . IDENT_0 . IDENT_1 . utils . IDENT_5 > IDENT_6 = IDENT_3 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_7 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_6 . isEmpty ( ) ) 

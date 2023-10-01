@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( org . IDENT_0 . util . IDENT_1 . isEmpty ( input ) ) { return "" ; } return input . replaceAll ( " " , org . IDENT_0 . IDENT_2 . IDENT_3 . IDENT_4 ) ; }
+org . junit . Assert . assertThat ( org . IDENT_0 . IDENT_2 . IDENT_3 . METHOD_1 ( null ) , org . hamcrest . CoreMatchers . is ( "" ) ) 

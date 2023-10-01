@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final javax . mail . IDENT_0 . IDENT_1 IDENT_2 = new javax . mail . IDENT_0 . METHOD_1 ( STRING_0 ) ; IDENT_3 . METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return this . IDENT_4 ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_3 . METHOD_3 ( ) ) 

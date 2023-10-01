@@ -1,0 +1,2 @@
+METHOD_0 ( ) { match = new com . alibaba . IDENT_0 . IDENT_1 . auth . impl . METHOD_1 ( "test" , new com . alibaba . IDENT_0 . IDENT_1 . auth . impl . IDENT_2 [ ] { new com . alibaba . IDENT_0 . IDENT_1 . auth . impl . METHOD_2 ( ) } ) ; java . lang . String s = "" ; s += STRING_0 ; s += STRING_1 ; s += STRING_2 ; s += STRING_3 ; s += STRING_4 ; s += STRING_5 ; "<AssertPlaceHolder>" ; } toString ( ) { return ( STRING_6 + ( path ) ) + "]" ; }
+org . junit . Assert . assertEquals ( s , match . toString ( ) ) 

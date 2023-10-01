@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = INT_0 ; long IDENT_1 = ( Long . MAX_VALUE ) - IDENT_0 ; long IDENT_2 = com . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( long ) { long IDENT_7 = now - ( now OP_0 INT_1 ) ; return ( Long . MAX_VALUE ) - IDENT_7 ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_1 ) 

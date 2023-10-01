@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . swt . layout . IDENT_0 IDENT_1 = new org . eclipse . swt . layout . METHOD_1 ( shell ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_1 ) 

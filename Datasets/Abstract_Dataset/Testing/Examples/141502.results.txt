@@ -1,0 +1,2 @@
+test ( ) { java . io . File file = new java . io . File ( STRING_0 ) ; boolean IDENT_0 = false ; for ( java . io . File IDENT_1 : file . METHOD_0 ( ) ) { if ( IDENT_1 . getName ( ) . METHOD_1 ( STRING_1 ) ) { IDENT_0 = true ; } } "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

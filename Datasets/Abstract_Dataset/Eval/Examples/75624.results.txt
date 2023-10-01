@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = METHOD_1 ( IDENT_1 . IDENT_2 ) ; java . lang . String request = ( ( STRING_0 + STRING_1 ) + IDENT_0 ) + STRING_2 ; org . springframework . mock . web . IDENT_3 response = METHOD_2 ( request ) ; "<AssertPlaceHolder>" ; METHOD_3 ( response , STRING_3 , INT_0 , INT_1 ) ; } METHOD_4 ( ) { return this . IDENT_4 ; }
+org . junit . Assert . assertEquals ( STRING_3 , response . METHOD_4 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . http . IDENT_1 fixture = new org . IDENT_0 . http . METHOD_1 ( IDENT_2 . IDENT_3 , "" ) ; fixture . METHOD_2 ( true ) ; fixture . METHOD_3 ( STRING_0 ) ; fixture . METHOD_4 ( STRING_1 ) ; fixture . METHOD_5 ( IDENT_4 ) ; fixture . METHOD_6 ( org . IDENT_0 . http . IDENT_5 . proxy ) ; java . lang . String result = fixture . METHOD_7 ( ) ; "<AssertPlaceHolder>" ; } METHOD_7 ( ) { return url . replaceAll ( STRING_2 , "" ) . replace ( STRING_3 , "" ) ; }
+org . junit . Assert . assertNotNull ( result ) 

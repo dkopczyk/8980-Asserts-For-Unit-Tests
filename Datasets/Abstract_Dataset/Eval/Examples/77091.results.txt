@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String str = "" ; org . IDENT_0 . IDENT_1 . io . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . io . METHOD_1 ( str ) ; org . IDENT_0 . IDENT_1 . io . IDENT_4 IDENT_5 = new org . IDENT_0 . IDENT_1 . io . METHOD_2 ( IDENT_3 ) ; if ( IDENT_5 . hasNext ( ) ) { "<AssertPlaceHolder>" ; } } hasNext ( ) { if ( ( IDENT_6 ) == null ) { METHOD_3 ( ) ; } if ( ( IDENT_6 ) == null ) { return false ; } else { return true ; } }
+org . junit . Assert . assertFalse ( true ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( dao . find ( user . METHOD_1 ( ) , user . METHOD_2 ( ) ) ) . thenReturn ( user ) ; controller . METHOD_3 ( user . METHOD_1 ( ) , user . METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return errors ; }
+org . junit . Assert . assertThat ( validator . METHOD_4 ( ) , org . hamcrest . Matchers . empty ( ) ) 

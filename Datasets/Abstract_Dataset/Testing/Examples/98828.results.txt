@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . IDENT_0 . IDENT_1 . IDENT_2 . types . IDENT_3 IDENT_4 = IDENT_5 . METHOD_1 ( IDENT_6 . IDENT_7 ) ; nl . IDENT_0 . IDENT_1 . internal . IDENT_8 . IDENT_9 < nl . IDENT_0 . IDENT_1 . IDENT_2 . types . IDENT_3 > IDENT_10 = IDENT_5 . METHOD_0 ( IDENT_6 . IDENT_7 ) ; "<AssertPlaceHolder>" ; } get ( ) { return object ; }
+org . junit . Assert . assertEquals ( IDENT_4 , IDENT_10 . get ( ) ) 

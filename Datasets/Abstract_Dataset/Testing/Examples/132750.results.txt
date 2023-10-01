@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] array = new byte [ 10 ] ; IDENT_0 . format ( STRING_0 , array ) ; byte [ ] expected = new byte [ ] { INT_0 , INT_1 , INT_2 , INT_0 , INT_1 , INT_2 , 0 , 0 , 0 , 0 } ; "<AssertPlaceHolder>" ; } format ( java . lang . String , byte [ ] ) { return format ( val , array , 0 , array . length ) ; }
+org . junit . Assert . assertArrayEquals ( expected , array ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . commons . math3 . linear . IDENT_0 v = new org . apache . commons . math3 . linear . IDENT_1 . METHOD_1 ( IDENT_2 . METHOD_2 ( ) ) ; org . apache . commons . math3 . linear . IDENT_0 . Entry e ; int i = 0 ; for ( java . util . Iterator < org . apache . commons . math3 . linear . IDENT_0 . Entry > it = v . iterator ( ) ; ( it . hasNext ( ) ) && ( ( e = it . next ( ) ) != null ) ; i ++ ) { "<AssertPlaceHolder>" ; } } getValue ( ) { return value ; }
+org . junit . Assert . assertEquals ( IDENT_2 [ i ] , e . getValue ( ) , 0 ) 

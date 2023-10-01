@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File IDENT_0 = METHOD_1 ( org . apache . flink . IDENT_1 . IDENT_2 . com . google . common . collect . ImmutableMap . of ( ) ) ; java . util . Optional < java . lang . String > entry = org . apache . flink . container . IDENT_3 . IDENT_4 . METHOD_2 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( value ) != null ; }
+org . junit . Assert . assertFalse ( entry . METHOD_3 ( ) ) 

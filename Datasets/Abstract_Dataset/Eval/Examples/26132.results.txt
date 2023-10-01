@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . service . model . IDENT_1 obj = new org . IDENT_0 . service . model . METHOD_1 ( ) ; obj . METHOD_2 ( new org . IDENT_0 . dao . model . METHOD_3 ( ) , new org . IDENT_0 . IDENT_2 . METHOD_4 ( ) ) ; obj . METHOD_2 ( new org . IDENT_0 . dao . model . METHOD_3 ( ) , new org . IDENT_0 . IDENT_2 . METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return model ; }
+org . junit . Assert . assertThat ( obj . METHOD_5 ( ) . size ( ) , org . hamcrest . CoreMatchers . equalTo ( 2 ) ) 

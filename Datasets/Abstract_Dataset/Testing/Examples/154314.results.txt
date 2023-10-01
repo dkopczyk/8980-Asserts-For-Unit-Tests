@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = 3 ; com . google . common . base . IDENT_1 < java . lang . Integer > IDENT_2 = new com . IDENT_3 . IDENT_4 . cache . IDENT_5 . METHOD_1 ( IDENT_0 ) ; for ( int i = 1 ; i <= 10 ; i ++ ) { java . lang . Integer value = IDENT_2 . get ( ) ; System . out . println ( ( ( i + STRING_0 ) + value ) ) ; int IDENT_6 = i ; if ( ( i OP_0 IDENT_0 ) == 0 ) { IDENT_6 OP_1 ; } "<AssertPlaceHolder>" ; } } get ( ) { return list ; }
+org . junit . Assert . assertEquals ( value , java . lang . Integer . valueOf ( IDENT_6 ) ) 

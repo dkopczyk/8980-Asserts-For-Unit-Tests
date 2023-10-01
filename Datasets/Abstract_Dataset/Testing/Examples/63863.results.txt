@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . xtext . resource . IDENT_0 IDENT_1 = METHOD_1 ( ) . METHOD_2 ( org . eclipse . xtext . IDENT_2 . IDENT_3 . create ( int . class . getName ( ) ) ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertNull ( IDENT_1 ) 

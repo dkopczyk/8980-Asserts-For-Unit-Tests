@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return token != null ? token : IDENT_0 . amazon . IDENT_1 . core . util . IDENT_2 . generator . get ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_0 . amazon . IDENT_1 . core . util . IDENT_2 . METHOD_1 ( null ) ) 

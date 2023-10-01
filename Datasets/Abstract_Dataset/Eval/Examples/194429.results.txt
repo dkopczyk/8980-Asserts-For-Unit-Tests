@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URI uri = new java . net . URI ( STRING_0 ) ; IDENT_0 = new org . IDENT_1 . camel . component . IDENT_2 . METHOD_1 ( uri ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_0 ) 

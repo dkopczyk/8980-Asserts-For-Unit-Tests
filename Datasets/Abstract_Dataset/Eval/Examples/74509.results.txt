@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final byte [ ] IDENT_1 = IDENT_2 . METHOD_1 ( IDENT_0 ) ; final uk . gov . gchq . gaffer . data . element . id . IDENT_3 IDENT_4 = IDENT_2 . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_4 ( IDENT_5 . IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_4 . METHOD_3 ( ) ) 

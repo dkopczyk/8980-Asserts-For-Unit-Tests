@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . stream . IDENT_1 . of ( 10 ) . METHOD_1 ( new com . IDENT_0 . stream . function . METHOD_2 ( ) { @ com . IDENT_0 . stream . Override public void accept ( int value ) { "<AssertPlaceHolder>" ; } } , new java . lang . METHOD_3 ( ) { @ com . IDENT_0 . stream . Override public void run ( ) { org . junit . Assert . fail ( STRING_0 ) ; } } ) ; } accept ( int ) { if ( value < ( IDENT_2 ) ) { IDENT_3 [ 0 ] = true ; } IDENT_2 = value ; }
+org . junit . Assert . assertThat ( value , org . hamcrest . Matchers . is ( 10 ) ) 

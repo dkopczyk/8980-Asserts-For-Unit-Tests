@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . sagebionetworks . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . IDENT_2 . get ( org . sagebionetworks . client . IDENT_3 . IDENT_4 ) ; }
+org . junit . Assert . assertNull ( org . sagebionetworks . IDENT_0 . IDENT_1 . METHOD_2 ( ) ) 

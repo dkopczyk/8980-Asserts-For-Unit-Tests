@@ -1,0 +1,2 @@
+get ( ) { com . IDENT_0 . test . model . IDENT_1 IDENT_2 = new com . IDENT_0 . test . model . METHOD_0 ( ) ; IDENT_2 . METHOD_1 ( STRING_0 ) ; IDENT_2 . METHOD_2 ( 12 ) ; IDENT_2 . METHOD_3 ( new java . util . Date ( ) ) ; java . lang . String id = IDENT_3 . insert ( IDENT_2 ) ; com . IDENT_0 . test . model . METHOD_0 IDENT_4 = IDENT_3 . get ( com . IDENT_0 . test . model . METHOD_0 . class , id ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_2 . METHOD_4 ( ) , IDENT_4 . METHOD_4 ( ) ) 

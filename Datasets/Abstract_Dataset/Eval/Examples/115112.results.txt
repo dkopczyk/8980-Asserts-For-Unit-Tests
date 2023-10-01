@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final double [ ] original = new double [ ] { 1L , INT_0 } ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object [ ] ) { if ( org . apache . commons . lang3 . IDENT_0 . isEmpty ( array ) ) { return org . apache . commons . lang3 . IDENT_0 . IDENT_1 ; } return array ; }
+org . junit . Assert . assertEquals ( original , org . apache . commons . lang3 . IDENT_0 . METHOD_1 ( original ) ) 

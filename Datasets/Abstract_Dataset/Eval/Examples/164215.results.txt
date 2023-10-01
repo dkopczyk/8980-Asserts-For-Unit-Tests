@@ -1,0 +1,2 @@
+METHOD_0 ( ) { doReturn ( null ) . when ( bean ) . METHOD_1 ( ) ; config . METHOD_2 ( true ) ; boolean IDENT_0 = bean . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { boolean IDENT_1 = METHOD_4 ( ) . METHOD_5 ( ) ; if ( ! METHOD_5 ) { return true ; } org . oscm . internal . vo . IDENT_2 user = METHOD_1 ( ) ; if ( user != null ) { java . lang . String org = user . METHOD_6 ( ) ; if ( org != null ) { return METHOD_4 ( ) . METHOD_7 ( ) . contains ( org ) ; } } return true ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

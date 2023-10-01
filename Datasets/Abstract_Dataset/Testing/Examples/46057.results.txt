@@ -1,0 +1,2 @@
+METHOD_0 ( ) { gov . hhs . fha . nhinc . IDENT_0 . IDENT_1 IDENT_2 = new gov . hhs . fha . nhinc . IDENT_0 . METHOD_1 ( ) ; java . util . Set < javax . xml . IDENT_3 . IDENT_4 > header = IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { java . util . Set < javax . xml . IDENT_3 . IDENT_4 > headers = new java . util . HashSet ( ) ; headers . add ( gov . hhs . fha . nhinc . logging . transaction . IDENT_5 . IDENT_6 ) ; return headers ; }
+org . junit . Assert . assertTrue ( header . isEmpty ( ) ) 

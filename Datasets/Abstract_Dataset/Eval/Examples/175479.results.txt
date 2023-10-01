@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Collection < com . IDENT_0 . IDENT_1 . properties . IDENT_2 > IDENT_3 = IDENT_4 . find ( com . IDENT_0 . IDENT_1 . properties . IDENT_5 . class , com . IDENT_0 . IDENT_1 . properties . IDENT_2 . class ) ; "<AssertPlaceHolder>" ; METHOD_1 ( IDENT_3 , com . IDENT_0 . IDENT_1 . properties . IDENT_2 . class ) ; } isEmpty ( ) { throw new java . lang . METHOD_2 ( STRING_0 ) ; }
+org . junit . Assert . assertFalse ( IDENT_3 . isEmpty ( ) ) 

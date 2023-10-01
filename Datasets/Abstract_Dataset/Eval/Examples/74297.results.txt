@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final uk . gov . gchq . gaffer . store . IDENT_0 props = METHOD_1 ( ) ; java . lang . String value = props . get ( STRING_0 ) ; "<AssertPlaceHolder>" ; } get ( IDENT_1 ) { return IDENT_2 . get ( key ) ; }
+org . junit . Assert . assertNull ( value ) 

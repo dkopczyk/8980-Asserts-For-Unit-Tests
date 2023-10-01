@@ -1,0 +1,2 @@
+METHOD_0 ( ) { query . METHOD_1 ( STRING_0 , IDENT_0 . IDENT_1 ) ; java . util . List < fr . IDENT_2 . IDENT_3 . lib . model . IDENT_4 > IDENT_5 = query . METHOD_2 ( ) ; int IDENT_6 = Integer . MAX_VALUE ; for ( fr . IDENT_2 . IDENT_3 . lib . model . IDENT_4 IDENT_7 : IDENT_5 ) { "<AssertPlaceHolder>" ; IDENT_6 = IDENT_7 . getId ( ) ; } } getId ( ) { return fr . IDENT_2 . IDENT_3 . IDENT_8 . ui . IDENT_9 . view . IDENT_10 . IDENT_11 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_7 . getId ( ) ) <= IDENT_6 ) ) 

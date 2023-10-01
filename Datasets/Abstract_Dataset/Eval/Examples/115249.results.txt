@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Throwable ) { final java . util . List < java . lang . Throwable > list = org . apache . commons . lang3 . exception . IDENT_0 . METHOD_2 ( IDENT_1 ) ; return list . toArray ( new java . lang . Throwable [ list . size ( ) ] ) ; }
+org . junit . Assert . assertEquals ( 0 , org . apache . commons . lang3 . exception . IDENT_0 . METHOD_1 ( null ) . length ) 

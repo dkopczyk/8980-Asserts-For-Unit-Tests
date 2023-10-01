@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . debug . core . IDENT_0 IDENT_1 = METHOD_1 ( IDENT_2 . METHOD_2 ( ) ) ; org . eclipse . IDENT_3 . internal . IDENT_4 . tests . IDENT_5 IDENT_6 = new org . eclipse . IDENT_3 . internal . IDENT_4 . tests . METHOD_3 ( ) ; IDENT_6 . METHOD_4 ( new org . eclipse . IDENT_7 . IDENT_8 . METHOD_5 ( IDENT_2 . METHOD_2 ( ) ) , IDENT_9 . IDENT_10 ) ; org . eclipse . debug . core . IDENT_0 IDENT_11 = IDENT_6 . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return config ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_11 ) 

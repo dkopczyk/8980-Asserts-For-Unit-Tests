@@ -1,0 +1,2 @@
+METHOD_0 ( ) { version = new org . apache . IDENT_0 . IDENT_1 . version . METHOD_1 ( IDENT_2 , IDENT_2 , IDENT_2 , IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return version ; }
+org . junit . Assert . assertEquals ( version . METHOD_2 ( ) . hashCode ( ) , version . hashCode ( ) ) 

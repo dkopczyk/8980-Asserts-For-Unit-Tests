@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] IDENT_0 = new int [ ] { 2 , 3 , 4 , 5 } ; int [ ] IDENT_1 = org . apache . commons . lang3 . IDENT_2 . add ( IDENT_0 , 1 ) ; int [ ] IDENT_3 = new int [ ] { 2 , 3 , 4 , 5 , 1 } ; "<AssertPlaceHolder>" ; } add ( int , int ) { if ( ( a < 0 ) || ( b < 0 ) ) { throw new java . lang . IllegalArgumentException ( STRING_0 ) ; } return a + b ; }
+org . junit . Assert . assertArrayEquals ( IDENT_3 , IDENT_1 ) 

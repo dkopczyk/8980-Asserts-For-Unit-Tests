@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . StringWriter IDENT_2 = new org . apache . IDENT_0 . IDENT_1 . StringWriter ( ) ; m . write ( "foo" , IDENT_2 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return IDENT_3 . IDENT_4 . toString ( this ) ; }
+org . junit . Assert . assertEquals ( "foo" , IDENT_2 . toString ( ) ) 

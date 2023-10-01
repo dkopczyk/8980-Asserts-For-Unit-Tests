@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File input = new java . io . File ( java . lang . System . getProperty ( STRING_0 ) ) ; org . jboss . IDENT_0 . IDENT_1 . resource . IDENT_2 output = IDENT_3 . convert ( input ) ; "<AssertPlaceHolder>" ; } convert ( java . lang . Object ) { java . lang . Object value = source ; for ( org . jboss . IDENT_0 . IDENT_1 . convert . IDENT_4 < java . lang . Object , java . lang . Object > converter : IDENT_5 ) { if ( converter != null ) { value = converter . convert ( value ) ; } } return value ; }
+org . junit . Assert . assertNotNull ( output ) 

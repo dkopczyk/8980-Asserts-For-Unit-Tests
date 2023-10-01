@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . cxf . IDENT_0 . IDENT_1 db = new org . apache . cxf . IDENT_0 . METHOD_1 ( ) ; java . util . Map < java . lang . String , java . lang . Object > IDENT_2 = new java . util . HashMap ( ) ; IDENT_2 . put ( STRING_0 , STRING_1 ) ; db . METHOD_2 ( IDENT_2 ) ; db . METHOD_3 ( service ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( STRING_1 , db . METHOD_4 ( ) . get ( STRING_0 ) ) 

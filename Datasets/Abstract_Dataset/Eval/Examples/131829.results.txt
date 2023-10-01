@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final net . IDENT_0 . platform . datamodel . User IDENT_1 = METHOD_1 ( ) ; final net . IDENT_0 . platform . datamodel . IDENT_2 IDENT_3 = IDENT_4 . IDENT_5 . METHOD_2 ( IDENT_1 ) . get ( 0 ) ; final net . IDENT_0 . platform . datamodel . IDENT_6 IDENT_7 = METHOD_3 ( IDENT_1 ) ; IDENT_8 = METHOD_4 ( IDENT_1 , IDENT_3 ) ; "<AssertPlaceHolder>" ; METHOD_5 ( IDENT_7 . getId ( ) . METHOD_6 ( ) ) ; } METHOD_7 ( ) { return this . IDENT_9 ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_8 . METHOD_7 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { model . METHOD_1 ( METHOD_2 ( METHOD_3 ( STRING_0 , STRING_1 ) , METHOD_4 ( STRING_2 , STRING_3 ) ) ) ; int size = model . METHOD_5 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return result . METHOD_6 ( ) ; }
+org . junit . Assert . assertEquals ( 2 , size ) 

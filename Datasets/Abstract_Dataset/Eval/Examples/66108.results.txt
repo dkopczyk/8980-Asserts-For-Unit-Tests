@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . concurrent . IDENT_0 service = java . util . concurrent . IDENT_1 . METHOD_1 ( 3 ) ; com . baeldung . concurrent . atomic . IDENT_2 IDENT_3 = new com . baeldung . concurrent . atomic . METHOD_2 ( ) ; java . util . stream . IDENT_4 . range ( 0 , 1000 ) . METHOD_3 ( ( count ) -> service . METHOD_4 ( IDENT_3 :: IDENT_5 ) ) ; service . METHOD_5 ( 100 , TimeUnit . IDENT_6 ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( 1000 , IDENT_3 . getValue ( ) ) 

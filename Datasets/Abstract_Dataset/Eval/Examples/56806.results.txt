@@ -1,0 +1,2 @@
+METHOD_0 ( ) { mock . METHOD_1 ( STRING_0 ) ; METHOD_2 ( ) . METHOD_3 ( ) . METHOD_4 ( new java . lang . RuntimeException ( STRING_1 ) ) ; replay ( mock ) ; mock . METHOD_1 ( STRING_0 ) ; try { mock . METHOD_1 ( STRING_0 ) ; } catch ( java . lang . RuntimeException e ) { "<AssertPlaceHolder>" ; } verify ( mock ) ; } getMessage ( ) { return message ; }
+org . junit . Assert . assertEquals ( STRING_1 , e . getMessage ( ) ) 

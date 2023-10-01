@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . api . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 condition = com . google . api . IDENT_0 . IDENT_1 . IDENT_2 . utils . IDENT_3 . IDENT_6 . IDENT_7 . METHOD_1 ( IDENT_8 . IDENT_9 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return condition ; }
+org . junit . Assert . assertEquals ( IDENT_8 . IDENT_9 , condition . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String content = ( STRING_0 + ( org . bonitasoft . engine . util . IDENT_0 . IDENT_1 ) ) + STRING_1 ; final java . io . ByteArrayInputStream IDENT_2 = new java . io . ByteArrayInputStream ( content . getBytes ( ) ) ; final java . lang . String read = org . bonitasoft . engine . io . IDENT_3 . read ( IDENT_2 ) ; IDENT_2 . close ( ) ; "<AssertPlaceHolder>" ; } close ( ) { }
+org . junit . Assert . assertEquals ( content , read ) 

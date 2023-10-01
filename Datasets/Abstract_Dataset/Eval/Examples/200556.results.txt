@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . test . server . IDENT_0 . METHOD_1 ( neo4j . METHOD_2 ( ) . resolve ( STRING_0 ) . toString ( ) ) ; org . neo4j . test . server . IDENT_0 . Response response = org . neo4j . test . server . IDENT_0 . request ( STRING_1 , neo4j . METHOD_2 ( ) . resolve ( STRING_2 ) . toString ( ) , com . IDENT_1 . IDENT_2 . IDENT_3 . input ) ; java . util . HashMap actual = response . content ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( com . IDENT_1 . IDENT_2 . IDENT_3 . expected , actual ) 

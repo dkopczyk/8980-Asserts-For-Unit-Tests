@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 ) ; org . eclipse . jgit . IDENT_0 . IDENT_1 commit = commit ( ) ; "<AssertPlaceHolder>" ; } exists ( java . lang . String , com . IDENT_2 . IDENT_3 . utils . IDENT_4 , com . IDENT_2 . IDENT_3 . utils . IDENT_5 ) { return com . IDENT_2 . IDENT_3 . utils . IDENT_6 . exists ( file , com . IDENT_2 . IDENT_3 . utils . IDENT_7 . METHOD_2 ( commit , reader ) , reader ) ; }
+org . junit . Assert . assertTrue ( com . IDENT_2 . IDENT_3 . utils . IDENT_7 . exists ( STRING_0 , commit . getName ( ) , repo ) ) 

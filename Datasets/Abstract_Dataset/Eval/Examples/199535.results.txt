@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String sql = STRING_0 ; org . springframework . jdbc . core . IDENT_0 < com . IDENT_1 . IDENT_2 . IDENT_3 . Message > IDENT_4 = new org . springframework . jdbc . core . IDENT_5 < com . IDENT_1 . IDENT_2 . IDENT_3 . Message > ( com . IDENT_1 . IDENT_2 . IDENT_3 . Message . class ) ; java . util . List < com . IDENT_1 . IDENT_2 . IDENT_3 . Message > messages = IDENT_6 . query ( sql , IDENT_4 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( ( messages . size ( ) ) == 2 ) ) 

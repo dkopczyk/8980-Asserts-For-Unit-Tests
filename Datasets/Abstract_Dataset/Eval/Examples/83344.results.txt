@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . hipparchus . IDENT_0 . IDENT_1 x = new org . hipparchus . IDENT_0 . METHOD_1 ( 3 , 4 ) ; double IDENT_2 = Double . IDENT_3 ; org . hipparchus . IDENT_0 . METHOD_1 IDENT_4 = new org . hipparchus . IDENT_0 . METHOD_1 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . hipparchus . IDENT_0 . METHOD_1 ) { org . hipparchus . util . IDENT_5 . METHOD_3 ( x ) ; return this . log ( ) . METHOD_4 ( x ) . exp ( ) ; }
+org . junit . Assert . assertEquals ( x . METHOD_2 ( IDENT_4 ) , x . METHOD_2 ( IDENT_2 ) ) 

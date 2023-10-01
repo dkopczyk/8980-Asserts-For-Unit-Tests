@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = 0 ; int IDENT_1 = 0 ; METHOD_1 ( ) ; for ( ch . IDENT_2 . data . IDENT_3 . IDENT_4 IDENT_5 : IDENT_6 ) { if ( METHOD_2 ( IDENT_5 ) ) { if ( ! ( IDENT_5 . METHOD_3 ( ) . isEmpty ( ) ) ) { System . out . println ( ( ( ( STRING_0 + ( IDENT_5 . METHOD_4 ( ) ) ) + STRING_1 ) + ( IDENT_5 . METHOD_3 ( ) ) ) ) ; } } } System . out . println ( ( ( ( ( STRING_2 + IDENT_0 ) + STRING_3 ) + IDENT_1 ) + STRING_4 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_0 ) 

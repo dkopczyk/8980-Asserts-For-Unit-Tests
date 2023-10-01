@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . util . concurrent . IDENT_1 < java . lang . Integer > IDENT_2 = exec ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } get ( ) { return ( ( T ) ( org . IDENT_0 . IDENT_3 . IDENT_4 . METHOD_1 ( ( ( java . util . List ) ( IDENT_5 ) ) ) . get ( 0 ) ) ) ; }
+org . junit . Assert . assertEquals ( java . lang . Integer . valueOf ( 0 ) , IDENT_2 . get ( ) ) 

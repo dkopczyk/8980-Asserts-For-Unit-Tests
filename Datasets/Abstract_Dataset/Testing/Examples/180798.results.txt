@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } newInstance ( ) { return new org . IDENT_0 . IDENT_1 . api . indexing . METHOD_1 ( ) ; }
+org . junit . Assert . assertNotNull ( factory . newInstance ( ) ) 

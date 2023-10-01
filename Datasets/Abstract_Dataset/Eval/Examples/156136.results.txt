@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long now = ( ( java . lang . System . currentTimeMillis ( ) ) - ( com . IDENT_0 . IDENT_1 . validator . IDENT_2 . IDENT_3 ) ) + 1000 ; when ( file . METHOD_1 ( ) ) . thenReturn ( now ) ; "<AssertPlaceHolder>" ; } validate ( T ) { boolean IDENT_4 = false ; java . io . File file = ( ( java . io . File ) ( obj ) ) ; if ( IDENT_5 . validate ( file ) ) { results . METHOD_2 ( file . getPath ( ) ) ; METHOD_3 ( file ) ; IDENT_4 = true ; } return IDENT_4 ; }
+org . junit . Assert . assertTrue ( instance . validate ( file ) ) 

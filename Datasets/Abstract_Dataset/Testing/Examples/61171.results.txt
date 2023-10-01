@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . template . IDENT_0 IDENT_1 = new org . eclipse . rap . rwt . template . METHOD_1 ( template ) ; IDENT_1 . METHOD_2 ( METHOD_3 ( IDENT_2 . IDENT_3 ) ) ; IDENT_1 . METHOD_2 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { METHOD_5 ( ) ; return METHOD_4 ( 0 ) ; }
+org . junit . Assert . assertNull ( IDENT_1 . METHOD_4 ( ) ) 

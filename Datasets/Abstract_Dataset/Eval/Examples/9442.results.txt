@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . cloud . user . IDENT_0 IDENT_1 = METHOD_1 ( ) ; java . lang . Long IDENT_2 = IDENT_3 . METHOD_2 ( IDENT_1 , true , 1L ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( com . cloud . user . IDENT_4 , boolean , java . lang . Long ) { java . lang . Long IDENT_2 = IDENT_1 . METHOD_3 ( ) ; if ( IDENT_5 ) { IDENT_2 = IDENT_6 ; } return IDENT_2 ; }
+org . junit . Assert . assertEquals ( new java . lang . Long ( 1 ) , IDENT_2 ) 

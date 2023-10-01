@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . IDENT_3 . METHOD_1 ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int , long ) { METHOD_3 ( ( IDENT_4 >= 1 ) ) ; if ( IDENT_4 >= ( IDENT_5 ) ) { return false ; } try { java . lang . Thread . sleep ( METHOD_4 ( IDENT_4 , IDENT_6 ) ) ; } catch ( java . lang . IDENT_7 e ) { java . lang . Thread . METHOD_5 ( ) . METHOD_6 ( ) ; return false ; } return true ; }
+org . junit . Assert . assertFalse ( IDENT_3 . METHOD_2 ( 1 , 0 ) ) 

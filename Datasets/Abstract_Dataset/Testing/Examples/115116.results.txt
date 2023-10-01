@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . Class < ? > [ ] original = new java . lang . Class < ? > [ ] { java . lang . Object . class , java . lang . String . class } ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object [ ] ) { if ( org . apache . commons . lang3 . IDENT_0 . isEmpty ( array ) ) { return org . apache . commons . lang3 . IDENT_0 . IDENT_1 ; } return array ; }
+org . junit . Assert . assertArrayEquals ( original , org . apache . commons . lang3 . IDENT_0 . METHOD_1 ( original ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( this . IDENT_0 . METHOD_1 ( eq ( STRING_0 ) , eq ( INT_0 ) ) ) . thenReturn ( STRING_1 ) ; java . lang . String METHOD_1 = this . IDENT_1 . METHOD_1 ( STRING_0 , INT_0 ) ; verify ( this . IDENT_0 , times ( 1 ) ) . METHOD_1 ( anyString ( ) , METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , int ) { if ( version > 0 ) { return this . IDENT_2 . METHOD_1 ( name , version ) ; } else { return this . IDENT_2 . METHOD_1 ( name ) ; } }
+org . junit . Assert . assertEquals ( STRING_1 , METHOD_1 ) 

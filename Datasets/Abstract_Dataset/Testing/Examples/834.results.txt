@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . log ( STRING_0 ) ; java . lang . Boolean IDENT_4 = true ; com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 instance = IDENT_6 . METHOD_1 ( ) ; instance . METHOD_2 ( new com . IDENT_0 . IDENT_1 . IDENT_7 . components . METHOD_3 ( ) { public void update ( com . IDENT_0 . IDENT_1 . IDENT_7 . components . IDENT_8 subject ) { "<AssertPlaceHolder>" ; } } ) ; instance . METHOD_4 ( IDENT_4 ) ; } METHOD_5 ( ) { return this . IDENT_4 ; }
+org . junit . Assert . assertTrue ( subject . METHOD_5 ( ) ) 

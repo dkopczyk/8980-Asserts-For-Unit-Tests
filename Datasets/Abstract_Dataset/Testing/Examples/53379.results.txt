@@ -1,0 +1,2 @@
+METHOD_0 ( ) { date = METHOD_1 ( INT_0 , 3 , 20 ) ; IDENT_0 . METHOD_2 ( date ) ; IDENT_1 . save ( IDENT_0 ) ; IDENT_1 . save ( IDENT_2 ) ; IDENT_1 . save ( IDENT_3 ) ; IDENT_1 . save ( IDENT_4 ) ; java . util . List < org . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 > asList = IDENT_1 . METHOD_3 ( IDENT_9 . IDENT_10 , METHOD_1 ( INT_1 , 3 , INT_2 ) , METHOD_1 ( INT_0 , 3 , INT_3 ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return messages . size ( ) ; }
+org . junit . Assert . assertEquals ( 2 , asList . size ( ) ) 

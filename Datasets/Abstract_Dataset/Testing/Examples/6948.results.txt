@@ -1,0 +1,2 @@
+METHOD_0 ( ) { v . METHOD_1 ( org . apache . tools . IDENT_0 . util . IDENT_1 . IDENT_2 ) ; v . METHOD_1 ( org . apache . tools . IDENT_0 . util . IDENT_1 . IDENT_2 ) ; "<AssertPlaceHolder>" ; } size ( ) { if ( METHOD_2 ( ) ) { return METHOD_3 ( ) . size ( ) ; } METHOD_4 ( ) ; return METHOD_5 ( ) . METHOD_6 ( IDENT_3 :: size ) . METHOD_7 ( ) ; }
+org . junit . Assert . assertEquals ( 1 , v . size ( ) ) 

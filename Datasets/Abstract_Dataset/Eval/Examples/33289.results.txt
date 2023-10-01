@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . apache . IDENT_0 . IDENT_1 . IDENT_2 > IDENT_3 = ch . IDENT_4 . IDENT_5 . IDENT_0 . IDENT_6 . asList ( METHOD_1 ( ch . IDENT_4 . IDENT_5 . IDENT_0 . IDENT_7 . IDENT_8 . class , ch . IDENT_4 . IDENT_5 . IDENT_0 . IDENT_9 . IDENT_10 , new int [ ] { 5 , INT_0 } , ch . IDENT_4 . IDENT_5 . IDENT_0 . IDENT_9 . IDENT_11 , false ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return map . size ( ) ; }
+org . junit . Assert . assertEquals ( 10 , IDENT_3 . size ( ) ) 

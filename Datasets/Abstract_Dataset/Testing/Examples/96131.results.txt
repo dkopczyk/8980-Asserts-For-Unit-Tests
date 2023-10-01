@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 child = new IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) ; container . child . set ( child ) ; METHOD_2 ( child , 0 ) ; METHOD_3 ( IDENT_6 . IDENT_7 ) ; "<AssertPlaceHolder>" ; } get ( ) { return IDENT_8 . get ( ) ; }
+org . junit . Assert . assertSame ( child , container . child . get ( ) ) 

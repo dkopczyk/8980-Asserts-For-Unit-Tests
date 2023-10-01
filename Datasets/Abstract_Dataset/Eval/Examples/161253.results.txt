@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { int value = 8 ; org . IDENT_0 . IDENT_1 . core . datamodel . IDENT_2 IDENT_3 ; if ( ( IDENT_3 = IDENT_4 . METHOD_2 ( IDENT_5 . IDENT_6 ) ) != null ) { value = java . lang . Integer . METHOD_3 ( IDENT_3 . METHOD_4 ( IDENT_5 . IDENT_7 ) ) ; } return value / 8 ; }
+org . junit . Assert . assertEquals ( 4 , metadata . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final long time = 1 ; this . IDENT_0 = new org . IDENT_1 . IDENT_2 . build . METHOD_1 ( FLOAT_0 , INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( long ) { return ( java . lang . Math . METHOD_3 ( ( IDENT_3 * ( this . IDENT_4 ) ) ) ) + ( this . IDENT_5 ) ; }
+org . junit . Assert . assertEquals ( ( ( java . lang . Math . METHOD_3 ( ( FLOAT_0 * time ) ) ) + INT_0 ) , this . IDENT_0 . METHOD_2 ( time ) ) 

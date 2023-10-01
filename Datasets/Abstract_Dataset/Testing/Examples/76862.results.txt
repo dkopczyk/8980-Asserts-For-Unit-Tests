@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Integer > IDENT_0 = new java . util . ArrayList ( ) ; IDENT_0 . add ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . IDENT_1 ) { org . IDENT_2 . IDENT_3 . collections . IDENT_4 . IDENT_5 < T > ret = org . IDENT_2 . IDENT_3 . collections . IDENT_4 . METHOD_2 ( ) ; for ( T item : IDENT_6 ) { ret . append ( item ) ; } return ret . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( java . lang . Integer . valueOf ( 1 ) , org . IDENT_2 . IDENT_3 . collections . IDENT_4 . METHOD_1 ( IDENT_0 ) . get ( 0 ) ) 

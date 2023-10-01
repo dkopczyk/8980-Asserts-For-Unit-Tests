@@ -1,0 +1,2 @@
+test ( ) { final uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = METHOD_0 ( true ) ; final uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . state . IDENT_6 IDENT_7 = IDENT_5 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; final java . util . Date IDENT_8 = new java . util . Date ( ) ; IDENT_5 . METHOD_2 ( IDENT_8 ) ; IDENT_5 . METHOD_3 ( IDENT_8 ) ; } METHOD_4 ( ) { return java . util . Collections . METHOD_5 ( IDENT_9 ) ; }
+org . junit . Assert . assertTrue ( IDENT_7 . METHOD_4 ( ) . isEmpty ( ) ) 

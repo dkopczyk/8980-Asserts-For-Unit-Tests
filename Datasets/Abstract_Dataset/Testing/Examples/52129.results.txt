@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . val IDENT_1 = org . nd4j . linalg . factory . Nd4j . create ( IDENT_2 . IDENT_3 , 5 ) ; IDENT_0 . val IDENT_4 = org . nd4j . linalg . factory . Nd4j . create ( new double [ ] { 1 , 2 , 3 , 4 , 5 } ) ; IDENT_0 . val exp = org . nd4j . linalg . factory . Nd4j . create ( new int [ ] { 1 , 2 , 3 , 4 , 5 } , new long [ ] { 5 } , IDENT_2 . IDENT_3 ) ; IDENT_1 . METHOD_1 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . IDENT_5 ) { return IDENT_6 . METHOD_2 ( this , value ) ; }
+org . junit . Assert . assertEquals ( exp , IDENT_1 ) 

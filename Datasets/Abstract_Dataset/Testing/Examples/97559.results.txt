@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object to = binding . converter ( ) . to ( null ) ; "<AssertPlaceHolder>" ; } to ( io . vertx . core . json . IDENT_0 ) { return IDENT_1 == null ? null : IDENT_1 . encode ( ) ; }
+org . junit . Assert . assertNull ( to ) 

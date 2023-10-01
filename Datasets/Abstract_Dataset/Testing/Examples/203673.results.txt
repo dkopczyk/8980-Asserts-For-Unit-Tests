@@ -1,0 +1,2 @@
+METHOD_0 ( ) { exception = new org . IDENT_0 . consumer . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( exception ) 

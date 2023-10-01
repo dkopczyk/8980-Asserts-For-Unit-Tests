@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . baeldung . IDENT_0 . data . redis . model . IDENT_1 IDENT_2 = new com . baeldung . IDENT_0 . data . redis . model . METHOD_1 ( STRING_0 , STRING_1 , METHOD_1 . IDENT_3 . IDENT_4 , 1 ) ; IDENT_5 . save ( IDENT_2 ) ; IDENT_2 . setName ( STRING_2 ) ; IDENT_5 . save ( IDENT_2 ) ; final com . baeldung . IDENT_0 . data . redis . model . METHOD_1 IDENT_6 = IDENT_5 . METHOD_2 ( IDENT_2 . getId ( ) ) . get ( ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( IDENT_2 . getName ( ) , IDENT_6 . getName ( ) ) 

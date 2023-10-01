@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . cache . configuration . Configuration < java . lang . Integer , java . lang . Integer > IDENT_0 = new javax . cache . configuration . IDENT_1 < java . lang . Integer , java . lang . Integer > ( ) ; javax . cache . configuration . Configuration < java . lang . Integer , java . lang . Integer > IDENT_2 = new javax . cache . configuration . IDENT_1 < java . lang . Integer , java . lang . Integer > ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_2 ) 

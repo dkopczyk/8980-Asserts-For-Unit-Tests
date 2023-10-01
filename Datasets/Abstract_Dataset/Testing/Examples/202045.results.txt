@@ -1,0 +1,2 @@
+example ( ) { int x = 100 ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 100 , x ) 

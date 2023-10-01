@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . util . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { try { return ( IDENT_5 . size ( ) ) == 0 ; } catch ( IDENT_0 . IDENT_1 . util . IDENT_2 . IDENT_6 e ) { throw new java . lang . IllegalStateException ( e ) ; } }
+org . junit . Assert . assertTrue ( IDENT_0 . IDENT_1 . util . IDENT_2 . IDENT_3 . IDENT_4 . isEmpty ( ) ) 

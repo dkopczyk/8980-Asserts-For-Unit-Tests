@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 < org . IDENT_0 . IDENT_1 . IDENT_3 > IDENT_4 = new org . IDENT_0 . IDENT_1 . METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_5 . class , java . lang . String . class ) ; org . IDENT_0 . IDENT_1 . IDENT_3 IDENT_6 = IDENT_4 . METHOD_2 ( METHOD_3 ( ) , source , METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { try { return METHOD_3 ( ) . METHOD_5 ( org . IDENT_0 . IDENT_1 . IDENT_7 . class ) ; } catch ( java . lang . Exception e ) { return null ; } }
+org . junit . Assert . assertNull ( IDENT_6 ) 

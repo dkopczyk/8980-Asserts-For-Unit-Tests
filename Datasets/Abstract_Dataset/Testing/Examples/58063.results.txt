@@ -1,0 +1,2 @@
+isEmpty ( ) { super . isEmpty ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return new org . eclipse . collections . impl . IDENT_0 . IDENT_1 . mutable . IDENT_2 < > ( ) ; }
+org . junit . Assert . assertFalse ( this . METHOD_0 ( ) . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . netty . buffer . IDENT_0 buf = buffer ( METHOD_1 ( 8 ) . METHOD_2 ( ) ) . METHOD_3 ( ) ; try { "<AssertPlaceHolder>" ; } finally { buf . METHOD_4 ( ) ; } } METHOD_5 ( int ) { return false ; }
+org . junit . Assert . assertFalse ( buf . METHOD_5 ( 1 ) ) 

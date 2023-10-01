@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 uri = org . apache . IDENT_0 . test . parser . IDENT_4 . IDENT_5 . IDENT_6 . resolve ( STRING_0 ) ; org . apache . IDENT_0 . model . Document < org . apache . IDENT_0 . model . IDENT_7 > doc = parse ( uri ) ; org . apache . IDENT_0 . model . Entry entry = doc . METHOD_1 ( ) . METHOD_2 ( ) . get ( 0 ) ; org . apache . IDENT_0 . model . IDENT_8 source = entry . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return STRING_1 ; }
+org . junit . Assert . assertNull ( source . METHOD_4 ( ) ) 

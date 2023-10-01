@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final io . IDENT_0 . buffer . IDENT_1 buffer = io . IDENT_0 . buffer . IDENT_2 . METHOD_1 ( STRING_0 ) ; try { io . IDENT_0 . packet . IDENT_3 . impl . IDENT_4 . parse ( buffer ) ; org . junit . Assert . fail ( STRING_1 ) ; } catch ( final io . IDENT_0 . packet . IDENT_3 . IDENT_5 e ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( ) { return this . IDENT_6 ; }
+org . junit . Assert . assertThat ( e . METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( 8 ) ) 

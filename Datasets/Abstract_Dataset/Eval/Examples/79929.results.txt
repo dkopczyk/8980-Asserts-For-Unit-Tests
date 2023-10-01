@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return route ; }
+org . junit . Assert . assertEquals ( route , context . METHOD_1 ( ) ) 

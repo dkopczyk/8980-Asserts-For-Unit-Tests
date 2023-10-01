@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . nio . file . Path path = IDENT_0 . getPath ( STRING_0 ) ; final java . nio . file . Path other = IDENT_0 . getPath ( STRING_1 ) ; final java . nio . file . Path IDENT_1 = path . METHOD_0 ( other ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( org . jboss . IDENT_2 . api . IDENT_3 . IDENT_4 . class . METHOD_1 ( ) ) + STRING_2 ) + ( content . length ) ) + STRING_3 ; }
+org . junit . Assert . assertEquals ( other . toString ( ) , IDENT_1 . toString ( ) ) 

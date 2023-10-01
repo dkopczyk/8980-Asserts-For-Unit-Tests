@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( null ) ; IDENT_0 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( model ) == null ) { model = new org . oscm . ui . model . METHOD_4 ( ) ; model . METHOD_5 ( ( ! ( METHOD_6 ( ) ) ) ) ; } return model ; }
+org . junit . Assert . assertNotNull ( IDENT_0 . METHOD_3 ( ) ) 

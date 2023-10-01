@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = org . apache . commons . lang3 . IDENT_1 . METHOD_1 ( ) ; final java . lang . String expected = ( org . apache . commons . lang3 . IDENT_1 . IDENT_2 ) ? java . lang . System . METHOD_2 ( STRING_0 ) : java . lang . System . METHOD_2 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return org . apache . commons . lang3 . IDENT_1 . IDENT_2 ? java . lang . System . METHOD_2 ( STRING_0 ) : java . lang . System . METHOD_2 ( STRING_1 ) ; }
+org . junit . Assert . assertEquals ( expected , IDENT_0 ) 

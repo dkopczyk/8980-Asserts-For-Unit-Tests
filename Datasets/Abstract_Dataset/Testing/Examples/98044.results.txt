@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 v1 = IDENT_3 . create ( STRING_0 ) ; IDENT_0 . IDENT_1 . IDENT_2 v2 = IDENT_3 . create ( STRING_1 ) ; IDENT_4 . METHOD_1 ( v1 . METHOD_2 ( ) . getId ( ) ) ; IDENT_4 . METHOD_3 ( ) ; IDENT_0 . IDENT_1 . List < IDENT_0 . IDENT_1 . IDENT_2 > IDENT_1 = IDENT_4 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( asList ( v1 , v2 ) , IDENT_1 ) 

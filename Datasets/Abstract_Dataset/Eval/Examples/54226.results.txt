@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . util . IDENT_1 . IDENT_2 range = org . IDENT_0 . util . IDENT_1 . IDENT_3 . range ( ( - FLOAT_0 ) , FLOAT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( double ) { return ( value - ( METHOD_2 ( ) ) ) / ( ( METHOD_3 ( ) ) - ( METHOD_2 ( ) ) ) ; }
+org . junit . Assert . assertThat ( range . METHOD_1 ( FLOAT_0 ) , equalTo ( 1.0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { if ( ( this ) == obj ) { return true ; } if ( obj == null ) { return false ; } if ( ( getClass ( ) ) != ( obj . getClass ( ) ) ) { return false ; } com . eclipsesource . json . IDENT_0 other = ( ( com . eclipsesource . json . IDENT_0 ) ( obj ) ) ; return ( ( ( offset ) == ( other . offset ) ) && ( ( column ) == ( other . column ) ) ) && ( ( line ) == ( other . line ) ) ; }
+org . junit . Assert . assertTrue ( array . equals ( array ) ) 

@@ -1,0 +1,2 @@
+remove ( ) { com . IDENT_0 . IDENT_1 . redis . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = METHOD_0 ( ) ; IDENT_6 . METHOD_1 ( METHOD_0 ) ; IDENT_6 . remove ( METHOD_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { }
+org . junit . Assert . assertFalse ( IDENT_6 . METHOD_2 ( ) ) 

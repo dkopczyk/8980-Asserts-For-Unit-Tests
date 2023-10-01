@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . sun . IDENT_0 . impl . kernel . IDENT_1 . IDENT_2 . IDENT_3 c = new com . sun . IDENT_0 . impl . kernel . IDENT_1 . IDENT_2 . METHOD_1 ( 2 , true ) ; IDENT_4 . METHOD_2 ( c , IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return count ; }
+org . junit . Assert . assertEquals ( 0 , c . METHOD_3 ( ) ) 

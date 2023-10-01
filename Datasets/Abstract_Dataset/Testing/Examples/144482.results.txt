@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 r = METHOD_1 ( 2 , 1 , STRING_0 ) ; r . METHOD_2 ( INT_0 ) ; java . util . List < au . edu . IDENT_3 . IDENT_4 . IDENT_5 > e = au . edu . IDENT_3 . IDENT_4 . IDENT_5 . create ( METHOD_3 ( ) , 0 , r ) ; "<AssertPlaceHolder>" ; } size ( ) { org . junit . Assert . assertEquals ( 4 , METHOD_4 ( ) . size ( ) ) ; org . junit . Assert . assertEquals ( 2 , METHOD_5 ( ) . size ( ) ) ; }
+org . junit . Assert . assertEquals ( 2 , e . size ( ) ) 

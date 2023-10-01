@@ -1,0 +1,2 @@
+METHOD_0 ( ) { edu . illinois . library . cantaloupe . http . IDENT_0 IDENT_1 = new edu . illinois . library . cantaloupe . http . METHOD_1 ( instance ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_1 , instance ) 

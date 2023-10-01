@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . spotify . IDENT_0 . client . IDENT_1 IDENT_2 = new com . spotify . IDENT_0 . client . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return image ; }
+org . junit . Assert . assertThat ( IDENT_2 . METHOD_2 ( ) , org . hamcrest . Matchers . equalTo ( STRING_0 ) ) 

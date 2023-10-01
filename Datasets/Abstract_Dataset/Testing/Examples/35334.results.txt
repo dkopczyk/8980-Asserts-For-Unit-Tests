@@ -1,0 +1,2 @@
+METHOD_0 ( ) { job . METHOD_1 ( ) ; org . IDENT_0 . IDENT_1 . IDENT_2 . api . IDENT_3 run = org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 . IDENT_5 . METHOD_2 ( job ) ; org . IDENT_0 . IDENT_1 . IDENT_2 . api . IDENT_6 result = run . METHOD_3 ( org . IDENT_0 . IDENT_1 . IDENT_2 . schema . IDENT_7 . class ) ; if ( result == null ) org . junit . Assert . fail ( STRING_0 ) ; "<AssertPlaceHolder>" ; org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_8 . IDENT_9 . IDENT_10 . add ( run ) ; } METHOD_4 ( ) { return METHOD_4 ; }
+org . junit . Assert . assertEquals ( 0 , result . METHOD_4 ( ) ) 

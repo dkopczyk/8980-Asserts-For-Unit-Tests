@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { com . IDENT_0 . xwiki . doc . IDENT_1 output = this . IDENT_2 . METHOD_2 ( IDENT_3 ) ; if ( output != null ) { return output ; } for ( com . IDENT_0 . xwiki . doc . IDENT_1 IDENT_4 : METHOD_3 ( ) ) { if ( IDENT_4 . METHOD_4 ( ) . startsWith ( ( IDENT_3 + STRING_0 ) ) ) { return IDENT_4 ; } } return null ; }
+org . junit . Assert . assertNull ( this . document . METHOD_1 ( null ) ) 

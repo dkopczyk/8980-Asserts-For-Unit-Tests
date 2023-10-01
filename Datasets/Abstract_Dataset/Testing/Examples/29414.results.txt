@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . query . IDENT_3 < java . lang . String > IDENT_4 = new org . IDENT_0 . IDENT_1 . IDENT_2 . query . METHOD_1 ( 1000 , java . util . concurrent . TimeUnit . IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( IDENT_6 ) { try { action . accept ( IDENT_7 . METHOD_3 ( ) ) ; } catch ( e ) { java . lang . Thread . METHOD_4 ( ) . METHOD_5 ( ) ; return false ; } return true ; }
+org . junit . Assert . assertFalse ( IDENT_4 . METHOD_2 ( ( s ) -> System . out . println ( s ) ) ) 

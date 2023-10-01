@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String data = "" ; java . io . InputStream is = METHOD_1 ( data ) ; org . apache . nifi . stream . io . util . IDENT_0 IDENT_1 = new org . apache . nifi . stream . io . util . METHOD_2 ( is ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return this . METHOD_3 ( null ) ; }
+org . junit . Assert . assertNull ( IDENT_1 . METHOD_3 ( ) ) 

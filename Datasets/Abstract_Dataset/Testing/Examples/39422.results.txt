@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 IDENT_1 = METHOD_1 ( ) ; org . openscience . cdk . interfaces . IDENT_2 . IDENT_3 listener = new org . openscience . cdk . interfaces . IDENT_2 . METHOD_2 ( ) ; IDENT_1 . METHOD_3 ( listener ) ; IDENT_1 . METHOD_4 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . Object ) { if ( ( properties ) == null ) { return ; } METHOD_5 ( ) . remove ( description ) ; }
+org . junit . Assert . assertNull ( listener . event ) 

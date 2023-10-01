@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; com . graphhopper . jsprit . core . analysis . IDENT_0 IDENT_1 = new com . graphhopper . jsprit . core . analysis . METHOD_2 ( IDENT_2 , solution , IDENT_2 . METHOD_3 ( ) ) ; com . graphhopper . jsprit . core . problem . solution . route . IDENT_3 route = solution . METHOD_4 ( ) . iterator ( ) . next ( ) ; java . lang . Boolean IDENT_4 = IDENT_1 . METHOD_5 ( route . METHOD_6 ( ) , route ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return end ; }
+org . junit . Assert . assertFalse ( IDENT_4 ) 

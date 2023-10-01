@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . amazonaws . services . IDENT_0 . IDENT_1 IDENT_2 = new com . amazonaws . services . IDENT_0 . METHOD_1 ( 1000 , null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( this . IDENT_3 ) != null ; }
+org . junit . Assert . assertFalse ( IDENT_2 . METHOD_2 ( ) ) 

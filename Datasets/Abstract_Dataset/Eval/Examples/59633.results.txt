@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . message . IDENT_1 position = new org . eclipse . IDENT_0 . message . internal . METHOD_1 ( ) ; java . lang . String IDENT_2 = position . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return new java . lang . StringBuilder ( ) . append ( STRING_0 ) . append ( METHOD_3 ( ) ) . append ( STRING_1 ) . append ( METHOD_4 ( ) ) . append ( "]" ) . toString ( ) ; }
+org . junit . Assert . assertNull ( IDENT_2 ) 

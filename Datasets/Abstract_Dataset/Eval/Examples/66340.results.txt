@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . baeldung . IDENT_0 . models . IDENT_1 > IDENT_2 = IDENT_3 . METHOD_1 ( ) . stream ( ) . map ( IDENT_4 :: IDENT_5 ) . collect ( java . util . stream . IDENT_6 . toList ( ) ) ; "<AssertPlaceHolder>" ; log . info ( STRING_0 , IDENT_2 ) ; } size ( ) { return elements . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_2 . size ( ) ) > 2 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String expected = STRING_1 ; java . lang . String result = new org . pentaho . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) . METHOD_2 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return IDENT_4 . matcher ( IDENT_0 ) . replaceAll ( new java . lang . String ( ) ) ; }
+org . junit . Assert . assertEquals ( expected , result ) 

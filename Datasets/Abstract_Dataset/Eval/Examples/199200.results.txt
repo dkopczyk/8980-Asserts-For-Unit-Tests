@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] a = STRING_0 . split ( STRING_1 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertSame ( 1 , a . length ) 

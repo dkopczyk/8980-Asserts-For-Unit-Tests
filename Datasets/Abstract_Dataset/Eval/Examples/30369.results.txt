@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . azure . common . IDENT_0 . http . IDENT_1 builder = new com . azure . common . IDENT_0 . http . METHOD_1 ( ) . METHOD_2 ( "/" ) ; builder . METHOD_2 ( "/" ) ; "<AssertPlaceHolder>" ; } path ( ) { return this . path ; }
+org . junit . Assert . assertEquals ( "/" , builder . path ( ) ) 

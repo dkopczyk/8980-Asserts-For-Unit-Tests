@@ -1,0 +1,2 @@
+METHOD_0 ( ) { de . IDENT_0 . IDENT_1 . domain . IDENT_2 IDENT_3 = METHOD_1 ( 3 , true ) ; de . IDENT_0 . IDENT_1 . domain . IDENT_2 IDENT_4 = METHOD_1 ( 4 , false ) ; de . IDENT_0 . IDENT_1 . domain . IDENT_5 IDENT_6 = new de . IDENT_0 . IDENT_1 . domain . METHOD_2 ( ) . METHOD_3 ( IDENT_3 ) . METHOD_3 ( IDENT_4 ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertThat ( IDENT_6 . METHOD_4 ( ) . size ( ) , org . hamcrest . CoreMatchers . is ( 2 ) ) 

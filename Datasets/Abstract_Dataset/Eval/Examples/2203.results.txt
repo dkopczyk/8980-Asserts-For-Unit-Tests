@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String result = IDENT_0 . IDENT_1 . IDENT_2 . util . IDENT_3 . METHOD_1 ( METHOD_2 ( STRING_0 ) , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { final javax . servlet . http . IDENT_4 request = org . mockito . Mockito . mock ( javax . servlet . http . IDENT_4 . class ) ; org . mockito . Mockito . when ( request . METHOD_3 ( ) ) . thenReturn ( IDENT_5 ) ; return request ; }
+org . junit . Assert . assertEquals ( STRING_1 , result ) 

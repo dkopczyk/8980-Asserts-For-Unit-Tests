@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 table = new org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; table . IDENT_5 = new byte [ ] { 0 , 0 , 0 } ; byte [ ] IDENT_6 = table . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { org . IDENT_0 . IDENT_1 . io . IDENT_7 serializer = new org . IDENT_0 . IDENT_1 . io . METHOD_3 ( ) ; return serializer . serialize ( this , new org . IDENT_0 . IDENT_1 . io . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertEquals ( 4 , IDENT_6 . length ) 

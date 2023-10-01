@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . avro . Schema schema = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( this ) instanceof org . apache . avro . Schema . IDENT_0 ; }
+org . junit . Assert . assertFalse ( schema . METHOD_2 ( ) ) 

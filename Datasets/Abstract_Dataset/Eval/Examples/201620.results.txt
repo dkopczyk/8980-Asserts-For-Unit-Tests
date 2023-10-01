@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; boolean IDENT_1 = org . IDENT_2 . binding . IDENT_3 . internal . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_1 ( IDENT_0 , ( IDENT_7 ) -> { return new org . IDENT_2 . binding . IDENT_3 . IDENT_8 < > ( IDENT_7 , STRING_1 , null ) ; } ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( IDENT_1 ) 

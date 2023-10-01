@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . util . List < org . IDENT_0 . IDENT_1 . IDENT_2 . config . IDENT_3 > list = METHOD_2 ( ) ; if ( ! ( list . isEmpty ( ) ) ) { for ( org . IDENT_0 . IDENT_1 . IDENT_2 . config . IDENT_3 IDENT_4 : list ) { if ( IDENT_4 . METHOD_3 ( ) ) { return IDENT_4 ; } } } return null ; }
+org . junit . Assert . assertNull ( subject . METHOD_1 ( ) ) 

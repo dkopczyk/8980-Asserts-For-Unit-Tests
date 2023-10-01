@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ch . cyberduck . core . IDENT_0 host = new ch . cyberduck . core . METHOD_1 ( new ch . cyberduck . core . METHOD_2 ( ) , "test" ) ; host . METHOD_3 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( STRING_0 , host . METHOD_4 ( ) ) 

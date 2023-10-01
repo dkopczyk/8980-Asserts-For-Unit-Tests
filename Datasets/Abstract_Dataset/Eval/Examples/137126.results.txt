@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Optional < java . lang . Boolean > actual = org . IDENT_0 . io . transport . IDENT_1 . IDENT_2 . METHOD_1 ( IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } is ( org . eclipse . IDENT_5 . core . IDENT_6 . IDENT_7 ) { return IDENT_8 . equals ( IDENT_9 ) ; }
+org . junit . Assert . assertThat ( actual , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( java . util . Optional . of ( false ) ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . IDENT_1 . client . IDENT_2 client = server . METHOD_1 ( ) ; io . IDENT_0 . IDENT_1 . api . model . IDENT_3 . IDENT_4 IDENT_5 = client . METHOD_2 ( ) . METHOD_3 ( ) . load ( getClass ( ) . getResourceAsStream ( STRING_0 ) ) . get ( ) ; "<AssertPlaceHolder>" ; } get ( ) { junit . framework . Assert . assertNotNull ( client . METHOD_4 ( ) . METHOD_5 ( IDENT_6 ) . METHOD_6 ( STRING_1 ) . get ( ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_5 ) 

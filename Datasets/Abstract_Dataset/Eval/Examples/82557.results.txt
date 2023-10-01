@@ -1,0 +1,2 @@
+METHOD_0 ( ) { this . IDENT_0 . METHOD_1 ( 100 ) ; this . IDENT_0 . METHOD_2 ( 100 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( this . IDENT_1 ) == 0 ? 100 : java . lang . Math . METHOD_4 ( ( ( FLOAT_0 * ( this . IDENT_2 ) ) / ( this . IDENT_1 ) ) ) ; }
+org . junit . Assert . assertEquals ( 100 , this . IDENT_0 . METHOD_3 ( ) ) 

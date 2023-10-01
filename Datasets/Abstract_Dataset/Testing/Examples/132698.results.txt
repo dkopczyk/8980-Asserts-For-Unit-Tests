@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Collection < ? > collection = METHOD_1 ( java . util . Collection . class ) ; expect ( collection . iterator ( ) ) . andReturn ( null ) . METHOD_2 ( ) ; replay ( collection ) ; "<AssertPlaceHolder>" ; verify ( collection ) ; } join ( java . util . Collection ) { return org . IDENT_0 . IDENT_1 . IDENT_2 . join ( collection , org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 , org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 ) ; }
+org . junit . Assert . assertNull ( org . IDENT_0 . IDENT_1 . IDENT_2 . join ( collection ) ) 

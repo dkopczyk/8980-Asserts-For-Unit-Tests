@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String query = STRING_0 ; it . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . connection . IDENT_4 IDENT_5 = conn . METHOD_1 ( ) ; java . lang . String sql = ( ( it . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_6 . IDENT_7 . impl . IDENT_8 ) ( IDENT_5 . METHOD_2 ( query ) ) ) . METHOD_3 ( ) ; boolean m = sql . matches ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_9 ; }
+org . junit . Assert . assertFalse ( m ) 

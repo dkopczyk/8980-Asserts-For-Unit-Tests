@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { fr . IDENT_0 . IDENT_1 . converter . IDENT_2 o = fr . IDENT_0 . IDENT_1 . converter . IDENT_2 . METHOD_1 ( IDENT_3 . IDENT_4 ) . to ( IDENT_5 . IDENT_6 ) . METHOD_2 ( IDENT_7 . IDENT_8 ) ; fr . IDENT_0 . IDENT_1 . converter . IDENT_9 converter = fr . IDENT_0 . IDENT_1 . converter . IDENT_10 . METHOD_3 ( ) . METHOD_4 ( o ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . Exception e ) { e . printStackTrace ( ) ; } } METHOD_4 ( java . lang . String ) { return IDENT_11 . get ( METHOD_2 ) ; }
+org . junit . Assert . assertNotNull ( converter ) 

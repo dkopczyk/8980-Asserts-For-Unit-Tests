@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int expected = 10 ; when ( this . reader . METHOD_0 ( ) ) . thenReturn ( expected ) ; int result = this . filter . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { int expected = 10 ; when ( this . reader . METHOD_0 ( ) ) . thenReturn ( expected ) ; int result = this . filter . METHOD_0 ( ) ; org . junit . Assert . assertSame ( expected , result ) ; }
+org . junit . Assert . assertSame ( expected , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { processor . METHOD_1 ( new org . apache . cxf . tools . common . METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { java . lang . String version = ( ( java . lang . String ) ( context . get ( IDENT_0 . IDENT_1 ) ) ) ; org . apache . cxf . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = org . apache . cxf . IDENT_2 . IDENT_3 . METHOD_4 ( version ) ; if ( IDENT_5 == ( IDENT_3 . IDENT_4 . IDENT_6 ) ) { IDENT_5 = IDENT_3 . IDENT_4 . IDENT_7 ; } return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_3 . IDENT_4 . IDENT_7 , processor . METHOD_3 ( ) ) 

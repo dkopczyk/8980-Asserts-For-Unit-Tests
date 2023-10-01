@@ -1,0 +1,2 @@
+METHOD_0 ( ) { map . put ( INT_0 , STRING_0 ) ; java . util . Iterator < ? > it = map . entrySet ( ) . iterator ( ) ; it . next ( ) ; it . remove ( ) ; "<AssertPlaceHolder>" ; } containsKey ( IDENT_0 ) { throw new java . lang . METHOD_1 ( ) ; }
+org . junit . Assert . assertFalse ( map . containsKey ( INT_0 ) ) 

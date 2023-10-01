@@ -1,0 +1,2 @@
+METHOD_0 ( ) { action . METHOD_1 ( IDENT_0 . IDENT_1 ) ; "<AssertPlaceHolder>" ; } execute ( ) { if ( log . METHOD_2 ( ) ) { log . debug ( STRING_0 ) ; } org . IDENT_2 . IDENT_3 . IDENT_4 . listener . IDENT_5 . METHOD_3 ( METHOD_4 ( ) ) ; METHOD_5 ( STRING_1 ) ; return STRING_2 ; }
+org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 , action . execute ( ) ) 

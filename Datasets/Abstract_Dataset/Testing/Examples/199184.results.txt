@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = IDENT_1 . METHOD_1 ( STRING_0 ) ; IDENT_2 . run ( job , new org . springframework . batch . core . METHOD_2 ( ) . METHOD_3 ( STRING_1 , IDENT_3 . METHOD_4 ( ) . getAbsolutePath ( ) ) . METHOD_5 ( STRING_2 , java . lang . System . currentTimeMillis ( ) ) . METHOD_6 ( ) ) ; int IDENT_4 = 10 ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( ( IDENT_0 + IDENT_4 ) , IDENT_1 . METHOD_1 ( STRING_0 ) ) 

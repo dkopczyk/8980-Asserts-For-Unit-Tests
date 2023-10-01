@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . String > emptyList = com . google . common . collect . ImmutableList . of ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( emptyList . isEmpty ( ) ) 

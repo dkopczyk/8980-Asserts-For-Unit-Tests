@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return ( getKey ( ) ) == 0 ; }
+org . junit . Assert . assertTrue ( user . METHOD_0 ( ) ) 

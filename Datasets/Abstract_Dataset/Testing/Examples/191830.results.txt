@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . data . messages . IDENT_2 IDENT_3 = com . IDENT_0 . IDENT_1 . data . messages . IDENT_2 . METHOD_1 ( com . IDENT_0 . IDENT_1 . data . messages . IDENT_4 . IDENT_5 ) ; com . IDENT_0 . IDENT_1 . data . messages . IDENT_2 IDENT_6 = com . IDENT_0 . IDENT_1 . TestUtils . METHOD_2 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( T ) { return com . IDENT_0 . IDENT_1 . TestUtils . METHOD_3 ( com . IDENT_0 . IDENT_1 . TestUtils . serialize ( input ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_6 ) 

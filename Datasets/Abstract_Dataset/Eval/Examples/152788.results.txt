@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . json . IDENT_0 . IDENT_1 IDENT_2 = new com . eclipsesource . json . IDENT_0 . METHOD_1 ( ) ; IDENT_2 . add ( "foo" , INT_0 ) ; IDENT_2 . add ( "bar" , INT_1 ) ; IDENT_2 . remove ( INT_1 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Object ) { int IDENT_3 = METHOD_2 ( name ) ; return ( ( IDENT_4 [ IDENT_3 ] ) & 255 ) - 1 ; }
+org . junit . Assert . assertEquals ( INT_0 , IDENT_2 . get ( "foo" ) ) 

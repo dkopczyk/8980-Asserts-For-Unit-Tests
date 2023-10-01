@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { final java . lang . String value = this . properties . get ( org . IDENT_0 . device . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 ) ; return java . lang . Integer . METHOD_2 ( value ) ; }
+org . junit . Assert . assertEquals ( 0 , this . IDENT_2 . METHOD_1 ( ) ) 

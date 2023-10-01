@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream is = new java . io . ByteArrayInputStream ( STRING_0 . getBytes ( ) ) ; org . apache . cxf . jaxrs . ext . xml . IDENT_0 IDENT_1 = new org . apache . cxf . jaxrs . ext . xml . METHOD_1 ( is ) ; java . lang . String value = IDENT_1 . getValue ( STRING_1 ) ; "<AssertPlaceHolder>" ; } getValue ( java . lang . String ) { return ( ( java . lang . String ) ( IDENT_2 . get ( IDENT_3 ) ) ) ; }
+org . junit . Assert . assertEquals ( "2" , value ) 

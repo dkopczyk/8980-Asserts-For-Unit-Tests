@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 map = METHOD_1 ( ) ; map . METHOD_2 ( 0 ) ; map . METHOD_3 ( 0 ) ; "<AssertPlaceHolder>" ; METHOD_4 ( map ) ; } contains ( long ) { int IDENT_3 = org . IDENT_0 . IDENT_1 . IDENT_4 . METHOD_5 ( x ) ; org . IDENT_0 . IDENT_5 IDENT_6 = IDENT_7 . get ( METHOD_5 ) ; if ( IDENT_6 == null ) { return false ; } int IDENT_8 = org . IDENT_0 . IDENT_1 . IDENT_4 . METHOD_6 ( x ) ; return IDENT_6 . contains ( METHOD_6 ) ; }
+org . junit . Assert . assertFalse ( map . contains ( 0 ) ) 

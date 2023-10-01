@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . route . IDENT_2 . IDENT_2 route = new com . IDENT_0 . IDENT_1 . route . IDENT_2 . METHOD_1 ( null , STRING_0 , null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return route ; }
+org . junit . Assert . assertThat ( route . METHOD_2 ( ) , org . hamcrest . Matchers . is ( STRING_0 ) ) 

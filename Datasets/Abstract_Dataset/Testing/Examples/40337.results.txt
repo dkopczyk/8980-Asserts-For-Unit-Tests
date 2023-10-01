@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int size = 4 ; org . openscience . cdk . group . IDENT_0 group = new org . openscience . cdk . group . METHOD_1 ( size ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return size ; }
+org . junit . Assert . assertEquals ( size , group . METHOD_2 ( ) ) 

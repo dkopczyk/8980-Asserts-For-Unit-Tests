@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { org . junit . Assert . assertNotNull ( org . springframework . jdbc . IDENT_0 . impl . factory . IDENT_1 . METHOD_0 ( ) ) ; }
+org . junit . Assert . assertNotNull ( org . springframework . jdbc . IDENT_0 . impl . factory . IDENT_1 . METHOD_0 ( ) ) 

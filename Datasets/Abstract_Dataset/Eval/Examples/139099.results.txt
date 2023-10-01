@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( org . openmrs . api . IDENT_0 . IDENT_1 ) ; java . util . List < org . openmrs . IDENT_2 > IDENT_3 = org . openmrs . api . context . Context . METHOD_2 ( ) . METHOD_3 ( INT_0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( size ( ) ) == 0 ; }
+org . junit . Assert . assertTrue ( IDENT_3 . isEmpty ( ) ) 

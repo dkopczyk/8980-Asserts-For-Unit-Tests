@@ -1,0 +1,2 @@
+get ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . model . User user = IDENT_3 . METHOD_0 ( STRING_0 ) ; "<AssertPlaceHolder>" ; System . out . println ( user ) ; } METHOD_0 ( java . lang . String ) { return METHOD_0 ( IDENT_4 , IDENT_5 . IDENT_6 ) ; }
+org . junit . Assert . assertTrue ( ( user != null ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { int IDENT_0 = Integer . MAX_VALUE ; try { IDENT_0 = java . lang . Integer . METHOD_2 ( METHOD_3 ( IDENT_1 . IDENT_2 , IDENT_1 . IDENT_3 , IDENT_1 . IDENT_4 , java . lang . Integer . toString ( Integer . MAX_VALUE ) ) ) ; } catch ( java . lang . IDENT_5 IDENT_6 ) { warn ( org . IDENT_7 . IDENT_8 . IDENT_9 . IDENT_10 . IDENT_11 . IDENT_12 , IDENT_1 . IDENT_3 ) ; } return IDENT_0 ; }
+org . junit . Assert . assertEquals ( 255 , metadata . METHOD_1 ( ) ) 

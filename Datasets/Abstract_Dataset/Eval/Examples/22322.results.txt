@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new org . apache . IDENT_0 . IDENT_1 . METHOD_1 ( 0L , 0 ) ; final org . apache . IDENT_0 . IDENT_1 . METHOD_1 other = new org . apache . IDENT_0 . IDENT_1 . METHOD_1 ( - INT_0 , 0 ) ; final int IDENT_4 = IDENT_3 . compareTo ( other ) ; "<AssertPlaceHolder>" ; } compareTo ( org . apache . IDENT_0 . IDENT_5 . IDENT_6 . IDENT_7 ) { return java . lang . Double . compare ( match . IDENT_8 , this . IDENT_8 ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_4 ) 

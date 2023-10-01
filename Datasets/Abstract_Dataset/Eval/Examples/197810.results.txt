@@ -1,0 +1,2 @@
+METHOD_0 ( ) { br . com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 obj = null ; try { obj = new br . com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( br . com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_5 . IDENT_6 , null ) ; org . junit . Assert . fail ( java . lang . String . valueOf ( obj ) ) ; } catch ( java . lang . IllegalArgumentException e ) { "<AssertPlaceHolder>" ; } }
+org . junit . Assert . assertTrue ( true ) 

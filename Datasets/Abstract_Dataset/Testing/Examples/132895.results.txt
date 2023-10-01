@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Collection < com . googlecode . IDENT_0 . IDENT_1 . IDENT_2 > collection = mock ( java . util . Collection . class ) ; when ( collection . isEmpty ( ) ) . thenReturn ( true ) ; com . googlecode . IDENT_0 . persistence . support . IDENT_3 < com . googlecode . IDENT_0 . IDENT_1 . IDENT_2 > IDENT_4 = com . googlecode . IDENT_0 . persistence . support . IDENT_3 . METHOD_1 ( collection ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return delegate . isEmpty ( ) ; }
+org . junit . Assert . assertEquals ( true , IDENT_4 . isEmpty ( ) ) 

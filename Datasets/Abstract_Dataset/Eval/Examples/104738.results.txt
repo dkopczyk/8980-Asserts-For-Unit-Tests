@@ -1,0 +1,2 @@
+name ( ) { IDENT_0 = new com . IDENT_1 . IDENT_2 . common . IDENT_3 . IDENT_4 . METHOD_0 ( "test" ) ; "<AssertPlaceHolder>" ; } name ( ) { return STRING_0 ; }
+org . junit . Assert . assertEquals ( "test" , IDENT_0 . name ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . tx . IDENT_2 object = new com . IDENT_0 . IDENT_1 . tx . METHOD_1 ( ) ; object . METHOD_2 ( new com . IDENT_0 . IDENT_1 . tx . METHOD_3 ( ) ) ; object . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_3 . METHOD_5 ( ) ; }
+org . junit . Assert . assertTrue ( object . METHOD_5 ( ) ) 

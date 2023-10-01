@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final fr . gouv . vitam . storage . IDENT_0 . common . core . IDENT_1 IDENT_2 = new fr . gouv . vitam . storage . IDENT_0 . common . core . METHOD_1 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; IDENT_2 . METHOD_2 ( fr . gouv . vitam . storage . IDENT_0 . common . core . IDENT_4 . IDENT_5 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

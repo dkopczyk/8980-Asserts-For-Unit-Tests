@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; final org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 IDENT_5 = new org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; container . add ( IDENT_4 ) ; container . add ( IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( org . IDENT_0 . IDENT_1 . common . IDENT_6 ) { return IDENT_7 . containsKey ( object ) ; }
+org . junit . Assert . assertTrue ( container . METHOD_0 ( IDENT_5 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { headers . add ( STRING_0 , "value" ) ; "<AssertPlaceHolder>" ; } delegate ( ) { return delegate ; }
+org . junit . Assert . assertEquals ( "value" , headers . delegate ( ) . get ( STRING_0 ) ) 

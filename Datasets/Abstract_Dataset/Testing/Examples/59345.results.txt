@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { IDENT_0 . METHOD_1 ( ) . call ( ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( org . eclipse . jgit . api . errors . IDENT_1 e ) { "<AssertPlaceHolder>" ; } } getMessage ( ) { return message ; }
+org . junit . Assert . assertNotNull ( e . getMessage ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < com . github . IDENT_0 . IDENT_1 . state . testing . IDENT_2 > IDENT_3 = this . state . get ( ) ; "<AssertPlaceHolder>" ; } get ( ) { try { return template . METHOD_1 ( id , serializer ) ; } catch ( java . lang . Exception ex ) { throw new java . lang . RuntimeException ( ex ) ; } }
+org . junit . Assert . assertTrue ( IDENT_3 . isEmpty ( ) ) 

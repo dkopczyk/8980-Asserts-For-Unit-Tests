@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream IDENT_0 = new org . apache . IDENT_1 . io . METHOD_1 ( null , 100 ) ; "<AssertPlaceHolder>" ; } read ( ) { int IDENT_2 = IDENT_3 . read ( ) ; if ( IDENT_4 ) { METHOD_2 ( IDENT_2 ) ; } return IDENT_2 ; }
+org . junit . Assert . assertEquals ( ( - 1 ) , IDENT_0 . read ( ) ) 

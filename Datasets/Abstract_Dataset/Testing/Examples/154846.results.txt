@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final net . ripe . db . whois . query . query . Query query = net . ripe . db . whois . query . query . Query . parse ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( ( ! ( METHOD_2 ( ) ) ) && ( ! ( IDENT_0 . METHOD_3 ( IDENT_1 . IDENT_2 ) ) ) ) && ( ! ( METHOD_4 ( ) ) ) ; }
+org . junit . Assert . assertThat ( query . METHOD_1 ( ) , org . hamcrest . Matchers . is ( false ) ) 

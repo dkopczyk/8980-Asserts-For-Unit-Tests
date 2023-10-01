@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . serialization . IDENT_1 index = new org . jboss . IDENT_0 . serialization . METHOD_1 ( ) ; index . build ( java . util . Collections . < javax . IDENT_2 . IDENT_3 . spi . IDENT_4 < ? > > METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return false ; }
+org . junit . Assert . assertTrue ( index . isEmpty ( ) ) 

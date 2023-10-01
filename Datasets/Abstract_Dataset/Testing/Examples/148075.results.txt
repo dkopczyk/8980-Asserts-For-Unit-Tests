@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . IDENT_0 . IDENT_1 . IDENT_2 . page . IDENT_3 . IDENT_4 page = IDENT_5 . get ( org . springframework . IDENT_0 . IDENT_1 . IDENT_2 . page . IDENT_3 . IDENT_4 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { METHOD_2 ( ) . METHOD_3 ( org . openqa . selenium . IDENT_6 . id ( STRING_0 ) ) . METHOD_1 ( ) ; return METHOD_4 ( org . springframework . IDENT_0 . IDENT_1 . IDENT_2 . page . IDENT_3 . IDENT_7 . class ) ; }
+org . junit . Assert . assertThat ( page . METHOD_1 ( ) , org . hamcrest . Matchers . is ( "test" ) ) 

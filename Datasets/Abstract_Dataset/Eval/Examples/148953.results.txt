@@ -1,0 +1,2 @@
+METHOD_0 ( ) { T IDENT_0 = METHOD_1 ( ) ; net . sourceforge . IDENT_1 . properties . IDENT_2 < T > IDENT_3 = METHOD_2 ( ) ; java . lang . String IDENT_4 = IDENT_3 . METHOD_3 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . util . List ) { java . lang . String err ; for ( IDENT_5 IDENT_6 : values ) { err = METHOD_4 ( IDENT_6 ) ; if ( err != null ) { return err ; } } return null ; }
+org . junit . Assert . assertNull ( IDENT_4 , IDENT_4 ) 

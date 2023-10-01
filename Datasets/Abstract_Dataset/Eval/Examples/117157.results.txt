@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final edu . illinois . library . cantaloupe . config . Configuration instance = getInstance ( ) ; instance . setProperty ( IDENT_0 . IDENT_1 , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , long ) { try { return METHOD_1 ( key ) ; } catch ( java . util . IDENT_2 | java . lang . IDENT_3 e ) { return IDENT_4 ; } }
+org . junit . Assert . assertEquals ( 5 , instance . METHOD_1 ( IDENT_0 . IDENT_1 , 5 ) ) 

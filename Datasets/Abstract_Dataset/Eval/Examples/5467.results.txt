@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . accumulo . core . conf . IDENT_0 [ ] IDENT_1 = java . util . Arrays . stream ( org . apache . accumulo . core . conf . IDENT_0 . values ( ) ) . filter ( ( c ) -> c . name ( ) . startsWith ( STRING_0 ) ) . toArray ( org . apache . accumulo . core . conf . IDENT_0 [ ] :: new ) ; "<AssertPlaceHolder>" ; } toArray ( IDENT_2 [ ] ) { throw new java . lang . METHOD_1 ( ) ; }
+org . junit . Assert . assertEquals ( 5 , IDENT_1 . length ) 

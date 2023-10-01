@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . types . IDENT_1 < java . lang . String > map = new org . IDENT_0 . METHOD_1 ( ) . io ( ) . file ( STRING_0 ) . METHOD_2 ( java . lang . String . class ) ; map . put ( "foo" , "bar" ) ; map . close ( ) ; "<AssertPlaceHolder>" ; } close ( ) { IDENT_2 . close ( ) ; }
+org . junit . Assert . assertTrue ( new java . io . File ( STRING_0 ) . delete ( ) ) 

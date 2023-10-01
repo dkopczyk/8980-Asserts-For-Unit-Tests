@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . IDENT_1 array = ( ( com . eclipsesource . IDENT_0 . IDENT_1 ) ( IDENT_0 . METHOD_1 ( STRING_0 ) ) ) ; com . eclipsesource . IDENT_0 . IDENT_2 IDENT_3 = array . METHOD_2 ( ) ; short result = ( ( short ) ( ( IDENT_3 . get ( ) ) & 255 ) ) ; "<AssertPlaceHolder>" ; array . close ( ) ; IDENT_3 . close ( ) ; } get ( ) { IDENT_0 . METHOD_3 ( ) ; METHOD_4 ( ) ; return IDENT_4 . get ( ) ; }
+org . junit . Assert . assertEquals ( 20 , result ) 

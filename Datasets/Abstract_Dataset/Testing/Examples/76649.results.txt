@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { dao . get ( INT_0 ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( org . springframework . dao . IDENT_0 d ) { "<AssertPlaceHolder>" ; } } get ( IDENT_1 extends java . io . IDENT_2 ) { T entity = ( ( T ) ( super . METHOD_1 ( ) . get ( this . IDENT_3 , id ) ) ) ; if ( entity == null ) { log . warn ( ( ( ( ( STRING_1 + ( this . IDENT_3 ) ) + STRING_2 ) + id ) + STRING_3 ) ) ; throw new org . springframework . IDENT_4 . METHOD_2 ( this . IDENT_3 , id ) ; } return entity ; }
+org . junit . Assert . assertTrue ( ( d != null ) ) 

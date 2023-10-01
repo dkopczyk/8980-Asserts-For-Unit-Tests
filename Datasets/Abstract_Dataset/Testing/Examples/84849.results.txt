@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Boolean result = IDENT_0 . convert ( "foo" ) ; "<AssertPlaceHolder>" ; } convert ( java . lang . String ) { if ( STRING_0 . equalsIgnoreCase ( value ) ) { return IDENT_1 . IDENT_2 ; } else if ( STRING_1 . equalsIgnoreCase ( value ) ) { return IDENT_1 . IDENT_3 ; } else if ( STRING_2 . equalsIgnoreCase ( value ) ) { return IDENT_1 . IDENT_4 ; } else { return null ; } }
+org . junit . Assert . assertFalse ( result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hadoop . security . authentication . server . IDENT_0 handler = new org . apache . hadoop . security . authentication . server . METHOD_1 ( ) ; try { java . util . Properties props = new java . util . Properties ( ) ; props . setProperty ( METHOD_1 . IDENT_1 , STRING_0 ) ; handler . init ( props ) ; "<AssertPlaceHolder>" ; } finally { handler . METHOD_2 ( ) ; } } METHOD_3 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( false , handler . METHOD_3 ( ) ) 

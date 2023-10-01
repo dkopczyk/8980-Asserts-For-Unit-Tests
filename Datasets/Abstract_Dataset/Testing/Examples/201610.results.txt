@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { "<AssertPlaceHolder>" ; } catch ( java . lang . Exception e ) { org . junit . Assert . fail ( STRING_0 ) ; } try { parser . METHOD_1 ( new byte [ ] { } ) ; org . junit . Assert . fail ( STRING_1 ) ; } catch ( java . lang . Exception e ) { } }
+org . junit . Assert . assertTrue ( parser . METHOD_1 ( new byte [ ] { 16 , 2 } ) ) 

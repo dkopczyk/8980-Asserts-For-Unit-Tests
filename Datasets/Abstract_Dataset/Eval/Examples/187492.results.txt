@@ -1,0 +1,2 @@
+METHOD_0 ( javax . IDENT_0 . IDENT_1 . spi . IDENT_2 ) { java . util . Set < javax . IDENT_0 . IDENT_1 . spi . IDENT_3 < ? super java . lang . String > > IDENT_4 = IDENT_5 . METHOD_1 ( "foo" , IDENT_6 . IDENT_7 . INSTANCE ) ; "<AssertPlaceHolder>" ; } size ( ) { return 0 ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_4 . size ( ) ) 

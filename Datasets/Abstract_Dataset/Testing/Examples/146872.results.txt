@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( new java . util . Locale ( STRING_0 ) ) ; java . util . Locale result = org . pentaho . IDENT_1 . engine . IDENT_2 . core . parameters . IDENT_3 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( STRING_0 , result . METHOD_2 ( ) ) 

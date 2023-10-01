@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; serialization . from ( STRING_1 , STRING_2 ) . as ( json ( ) ) ; "<AssertPlaceHolder>" ; } result ( ) { return new java . lang . String ( stream . toByteArray ( ) ) ; }
+org . junit . Assert . assertThat ( result ( ) , org . hamcrest . Matchers . is ( org . hamcrest . Matchers . equalTo ( IDENT_0 ) ) ) 

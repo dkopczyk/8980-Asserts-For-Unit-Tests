@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . hbase . IDENT_1 . connection . IDENT_2 conn = com . IDENT_0 . hbase . IDENT_1 . IDENT_3 . METHOD_1 ( ( ( com . IDENT_0 . hbase . IDENT_1 . test . IDENT_4 . IDENT_5 . IDENT_6 ) + STRING_0 ) , true ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , boolean ) { return com . IDENT_0 . hbase . IDENT_1 . connection . IDENT_7 . create ( IDENT_8 , IDENT_9 ) ; }
+org . junit . Assert . assertNotNull ( conn ) 

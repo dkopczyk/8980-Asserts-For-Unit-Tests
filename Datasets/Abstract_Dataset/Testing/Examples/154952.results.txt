@@ -1,0 +1,2 @@
+from ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return IDENT_0 ; }
+org . junit . Assert . assertNotNull ( subject . METHOD_0 ( ) ) 

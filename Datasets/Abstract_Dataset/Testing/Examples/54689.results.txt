@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String in = STRING_0 ; final java . lang . String out = STRING_1 ; de . IDENT_0 . IDENT_1 . IDENT_2 . core . io . IDENT_3 . internal . model . IDENT_4 v = de . IDENT_0 . IDENT_1 . IDENT_2 . core . io . IDENT_3 . internal . model . IDENT_4 . parse ( in ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( STRING_2 + ( METHOD_1 ( ) ) ) + STRING_3 ) + ( METHOD_2 ( ) ) ) + "]" ; }
+org . junit . Assert . assertEquals ( out , v . toString ( ) ) 

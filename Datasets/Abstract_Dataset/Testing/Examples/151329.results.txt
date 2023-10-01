@@ -1,0 +1,2 @@
+METHOD_0 ( ) { context . METHOD_1 ( STRING_0 , STRING_1 ) ; context . METHOD_1 ( STRING_2 , STRING_3 ) ; context . METHOD_1 ( STRING_4 , STRING_5 ) ; context . METHOD_1 ( STRING_6 , STRING_7 ) ; java . lang . String result = ch . IDENT_0 . IDENT_1 . core . util . IDENT_2 . METHOD_2 ( text , context ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String , ch . IDENT_0 . IDENT_1 . core . spi . IDENT_3 ) { return ch . IDENT_0 . IDENT_1 . core . util . IDENT_2 . METHOD_2 ( val , IDENT_4 , null ) ; }
+org . junit . Assert . assertEquals ( expected , result ) 

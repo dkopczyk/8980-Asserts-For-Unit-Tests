@@ -1,0 +1,2 @@
+METHOD_0 ( ) { adapter . add ( me ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return results . length ; }
+org . junit . Assert . assertEquals ( 0 , adapter . METHOD_1 ( ) ) 

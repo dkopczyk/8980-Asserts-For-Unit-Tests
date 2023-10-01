@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . core . IDENT_2 . IDENT_3 . IDENT_4 . update ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_5 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( 0 , com . IDENT_0 . IDENT_1 . core . IDENT_2 . IDENT_3 . r . METHOD_1 ( ) . x , 0 ) 

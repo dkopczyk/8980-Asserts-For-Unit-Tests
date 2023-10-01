@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . persistence . jpa . Collection < java . lang . Object > value = null ; org . IDENT_0 . persistence . jpa . List < org . IDENT_0 . persistence . test . domain . IDENT_1 > results = instance . METHOD_1 ( STRING_0 , value ) . list ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return true ; }
+org . junit . Assert . assertFalse ( results . isEmpty ( ) ) 

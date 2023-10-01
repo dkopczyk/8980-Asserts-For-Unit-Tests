@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . IDENT_0 input = STRING_0 ; java . util . List < java . lang . IDENT_0 > expected = java . util . Arrays . < java . lang . IDENT_0 > asList ( STRING_0 , STRING_1 , STRING_2 , STRING_3 , STRING_4 , STRING_5 , STRING_6 ) ; int index = 0 ; for ( java . lang . IDENT_0 IDENT_1 : com . googlecode . IDENT_2 . common . IDENT_3 . METHOD_1 ( input ) ) { "<AssertPlaceHolder>" ; } } get ( int ) { return IDENT_4 . get ( index ) ; }
+org . junit . Assert . assertEquals ( expected . get ( ( index ++ ) ) , IDENT_1 ) 

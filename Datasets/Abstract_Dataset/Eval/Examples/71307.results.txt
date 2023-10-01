@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . Integer > data = new java . util . HashMap ( ) ; data . put ( "a" , 1 ) ; data . put ( "b" , null ) ; com . google . IDENT_0 . database . collection . IDENT_1 < java . lang . String , java . lang . Integer > map = com . google . IDENT_0 . database . collection . IDENT_2 . METHOD_1 ( data , com . google . IDENT_0 . database . collection . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } size ( ) { return ( this . end ) - ( this . start ) ; }
+org . junit . Assert . assertEquals ( 2 , map . size ( ) ) 

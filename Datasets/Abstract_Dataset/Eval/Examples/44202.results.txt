@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Locale IDENT_0 = new java . util . Locale ( STRING_0 , STRING_1 ) ; org . IDENT_1 . core . impl . header . IDENT_2 IDENT_3 = new org . IDENT_1 . core . impl . header . METHOD_1 ( new org . IDENT_1 . core . impl . header . METHOD_2 ( IDENT_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_0 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_3 . METHOD_3 ( ) ) 

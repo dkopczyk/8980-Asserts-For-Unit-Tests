@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String key = "1" ; java . lang . Integer value = org . apache . IDENT_0 . common . IDENT_1 . METHOD_1 ( key ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { if ( key == null ) { return null ; } java . lang . String IDENT_2 = org . apache . IDENT_0 . common . IDENT_1 . IDENT_3 . get ( key ) ; if ( IDENT_2 == null ) { return null ; } return java . lang . Integer . valueOf ( IDENT_2 ) ; }
+org . junit . Assert . assertNull ( value ) 

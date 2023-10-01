@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = manager . IDENT_1 . size ( ) ; manager . METHOD_1 ( null , null ) ; manager . METHOD_1 ( null , this . getClass ( ) . getName ( ) ) ; manager . METHOD_1 ( null , org . IDENT_2 . IDENT_3 . IDENT_4 . class . getName ( ) ) ; int IDENT_5 = manager . IDENT_1 . size ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return proxy . size ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_5 ) 

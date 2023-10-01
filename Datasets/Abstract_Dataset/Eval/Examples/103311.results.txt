@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . kie . workbench . common . IDENT_0 . client . widgets . grid . IDENT_1 . IDENT_2 . IDENT_3 other = new org . kie . workbench . common . IDENT_0 . client . widgets . grid . IDENT_1 . IDENT_2 . METHOD_1 ( ( ) -> IDENT_4 . METHOD_2 ( IDENT_5 . IDENT_6 ) . getName ( ) . getValue ( ) , ( s ) -> IDENT_4 . METHOD_2 ( IDENT_5 . IDENT_6 ) . getName ( ) . setValue ( s ) , factory ) ; "<AssertPlaceHolder>" ; } setValue ( java . lang . String ) { view . setValue ( value ) ; }
+org . junit . Assert . assertEquals ( header , other ) 

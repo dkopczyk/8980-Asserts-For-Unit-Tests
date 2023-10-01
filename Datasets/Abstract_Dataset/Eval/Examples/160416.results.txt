@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . elasticsearch . IDENT_0 . remote . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = IDENT_5 . INSTANCE . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return new org . jboss . elasticsearch . IDENT_0 . remote . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

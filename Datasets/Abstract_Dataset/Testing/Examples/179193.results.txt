@@ -1,0 +1,2 @@
+METHOD_0 ( ) { uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . core . data . IDENT_3 arr = IDENT_4 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { org . hibernate . IDENT_5 criteria = METHOD_2 ( ) . METHOD_3 ( uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . core . data . IDENT_6 . class ) ; criteria . add ( org . hibernate . IDENT_7 . IDENT_8 . eq ( STRING_1 , IDENT_9 ) ) ; return ( ( uk . ac . IDENT_0 . IDENT_1 . IDENT_2 . core . data . IDENT_6 ) ( criteria . METHOD_4 ( ) ) ) ; }
+org . junit . Assert . assertNotNull ( arr ) 

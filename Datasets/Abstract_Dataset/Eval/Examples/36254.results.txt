@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . expect ( de . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . class ) ; new de . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_6 . METHOD_1 ( ) . METHOD_2 ( 3 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { for ( de . IDENT_1 . IDENT_2 . internal . types . IDENT_7 element : de . IDENT_1 . IDENT_2 . internal . runtime . IDENT_8 . IDENT_9 . get ( ) ) { if ( ! ( element . isEmpty ( ) ) ) { return false ; } } return true ; }
+org . junit . Assert . assertTrue ( de . IDENT_1 . IDENT_2 . internal . runtime . IDENT_8 . METHOD_3 ( ) ) 

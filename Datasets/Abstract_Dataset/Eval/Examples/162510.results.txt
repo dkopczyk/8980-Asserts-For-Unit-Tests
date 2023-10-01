@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( new java . util . concurrent . IDENT_0 < java . lang . IDENT_1 > ( ) { @ org . oscm . IDENT_2 . bean . Override public org . oscm . IDENT_2 . bean . IDENT_1 call ( ) throws org . oscm . IDENT_2 . bean . Exception { final long time = 1L ; java . util . List < org . oscm . IDENT_3 . IDENT_4 > IDENT_5 = IDENT_6 . METHOD_2 ( time ) ; "<AssertPlaceHolder>" ; return null ; } } ) ; } size ( ) { return IDENT_7 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_5 . size ( ) ) 

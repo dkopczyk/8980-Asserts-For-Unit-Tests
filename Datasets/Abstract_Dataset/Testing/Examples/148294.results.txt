@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( byte , byte ) { return ( ( byte ) ( METHOD_2 ( min , max ) ) ) ; }
+org . junit . Assert . assertEquals ( ( ( byte ) ( - 2 ) ) , source . METHOD_1 ( ( ( byte ) ( - 2 ) ) , ( ( byte ) ( - 2 ) ) ) ) 

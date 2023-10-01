@@ -1,0 +1,2 @@
+METHOD_0 ( ) { hudson . plugins . IDENT_0 . model . IDENT_1 c = new hudson . plugins . IDENT_0 . model . METHOD_1 ( ) ; c . METHOD_2 ( 3 , 2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertTrue ( c . METHOD_3 ( ) ) 

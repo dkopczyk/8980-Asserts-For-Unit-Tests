@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( get ( STRING_0 ) . with ( IDENT_1 ) ) . METHOD_2 ( status ( ) . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { org . eclipse . IDENT_2 . repository . core . impl . IDENT_3 item = storage . get ( key ) ; if ( ( item != null ) && ( item . METHOD_4 ( ) ) ) { remove ( key ) ; item = null ; } return item ; }
+org . junit . Assert . assertTrue ( true ) 

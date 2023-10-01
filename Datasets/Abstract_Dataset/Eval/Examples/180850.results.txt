@@ -1,0 +1,2 @@
+empty ( ) { org . IDENT_0 . pdf . IDENT_1 IDENT_2 = mock ( org . IDENT_0 . pdf . IDENT_1 . class ) ; org . IDENT_0 . ui . IDENT_3 . IDENT_4 . IDENT_5 IDENT_6 = new org . IDENT_0 . ui . IDENT_3 . IDENT_4 . METHOD_0 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return org . IDENT_0 . support . params . IDENT_7 . METHOD_1 ( IDENT_8 . get ( ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_6 . METHOD_1 ( ) . isEmpty ( ) ) 

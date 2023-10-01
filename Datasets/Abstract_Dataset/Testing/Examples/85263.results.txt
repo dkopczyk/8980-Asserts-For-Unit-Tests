@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . streaming . exception . IDENT_1 exp = new com . IDENT_0 . streaming . exception . METHOD_1 ( IDENT_2 . IDENT_3 , java . lang . String . class . getName ( ) , com . IDENT_0 . streaming . exception . Integer . class . getName ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertTrue ( exp . METHOD_2 ( ) . equals ( IDENT_2 . IDENT_3 ) ) 

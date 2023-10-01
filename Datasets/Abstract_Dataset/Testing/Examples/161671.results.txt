@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String json = STRING_0 ; final boolean expected = false ; final boolean result = org . IDENT_0 . web . catalog . utils . IDENT_1 . METHOD_1 ( json ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { final com . fasterxml . jackson . databind . IDENT_2 mapper = new com . fasterxml . jackson . databind . METHOD_2 ( ) ; try { mapper . METHOD_3 ( value ) ; return true ; } catch ( final java . lang . Exception e ) { return false ; } }
+org . junit . Assert . assertEquals ( expected , result ) 

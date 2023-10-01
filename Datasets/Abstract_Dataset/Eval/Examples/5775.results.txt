@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . activemq . artemis . utils . IDENT_0 < java . lang . String > codec = org . apache . activemq . artemis . utils . IDENT_1 . METHOD_1 ( org . apache . activemq . artemis . utils . IDENT_1 . METHOD_2 ( ) . getClass ( ) . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return new org . apache . activemq . artemis . utils . METHOD_4 ( ) ; }
+org . junit . Assert . assertTrue ( ( codec instanceof org . apache . activemq . artemis . utils . METHOD_4 ) ) 

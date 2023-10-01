@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; l . add ( IDENT_0 ) ; l . add ( STRING_1 ) ; l . add ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object ) { MOD_0 ( IDENT_1 ) { return super . METHOD_1 ( o ) ; } }
+org . junit . Assert . assertTrue ( ( ( l . METHOD_1 ( IDENT_0 ) ) == 2 ) ) 

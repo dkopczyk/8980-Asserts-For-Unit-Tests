@@ -1,0 +1,2 @@
+METHOD_0 ( ) { entry . METHOD_1 ( ) . add ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( ( IDENT_0 ) != null ) && ( ! ( IDENT_0 . isEmpty ( ) ) ) ; }
+org . junit . Assert . assertThat ( entry . METHOD_2 ( ) , org . hamcrest . Matchers . is ( org . hamcrest . Matchers . equalTo ( true ) ) ) 

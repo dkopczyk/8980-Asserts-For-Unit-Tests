@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final byte [ ] IDENT_1 = IDENT_0 . getBytes ( ) ; final java . io . InputStream is = new org . exist . util . io . METHOD_1 ( IDENT_1 ) ; final org . exist . util . io . IDENT_2 IDENT_3 = new org . exist . util . io . METHOD_2 ( METHOD_3 ( is ) ) ; IDENT_3 . close ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_4 . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_3 . METHOD_4 ( ) ) 

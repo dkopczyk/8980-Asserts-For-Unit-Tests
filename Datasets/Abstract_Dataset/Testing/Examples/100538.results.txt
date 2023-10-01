@@ -1,0 +1,2 @@
+test ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = this . IDENT_4 . create ( ) ; "<AssertPlaceHolder>" ; this . IDENT_4 . remove ( IDENT_3 . getId ( ) ) ; } METHOD_0 ( java . lang . Long ) { MOD_0 ( this . monitor ) { if ( this . IDENT_5 . containsKey ( id ) ) { return this . IDENT_5 . get ( id ) ; } throw new com . IDENT_0 . IDENT_1 . METHOD_1 ( id ) ; } }
+org . junit . Assert . assertSame ( IDENT_3 , this . IDENT_4 . METHOD_0 ( IDENT_3 . getId ( ) ) ) 

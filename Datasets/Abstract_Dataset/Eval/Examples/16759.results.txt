@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . rya . shell . IDENT_0 state = new org . apache . rya . shell . METHOD_1 ( ) ; state . METHOD_2 ( ) ; final org . apache . rya . shell . METHOD_1 . IDENT_1 expected = org . apache . rya . shell . METHOD_1 . IDENT_1 . builder ( ) . METHOD_3 ( IDENT_2 . IDENT_3 ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { IDENT_4 . METHOD_5 ( ) ; try { return IDENT_5 ; } finally { METHOD_5 . METHOD_6 ( ) ; } }
+org . junit . Assert . assertEquals ( expected , state . METHOD_4 ( ) ) 

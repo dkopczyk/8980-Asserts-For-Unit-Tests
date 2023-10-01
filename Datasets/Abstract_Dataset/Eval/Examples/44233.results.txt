@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( "foo" , IDENT_1 , null ) ) . thenReturn ( IDENT_1 . METHOD_2 ( "foo" ) ) ; java . lang . Object IDENT_2 = IDENT_3 . resolve ( parameter , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return m . METHOD_2 ( new org . IDENT_5 . core . util . METHOD_3 ( key ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 . METHOD_2 ( "foo" ) , IDENT_2 ) 

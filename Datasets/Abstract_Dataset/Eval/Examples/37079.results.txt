@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( IDENT_1 . IDENT_2 , IDENT_3 . getId ( ) , STRING_0 , IDENT_4 . IDENT_5 ) ; IDENT_0 . METHOD_2 ( STRING_0 ) ; long count = IDENT_6 . METHOD_3 ( ) . METHOD_4 ( ) . count ( ) ; IDENT_0 . METHOD_5 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { IDENT_7 . METHOD_6 ( false ) ; }
+org . junit . Assert . assertEquals ( 1 , count ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { subject = new org . IDENT_0 . runner . METHOD_1 ( org . IDENT_0 . runner . IDENT_1 . conf ) ; "<AssertPlaceHolder>" ; } toString ( ) { java . lang . StringBuilder sb = new java . lang . StringBuilder ( STRING_0 ) ; sb . append ( config . METHOD_2 ( ) ) . append ( STRING_1 ) ; return sb . toString ( ) ; }
+org . junit . Assert . assertNotNull ( subject . toString ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . IDENT_1 IDENT_2 = METHOD_1 ( ) ; METHOD_2 ( METHOD_3 ( ) ) ; org . jboss . IDENT_0 . IDENT_1 IDENT_3 = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { org . jboss . as . controller . registry . IDENT_4 IDENT_5 = IDENT_4 . IDENT_6 . create ( ) ; METHOD_4 ( IDENT_5 , true ) ; IDENT_5 . METHOD_5 ( org . jboss . as . domain . controller . operations . IDENT_7 . IDENT_8 ) ; return IDENT_5 ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_3 ) 

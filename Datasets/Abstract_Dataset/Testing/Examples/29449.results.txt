@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . jpa . IDENT_3 resolver = new org . IDENT_0 . IDENT_1 . IDENT_2 . jpa . METHOD_1 ( ) ; boolean IDENT_4 = resolver . METHOD_2 ( METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return new java . sql . METHOD_4 ( STRING_0 , STRING_1 ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String code = IDENT_0 . METHOD_1 ( IDENT_1 , STRING_0 ) . getCode ( ) ; "<AssertPlaceHolder>" ; IDENT_2 . METHOD_2 ( false ) ; com . github . IDENT_3 . IDENT_4 . IDENT_5 . base . client . IDENT_6 client = new com . github . IDENT_3 . IDENT_4 . IDENT_5 . base . client . METHOD_3 ( IDENT_1 ) ; client . METHOD_4 ( code ) ; try { client . METHOD_4 ( code ) ; org . junit . Assert . fail ( ) ; } catch ( com . github . IDENT_3 . IDENT_4 . client . IDENT_7 . IDENT_8 e ) { } } getCode ( ) { return code ; }
+org . junit . Assert . assertNotNull ( code ) 

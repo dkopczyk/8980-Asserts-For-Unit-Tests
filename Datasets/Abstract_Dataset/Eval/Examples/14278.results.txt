@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = 1 ; org . apache . hadoop . yarn . api . IDENT_1 . IDENT_2 IDENT_3 = METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; METHOD_2 ( IDENT_0 , 10 ) ; METHOD_3 ( IDENT_0 , IDENT_4 . IDENT_5 ) ; } METHOD_1 ( org . apache . hadoop . yarn . api . IDENT_1 . IDENT_6 ) { org . apache . hadoop . yarn . api . IDENT_1 . IDENT_2 IDENT_7 = factory . METHOD_4 ( org . apache . hadoop . yarn . api . IDENT_1 . IDENT_2 . class ) ; IDENT_7 . METHOD_5 ( STRING_0 ) ; return IDENT_7 ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

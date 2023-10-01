@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . baeldung . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new com . baeldung . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( 5 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { double [ ] [ ] IDENT_5 = new double [ n ] [ n ] ; java . util . stream . IDENT_6 . range ( 0 , n ) . METHOD_3 ( ( i ) -> java . util . stream . IDENT_6 . range ( 0 , n ) . METHOD_3 ( ( j ) -> IDENT_5 [ i ] [ j ] = java . lang . Math . METHOD_4 ( ( ( random . METHOD_5 ( 100 ) ) + 1 ) ) ) ) ; return IDENT_5 ; }
+org . junit . Assert . assertNotNull ( IDENT_4 . METHOD_2 ( 5 ) ) 

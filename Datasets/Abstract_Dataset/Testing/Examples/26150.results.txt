@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; driver . METHOD_2 ( org . IDENT_0 . portal . IDENT_1 . IDENT_2 . METHOD_3 ( ( ( IDENT_3 ) + STRING_0 ) ) ) . METHOD_4 ( ) ; METHOD_5 ( ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( org . IDENT_0 . portal . IDENT_1 . IDENT_2 ) { try { driver . METHOD_2 ( IDENT_4 ) ; return true ; } catch ( org . IDENT_0 . portal . IDENT_1 . IDENT_5 e ) { return false ; } }
+org . junit . Assert . assertFalse ( METHOD_6 ( org . IDENT_0 . portal . IDENT_1 . IDENT_2 . METHOD_3 ( IDENT_3 ) ) ) 

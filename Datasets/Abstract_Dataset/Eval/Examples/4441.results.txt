@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . github . IDENT_0 . model . IDENT_1 > IDENT_2 = IDENT_3 . METHOD_1 ( STRING_0 ) . execute ( ) ; "<AssertPlaceHolder>" ; } size ( ) { try { if ( ( IDENT_4 ) < 0 ) { MOD_0 ( this ) { if ( ( IDENT_4 ) < 0 ) { int index = METHOD_2 ( ) ; IDENT_4 = index ; } } } return IDENT_4 ; } catch ( org . IDENT_5 . repository . IDENT_6 e ) { throw new org . IDENT_5 . repository . object . exceptions . METHOD_3 ( e ) ; } }
+org . junit . Assert . assertEquals ( 3 , IDENT_2 . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = org . IDENT_1 . core . manager . IDENT_2 . IDENT_3 ; java . lang . String IDENT_4 = IDENT_5 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { org . IDENT_1 . persistence . jpa . entities . IDENT_6 IDENT_7 = IDENT_8 . METHOD_1 ( new org . IDENT_1 . core . cache . METHOD_2 ( IDENT_1 ) ) ; if ( IDENT_7 == null ) { throw new java . lang . IllegalArgumentException ( ( STRING_0 + IDENT_1 ) ) ; } return IDENT_7 ; }
+org . junit . Assert . assertNull ( IDENT_4 ) 

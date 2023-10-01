@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . property . store . IDENT_1 IDENT_2 = new org . IDENT_0 . property . store . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( IDENT_3 . getClass ( ) . METHOD_4 ( org . springframework . core . IDENT_4 . IDENT_5 . class ) ) { return org . IDENT_0 . utils . IDENT_6 . set ( ( ( org . springframework . core . IDENT_4 . IDENT_5 < ? > ) ( IDENT_3 ) ) . METHOD_5 ( ) ) ; } return new java . util . HashSet < java . lang . String > ( ) ; }
+org . junit . Assert . assertNull ( IDENT_2 . METHOD_3 ( ) ) 

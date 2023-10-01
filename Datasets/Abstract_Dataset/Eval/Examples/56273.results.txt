@@ -1,0 +1,2 @@
+METHOD_0 ( ) { uk . gov . IDENT_0 . IDENT_1 . core . logging . IDENT_2 . IDENT_3 < ch . IDENT_4 . IDENT_5 . IDENT_6 . spi . IDENT_7 > IDENT_8 = new uk . gov . IDENT_0 . IDENT_1 . core . logging . IDENT_2 . IDENT_3 < ch . IDENT_4 . IDENT_5 . IDENT_6 . spi . IDENT_7 > ( 10 ) ; IDENT_8 . append ( METHOD_1 ( "test" ) ) ; IDENT_8 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return new java . util . ArrayList ( events ) ; }
+org . junit . Assert . assertTrue ( IDENT_8 . METHOD_3 ( ) . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { uk . ac . IDENT_0 . beam . IDENT_1 t = mock ( uk . ac . IDENT_0 . beam . IDENT_1 . class ) ; when ( t . METHOD_1 ( ) ) . thenReturn ( 5 ) ; uk . ac . IDENT_0 . beam . IDENT_2 g = new uk . ac . IDENT_0 . beam . METHOD_2 ( 6 ) ; g . METHOD_0 ( t ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( int ) { if ( ( IDENT_3 [ IDENT_4 ] ) == null ) return uk . ac . IDENT_0 . beam . IDENT_1 . METHOD_4 ( ) ; return IDENT_3 [ IDENT_4 ] ; }
+org . junit . Assert . assertThat ( g . METHOD_3 ( 5 ) , org . hamcrest . CoreMatchers . is ( t ) ) 

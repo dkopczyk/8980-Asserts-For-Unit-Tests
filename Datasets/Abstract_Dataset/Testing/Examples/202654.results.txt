@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . IDENT_0 . domain . IDENT_1 > IDENT_2 = com . IDENT_0 . services . IDENT_3 . IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; for ( com . IDENT_0 . domain . IDENT_1 IDENT_5 : IDENT_2 ) { System . err . println ( IDENT_5 ) ; } }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

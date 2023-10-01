@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Calendar date = new java . util . METHOD_1 ( INT_0 , 12 , INT_1 ) ; view . METHOD_2 ( null , INT_0 , 12 , INT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { try { java . util . Calendar IDENT_0 = java . util . Calendar . getInstance ( ) ; IDENT_0 . METHOD_4 ( METHOD_5 ( ) . parse ( getText ( ) ) ) ; return IDENT_0 ; } catch ( java . lang . Exception e ) { return null ; } }
+org . junit . Assert . assertThat ( view . METHOD_3 ( ) , org . hamcrest . CoreMatchers . equalTo ( date ) ) 

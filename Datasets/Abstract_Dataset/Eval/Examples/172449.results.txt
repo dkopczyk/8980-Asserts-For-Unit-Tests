@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . jpa . repository . support . IDENT_0 < ? , ? > IDENT_1 = org . springframework . data . jpa . repository . support . IDENT_2 . METHOD_1 ( org . springframework . data . jpa . domain . IDENT_3 . class , em ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( ( java . lang . Class < IDENT_4 > ) ( IDENT_5 . getType ( ) ) ) ; }
+org . junit . Assert . assertEquals ( java . lang . String . class , IDENT_1 . METHOD_2 ( ) ) 

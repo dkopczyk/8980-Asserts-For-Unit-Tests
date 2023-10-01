@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String name = STRING_0 ; com . sun . IDENT_0 . test . impl . service . session . IDENT_1 . IDENT_2 client = METHOD_1 ( name ) ; try { client . connect ( IDENT_3 . METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; if ( IDENT_4 . IDENT_5 . METHOD_3 ( name ) ) { System . err . println ( ( STRING_1 + name ) ) ; } else { org . junit . Assert . fail ( ( STRING_2 + name ) ) ; } } finally { client . METHOD_4 ( ) ; } } METHOD_5 ( ) { return METHOD_5 ( true ) ; }
+org . junit . Assert . assertTrue ( client . METHOD_5 ( ) ) 

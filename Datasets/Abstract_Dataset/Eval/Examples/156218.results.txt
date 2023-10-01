@@ -1,0 +1,2 @@
+METHOD_0 ( ) { document . METHOD_1 ( new org . IDENT_0 . Element ( STRING_0 ) . METHOD_2 ( STRING_1 , STRING_2 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . IDENT_0 . Document ) { boolean IDENT_1 = false ; final org . IDENT_0 . Element IDENT_2 = document . METHOD_4 ( ) ; final org . IDENT_0 . IDENT_3 IDENT_4 = IDENT_2 . METHOD_5 ( ) ; IDENT_1 = ( IDENT_4 != null ) && ( IDENT_4 . equals ( METHOD_6 ( ) ) ) ; return IDENT_1 ; }
+org . junit . Assert . assertTrue ( parser . METHOD_3 ( document ) ) 

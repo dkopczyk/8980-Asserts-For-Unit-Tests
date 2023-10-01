@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream in = getClass ( ) . getResourceAsStream ( STRING_0 ) ; "<AssertPlaceHolder>" ; java . lang . String xml = org . apache . commons . io . IDENT_0 . toString ( in ) ; log . debug ( STRING_1 , xml ) ; }
+org . junit . Assert . assertNotNull ( in ) 

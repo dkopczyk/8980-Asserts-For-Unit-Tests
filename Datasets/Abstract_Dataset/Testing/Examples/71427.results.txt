@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( com . google . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 ) ) . thenReturn ( com . google . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_5 ) ; java . lang . String config = IDENT_6 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_7 . METHOD_3 ( IDENT_8 ) ; }
+org . junit . Assert . assertEquals ( config , com . google . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_5 ) 

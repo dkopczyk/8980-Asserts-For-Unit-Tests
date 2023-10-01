@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jackrabbit . oak . plugins . index . lucene . IDENT_0 . METHOD_1 ( builder ) ; java . io . File IDENT_1 = IDENT_2 . METHOD_2 ( METHOD_3 ( ) , STRING_0 , STRING_1 ) ; java . io . File IDENT_3 = IDENT_2 . METHOD_2 ( METHOD_3 ( ) , STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return new org . apache . jackrabbit . oak . plugins . index . lucene . METHOD_4 ( root , builder . METHOD_5 ( ) , STRING_2 ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_3 ) 

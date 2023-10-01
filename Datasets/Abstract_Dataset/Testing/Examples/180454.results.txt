@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . service . IDENT_2 . LOGGER . debug ( STRING_0 ) ; com . github . IDENT_0 . IDENT_1 . domain . IDENT_3 . IDENT_4 client = IDENT_5 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; com . github . IDENT_0 . IDENT_1 . service . IDENT_2 . LOGGER . debug ( STRING_1 , client ) ; } METHOD_2 ( ) { return new java . net . METHOD_3 ( IDENT_6 , port ) ; }
+org . junit . Assert . assertNotNull ( client . METHOD_2 ( ) ) 

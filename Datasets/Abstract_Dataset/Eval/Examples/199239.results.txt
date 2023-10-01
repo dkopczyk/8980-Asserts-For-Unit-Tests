@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . json . IDENT_2 . IDENT_2 IDENT_3 = array ( 1 , 2 , 20 , INT_0 , 50 ) ; IDENT_0 . IDENT_1 . json . IDENT_2 . IDENT_2 IDENT_4 = array ( 0 , 2 , 20 , INT_0 , INT_1 , INT_2 , INT_3 ) ; IDENT_3 . with ( IDENT_4 , STRING_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( array ( 0 , 1 , 2 , 20 , INT_0 , INT_1 , INT_2 , 50 , INT_3 ) , IDENT_3 ) 

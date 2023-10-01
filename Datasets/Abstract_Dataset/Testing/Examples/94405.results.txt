@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( IDENT_1 :: IDENT_2 ) ; verify ( IDENT_3 , times ( 1 ) ) . METHOD_2 ( anyString ( ) , anyString ( ) ) ; verify ( IDENT_4 , times ( 1 ) ) . METHOD_3 ( ) ; verify ( IDENT_4 , times ( 1 ) ) . close ( ) ; verify ( IDENT_5 , times ( 1 ) ) . METHOD_4 ( ) ; verify ( IDENT_6 , times ( 1 ) ) . METHOD_5 ( ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return ( ( connection ) != null ) && ( ( session ) != null ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 . METHOD_6 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . stream . IDENT_1 < java . lang . String > p = new com . IDENT_0 . stream . IDENT_1 < java . lang . String > ( 1 , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return first ; }
+org . junit . Assert . assertEquals ( 1 , p . METHOD_1 ( ) ) 

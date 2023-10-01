@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( ( ( io . IDENT_0 . utils . Utils . METHOD_2 ( IDENT_1 ) ) + 4 ) + 8 ) + 4 ; }
+org . junit . Assert . assertEquals ( ( ( 16 + 2 ) + ( req . IDENT_1 . length ( ) ) ) , req . METHOD_1 ( ) ) 

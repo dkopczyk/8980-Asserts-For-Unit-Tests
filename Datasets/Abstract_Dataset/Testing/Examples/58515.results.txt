@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . StringBuilder IDENT_0 = new java . lang . StringBuilder ( ) ; int size = this . METHOD_1 ( ) . size ( ) ; for ( char IDENT_1 = 0 ; IDENT_1 < size ; IDENT_1 ++ ) { IDENT_0 . append ( ( ( char ) ( IDENT_1 + ( ( char ) ( 1 ) ) ) ) ) ; } "<AssertPlaceHolder>" ; } toString ( ) { return this . IDENT_2 . toString ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . toString ( ) , this . METHOD_1 ( ) . toString ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < java . lang . Class < ? extends org . IDENT_0 . service . IDENT_1 > > IDENT_2 = org . IDENT_0 . Context . METHOD_1 ( org . IDENT_0 . IDENT_3 . IDENT_4 . class ) ; final org . IDENT_0 . Context context = new org . IDENT_0 . Context ( IDENT_2 , false ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( 0 , context . METHOD_2 ( ) . size ( ) ) 

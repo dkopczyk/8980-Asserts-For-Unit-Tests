@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( hudson . plugins . IDENT_0 . IDENT_1 . IDENT_2 ) == null ) { try { hudson . plugins . IDENT_0 . IDENT_1 . METHOD_2 ( ) ; } catch ( java . lang . Exception e ) { throw new javax . xml . transform . METHOD_3 ( STRING_0 , e ) ; } } return hudson . plugins . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_4 ( ) ; }
+org . junit . Assert . assertNotNull ( hudson . plugins . IDENT_0 . IDENT_1 . METHOD_1 ( ) ) 

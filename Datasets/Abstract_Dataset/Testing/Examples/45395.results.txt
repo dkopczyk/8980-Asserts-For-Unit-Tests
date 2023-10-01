@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] output = new java . lang . String [ ] { STRING_0 , STRING_1 , STRING_2 , STRING_3 , STRING_4 , STRING_5 , STRING_6 , STRING_7 } ; int i = 0 ; for ( edu . illinois . cs . IDENT_0 . core . IDENT_1 . IDENT_2 . IDENT_3 < java . lang . String > t : edu . illinois . cs . IDENT_0 . core . IDENT_1 . IDENT_2 . IDENT_4 . METHOD_1 ( tree ) ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( output [ ( i ++ ) ] , t . METHOD_2 ( ) ) 

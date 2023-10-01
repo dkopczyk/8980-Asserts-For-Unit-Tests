@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . interfaces . IDENT_0 IDENT_1 = org . openscience . cdk . tools . IDENT_2 . IDENT_3 . METHOD_1 ( STRING_0 ) ; IDENT_4 . METHOD_2 ( IDENT_1 , true ) ; int IDENT_5 = 0 ; for ( org . openscience . cdk . interfaces . IDENT_6 IDENT_7 : IDENT_1 . METHOD_3 ( ) ) if ( ( IDENT_7 . METHOD_4 ( ) ) == ( org . openscience . cdk . interfaces . IDENT_6 . IDENT_8 . IDENT_9 ) ) IDENT_5 ++ ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return this . order ; }
+org . junit . Assert . assertEquals ( 4 , IDENT_5 ) 

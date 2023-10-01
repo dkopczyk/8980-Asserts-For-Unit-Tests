@@ -1,0 +1,2 @@
+METHOD_0 ( ) { jsprit . core . algorithm . state . IDENT_0 IDENT_1 = new jsprit . core . algorithm . state . METHOD_1 ( IDENT_2 ) ; jsprit . core . algorithm . state . IDENT_3 id = IDENT_1 . METHOD_2 ( STRING_0 ) ; IDENT_1 . METHOD_3 ( id , jsprit . core . algorithm . state . Boolean . class , true ) ; boolean IDENT_4 = IDENT_1 . METHOD_4 ( id , jsprit . core . algorithm . state . Boolean . class ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( IDENT_4 ) 

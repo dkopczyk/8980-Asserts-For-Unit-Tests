@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = METHOD_1 ( ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } exists ( ) { return ( org . apache . IDENT_1 . core . IDENT_2 . IDENT_3 . IDENT_4 . get ( ) ) != null ; }
+org . junit . Assert . assertTrue ( new java . io . File ( IDENT_0 ) . exists ( ) ) 

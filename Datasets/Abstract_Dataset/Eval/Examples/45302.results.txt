@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . write ( org . codice . ddf . platform . util . IDENT_1 . IDENT_2 , 0 , 1 ) ; com . google . common . io . IDENT_3 IDENT_4 = IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } read ( ) { ddf . platform . IDENT_5 . IDENT_6 . LOGGER . error ( STRING_0 ) ; return - 1 ; }
+org . junit . Assert . assertThat ( IDENT_4 . read ( ) , org . hamcrest . Matchers . is ( org . codice . ddf . platform . util . IDENT_1 . IDENT_2 ) ) 

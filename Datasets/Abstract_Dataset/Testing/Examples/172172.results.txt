@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . concurrent . IDENT_0 < java . lang . String > future = service . METHOD_1 ( new java . lang . METHOD_2 ( ) { public void run ( ) { } } , "foo" ) ; "<AssertPlaceHolder>" ; } run ( ) { try { java . lang . Thread . sleep ( IDENT_1 ) ; repository . add ( "foo" ) ; } catch ( java . lang . Exception e ) { throw new java . lang . IllegalStateException ( STRING_0 ) ; } }
+org . junit . Assert . assertNotNull ( future ) 

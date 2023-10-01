@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . common . dto . IDENT_2 IDENT_3 = METHOD_1 ( null , null ) ; org . IDENT_0 . IDENT_1 . common . dto . IDENT_2 found = IDENT_4 . METHOD_2 ( IDENT_3 . getId ( ) ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( IDENT_3 , found ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long [ ] values = new long [ ] { 0 , 5 , INT_0 , INT_1 , INT_2 , ( ( long ) ( - 1 ) ) } ; for ( long in : values ) { long out = org . IDENT_0 . IDENT_1 . codec . IDENT_2 . METHOD_1 ( new org . IDENT_0 . IDENT_1 . codec . METHOD_2 ( in ) ) . getValue ( ) . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } } METHOD_1 ( T extends org . IDENT_0 . IDENT_1 . codec . IDENT_3 ) { return org . IDENT_0 . IDENT_1 . codec . IDENT_2 . METHOD_1 ( value , true ) ; }
+org . junit . Assert . assertEquals ( in , out ) 

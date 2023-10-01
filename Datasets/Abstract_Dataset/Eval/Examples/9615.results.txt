@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . commons . codec . net . IDENT_0 IDENT_1 = new org . apache . commons . codec . net . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } decode ( byte [ ] ) { return org . apache . commons . codec . IDENT_2 . IDENT_3 . METHOD_2 ( IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 . decode ( ( ( java . lang . Object ) ( null ) ) ) , null ) 

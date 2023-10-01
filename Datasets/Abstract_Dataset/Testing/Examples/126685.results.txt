@@ -1,0 +1,2 @@
+METHOD_0 ( ) { listener . METHOD_1 ( new io . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_2 ( IDENT_3 , IDENT_4 , IDENT_5 . IDENT_6 , IDENT_7 , IDENT_8 ) ) ; io . IDENT_0 . IDENT_1 . IDENT_2 . persistence . entities . IDENT_9 cs = repository . METHOD_3 ( io . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . getId ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_10 ; }
+org . junit . Assert . assertTrue ( ( ( cs . METHOD_4 ( ) . size ( ) ) == ( io . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_7 . size ( ) ) ) ) 

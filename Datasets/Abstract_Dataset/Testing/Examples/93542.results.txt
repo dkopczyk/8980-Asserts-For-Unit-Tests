@@ -1,0 +1,2 @@
+name ( ) { javax . security . IDENT_0 . model . IDENT_1 IDENT_2 = new javax . security . IDENT_0 . model . METHOD_0 ( ) ; IDENT_2 . setName ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_2 . getName ( ) ) 

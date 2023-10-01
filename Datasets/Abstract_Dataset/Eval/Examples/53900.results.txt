@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . cache . IDENT_0 IDENT_1 = METHOD_1 ( ) ; java . lang . String IDENT_2 = STRING_0 ; IDENT_1 . METHOD_2 ( IDENT_2 , new javax . cache . configuration . METHOD_3 ( ) ) ; IDENT_1 . METHOD_4 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { if ( ! ( IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 ) ) { METHOD_6 ( ) ; } return java . util . Collections . METHOD_7 ( new java . util . ArrayList ( IDENT_7 . METHOD_8 ( ) ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_1 . METHOD_5 ( ) . iterator ( ) . hasNext ( ) ) 

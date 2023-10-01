@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String url = IDENT_0 . METHOD_1 ( request , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( javax . servlet . http . IDENT_1 , java . lang . String ) { return url ; }
+org . junit . Assert . assertThat ( url , org . hamcrest . core . Is . is ( STRING_0 ) ) 

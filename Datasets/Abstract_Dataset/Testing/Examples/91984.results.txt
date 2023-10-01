@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { org . IDENT_0 . IDENT_1 . IDENT_2 out = ( ( org . IDENT_0 . IDENT_1 . IDENT_2 ) ( IDENT_1 . METHOD_2 ( ) ) ) ; out . METHOD_3 ( input ) ; byte [ ] buffer = out . METHOD_4 ( ) ; org . IDENT_0 . IDENT_1 . IDENT_3 in = new org . IDENT_0 . IDENT_1 . METHOD_5 ( buffer ) ; java . lang . String result = in . METHOD_6 ( ) ; in . close ( ) ; return result ; }
+org . junit . Assert . assertSame ( METHOD_1 ( "" ) , METHOD_1 ( "" ) ) 

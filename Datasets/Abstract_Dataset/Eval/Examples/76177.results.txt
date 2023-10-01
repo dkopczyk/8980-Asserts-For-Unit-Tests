@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . locationtech . jts . geom . IDENT_0 offset = new org . geotools . geometry . jts . METHOD_1 ( 10 ) . offset ( null ) ; "<AssertPlaceHolder>" ; } offset ( double ) { this . offset = METHOD_2 ( offset ) ; return this ; }
+org . junit . Assert . assertNull ( offset ) 

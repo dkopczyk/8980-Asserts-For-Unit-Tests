@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . nio . ByteBuffer buf = java . nio . ByteBuffer . METHOD_1 ( 8 ) ; buf . order ( org . kaazing . IDENT_0 . util . IDENT_1 ) ; buf . METHOD_2 ( INT_0 ) ; buf . METHOD_3 ( ) ; long result = org . kaazing . IDENT_0 . util . Utils . METHOD_4 ( buf , 0 ) ; long expected = buf . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return buf . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( expected , result ) 

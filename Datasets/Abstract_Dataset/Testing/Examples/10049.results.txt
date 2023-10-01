@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String string = org . apache . commons . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( 0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int ) { for ( final org . apache . commons . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 type : org . apache . commons . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 ) { if ( ( ( type . from ) <= id ) && ( id <= ( type . to ) ) ) { return type . description ; } } return STRING_0 ; }
+org . junit . Assert . assertEquals ( STRING_0 , string ) 

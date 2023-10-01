@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( STRING_0 , false , de . IDENT_0 . IDENT_1 . plugin . processor . field . IDENT_2 . build ( true , false , false ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . CoreMatchers . is ( java . util . Collections . singletonList ( STRING_0 ) ) ) 

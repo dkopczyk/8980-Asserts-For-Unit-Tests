@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = new java . lang . String ( "test" ) ; try { throw new org . IDENT_1 . IDENT_2 . common . IDENT_3 . METHOD_1 ( IDENT_0 ) ; } catch ( org . IDENT_1 . IDENT_2 . common . IDENT_3 . METHOD_1 e ) { "<AssertPlaceHolder>" ; } } getMessage ( ) { return this . message ; }
+org . junit . Assert . assertEquals ( IDENT_0 , e . getMessage ( ) ) 

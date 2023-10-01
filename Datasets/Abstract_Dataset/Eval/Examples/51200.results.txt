@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . cs . IDENT_1 . IDENT_2 IDENT_3 = org . IDENT_0 . cs . persistence . IDENT_4 . METHOD_1 ( org . IDENT_0 . cs . persistence . IDENT_5 . IDENT_6 , org . IDENT_0 . cs . persistence . IDENT_5 . IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , boolean ) { return org . IDENT_0 . cs . persistence . IDENT_4 . METHOD_1 ( null , name , IDENT_8 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

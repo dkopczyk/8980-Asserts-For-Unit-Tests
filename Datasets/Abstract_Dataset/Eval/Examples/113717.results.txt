@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; java . lang . Long id = storage . METHOD_1 ( IDENT_0 . utils . IDENT_1 . METHOD_2 ( IDENT_0 . storage . IDENT_2 ) , null , null ) ; System . out . println ( ( STRING_1 + id ) ) ; System . out . println ( ( STRING_2 + ( storage . METHOD_3 ( ) ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return index . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( true , storage . METHOD_3 ( ) . contains ( id ) ) 

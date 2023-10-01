@@ -1,0 +1,2 @@
+write ( ) { new org . eclipse . rap . json . METHOD_0 ( STRING_0 ) . write ( writer ) ; "<AssertPlaceHolder>" ; } toString ( ) { java . lang . StringBuffer buf = new java . lang . StringBuffer ( STRING_1 ) ; buf . append ( IDENT_0 . size ( ) ) ; buf . append ( STRING_2 ) ; buf . append ( IDENT_1 . size ( ) ) ; buf . append ( STRING_3 ) ; return buf . toString ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , output . toString ( ) ) 

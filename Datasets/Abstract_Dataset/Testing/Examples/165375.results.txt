@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . oscm . vo . IDENT_0 > IDENT_1 = org . oscm . ws . IDENT_2 . IDENT_3 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_4 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_1 . size ( ) ) 

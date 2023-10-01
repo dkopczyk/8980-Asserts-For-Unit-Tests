@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . IDENT_0 < java . lang . String > IDENT_1 = new java . util . METHOD_1 ( ) ; IDENT_1 . add ( STRING_0 ) ; "<AssertPlaceHolder>" ; } first ( ) { return STRING_1 ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_1 . first ( ) ) 

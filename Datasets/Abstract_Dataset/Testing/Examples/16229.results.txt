@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . IDENT_1 . lib . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = IDENT_3 . METHOD_1 ( IDENT_0 ) ; long IDENT_6 = IDENT_5 . METHOD_2 ( ) ; org . IDENT_1 . lib . IDENT_2 . IDENT_3 . IDENT_4 result = IDENT_3 . METHOD_3 ( IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( IDENT_7 ) != null ) { return IDENT_7 . hashCode ( ) ; } else { return IDENT_8 . hashCode ( ) ; } }
+org . junit . Assert . assertEquals ( IDENT_6 , result . METHOD_2 ( ) ) 

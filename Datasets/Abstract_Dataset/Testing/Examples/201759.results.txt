@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . io . IDENT_2 [ ] result = new com . IDENT_0 . IDENT_1 . io . IDENT_2 [ 2 ] ; IDENT_3 . run ( ( input ) -> { result [ 0 ] = input ; return null ; } , ( ( IDENT_4 . IDENT_5 ) + 1 ) ) ; IDENT_3 . run ( ( input ) -> { result [ 1 ] = input ; return null ; } , 0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( ( result [ 0 ] ) != ( result [ 1 ] ) ) ) 

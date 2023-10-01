@@ -1,0 +1,2 @@
+METHOD_0 ( ) { builder . METHOD_1 ( table , IDENT_0 , false ) ; builder . METHOD_2 ( ) ; builder . METHOD_3 ( ) ; builder . build ( ) ; final int i = builder . METHOD_4 ( IDENT_1 . METHOD_5 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return org . IDENT_2 . IDENT_3 . impl . IDENT_4 . METHOD_5 ( this ) ; }
+org . junit . Assert . assertEquals ( 0 , i ) 

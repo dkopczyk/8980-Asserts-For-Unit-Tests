@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ch . cyberduck . core . Collection < java . lang . Object > c = new ch . cyberduck . core . Collection < java . lang . Object > ( ) ; c . add ( new java . lang . Object ( ) ) ; c . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return delegate . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( c . isEmpty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . sql . schema . IDENT_2 IDENT_3 = METHOD_1 ( IDENT_4 . IDENT_5 , STRING_0 , STRING_1 ) ; java . util . List < com . IDENT_0 . IDENT_1 . sql . statement . IDENT_6 > IDENT_7 = parse ( IDENT_3 , STRING_2 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_8 . size ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_7 . size ( ) , 1 ) 

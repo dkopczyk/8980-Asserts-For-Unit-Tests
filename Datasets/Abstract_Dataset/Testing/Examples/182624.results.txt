@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; verify ( manager ) . METHOD_1 ( IDENT_0 , session ) ; METHOD_2 ( manager ) ; } METHOD_3 ( net . IDENT_1 . message . IDENT_2 , net . IDENT_1 . message . IDENT_3 ) { if ( IDENT_4 ) { return false ; } IDENT_5 . put ( channel , IDENT_6 ) ; IDENT_7 . METHOD_1 ( channel , this ) ; return true ; }
+org . junit . Assert . assertTrue ( session . METHOD_3 ( IDENT_0 , IDENT_6 ) ) 

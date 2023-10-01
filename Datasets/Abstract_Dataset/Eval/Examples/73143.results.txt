@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . fujitsu . dc . core . model . impl . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = com . fujitsu . dc . core . model . impl . IDENT_0 . IDENT_4 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( com . fujitsu . dc . core . model . IDENT_5 ) { return new com . fujitsu . dc . core . model . impl . IDENT_0 . IDENT_1 . METHOD_2 ( com . fujitsu . dc . core . model . impl . IDENT_0 . IDENT_4 . METHOD_3 ( IDENT_6 . METHOD_4 ( ) ) , STRING_0 , IDENT_6 . getId ( ) ) ; }
+org . junit . Assert . assertNotNull ( METHOD_1 ) 

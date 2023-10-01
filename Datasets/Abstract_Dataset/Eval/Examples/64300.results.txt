@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . api . IDENT_1 . IDENT_2 IDENT_1 = new com . IDENT_0 . IDENT_1 . api . IDENT_1 . METHOD_1 ( ) . METHOD_2 ( STRING_0 , METHOD_3 ( STRING_1 ) ) ; METHOD_4 ( IDENT_1 ) ; start ( METHOD_5 ( IDENT_1 ) . data ( STRING_1 , STRING_2 ) ) ; "<AssertPlaceHolder>" ; } getMessage ( int ) { return com . IDENT_0 . IDENT_1 . test . IDENT_3 . messages . get ( index ) ; }
+org . junit . Assert . assertEquals ( STRING_2 , getMessage ( 0 ) ) 

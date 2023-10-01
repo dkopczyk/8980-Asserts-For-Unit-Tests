@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; io . IDENT_1 . IDENT_2 . IDENT_3 expression = new io . IDENT_1 . IDENT_2 . METHOD_1 ( registry ) . METHOD_2 ( STRING_1 , io . IDENT_1 . IDENT_2 . IDENT_4 . IDENT_5 ) ; java . util . List < io . IDENT_1 . IDENT_2 . IDENT_6 > match = expression . match ( STRING_1 , IDENT_0 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return IDENT_7 . get ( name ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , match . get ( 0 ) . getValue ( ) ) 

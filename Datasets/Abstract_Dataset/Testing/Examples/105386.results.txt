@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String str = STRING_0 ; java . util . regex . IDENT_0 p = java . util . regex . IDENT_0 . METHOD_1 ( STRING_1 ) ; java . util . regex . IDENT_1 m = p . matcher ( str ) ; "<AssertPlaceHolder>" ; } find ( ) { while ( ( ( index ) < ( IDENT_2 . length ) ) && ( ! ( IDENT_2 [ index ] ) ) ) { ( index ) ++ ; } }
+org . junit . Assert . assertFalse ( m . find ( ) ) 

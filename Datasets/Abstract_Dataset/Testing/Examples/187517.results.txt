@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . tests . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; event . METHOD_2 ( new org . jboss . IDENT_0 . tests . IDENT_1 . IDENT_2 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return org . jboss . IDENT_0 . tests . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 ; }
+org . junit . Assert . assertFalse ( org . jboss . IDENT_0 . tests . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_4 ( ) ) 

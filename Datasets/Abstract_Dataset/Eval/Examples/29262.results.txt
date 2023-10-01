@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . amazonaws . services . IDENT_0 . IDENT_1 options = com . amazonaws . services . IDENT_0 . IDENT_1 . builder ( STRING_0 ) . build ( ) ; "<AssertPlaceHolder>" ; } build ( ) { return new com . amazonaws . services . IDENT_0 . METHOD_1 ( this . IDENT_2 , this . IDENT_3 , this . tableName , this . IDENT_4 , this . IDENT_5 ) ; }
+org . junit . Assert . assertNotNull ( options ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . String > options = new java . util . IDENT_0 < java . lang . String > ( ) ; options . add ( STRING_0 ) ; options . add ( IDENT_1 ) ; options . addAll ( IDENT_2 ) ; org . eclipse . IDENT_3 . compiler . java . tools . IDENT_4 task = METHOD_1 ( options , null , java . util . Arrays . asList ( STRING_1 ) ) ; java . lang . Boolean ret = task . call ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ret ) 

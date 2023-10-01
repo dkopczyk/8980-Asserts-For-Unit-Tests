@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( org . IDENT_1 . kernel . IDENT_2 . IDENT_3 . IDENT_4 ) ) . thenReturn ( org . IDENT_1 . kernel . IDENT_2 . services . IDENT_5 . IDENT_6 ) ; when ( IDENT_7 . getId ( ) ) . thenReturn ( org . IDENT_1 . kernel . IDENT_2 . services . IDENT_5 . IDENT_6 ) ; final org . IDENT_1 . kernel . api . IDENT_8 tx = service . METHOD_2 ( IDENT_7 . getId ( ) ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( org . IDENT_1 . kernel . IDENT_2 . services . IDENT_5 . IDENT_6 , tx . getId ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . server . model . IDENT_1 IDENT_2 = new io . IDENT_0 . server . model . METHOD_1 ( ) ; io . IDENT_0 . server . model . IDENT_3 element = METHOD_2 ( IDENT_2 ) ; java . lang . String id = IDENT_2 . add ( element ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( io . IDENT_0 . server . model . IDENT_3 ) { if ( cache . METHOD_4 ( element ) ) { return METHOD_5 ( element ) ; } return null ; }
+org . junit . Assert . assertEquals ( id , IDENT_2 . METHOD_3 ( element ) ) 

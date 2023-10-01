@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . server . IDENT_2 IDENT_3 = null ; try { IDENT_3 = new org . IDENT_0 . IDENT_1 . server . IDENT_2 . Builder ( ) . server ( org . IDENT_0 . IDENT_1 . IDENT_4 . getInstance ( ) . METHOD_1 ( ) ) . port ( org . IDENT_0 . IDENT_1 . IDENT_4 . getInstance ( ) . METHOD_2 ( ) ) . build ( ) ; "<AssertPlaceHolder>" ; } finally { if ( IDENT_3 != null ) { IDENT_3 . close ( ) ; } } } METHOD_3 ( ) { return this . IDENT_5 ; }
+org . junit . Assert . assertTrue ( IDENT_3 . METHOD_3 ( ) ) 

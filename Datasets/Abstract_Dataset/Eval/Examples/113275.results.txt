@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . server . domain . stream . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . server . domain . stream . IDENT_1 . METHOD_1 ( 1L , INT_0 ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { int hashCode = 0 ; hashCode OP_0 new java . lang . Long ( getId ( ) ) . hashCode ( ) ; hashCode OP_0 IDENT_4 . hashCode ( ) ; return hashCode ; }
+org . junit . Assert . assertNotNull ( IDENT_3 . hashCode ( ) ) 

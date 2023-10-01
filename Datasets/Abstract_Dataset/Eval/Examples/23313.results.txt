@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . String > list = new java . util . ArrayList < java . lang . String > ( ) ; boolean IDENT_0 = IDENT_1 . isEmpty ( list ) ; "<AssertPlaceHolder>" ; } isEmpty ( java . util . Collection ) { return ( set == null ) || ( set . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

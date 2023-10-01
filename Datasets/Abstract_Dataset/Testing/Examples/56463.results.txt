@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . nio . ByteBuffer IDENT_0 = java . nio . ByteBuffer . METHOD_1 ( 8 ) ; IDENT_0 . put ( 7 , ( ( byte ) ( INT_0 ) ) ) ; byte [ ] expResult = IDENT_0 . array ( ) ; byte [ ] result = instance . getValue ( ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return value ; }
+org . junit . Assert . assertArrayEquals ( expResult , result ) 

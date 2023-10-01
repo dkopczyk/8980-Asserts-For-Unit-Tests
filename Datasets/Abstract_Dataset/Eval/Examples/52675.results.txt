@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nd4j . linalg . api . ndarray . INDArray x = org . nd4j . linalg . factory . Nd4j . create ( new double [ ] { 0 , 1 , 2 , 4 } ) ; org . nd4j . linalg . api . ndarray . INDArray exp = org . nd4j . linalg . factory . Nd4j . create ( new double [ ] { 0 , 0 , 1 , 1 } ) ; x . METHOD_1 ( 2 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . IDENT_0 ) { org . nd4j . linalg . factory . Nd4j . METHOD_2 ( ) . exec ( new org . nd4j . linalg . api . ndarray . METHOD_3 ( this , other ) ) ; return this ; }
+org . junit . Assert . assertEquals ( exp , x ) 

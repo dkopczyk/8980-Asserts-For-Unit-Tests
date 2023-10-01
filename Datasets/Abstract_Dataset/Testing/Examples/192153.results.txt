@@ -1,0 +1,2 @@
+instance ( ) { "<AssertPlaceHolder>" ; } instance ( ) { return org . IDENT_0 . junit . db . IDENT_1 . Builder . METHOD_0 ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_1 . Builder . instance ( ) ) 

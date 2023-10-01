@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . test . concurrent . IDENT_1 IDENT_2 = new org . IDENT_0 . test . concurrent . METHOD_1 ( ) ; org . IDENT_0 . concurrent . future . IDENT_3 < ? > IDENT_4 = new org . IDENT_0 . concurrent . future . METHOD_2 ( IDENT_2 ) ; IDENT_4 . get ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( IDENT_5 . get ( ) ) == 1 ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_3 ( ) ) 

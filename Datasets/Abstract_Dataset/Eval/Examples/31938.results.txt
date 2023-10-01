@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . math . BigInteger IDENT_0 = net . sf . IDENT_1 . IDENT_2 . METHOD_1 ( STRING_0 , java . math . BigInteger . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . lang . Class ) { return net . sf . IDENT_1 . IDENT_2 . METHOD_1 ( value , null , type ) ; }
+org . junit . Assert . assertEquals ( new java . math . BigInteger ( STRING_0 ) , IDENT_0 ) 

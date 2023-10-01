@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . IDENT_1 . IDENT_2 exp = new net . IDENT_0 . IDENT_1 . METHOD_1 ( STRING_0 ) . METHOD_2 ( STRING_1 , STRING_2 , STRING_3 ) . METHOD_3 ( IDENT_3 ) . build ( ) ; net . IDENT_0 . IDENT_1 . IDENT_4 result = exp . validate ( false ) ; "<AssertPlaceHolder>" ; } isValid ( ) { return IDENT_5 ; }
+org . junit . Assert . assertTrue ( result . isValid ( ) ) 

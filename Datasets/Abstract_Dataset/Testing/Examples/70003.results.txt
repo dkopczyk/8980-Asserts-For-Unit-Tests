@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . property . util . IDENT_1 IDENT_2 = new org . IDENT_0 . property . util . METHOD_1 ( ) ; IDENT_2 . setName ( "name" ) ; IDENT_2 . METHOD_2 ( org . IDENT_0 . property . IDENT_3 . class . getName ( ) ) ; IDENT_2 . METHOD_3 ( org . IDENT_0 . utils . IDENT_4 . set ( STRING_0 , STRING_1 ) ) ; IDENT_2 . setValue ( STRING_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( this . getType ( ) ) + STRING_2 ) + ( org . IDENT_0 . utils . IDENT_5 . METHOD_4 ( METHOD_5 ( ) ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 . toString ( ) ) 

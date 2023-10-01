@@ -1,0 +1,2 @@
+METHOD_0 ( ) { if ( ( IDENT_0 ) == null ) METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { java . lang . StringBuilder builder = new java . lang . StringBuilder ( ) ; builder . append ( STRING_0 ) ; builder . append ( IDENT_1 ) ; builder . append ( STRING_1 ) ; builder . append ( IDENT_2 ) ; builder . append ( "]" ) ; return builder . toString ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_0 . toString ( ) . length ( ) ) > 20 ) ) 

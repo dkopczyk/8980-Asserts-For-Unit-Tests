@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URI expected = new java . net . URI ( instance . toString ( ) ) ; java . net . URI actual = instance . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { try { return new java . net . URI ( toString ( ) ) ; } catch ( java . net . IDENT_0 e ) { throw new java . lang . IllegalArgumentException ( e ) ; } }
+org . junit . Assert . assertEquals ( expected , actual ) 

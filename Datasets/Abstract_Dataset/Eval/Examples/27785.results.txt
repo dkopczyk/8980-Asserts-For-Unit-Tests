@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date date = converter . METHOD_0 ( java . time . IDENT_0 . now ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . util . IDENT_1 ) { return IDENT_2 . METHOD_0 ( IDENT_3 . METHOD_1 ( ) ) ; }
+org . junit . Assert . assertNotNull ( date ) 

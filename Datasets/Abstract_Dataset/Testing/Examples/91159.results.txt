@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = STRING_1 ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return IDENT_2 . replaceAll ( com . itextpdf . kernel . utils . IDENT_3 . IDENT_4 , com . itextpdf . kernel . utils . IDENT_3 . IDENT_5 ) . replaceAll ( com . itextpdf . kernel . utils . IDENT_3 . IDENT_6 , com . itextpdf . kernel . utils . IDENT_3 . IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , new com . itextpdf . kernel . utils . METHOD_2 ( ) . METHOD_1 ( IDENT_0 ) ) 

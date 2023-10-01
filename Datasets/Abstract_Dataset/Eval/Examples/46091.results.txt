@@ -1,0 +1,2 @@
+METHOD_0 ( ) { metadata . METHOD_1 ( false ) ; metadata . METHOD_2 ( STRING_0 ) ; metadata . METHOD_3 ( STRING_1 ) ; metadata = gov . hhs . fha . nhinc . IDENT_0 . adapter . dao . IDENT_1 . IDENT_2 . METHOD_4 ( metadata ) ; gov . hhs . fha . nhinc . IDENT_0 . adapter . model . IDENT_3 data = gov . hhs . fha . nhinc . IDENT_0 . adapter . dao . IDENT_1 . IDENT_2 . METHOD_5 ( metadata . METHOD_6 ( ) ) ; "<AssertPlaceHolder>" ; metadata = data ; } METHOD_6 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertNotNull ( data ) 

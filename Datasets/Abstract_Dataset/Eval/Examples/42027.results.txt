@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . io . File IDENT_0 = new java . io . File ( STRING_0 ) ; configuration . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , configuration . METHOD_2 ( ) ) 

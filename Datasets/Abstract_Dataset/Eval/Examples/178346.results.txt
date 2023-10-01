@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] args = new java . lang . String [ ] { } ; com . IDENT_0 . spark . IDENT_1 . IDENT_2 params = new com . IDENT_0 . spark . IDENT_1 . METHOD_1 ( new java . lang . String [ ] { STRING_0 , STRING_1 , STRING_2 , STRING_3 } ) ; new com . IDENT_3 . IDENT_4 . METHOD_2 ( params ) . parse ( args ) ; java . util . List < com . IDENT_0 . spark . IDENT_1 . IDENT_5 > IDENT_6 = params . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return this . METHOD_4 ( ) . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_6 . isEmpty ( ) ) 

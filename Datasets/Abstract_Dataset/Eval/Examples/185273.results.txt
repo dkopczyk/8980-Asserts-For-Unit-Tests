@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; IDENT_1 . METHOD_1 ( ) ; grid . METHOD_2 ( 0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( int , int ) { METHOD_4 ( IDENT_2 ) ; return METHOD_5 ( ( ( ( ( STRING_0 + IDENT_2 ) + STRING_1 ) + IDENT_3 ) + "]" ) ) . METHOD_6 ( com . vaadin . IDENT_4 . elements . IDENT_5 . IDENT_6 . class ) ; }
+org . junit . Assert . assertEquals ( "b" , grid . METHOD_3 ( 0 , 0 ) . getText ( ) ) 

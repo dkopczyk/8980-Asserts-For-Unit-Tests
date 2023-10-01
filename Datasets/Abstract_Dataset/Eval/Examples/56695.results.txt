@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int count = METHOD_1 ( ) . count ( ) ; METHOD_1 ( ) . delete ( METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( ( IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . server . manager . IDENT_4 ) ( METHOD_3 ( ) ) ) ; }
+org . junit . Assert . assertEquals ( METHOD_1 ( ) . count ( ) , ( count - 1 ) ) 

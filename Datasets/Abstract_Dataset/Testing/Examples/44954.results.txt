@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String data = STRING_0 ; byte [ ] IDENT_0 = data . getBytes ( IDENT_1 . UTF_8 ) ; byte [ ] IDENT_2 = java . util . IDENT_3 . METHOD_1 ( ) . encode ( IDENT_0 ) ; ddf . catalog . IDENT_4 . html . models . IDENT_5 IDENT_6 = new ddf . catalog . IDENT_4 . html . models . METHOD_2 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return java . util . Arrays . METHOD_3 ( this . value , this . value . length ) ; }
+org . junit . Assert . assertThat ( IDENT_6 . getValue ( ) , org . hamcrest . core . Is . is ( new java . lang . String ( IDENT_2 ) ) ) 

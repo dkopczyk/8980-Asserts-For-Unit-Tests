@@ -1,0 +1,2 @@
+METHOD_0 ( ) { instance = org . IDENT_0 . domain . IDENT_1 . create ( java . util . Arrays . asList ( params ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return java . util . Arrays . METHOD_2 ( params , params . length ) ; }
+org . junit . Assert . assertArrayEquals ( params , instance . METHOD_1 ( ) ) 

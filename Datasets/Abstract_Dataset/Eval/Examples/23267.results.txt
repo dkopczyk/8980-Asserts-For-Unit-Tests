@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Long IDENT_0 = 1L ; java . lang . Long id = IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { org . apache . IDENT_2 . security . context . IDENT_3 context = org . apache . IDENT_2 . security . context . IDENT_4 . METHOD_2 ( ) ; if ( context != null ) { org . apache . IDENT_2 . common . IDENT_5 IDENT_6 = context . METHOD_3 ( ) ; if ( IDENT_6 != null ) { return IDENT_6 . METHOD_4 ( ) ; } } return null ; }
+org . junit . Assert . assertEquals ( IDENT_0 , id ) 

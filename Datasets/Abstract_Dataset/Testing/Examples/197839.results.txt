@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String [ ] array = org . IDENT_0 . util . IDENT_1 . < java . lang . String > METHOD_1 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 0 , array . length ) 

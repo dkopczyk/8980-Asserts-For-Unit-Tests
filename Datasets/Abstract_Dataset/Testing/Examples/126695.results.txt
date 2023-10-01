@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . IDENT_1 . IDENT_2 . persistence . entities . IDENT_3 cs = new io . IDENT_0 . IDENT_1 . IDENT_2 . persistence . entities . METHOD_1 ( "" ) ; cs . METHOD_2 ( true ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( METHOD_4 ( ) ) && ( METHOD_5 ( ) ) ; }
+org . junit . Assert . assertFalse ( cs . METHOD_3 ( ) ) 

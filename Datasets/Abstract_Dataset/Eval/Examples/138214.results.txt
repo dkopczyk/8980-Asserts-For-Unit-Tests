@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . IDENT_0 . ldap . IDENT_1 IDENT_2 = new javax . IDENT_0 . ldap . METHOD_1 ( STRING_0 ) ; javax . IDENT_0 . ldap . METHOD_1 IDENT_3 = new javax . IDENT_0 . ldap . METHOD_1 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } compareTo ( com . ibm . ws . IDENT_4 . server . data . IDENT_5 ) { if ( ( IDENT_6 ) < ( other . getId ( ) ) ) { return - 1 ; } else if ( ( IDENT_6 ) > ( other . getId ( ) ) ) { return 1 ; } else { return 0 ; } }
+org . junit . Assert . assertFalse ( ( ( IDENT_2 . compareTo ( IDENT_3 ) ) >= 0 ) ) 

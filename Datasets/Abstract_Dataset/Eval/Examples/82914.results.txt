@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream IDENT_0 = null ; try { IDENT_0 = client . get ( STRING_0 ) ; "<AssertPlaceHolder>" ; } finally { try { IDENT_0 . close ( ) ; } catch ( java . lang . Exception e ) { } } } get ( java . lang . String ) { METHOD_1 ( name ) ; com . IDENT_1 . IDENT_2 . response . IDENT_3 IDENT_4 = client . METHOD_2 ( name ) ; if ( IDENT_4 == null ) { return null ; } com . IDENT_1 . IDENT_2 . entity . File file = IDENT_4 . get ( ) ; return client . METHOD_3 ( file ) ; }
+org . junit . Assert . assertNotNull ( IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . ArrayList IDENT_0 = IDENT_1 . get ( java . util . ArrayList . class ) ; java . util . ArrayList IDENT_2 = IDENT_1 . get ( java . util . ArrayList . class ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return backend . get ( IDENT_3 ) ; }
+org . junit . Assert . assertTrue ( ( IDENT_0 != IDENT_2 ) ) 

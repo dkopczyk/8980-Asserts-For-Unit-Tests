@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = edu . IDENT_1 . cs . IDENT_2 . test . IDENT_3 . IDENT_4 . METHOD_1 ( STRING_0 ) ; java . lang . String IDENT_5 = "" ; for ( char c : IDENT_0 . METHOD_2 ( ) ) IDENT_5 += c + STRING_1 ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { return edu . IDENT_1 . cs . IDENT_2 . IDENT_3 . runtime . IDENT_6 . METHOD_3 ( description . METHOD_2 ( ) [ 0 ] ) ; }
+org . junit . Assert . assertTrue ( ( ( edu . IDENT_1 . cs . IDENT_2 . test . IDENT_3 . IDENT_4 . METHOD_3 ( IDENT_5 ) ) != 0 ) ) 

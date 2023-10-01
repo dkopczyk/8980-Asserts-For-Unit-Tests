@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] data = METHOD_1 ( ) ; METHOD_2 ( STRING_0 , data ) ; METHOD_3 ( ) ; java . nio . file . IDENT_0 . delete ( IDENT_1 . getPath ( STRING_0 ) ) ; java . nio . file . IDENT_0 . write ( IDENT_1 . getPath ( STRING_0 ) , data ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return ( ( boolean ) ( METHOD_5 ( path , com . IDENT_2 . IDENT_3 . IDENT_4 . io . IDENT_5 ) ) ) ; }
+org . junit . Assert . assertFalse ( METHOD_4 ( STRING_0 ) ) 

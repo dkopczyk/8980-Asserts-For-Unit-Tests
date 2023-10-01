@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] array = new java . lang . String [ ] { } ; array = com . liferay . portal . kernel . util . IDENT_0 . remove ( array , STRING_0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( boolean [ ] ) { return com . liferay . portal . kernel . util . IDENT_0 . isEmpty ( array ) ; }
+org . junit . Assert . assertTrue ( com . liferay . portal . kernel . util . IDENT_0 . isEmpty ( array ) ) 

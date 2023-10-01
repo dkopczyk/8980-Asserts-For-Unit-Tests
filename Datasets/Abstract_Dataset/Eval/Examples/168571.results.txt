@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . json . IDENT_1 IDENT_2 = METHOD_1 ( ) . create ( ) ; IDENT_2 . set ( STRING_0 , STRING_1 ) ; org . IDENT_0 . core . json . IDENT_3 result = IDENT_2 . METHOD_2 ( STRING_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return METHOD_2 ( IDENT_4 , false , null , true ) ; }
+org . junit . Assert . assertNull ( result ) 

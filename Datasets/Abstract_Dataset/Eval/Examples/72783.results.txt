@@ -1,0 +1,2 @@
+METHOD_0 ( ) { mock . size ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( IDENT_0 ) == null ) { return null ; } for ( final org . apache . commons . IDENT_1 . IDENT_2 header : IDENT_0 ) { if ( header . getName ( ) . equalsIgnoreCase ( IDENT_3 . IDENT_4 ) ) { return header . getValue ( ) ; } } return null ; }
+org . junit . Assert . assertNull ( METHOD_1 ( ) ) 

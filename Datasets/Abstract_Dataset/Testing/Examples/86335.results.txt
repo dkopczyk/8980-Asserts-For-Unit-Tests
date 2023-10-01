@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = IDENT_1 . size ( ) ; java . lang . String d = STRING_0 ; IDENT_1 . add ( d ) ; IDENT_1 . add ( new java . util . Date ( ) . toString ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object ) { for ( int i = ( IDENT_2 ) - 1 ; i >= 0 ; i OP_0 ) { if ( o == ( data [ i ] ) ) { return i ; } } return - 1 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_1 . METHOD_1 ( d ) ) 

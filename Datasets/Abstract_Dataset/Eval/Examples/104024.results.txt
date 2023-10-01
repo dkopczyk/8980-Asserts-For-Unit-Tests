@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String value = STRING_0 ; IDENT_0 . setValue ( value ) ; verify ( view ) . METHOD_1 ( ) ; verify ( IDENT_1 ) . METHOD_2 ( ) ; verify ( IDENT_1 , times ( 3 ) ) . get ( ) ; verify ( view , times ( 3 ) ) . add ( any ( ) ) ; IDENT_0 . METHOD_3 ( ) ; java . lang . String IDENT_2 = IDENT_0 . getValue ( ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return view . getValue ( ) ; }
+org . junit . Assert . assertEquals ( value , IDENT_2 ) 

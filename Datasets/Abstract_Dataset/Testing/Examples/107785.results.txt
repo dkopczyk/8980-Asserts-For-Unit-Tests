@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . osgi . framework . IDENT_0 < com . liferay . IDENT_1 . api . IDENT_2 > IDENT_3 = IDENT_4 . METHOD_1 ( com . liferay . IDENT_1 . api . IDENT_2 . class ) ; com . liferay . IDENT_1 . api . IDENT_2 m = IDENT_4 . METHOD_2 ( IDENT_3 ) ; java . util . List < com . liferay . IDENT_1 . api . IDENT_5 > IDENT_6 = m . METHOD_0 ( new java . io . File ( STRING_0 ) , new com . liferay . IDENT_1 . util . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return METHOD_4 ( ) . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( "" , 0 , IDENT_6 . size ( ) ) 

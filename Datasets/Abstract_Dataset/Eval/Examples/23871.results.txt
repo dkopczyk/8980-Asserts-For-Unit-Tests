@@ -1,0 +1,2 @@
+test ( ) { org . apache . IDENT_0 . web . filter . IDENT_1 . IDENT_2 filter = new org . apache . IDENT_0 . web . filter . IDENT_1 . METHOD_0 ( ) ; boolean IDENT_3 = filter . METHOD_1 ( null , null , null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( javax . servlet . IDENT_4 , javax . servlet . IDENT_5 , java . lang . Object ) { return false ; }
+org . junit . Assert . assertTrue ( IDENT_3 ) 

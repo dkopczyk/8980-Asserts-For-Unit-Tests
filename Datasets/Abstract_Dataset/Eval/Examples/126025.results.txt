@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = java . util . UUID . METHOD_1 ( ) . toString ( ) ; METHOD_2 ( index , IDENT_0 , 2 , IDENT_1 . IDENT_2 ) ; METHOD_2 ( index , IDENT_0 , 1 , IDENT_1 . IDENT_3 ) ; METHOD_2 ( index , IDENT_0 , 1 , IDENT_1 . IDENT_4 ) ; METHOD_2 ( index , IDENT_0 , 1 , IDENT_1 . IDENT_4 ) ; METHOD_2 ( index , IDENT_0 , 1 , IDENT_1 . URI ) ; index . commit ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return writer . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( 1 , index . METHOD_3 ( ) ) 

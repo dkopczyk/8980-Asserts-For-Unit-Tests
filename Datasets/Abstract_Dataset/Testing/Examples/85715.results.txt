@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 root = new IDENT_0 . METHOD_1 ( 2 ) ; root . METHOD_2 ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( IDENT_0 . METHOD_1 ) { if ( node == null ) return null ; if ( ( node . IDENT_2 ) != null ) { return METHOD_4 ( node . IDENT_2 ) ; } IDENT_0 . METHOD_1 p = node . parent ; while ( ( p != null ) && ( ( p . parent ) != null ) ) { if ( ( p . parent . IDENT_3 ) == p ) { return p . parent ; } else { p = p . parent ; } } return p ; }
+org . junit . Assert . assertEquals ( 2 , s . METHOD_3 ( root . IDENT_3 ) . val ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { doReturn ( Boolean . IDENT_0 ) . when ( IDENT_1 ) . METHOD_1 ( ) ; java . util . List < javax . IDENT_2 . model . IDENT_3 > list = IDENT_1 . METHOD_2 ( ) ; verify ( IDENT_4 , times ( 1 ) ) . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 2 , list . size ( ) ) 

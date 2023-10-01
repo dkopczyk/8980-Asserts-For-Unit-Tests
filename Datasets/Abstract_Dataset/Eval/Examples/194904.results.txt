@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . runtime . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new IDENT_0 . runtime . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; java . lang . Long result = IDENT_4 . METHOD_2 ( java . util . Arrays . asList ( 1L , INT_0 , INT_1 , INT_2 ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( result , java . lang . Long . valueOf ( 4 ) ) 

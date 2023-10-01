@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String conf = STRING_0 ; java . io . ByteArrayInputStream IDENT_0 = new java . io . ByteArrayInputStream ( conf . getBytes ( ) ) ; java . util . List < java . lang . String > errors = org . apache . hadoop . util . IDENT_1 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_2 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( errors . isEmpty ( ) ) 

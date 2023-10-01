@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( true ) ; IDENT_0 . METHOD_2 ( new int [ ] { 10 } ) ; java . lang . String query = STRING_0 ; com . IDENT_1 . cloud . IDENT_2 . query . service . IDENT_3 result = IDENT_4 . query ( query , IDENT_0 ) ; "<AssertPlaceHolder>" ; System . out . println ( result . METHOD_3 ( ) . get ( 0 ) ) ; IDENT_0 . METHOD_2 ( null ) ; } METHOD_3 ( ) { return entities ; }
+org . junit . Assert . assertEquals ( 1 , result . METHOD_3 ( ) . size ( ) ) 

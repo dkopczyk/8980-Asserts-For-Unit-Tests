@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . core . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . core . IDENT_1 . METHOD_1 ( IDENT_4 . IDENT_5 ) ; IDENT_3 . METHOD_2 ( STRING_0 , null , null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . Integer , java . lang . String ) { if ( pos != null ) { data . position ( pos ) ; } if ( IDENT_6 == null ) { IDENT_6 = STRING_1 ; } byte [ ] array = new byte [ data . METHOD_4 ( ) ] ; data . get ( array ) ; return new java . lang . String ( array , IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_3 . METHOD_3 ( 0 , null ) ) 

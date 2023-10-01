@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = false ; try { IDENT_1 . read ( org . IDENT_2 . test . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 ) ; } catch ( org . IDENT_7 . IDENT_8 . IDENT_9 e ) { IDENT_0 = true ; } "<AssertPlaceHolder>" ; } read ( org . IDENT_7 . IDENT_8 . IDENT_10 . InputStream ) { byte [ ] value = null ; int IDENT_11 = IDENT_12 . METHOD_1 ( ) ; value = new byte [ IDENT_11 ] ; IDENT_12 . METHOD_2 ( value , 0 , IDENT_11 ) ; return value ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

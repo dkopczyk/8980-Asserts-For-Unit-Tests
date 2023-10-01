@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . policy . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . policy . IDENT_1 . METHOD_1 ( STRING_0 , "" ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return org . apache . commons . lang3 . StringUtils . trim ( value . toString ( ) ) ; }
+org . junit . Assert . assertEquals ( "" , IDENT_3 . METHOD_2 ( " " ) ) 

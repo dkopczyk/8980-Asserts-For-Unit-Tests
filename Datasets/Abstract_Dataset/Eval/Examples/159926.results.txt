@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 text = org . oscarehr . IDENT_4 . model . IDENT_5 . body . IDENT_6 . IDENT_7 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 text = null ; if ( ! ( org . oscarehr . IDENT_4 . util . IDENT_8 . METHOD_2 ( IDENT_9 . METHOD_3 ( ) ) ) ) { text = new org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_4 ( IDENT_9 . METHOD_3 ( ) ) ; } return text ; }
+org . junit . Assert . assertNull ( text ) 

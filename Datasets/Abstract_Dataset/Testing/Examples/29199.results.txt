@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final byte [ ] out = new byte [ 1 ] ; final int IDENT_0 = IDENT_1 . METHOD_1 ( out , 0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( byte [ ] , int ) { IDENT_2 = true ; IDENT_3 = true ; return METHOD_2 ( IDENT_4 , 0 , IDENT_5 , out , IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; final javax . ws . rs . core . Response response = METHOD_2 ( org . jboss . IDENT_1 . rest . IDENT_2 . IDENT_3 . test . integration . IDENT_4 . IDENT_5 ) ; IDENT_0 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } getStatus ( ) { return control . METHOD_4 ( ) . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( 200 , response . getStatus ( ) ) 

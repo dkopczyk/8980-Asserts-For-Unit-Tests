@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String message = STRING_0 ; IDENT_0 . container ( ) . select ( org . jboss . IDENT_1 . vertx . IDENT_2 . IDENT_3 . class ) . get ( ) . METHOD_1 ( message ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 . IDENT_5 . METHOD_2 ( IDENT_6 . IDENT_7 , TimeUnit . IDENT_8 ) ; }
+org . junit . Assert . assertEquals ( message , METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( com . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . METHOD_1 ( METHOD_2 ( ) ) ) { IDENT_3 . close ( ) ; "<AssertPlaceHolder>" ; } } METHOD_3 ( ) { return ( ( pool ) != null ) && ( ( pool . IDENT_4 ) == ( IDENT_5 ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_3 . METHOD_3 ( ) ) 

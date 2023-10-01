@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . pipeline . IDENT_2 IDENT_3 = com . IDENT_0 . IDENT_1 . pipeline . IDENT_4 . METHOD_1 ( 2 ) ; com . IDENT_0 . IDENT_1 . pipeline . IDENT_5 < java . lang . Integer , java . lang . Integer > IDENT_6 = METHOD_2 ( emptyList ( ) ) . METHOD_3 ( METHOD_4 ( ) ) . METHOD_5 ( METHOD_1 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( METHOD_1 , IDENT_6 . METHOD_0 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = false ; try { org . IDENT_1 . IDENT_2 . runtime . common . exceptions . IDENT_3 . METHOD_1 ( IDENT_4 ) ; IDENT_0 = false ; } catch ( java . lang . Exception e ) { java . lang . String message = e . getMessage ( ) ; if ( ( message != null ) && ( message . contains ( IDENT_5 ) ) ) IDENT_0 = true ; } "<AssertPlaceHolder>" ; } getMessage ( ) { return message ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

@@ -1,0 +1,2 @@
+test ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . msg . IDENT_3 IDENT_4 = gson . METHOD_0 ( METHOD_1 ( ) , org . IDENT_0 . IDENT_1 . IDENT_2 . msg . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; logger . info ( gson . METHOD_2 ( IDENT_4 ) ) ; } METHOD_1 ( ) { return STRING_0 ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

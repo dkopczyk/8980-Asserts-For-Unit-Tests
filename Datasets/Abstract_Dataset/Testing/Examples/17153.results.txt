@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date date = new java . util . Date ( ) ; int IDENT_0 = 1 ; java . util . Date result = IDENT_1 . IDENT_2 . METHOD_1 ( date , IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . Date , long ) { return new java . util . Date ( ( ( date . getTime ( ) ) + ( IDENT_3 * 1000 ) ) ) ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . Matchers . equalTo ( new java . util . Date ( ( ( date . getTime ( ) ) + ( IDENT_0 * 1000 ) ) ) ) ) 

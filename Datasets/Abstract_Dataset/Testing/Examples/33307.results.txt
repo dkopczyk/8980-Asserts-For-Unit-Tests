@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . insert ( STRING_0 , STRING_0 ) ; "<AssertPlaceHolder>" ; } find ( int ) { for ( org . itc . IDENT_1 . IDENT_2 . IDENT_3 . util . IDENT_4 . Entry entry = IDENT_5 ; entry != null ; entry = entry . METHOD_1 ( ) ) { if ( ( entry . METHOD_2 ( ) ) == index ) return entry ; } return null ; }
+org . junit . Assert . assertNotNull ( IDENT_0 . find ( STRING_0 ) ) 

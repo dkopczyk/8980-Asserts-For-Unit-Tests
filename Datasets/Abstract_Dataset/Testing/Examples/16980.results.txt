@@ -1,0 +1,2 @@
+getName ( ) { "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( "name" , node . getName ( ) ) 

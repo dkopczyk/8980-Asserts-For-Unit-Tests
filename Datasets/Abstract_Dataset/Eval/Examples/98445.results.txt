@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { org . junit . Assert . assertThat ( uk . ac . IDENT_0 . beam . IDENT_1 . METHOD_0 ( ) . configuration ( ) , org . hamcrest . CoreMatchers . is ( Configuration . IDENT_2 ) ) ; }
+org . junit . Assert . assertThat ( uk . ac . IDENT_0 . beam . IDENT_1 . METHOD_0 ( ) . configuration ( ) , org . hamcrest . CoreMatchers . is ( Configuration . IDENT_2 ) ) 

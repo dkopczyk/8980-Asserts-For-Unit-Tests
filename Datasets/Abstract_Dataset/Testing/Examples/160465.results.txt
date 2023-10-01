@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . extension . jdbc . gen . internal . IDENT_1 . IDENT_2 < java . lang . String > IDENT_3 = org . IDENT_0 . extension . jdbc . gen . internal . IDENT_1 . IDENT_4 . METHOD_1 ( IDENT_5 . METHOD_2 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { return ( ( org . IDENT_0 . framework . beans . IDENT_6 ) ( IDENT_7 . get ( index ) ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . plugins . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . plugins . IDENT_1 . METHOD_1 ( 1 ) ; final int IDENT_4 = 0 ; final boolean IDENT_5 = IDENT_3 . matches ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } matches ( java . time . IDENT_6 ) { return ( METHOD_2 ( IDENT_7 ) ) && ( ( IDENT_7 . get ( IDENT_8 . IDENT_9 ) ) == 0 ) ; }
+org . junit . Assert . assertEquals ( false , IDENT_5 ) 

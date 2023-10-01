@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( 8 ) ; int IDENT_0 = dao . count ( org . IDENT_1 . dao . test . meta . IDENT_2 . class , new org . IDENT_1 . dao . METHOD_2 ( ) { MOD_0 MOD_1 final long IDENT_3 = INT_0 ; public java . lang . String METHOD_3 ( org . IDENT_1 . dao . entity . Entity < ? > entity ) { return ( entity . METHOD_4 ( STRING_0 ) . METHOD_5 ( ) ) + STRING_1 ; } } ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { values . METHOD_1 ( ) ; java . util . List < org . oscm . internal . vo . IDENT_0 > result = bean . METHOD_2 ( new org . oscm . internal . vo . METHOD_3 ( ) , new org . oscm . internal . vo . METHOD_4 ( ) ) ; verify ( bean . IDENT_1 ) . METHOD_5 ( METHOD_6 ( IDENT_2 ) , METHOD_6 ( operation ) ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return false ; }
+org . junit . Assert . assertTrue ( result . isEmpty ( ) ) 

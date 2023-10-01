@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . core . IDENT_0 param = org . springframework . core . IDENT_0 . METHOD_1 ( METHOD_2 ( STRING_0 , net . IDENT_1 . IDENT_2 . data . jpa . web . IDENT_3 . IDENT_4 . class ) , 0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . springframework . core . IDENT_0 ) { return ( ( param . METHOD_4 ( ) ) == ( org . springframework . data . jpa . domain . IDENT_5 . class ) ) && ( param . METHOD_5 ( net . IDENT_1 . IDENT_2 . data . jpa . web . annotation . IDENT_6 . class ) ) ; }
+org . junit . Assert . assertFalse ( resolver . METHOD_3 ( param ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . core . tools . IDENT_1 IDENT_2 = IDENT_0 . core . tools . IDENT_1 . METHOD_1 ( false , IDENT_0 . data . IDENT_3 . METHOD_2 ( STRING_0 , "a" , "b" , STRING_1 ) , IDENT_0 . data . IDENT_4 . METHOD_2 ( 1.0 , 2.0 , FLOAT_0 , FLOAT_1 ) ) ; IDENT_0 . core . tools . IDENT_1 IDENT_5 = IDENT_2 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { return content ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 . toString ( ) , IDENT_5 . toString ( ) ) 

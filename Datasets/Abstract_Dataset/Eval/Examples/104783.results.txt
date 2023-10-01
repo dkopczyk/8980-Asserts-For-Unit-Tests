@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { if ( ! ( p instanceof IDENT_0 . IDENT_1 . IDENT_2 ) ) return false ; boolean equals = true ; equals = equals && ( IDENT_3 . equals ( ( ( IDENT_0 . IDENT_1 . IDENT_2 ) ( p ) ) . METHOD_1 ( ) ) ) ; equals = equals && ( IDENT_4 . equals ( ( ( IDENT_0 . IDENT_1 . IDENT_2 ) ( p ) ) . METHOD_2 ( ) ) ) ; return equals ; }
+org . junit . Assert . assertFalse ( empty . equals ( new java . lang . String ( empty . toString ( ) ) ) ) 

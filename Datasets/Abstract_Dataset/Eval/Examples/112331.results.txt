@@ -1,0 +1,2 @@
+METHOD_0 ( ) { context . METHOD_1 ( f . METHOD_2 ( "foo" , "foo" , IDENT_0 ) ) ; java . util . Set < ch . puzzle . itc . mobiliar . business . template . entity . IDENT_1 > IDENT_2 = utils . METHOD_3 ( context , null , IDENT_0 , false ) ; "<AssertPlaceHolder>" ; } size ( ) { return METHOD_4 ( ) . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_2 . size ( ) ) 

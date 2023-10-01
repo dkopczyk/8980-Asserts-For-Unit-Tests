@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . StringWriter IDENT_0 = new java . io . StringWriter ( ) ; java . lang . String xml = STRING_0 ; METHOD_1 ( IDENT_0 ) . add ( METHOD_2 ( xml ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( ( ( ( ( ( ( STRING_1 + ( IDENT_1 ) ) + STRING_2 ) + ( IDENT_2 ) ) + STRING_3 ) + ( IDENT_3 ) ) + STRING_4 ) + ( IDENT_4 ) ) + STRING_5 ) + ( content ) ) + "]" ; }
+org . junit . Assert . assertEquals ( xml , IDENT_0 . toString ( ) ) 

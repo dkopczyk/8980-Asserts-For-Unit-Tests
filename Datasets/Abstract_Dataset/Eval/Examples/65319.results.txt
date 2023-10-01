@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( new org . jboss . IDENT_1 . ui . IDENT_2 . events . IDENT_3 . mock . METHOD_2 ( 1 , 2 , 3 ) ) ; IDENT_0 . METHOD_3 ( new org . jboss . IDENT_1 . ui . IDENT_2 . events . IDENT_3 . mock . METHOD_4 ( 1 , 20 , 50 ) ) ; IDENT_4 . METHOD_5 ( ) ; com . google . IDENT_5 . event . shared . IDENT_6 < ? > event = IDENT_7 . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return event ; }
+org . junit . Assert . assertNull ( event ) 

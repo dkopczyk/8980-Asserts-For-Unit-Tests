@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . model . IDENT_4 IDENT_5 = database . METHOD_1 ( "" ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . model . IDENT_4 e = IDENT_6 . get ( id ) ; if ( e == null ) { return null ; } return new com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . model . METHOD_2 ( id , e . getName ( ) , e . METHOD_3 ( ) ) ; }
+org . junit . Assert . assertNull ( IDENT_5 ) 

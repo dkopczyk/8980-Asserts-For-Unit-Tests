@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int count = 0 ; for ( com . IDENT_0 . data . IDENT_1 t : IDENT_2 ) { count ++ ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 15 , count ) 

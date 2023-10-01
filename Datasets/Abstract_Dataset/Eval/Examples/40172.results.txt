@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . io . IDENT_0 . IDENT_1 a = IDENT_2 . getClass ( ) . newInstance ( ) ; org . openscience . cdk . io . IDENT_0 . IDENT_1 b = IDENT_2 . getClass ( ) . newInstance ( ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return METHOD_1 ( ) . hashCode ( ) ; }
+org . junit . Assert . assertThat ( a . hashCode ( ) , org . hamcrest . CoreMatchers . is ( b . hashCode ( ) ) ) 

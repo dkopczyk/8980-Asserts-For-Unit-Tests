@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . model . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . model . METHOD_1 ( ) ; IDENT_3 . setName ( com . IDENT_0 . IDENT_1 . device . IDENT_4 . IDENT_5 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( com . IDENT_0 . IDENT_1 . device . IDENT_4 . IDENT_5 , IDENT_3 . getName ( ) ) 

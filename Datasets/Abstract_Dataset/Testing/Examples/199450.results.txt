@@ -1,0 +1,2 @@
+METHOD_0 ( ) { short [ ] a = new short [ ] { 1 , 2 , 3 } ; short [ ] b = new short [ ] { 4 , 5 , 6 } ; short [ ] IDENT_0 = new short [ ] { 1 , 2 , 3 , 4 , 5 , 6 } ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertArrayEquals ( IDENT_0 , METHOD_1 ( a , b ) ) 

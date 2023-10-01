@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . IDENT_0 exception = new java . sql . METHOD_1 ( ) ; when ( delegate . METHOD_2 ( ) ) . METHOD_3 ( exception ) ; try { IDENT_1 . METHOD_2 ( ) ; } catch ( java . sql . METHOD_1 e ) { "<AssertPlaceHolder>" ; throw e ; } } METHOD_2 ( ) { return null ; }
+org . junit . Assert . assertEquals ( exception , e ) 

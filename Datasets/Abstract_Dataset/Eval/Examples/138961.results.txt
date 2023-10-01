@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openmrs . api . IDENT_0 fs = org . openmrs . api . context . Context . METHOD_1 ( ) ; METHOD_2 ( STRING_0 ) ; org . openmrs . IDENT_1 IDENT_2 = fs . METHOD_3 ( 1 ) ; org . openmrs . IDENT_1 IDENT_3 = fs . METHOD_4 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( org . openmrs . IDENT_1 ) { return ( ( org . openmrs . IDENT_1 ) ( IDENT_4 . METHOD_5 ( ) . METHOD_6 ( IDENT_2 ) ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 , METHOD_4 ) 

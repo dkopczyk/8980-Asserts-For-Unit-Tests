@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . compiler . options . IDENT_1 options = new org . IDENT_0 . compiler . options . METHOD_1 ( org . IDENT_0 . compiler . options . METHOD_1 . METHOD_2 ( ) ) ; org . junit . IDENT_2 . METHOD_3 ( ( ( org . IDENT_0 . compiler . options . METHOD_1 . class . METHOD_4 ( ) ) == true ) ) ; boolean IDENT_3 = false ; try { org . IDENT_0 . compiler . options . test . IDENT_4 . IDENT_5 . IDENT_6 . getValue ( options ) ; } catch ( java . lang . IDENT_7 e ) { IDENT_3 = true ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( IDENT_3 ) 

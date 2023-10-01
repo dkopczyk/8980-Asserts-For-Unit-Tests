@@ -1,0 +1,2 @@
+METHOD_0 ( ) { manager . METHOD_1 ( org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_1 . IDENT_2 ) ; manager . METHOD_2 ( org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_1 . IDENT_2 ) ; manager . METHOD_1 ( org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_1 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( METHOD_4 ( ) ) || ( org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_4 . METHOD_5 ( ) ) ; }
+org . junit . Assert . assertTrue ( manager . METHOD_3 ( ) ) 

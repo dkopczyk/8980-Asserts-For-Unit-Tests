@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . model . request . IDENT_1 p = new com . github . IDENT_0 . model . request . METHOD_1 ( ) ; p . setName ( STRING_0 ) ; "<AssertPlaceHolder>" ; try { p . validate ( ) ; log . info ( com . github . IDENT_0 . util . IDENT_2 . METHOD_2 ( p ) ) ; } catch ( com . github . IDENT_0 . exceptions . IDENT_3 e ) { org . junit . Assert . fail ( STRING_1 ) ; } p . METHOD_3 ( false ) ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( p . getName ( ) , STRING_0 ) 

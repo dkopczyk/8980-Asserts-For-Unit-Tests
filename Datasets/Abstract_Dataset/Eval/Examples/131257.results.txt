@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] IDENT_0 = io . netty . util . internal . IDENT_1 . METHOD_1 ( STRING_0 ) ; io . netty . buffer . IDENT_2 in = io . netty . buffer . IDENT_3 . METHOD_2 ( IDENT_0 ) ; try { IDENT_4 . decode ( 0 , in , IDENT_5 , true ) ; "<AssertPlaceHolder>" ; IDENT_4 . decode ( 0 , in , IDENT_5 , true ) ; } finally { in . METHOD_3 ( ) ; } } METHOD_4 ( ) { return METHOD_4 ; }
+org . junit . Assert . assertEquals ( 1 , in . METHOD_4 ( ) ) 

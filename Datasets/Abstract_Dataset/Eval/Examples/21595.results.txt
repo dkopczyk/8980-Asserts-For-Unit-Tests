@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . olingo . odata2 . api . processor . IDENT_0 response = org . apache . olingo . odata2 . api . processor . IDENT_0 . status ( IDENT_1 . IDENT_2 ) . build ( ) ; "<AssertPlaceHolder>" ; } getStatus ( ) { return status ; }
+org . junit . Assert . assertEquals ( IDENT_1 . IDENT_2 , response . getStatus ( ) ) 

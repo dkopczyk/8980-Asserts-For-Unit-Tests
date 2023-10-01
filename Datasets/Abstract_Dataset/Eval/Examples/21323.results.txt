@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . nifi . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new org . apache . nifi . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; final org . apache . nifi . util . IDENT_4 ctx = new org . apache . nifi . util . METHOD_2 ( IDENT_3 ) ; final org . apache . nifi . components . IDENT_5 IDENT_6 = ctx . setProperty ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } isValid ( ) { return this . IDENT_7 ; }
+org . junit . Assert . assertFalse ( IDENT_6 . isValid ( ) ) 

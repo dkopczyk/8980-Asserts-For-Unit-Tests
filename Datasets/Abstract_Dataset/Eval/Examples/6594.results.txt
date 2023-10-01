@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . ambari . server . IDENT_0 . entities . IDENT_1 entity = new org . apache . ambari . server . IDENT_0 . entities . METHOD_1 ( ) ; entity . setName ( "foo" ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( "foo" , entity . getName ( ) ) 

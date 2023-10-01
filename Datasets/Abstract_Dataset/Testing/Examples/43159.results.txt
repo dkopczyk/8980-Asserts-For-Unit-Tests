@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return IDENT_0 . equalsIgnoreCase ( io . IDENT_1 . content . database . utils . IDENT_2 ) ; }
+org . junit . Assert . assertTrue ( METHOD_1 ( io . IDENT_1 . content . database . utils . IDENT_2 ) ) 

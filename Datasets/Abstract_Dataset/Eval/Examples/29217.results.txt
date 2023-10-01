@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . amazonaws . IDENT_0 . model . IDENT_1 IDENT_2 = new com . amazonaws . IDENT_0 . model . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( ( ( short ) ( IDENT_3 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( IDENT_4 ) != null ? IDENT_4 . METHOD_4 ( ) : null ; }
+org . junit . Assert . assertArrayEquals ( null , IDENT_2 . METHOD_3 ( ) ) 

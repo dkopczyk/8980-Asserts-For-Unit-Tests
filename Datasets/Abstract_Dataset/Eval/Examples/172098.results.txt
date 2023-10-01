@@ -1,0 +1,2 @@
+METHOD_0 ( ) { example . Person person = repository . save ( new example . Person ( STRING_0 , STRING_1 , INT_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( IDENT_0 extends java . io . IDENT_1 ) { log . info ( STRING_2 ) ; return super . METHOD_1 ( id ) ; }
+org . junit . Assert . assertThat ( repository . METHOD_1 ( person . getId ( ) ) , org . hamcrest . CoreMatchers . is ( person ) ) 

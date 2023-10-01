@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . commons . IDENT_0 . IDENT_1 IDENT_2 = new org . apache . commons . IDENT_0 . METHOD_1 ( ) ; IDENT_3 . rest . client . IDENT_4 IDENT_5 = new IDENT_3 . rest . client . METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return client ; }
+org . junit . Assert . assertSame ( IDENT_2 , IDENT_5 . METHOD_3 ( ) ) 

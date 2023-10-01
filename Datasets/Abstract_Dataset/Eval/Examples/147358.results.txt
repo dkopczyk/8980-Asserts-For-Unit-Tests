@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . IDENT_0 . collections . IDENT_1 map = METHOD_1 ( ) ; map . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return METHOD_3 ( new net . IDENT_0 . collections . IDENT_2 . IDENT_3 < IDENT_4 , IDENT_5 > ( ) { @ net . IDENT_0 . collections . Override public java . lang . Object method ( java . util . concurrent . IDENT_6 < IDENT_4 , IDENT_5 > map ) { return map . size ( ) ; } } ) ; }
+org . junit . Assert . assertEquals ( 0 , map . size ( ) ) 

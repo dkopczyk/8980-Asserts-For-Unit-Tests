@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . sql . test . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( com . IDENT_0 . sql . test . IDENT_1 . class ) ; java . util . List < java . lang . String > list = IDENT_2 . METHOD_2 ( 1 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return super . get ( key ) ; }
+org . junit . Assert . assertEquals ( "" , list . get ( 0 ) ) 

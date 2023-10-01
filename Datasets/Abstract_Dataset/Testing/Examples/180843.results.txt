@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File IDENT_0 = mock ( java . io . File . class ) ; org . IDENT_1 . ui . io . IDENT_2 IDENT_3 = new org . IDENT_1 . ui . io . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { org . IDENT_1 . ui . IDENT_4 status = new org . IDENT_1 . ui . METHOD_3 ( 10 , 20 , 100 , 200 ) ; IDENT_3 . save ( status ) ; org . junit . Assert . assertEquals ( status , IDENT_3 . METHOD_4 ( ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_3 . METHOD_2 ( ) ) 

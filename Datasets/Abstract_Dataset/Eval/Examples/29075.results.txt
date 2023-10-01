@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . amazon . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new IDENT_0 . amazon . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( STRING_0 ) ; IDENT_0 . amazon . IDENT_1 . processor . IDENT_6 IDENT_7 = new IDENT_0 . amazon . IDENT_1 . IDENT_8 . METHOD_2 ( IDENT_5 , null ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_9 ; }
+org . junit . Assert . assertEquals ( IDENT_5 , IDENT_7 . METHOD_3 ( ) ) 

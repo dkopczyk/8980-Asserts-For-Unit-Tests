@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; IDENT_0 . types . IDENT_1 < java . lang . Integer > IDENT_2 = IDENT_0 . IDENT_3 . of ( 1 , 2 , 3 ) . filter ( ( i ) -> i <= 2 ) ; IDENT_2 . METHOD_1 ( System . out :: println ) ; "<AssertPlaceHolder>" ; } filter ( java . util . function . IDENT_4 ) { IDENT_0 . IDENT_3 < T > results = new IDENT_0 . IDENT_3 < T > ( ) ; this . METHOD_1 ( ( IDENT_5 ) -> { } ) ; throw new java . lang . METHOD_2 ( STRING_1 ) ; }
+org . junit . Assert . assertEquals ( java . util . Arrays . asList ( 1 , 2 ) , IDENT_2 ) 

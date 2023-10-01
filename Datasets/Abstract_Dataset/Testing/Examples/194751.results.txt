@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . common . security . IDENT_2 expected = new com . IDENT_0 . IDENT_1 . common . security . METHOD_1 ( "test" , STRING_0 ) ; java . lang . String res = mapper . METHOD_2 ( expected ) ; com . IDENT_0 . IDENT_1 . common . security . METHOD_1 actual = mapper . METHOD_3 ( res , com . IDENT_0 . IDENT_1 . common . security . METHOD_1 . class ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

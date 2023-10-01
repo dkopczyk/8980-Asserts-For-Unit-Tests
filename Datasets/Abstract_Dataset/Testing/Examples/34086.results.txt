@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( null ) ; IDENT_0 . METHOD_2 ( null ) ; IDENT_0 . METHOD_3 ( null ) ; org . IDENT_1 . IDENT_2 . report . IDENT_3 . IDENT_4 . METHOD_4 ( IDENT_0 , doc ) ; java . util . ArrayList < java . lang . Object [ ] > events = IDENT_5 . METHOD_5 ( ) ; "<AssertPlaceHolder>" ; java . lang . Object [ ] event = events . get ( 0 ) ; METHOD_6 ( event , STRING_0 ) ; } METHOD_5 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertTrue ( ( ( events . size ( ) ) == 1 ) ) 

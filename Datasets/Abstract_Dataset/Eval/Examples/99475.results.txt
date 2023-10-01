@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String key = ( IDENT_0 ) + STRING_0 ; try { this . client . delete ( key ) ; org . junit . Assert . fail ( ) ; } catch ( com . IDENT_1 . IDENT_2 . IDENT_3 e ) { "<AssertPlaceHolder>" ; } } METHOD_1 ( int ) { return ( ( ( this . result ) != null ) && ( ( this . result . IDENT_4 ) != null ) ) && ( IDENT_5 == ( this . result . IDENT_4 ) ) ; }
+org . junit . Assert . assertTrue ( e . METHOD_1 ( 100 ) ) 

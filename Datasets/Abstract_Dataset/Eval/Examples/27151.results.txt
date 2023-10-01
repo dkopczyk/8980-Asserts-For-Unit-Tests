@@ -1,0 +1,2 @@
+write ( ) { com . asakusafw . runtime . value . IDENT_0 IDENT_1 = new com . asakusafw . runtime . value . METHOD_0 ( ) ; IDENT_1 . METHOD_1 ( 100 ) ; com . asakusafw . runtime . value . METHOD_0 IDENT_2 = METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } get ( ) { if ( IDENT_3 ) { return next ; } throw new java . io . IOException ( ) ; }
+org . junit . Assert . assertThat ( IDENT_2 . get ( ) , is ( IDENT_1 . get ( ) ) ) 

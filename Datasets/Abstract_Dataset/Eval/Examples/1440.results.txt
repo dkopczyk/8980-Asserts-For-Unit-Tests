@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 < com . IDENT_0 . IDENT_1 . IDENT_3 > array = new com . IDENT_0 . IDENT_1 . IDENT_2 < com . IDENT_0 . IDENT_1 . IDENT_3 > ( ) . METHOD_1 ( ) . METHOD_1 ( ) ; com . IDENT_0 . IDENT_1 . IDENT_3 data = array . get ( 0 , com . IDENT_0 . IDENT_1 . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } get ( int , java . lang . String ) { return get ( index , path , null ) ; }
+org . junit . Assert . assertNull ( data ) 

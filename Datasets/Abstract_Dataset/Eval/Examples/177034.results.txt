@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) . put ( IDENT_4 , IDENT_5 ) ; org . IDENT_6 . event . IDENT_7 . IDENT_8 e = new org . IDENT_6 . event . IDENT_7 . METHOD_2 ( view , type , 1 , IDENT_9 , IDENT_10 ) ; IDENT_11 . METHOD_3 ( e ) ; "<AssertPlaceHolder>" ; org . mockito . Mockito . verify ( IDENT_12 ) . METHOD_3 ( org . mockito . Mockito . any ( ) , org . mockito . Mockito . any ( ) ) ; } METHOD_4 ( ) { return IDENT_13 ; }
+org . junit . Assert . assertTrue ( e . METHOD_4 ( ) ) 

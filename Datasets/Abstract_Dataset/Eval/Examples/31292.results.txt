@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . batfish . datamodel . IDENT_0 > IDENT_1 = METHOD_1 ( ) ; java . util . Set < org . batfish . datamodel . IDENT_0 > match = IDENT_2 . METHOD_2 ( org . batfish . datamodel . IDENT_3 . parse ( STRING_0 ) , 8 ) ; "<AssertPlaceHolder>" ; } contains ( org . batfish . datamodel . table . IDENT_4 ) { return IDENT_5 . contains ( row ) ; }
+org . junit . Assert . assertThat ( match , org . hamcrest . Matchers . contains ( IDENT_1 . get ( 0 ) ) ) 

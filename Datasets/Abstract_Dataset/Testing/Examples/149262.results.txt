@@ -1,0 +1,2 @@
+getProperty ( ) { boolean value = METHOD_0 ( ) . getProperty ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getProperty ( java . lang . String ) { return METHOD_1 ( ) . METHOD_2 ( ( STRING_1 + key ) ) . get ( com . IDENT_0 . user . IDENT_1 . class ) . getValue ( ) ; }
+org . junit . Assert . assertEquals ( value , true ) 

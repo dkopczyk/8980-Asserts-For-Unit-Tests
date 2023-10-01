@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . catalog . IDENT_1 repository = METHOD_1 ( ) . METHOD_2 ( ) . METHOD_3 ( ) ; org . geotools . data . IDENT_2 store = repository . METHOD_4 ( new org . geotools . feature . METHOD_5 ( "foo" , "bar" ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return catalog . METHOD_2 ( ) ; }
+org . junit . Assert . assertNull ( store ) 

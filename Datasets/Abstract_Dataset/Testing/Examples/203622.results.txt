@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . IDENT_1 . core . IDENT_2 IDENT_3 = IDENT_4 ; "<AssertPlaceHolder>" ; java . util . Collection < java . lang . Long > times = java . util . Collections . METHOD_1 ( INT_0 ) ; int IDENT_5 = Integer . MAX_VALUE ; IDENT_3 . METHOD_2 ( java . util . Collections . METHOD_1 ( IDENT_5 ) , times ) ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

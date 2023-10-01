@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( org . eclipse . core . resources . IDENT_0 ) { if ( resource != null ) { if ( org . eclipse . IDENT_1 . IDENT_2 . core . io . IDENT_3 . METHOD_2 ( resource ) ) { try { return java . nio . file . IDENT_4 . METHOD_3 ( java . nio . file . IDENT_5 . get ( resource . METHOD_1 ( ) ) ) . METHOD_4 ( ) ; } catch ( java . io . IOException e ) { } } else { return resource . METHOD_1 ( ) ; } } return null ; }
+org . junit . Assert . assertNull ( org . eclipse . IDENT_1 . IDENT_2 . core . io . IDENT_3 . METHOD_1 ( null ) ) 

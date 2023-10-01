@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jsoup . nodes . Document document = org . jsoup . IDENT_0 . METHOD_1 ( STRING_0 ) ; IDENT_1 . METHOD_2 ( document ) ; org . jsoup . select . IDENT_2 IDENT_3 = document . select ( STRING_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return ( ( int ) ( METHOD_3 ( ) . count ( ) ) ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_3 . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . catalog . IDENT_1 IDENT_2 = METHOD_1 ( ) ; org . IDENT_0 . catalog . IDENT_3 IDENT_4 = database . METHOD_2 ( IDENT_2 . getResource ( ) . getId ( ) , org . IDENT_0 . catalog . IDENT_3 . class ) ; IDENT_4 . setName ( STRING_0 ) ; METHOD_3 ( IDENT_4 ) ; IDENT_2 = database . METHOD_2 ( IDENT_2 . getId ( ) , org . IDENT_0 . catalog . IDENT_1 . class ) ; "<AssertPlaceHolder>" ; } getResource ( ) { return resource ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_2 . getResource ( ) . getName ( ) ) 

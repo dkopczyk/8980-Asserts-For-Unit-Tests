@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Properties props = new java . util . Properties ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( com . sun . mail . util . Properties , java . lang . String , boolean ) { return com . sun . mail . util . IDENT_0 . METHOD_2 ( com . sun . mail . util . IDENT_0 . METHOD_3 ( props , name ) , IDENT_1 ) ; }
+org . junit . Assert . assertTrue ( com . sun . mail . util . IDENT_0 . METHOD_1 ( props , "test" , true ) ) 

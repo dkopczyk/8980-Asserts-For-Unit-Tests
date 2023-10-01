@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . Exception expected = new java . lang . METHOD_1 ( ) ; try { org . apache . commons . lang3 . exception . IDENT_0 . METHOD_2 ( expected ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( final java . lang . Exception actual ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( java . lang . Throwable ) { return org . apache . commons . lang3 . exception . IDENT_0 . < IDENT_1 , java . lang . RuntimeException > METHOD_3 ( IDENT_2 ) ; }
+org . junit . Assert . assertSame ( expected , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( android . content . Context ) { return com . IDENT_0 . api . IDENT_1 . METHOD_1 ( context , null , null ) ; }
+org . junit . Assert . assertFalse ( com . IDENT_0 . api . IDENT_1 . METHOD_1 ( context ) ) 

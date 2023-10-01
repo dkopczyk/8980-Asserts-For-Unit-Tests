@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String name = STRING_0 ; boolean result = org . oscm . internal . types . IDENT_0 . IDENT_1 . contains ( name ) ; "<AssertPlaceHolder>" ; } contains ( java . lang . String ) { return org . oscm . internal . types . IDENT_0 . IDENT_1 . METHOD_1 ( ) . contains ( name ) ; }
+org . junit . Assert . assertFalse ( result ) 

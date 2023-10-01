@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { final java . sql . IDENT_0 connection = METHOD_2 ( ) . METHOD_3 ( ) ; boolean exists = false ; try { connection . METHOD_4 ( STRING_0 ) . execute ( ) ; exists = true ; } catch ( java . sql . IDENT_1 e ) { } finally { connection . close ( ) ; } return exists ; }
+org . junit . Assert . assertTrue ( METHOD_1 ( ) ) 

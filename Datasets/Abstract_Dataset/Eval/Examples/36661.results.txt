@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; java . lang . Object [ ] params = IDENT_0 . METHOD_2 ( method ( STRING_0 , java . util . List . class ) , errors ) ; "<AssertPlaceHolder>" ; } method ( java . lang . String , java . lang . Class ) { try { return br . com . IDENT_1 . IDENT_2 . view . IDENT_3 . class . METHOD_3 ( IDENT_4 , clazz ) ; } catch ( java . lang . Exception e ) { throw new java . lang . RuntimeException ( e ) ; } }
+org . junit . Assert . assertArrayEquals ( new java . lang . Object [ ] { null } , params ) 

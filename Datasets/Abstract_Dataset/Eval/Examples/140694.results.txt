@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jfree . chart . IDENT_0 chart = null ; try { chart = org . opennms . web . IDENT_1 . IDENT_2 . METHOD_1 ( STRING_0 ) ; } catch ( java . lang . IllegalArgumentException e ) { org . opennms . web . IDENT_1 . IDENT_3 . LOG . debug ( STRING_1 ) ; } "<AssertPlaceHolder>" ; } debug ( java . lang . String ) { METHOD_2 ( org . opennms . IDENT_4 . vaadin . IDENT_5 . IDENT_6 . IDENT_7 , message ) ; }
+org . junit . Assert . assertNull ( chart ) 

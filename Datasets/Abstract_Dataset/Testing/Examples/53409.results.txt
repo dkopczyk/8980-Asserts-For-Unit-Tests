@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . jenkins . pipeline . IDENT_2 view = mock ( IDENT_0 . IDENT_1 . jenkins . pipeline . IDENT_2 . class ) ; when ( view . METHOD_1 ( ) ) . thenReturn ( false ) ; when ( view . METHOD_2 ( ) ) . thenReturn ( true ) ; when ( view . METHOD_3 ( ) ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( ! ( METHOD_1 ( ) ) ) && ( METHOD_2 ( ) ) ; }
+org . junit . Assert . assertTrue ( view . METHOD_3 ( ) ) 

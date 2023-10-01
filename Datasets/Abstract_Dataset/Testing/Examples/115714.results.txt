@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( java . sql . IDENT_0 connection = METHOD_1 ( STRING_0 , false ) ) { java . util . List < org . IDENT_1 . jdbc . IDENT_2 > IDENT_3 = METHOD_2 ( connection ) . METHOD_3 ( ) . METHOD_4 ( ) . METHOD_5 ( ) . METHOD_6 ( ) ; for ( org . IDENT_1 . jdbc . IDENT_2 IDENT_4 : IDENT_3 ) { System . out . println ( ( STRING_1 + IDENT_4 ) ) ; } "<AssertPlaceHolder>" ; } } METHOD_6 ( ) { return this . IDENT_5 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_3 . size ( ) ) > 1 ) ) 

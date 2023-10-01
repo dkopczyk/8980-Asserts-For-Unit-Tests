@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return java . lang . String . valueOf ( ( ( ( this . METHOD_2 ( ) ) + "/" ) + ( this . hashCode ( ) ) ) ) ; }
+org . junit . Assert . assertNull ( fs . METHOD_1 ( ) ) 

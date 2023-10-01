@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; org . IDENT_1 . connect . IDENT_2 . IDENT_3 . IDENT_4 . spi . IDENT_5 parser = new org . IDENT_1 . connect . IDENT_2 . IDENT_3 . IDENT_4 . provider . METHOD_1 ( ) ; org . IDENT_1 . connect . IDENT_2 . IDENT_3 . IDENT_4 . spi . IDENT_6 IDENT_7 = parser . METHOD_2 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertNull ( IDENT_7 . getId ( ) ) 

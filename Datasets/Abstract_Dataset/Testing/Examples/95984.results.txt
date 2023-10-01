@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . StringBuilder sb = new java . lang . StringBuilder ( ) ; com . sun . jersey . core . impl . provider . header . IDENT_0 . METHOD_1 ( sb , STRING_0 ) ; org . junit . Assert . assertEquals ( STRING_1 , sb . toString ( ) ) ; sb = new java . lang . StringBuilder ( ) ; com . sun . jersey . core . impl . provider . header . IDENT_0 . METHOD_1 ( sb , STRING_2 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return java . lang . String . format ( STRING_3 , IDENT_1 , IDENT_2 ) ; }
+org . junit . Assert . assertEquals ( STRING_2 , sb . toString ( ) ) 

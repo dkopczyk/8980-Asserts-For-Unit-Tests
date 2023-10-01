@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . collections . api . map . IDENT_0 < java . lang . String , java . lang . Integer > map = this . METHOD_1 ( "1" , 1 , "2" , 2 , STRING_0 , 3 , STRING_1 , 4 ) ; "<AssertPlaceHolder>" ; } valueOf ( IDENT_1 ) { return this . IDENT_2 . get ( subject ) ; }
+org . junit . Assert . assertEquals ( java . lang . Integer . valueOf ( 1 ) , map . METHOD_0 ( String :: valueOf ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; org . junit . runner . IDENT_0 description = IDENT_1 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( description ) == null ) { description = org . junit . runner . IDENT_0 . METHOD_3 ( getName ( ) , IDENT_2 . METHOD_4 ( ) ) ; for ( org . junit . runner . IDENT_3 child : METHOD_5 ( ) ) { description . METHOD_6 ( METHOD_7 ( child ) ) ; } } return description ; }
+org . junit . Assert . assertNotNull ( description ) 

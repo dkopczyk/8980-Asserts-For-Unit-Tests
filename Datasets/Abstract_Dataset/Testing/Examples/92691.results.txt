@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . fhir . IDENT_1 . model . IDENT_2 p = new org . IDENT_0 . fhir . IDENT_1 . model . METHOD_1 ( ) ; p . METHOD_2 ( ) . METHOD_3 ( ) . METHOD_4 ( STRING_0 ) ; p . METHOD_2 ( ) . METHOD_3 ( ) . setValue ( "foo" ) ; ca . uhn . fhir . validation . IDENT_3 output = IDENT_4 . METHOD_5 ( p ) ; java . util . List < ca . uhn . fhir . validation . IDENT_5 > IDENT_6 = METHOD_6 ( output ) ; "<AssertPlaceHolder>" ; } empty ( ) { return ( IDENT_7 . size ( ) ) == 0 ; }
+org . junit . Assert . assertThat ( IDENT_6 , org . hamcrest . Matchers . empty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . redis . Person person = new org . springframework . data . redis . METHOD_1 ( ) . instance ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . io . InputStream ) { java . io . IDENT_0 IDENT_1 = null ; try { IDENT_1 = new java . io . METHOD_3 ( is ) ; return IDENT_1 . METHOD_4 ( ) ; } finally { if ( IDENT_1 != null ) { try { IDENT_1 . close ( ) ; } catch ( java . io . IOException e ) { } } } }
+org . junit . Assert . assertEquals ( person , serializer . METHOD_2 ( serializer . serialize ( person ) ) ) 

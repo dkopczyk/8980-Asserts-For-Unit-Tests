@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . Long value = INT_0 ; final io . IDENT_0 . IDENT_1 . value . IDENT_2 IDENT_3 = new io . IDENT_0 . IDENT_1 . value . METHOD_1 ( value ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return new java . math . BigDecimal ( get ( ) ) ; }
+org . junit . Assert . assertEquals ( new java . math . BigDecimal ( value ) , IDENT_3 . METHOD_0 ( ) ) 

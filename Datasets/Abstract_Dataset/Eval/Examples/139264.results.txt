@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . openmrs . Person > IDENT_0 = IDENT_1 . METHOD_1 ( "" , false , false ) ; METHOD_2 ( IDENT_0 ) ; for ( org . openmrs . Person p : IDENT_0 ) "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertFalse ( p . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object instance = org . IDENT_0 . integration . IDENT_1 . clazz . newInstance ( ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { return IDENT_2 . equals ( o ) ; }
+org . junit . Assert . assertThat ( instance . equals ( instance ) , org . hamcrest . core . Is . is ( true ) ) 

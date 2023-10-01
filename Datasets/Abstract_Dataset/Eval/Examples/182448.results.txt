@@ -1,0 +1,2 @@
+get ( ) { com . IDENT_0 . commons . util . ByteBuffer buffer = new com . IDENT_0 . commons . util . ByteBuffer ( 5 ) ; buffer . add ( ( ( byte ) ( 0 ) ) ) ; byte b = buffer . get ( 0 ) ; "<AssertPlaceHolder>" ; } get ( IDENT_1 ) { return this . IDENT_2 . get ( key ) ; }
+org . junit . Assert . assertEquals ( ( ( byte ) ( 0 ) ) , b ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { T p = METHOD_1 ( ) ; int x = 0 ; java . lang . String expected = METHOD_2 ( x ) ; try { "<AssertPlaceHolder>" ; } catch ( java . lang . IDENT_0 e ) { if ( null == expected ) { } else { throw e ; } } } METHOD_3 ( int ) { return data . get ( i ) ; }
+org . junit . Assert . assertEquals ( expected , p . METHOD_3 ( x ) ) 

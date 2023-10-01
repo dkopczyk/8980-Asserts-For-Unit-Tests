@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . bzk . brp . model . operationeel . kern . IDENT_0 IDENT_1 = em . find ( nl . bzk . brp . model . operationeel . kern . IDENT_0 . class , 1 ) ; nl . bzk . brp . model . operationeel . kern . IDENT_2 IDENT_3 = IDENT_4 . METHOD_1 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

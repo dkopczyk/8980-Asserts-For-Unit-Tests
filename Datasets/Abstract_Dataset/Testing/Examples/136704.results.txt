@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . opendaylight . yangtools . yang . parser . stmt . IDENT_0 . IDENT_1 result = org . opendaylight . yangtools . yang . parser . IDENT_2 . IDENT_0 . IDENT_3 . METHOD_1 ( ) . METHOD_2 ( ) . METHOD_3 ( org . opendaylight . yangtools . yang . stmt . IDENT_4 . IDENT_5 ) . build ( ) ; "<AssertPlaceHolder>" ; } build ( ) { return org . opendaylight . yangtools . yang . data . api . IDENT_6 . create ( path , hash . build ( ) ) ; }
+org . junit . Assert . assertNotNull ( result ) 

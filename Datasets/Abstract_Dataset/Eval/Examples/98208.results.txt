@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . joda . beans . IDENT_0 < com . google . common . collect . IDENT_1 < java . lang . String > > test = org . joda . beans . IDENT_2 . IDENT_3 . meta ( ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . joda . beans . IDENT_0 , java . lang . Class ) { return org . joda . beans . IDENT_4 . METHOD_3 ( IDENT_5 , IDENT_6 , 1 , 0 ) ; }
+org . junit . Assert . assertEquals ( org . joda . beans . IDENT_4 . METHOD_2 ( test , org . joda . beans . IDENT_2 . Person . class ) , java . lang . String . class ) 

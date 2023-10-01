@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object obj = new java . lang . Object ( ) ; com . liferay . portal . kernel . util . IDENT_0 < ? > IDENT_1 = new com . liferay . portal . kernel . util . IDENT_0 < java . lang . Object > ( false ) { @ com . liferay . portal . kernel . util . Override MOD_0 java . lang . Object METHOD_1 ( ) { return obj ; } } ; "<AssertPlaceHolder>" ; IDENT_1 . remove ( ) ; } get ( ) { return IDENT_2 . get ( ) ; }
+org . junit . Assert . assertSame ( obj , IDENT_1 . get ( ) ) 

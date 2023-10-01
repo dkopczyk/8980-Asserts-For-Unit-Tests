@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return com . google . common . collect . Lists . newArrayList ( IDENT_0 . IDENT_1 ) ; }
+org . junit . Assert . assertEquals ( com . google . common . collect . Lists . newArrayList ( IDENT_0 . IDENT_1 ) , listener . METHOD_1 ( ) ) 

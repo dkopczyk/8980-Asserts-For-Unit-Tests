@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( ( ( ( STRING_0 + ( IDENT_0 ) ) + STRING_1 ) + ( IDENT_1 ) ) ) ; long result = org . util . IDENT_2 . IDENT_3 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int ) { long result = 1 ; if ( value > 1 ) { result = value * ( org . util . IDENT_2 . IDENT_3 . METHOD_1 ( ( value - 1 ) ) ) ; } return result ; }
+org . junit . Assert . assertEquals ( IDENT_1 , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = STRING_0 ; final com . fasterxml . jackson . databind . IDENT_1 mapper = new com . fasterxml . jackson . databind . METHOD_1 ( ) ; final com . fasterxml . jackson . databind . IDENT_2 IDENT_3 = mapper . METHOD_2 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

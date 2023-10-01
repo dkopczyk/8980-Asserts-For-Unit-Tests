@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . collections . api . list . IDENT_0 < java . lang . Integer > keys = IDENT_1 . IDENT_2 . of ( 1 , 1 ) . METHOD_1 ( ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( IDENT_3 [ ] ) { return new org . eclipse . collections . impl . list . mutable . IDENT_4 < > ( elements ) ; }
+org . junit . Assert . assertEquals ( org . eclipse . collections . impl . list . mutable . IDENT_4 . METHOD_3 ( 1 ) , keys ) 

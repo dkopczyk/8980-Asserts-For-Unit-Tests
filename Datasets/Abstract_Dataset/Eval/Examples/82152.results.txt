@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . put ( null , STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } get ( org . hibernate . engine . spi . IDENT_1 , java . lang . Object ) { try { return METHOD_1 ( ) . get ( key , com . IDENT_2 . hibernate . IDENT_0 . IDENT_3 . METHOD_2 ( ) ) ; } catch ( com . IDENT_2 . core . IDENT_4 e ) { return null ; } }
+org . junit . Assert . assertEquals ( STRING_1 , IDENT_0 . get ( null , STRING_0 ) ) 

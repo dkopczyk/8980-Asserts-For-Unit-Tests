@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = service . METHOD_1 ( IDENT_1 ) . METHOD_2 ( ) . size ( ) ; METHOD_3 ( METHOD_4 ( ( ( STRING_0 + ( IDENT_1 ) ) + STRING_1 ) , new org . openmrs . module . IDENT_2 . rest . web . IDENT_3 . controller . IDENT_4 . METHOD_5 ( STRING_2 , STRING_3 ) ) ) ; int IDENT_5 = service . METHOD_1 ( IDENT_1 ) . METHOD_2 ( ) . size ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( ( IDENT_0 - 1 ) , IDENT_5 ) 

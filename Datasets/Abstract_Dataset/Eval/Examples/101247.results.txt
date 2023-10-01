@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . io . IDENT_1 IDENT_2 = org . IDENT_0 . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_1 ( ) ; org . IDENT_0 . java . nio . file . Path init = IDENT_2 . get ( java . net . URI . create ( STRING_0 ) ) ; java . lang . String expected = STRING_1 ; IDENT_2 . write ( init , expected ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . IDENT_0 . java . nio . file . Path ) { return METHOD_2 ( path , org . IDENT_0 . io . impl . IDENT_6 . UTF_8 ) ; }
+org . junit . Assert . assertEquals ( expected , IDENT_2 . METHOD_2 ( init ) ) 

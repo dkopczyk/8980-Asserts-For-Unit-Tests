@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . geotools . map . IDENT_0 IDENT_1 = new org . geotools . map . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( IDENT_1 ) ; org . geotools . renderer . IDENT_3 renderer = new org . geotools . IDENT_4 . IDENT_5 . METHOD_3 ( ) ; IDENT_2 . METHOD_4 ( renderer ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertTrue ( ( ( renderer . METHOD_5 ( ) ) == IDENT_1 ) ) 

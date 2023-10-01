@@ -1,0 +1,2 @@
+METHOD_0 ( ) { de . IDENT_0 . pipeline . IDENT_1 . IDENT_2 IDENT_3 = new de . IDENT_0 . pipeline . IDENT_1 . METHOD_1 ( STRING_0 , false , false ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . IDENT_4 ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_3 . METHOD_2 ( ) ) 

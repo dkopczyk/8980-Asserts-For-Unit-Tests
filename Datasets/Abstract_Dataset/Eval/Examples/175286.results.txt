@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int result = instance . METHOD_1 ( record ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . logging . IDENT_0 ) { final int IDENT_1 ; if ( ( record . METHOD_2 ( ) ) != null ) { IDENT_1 = METHOD_3 ( record . METHOD_2 ( ) . METHOD_4 ( ) ) ; } else { IDENT_1 = 0 ; } return IDENT_1 ; }
+org . junit . Assert . assertEquals ( ex . METHOD_4 ( ) [ 0 ] . METHOD_1 ( ) , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ch . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 map = ch . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 . METHOD_1 ( ) ; map . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { METHOD_3 ( false ) ; this . id = 0 ; METHOD_4 ( false ) ; this . count = 0 ; this . key = null ; this . value = null ; METHOD_5 ( false ) ; this . IDENT_5 = 0 ; }
+org . junit . Assert . assertEquals ( 0 , map . size ( ) ) 

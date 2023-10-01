@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( update . METHOD_1 ( ) ) . thenReturn ( IDENT_0 . IDENT_1 ) ; when ( update . getType ( ) ) . thenReturn ( IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( net . ripe . db . whois . update . domain . IDENT_4 ) { return ( update . METHOD_1 ( ) . equals ( IDENT_0 . IDENT_5 ) ) && ( ( update . getType ( ) . equals ( IDENT_2 . IDENT_6 ) ) || ( update . getType ( ) . equals ( IDENT_2 . IDENT_7 ) ) ) ; }
+org . junit . Assert . assertThat ( subject . METHOD_2 ( update ) , org . hamcrest . core . Is . is ( false ) ) 

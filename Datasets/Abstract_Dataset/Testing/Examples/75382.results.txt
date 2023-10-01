@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date source = new java . util . Date ( 1000 ) ; au . gov . IDENT_0 . IDENT_1 . core . IDENT_2 . IDENT_3 t = au . gov . IDENT_0 . IDENT_1 . core . IDENT_2 . IDENT_3 . METHOD_1 ( source ) ; java . util . Date result = t . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ! ( METHOD_3 ( ) ) ) { return null ; } return new java . util . Date ( this . IDENT_4 . METHOD_4 ( au . gov . IDENT_0 . IDENT_1 . core . IDENT_2 . IDENT_3 . IDENT_5 ) . METHOD_5 ( ) ) ; }
+org . junit . Assert . assertEquals ( source , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = ch . IDENT_1 . admin . IDENT_2 . METHOD_1 ( user , IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ch . IDENT_1 . data . User , ch . IDENT_1 . admin . IDENT_5 ) { return ch . IDENT_1 . admin . IDENT_2 . METHOD_2 ( ch . IDENT_1 . admin . IDENT_2 . IDENT_6 , IDENT_7 . METHOD_3 ( ) , IDENT_8 ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 ) 

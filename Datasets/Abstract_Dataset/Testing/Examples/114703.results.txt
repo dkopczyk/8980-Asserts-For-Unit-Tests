@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openmrs . module . IDENT_0 . IDENT_1 client = METHOD_1 ( ) . METHOD_2 ( 1 ) ; METHOD_1 ( ) . METHOD_3 ( client ) ; client = METHOD_1 ( ) . METHOD_2 ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Integer ) { return dao . METHOD_4 ( id ) ; }
+org . junit . Assert . assertNull ( client ) 

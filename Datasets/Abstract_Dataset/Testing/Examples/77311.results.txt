@@ -1,0 +1,2 @@
+iterator ( ) { com . gs . collections . api . list . IDENT_0 < java . lang . Integer > IDENT_1 = com . gs . collections . impl . list . IDENT_2 . IDENT_3 . METHOD_0 ( 1 ) ; java . util . Iterator < java . lang . Integer > iterator = IDENT_1 . iterator ( ) ; for ( int i = IDENT_1 . size ( ) ; ( i OP_0 ) > 0 ; ) { java . lang . Integer IDENT_4 = iterator . next ( ) ; "<AssertPlaceHolder>" ; } } METHOD_1 ( ) { return ( ( int ) ( this . value ) ) ; }
+org . junit . Assert . assertEquals ( 1 , ( ( IDENT_4 . METHOD_1 ( ) ) + i ) ) 

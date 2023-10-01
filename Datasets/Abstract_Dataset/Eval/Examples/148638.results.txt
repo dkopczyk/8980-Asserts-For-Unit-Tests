@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . core . result . Result result = new com . IDENT_0 . IDENT_1 . core . result . METHOD_1 ( "foo" ) ; result . METHOD_2 ( new com . IDENT_0 . IDENT_1 . core . result . METHOD_1 ( "bar" ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { int count = 1 ; for ( com . IDENT_0 . IDENT_1 . core . result . Result result : IDENT_2 ) { count += result . METHOD_3 ( ) ; } return count ; }
+org . junit . Assert . assertEquals ( 2 , result . METHOD_3 ( ) ) 

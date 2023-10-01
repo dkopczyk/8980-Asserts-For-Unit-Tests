@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . types . exceptions . IDENT_0 e = new org . oscm . types . exceptions . METHOD_1 ( METHOD_1 . IDENT_1 . IDENT_2 , STRING_0 , new java . lang . Object [ ] { new java . lang . Boolean ( false ) , STRING_1 } ) ; java . lang . String message = e . getMessage ( ) ; java . lang . String expected = ( STRING_2 + ( e . getId ( ) ) ) + STRING_3 ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( expected , message ) 

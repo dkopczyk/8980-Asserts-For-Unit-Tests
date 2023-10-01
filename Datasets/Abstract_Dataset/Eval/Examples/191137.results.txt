@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . lang . String IDENT_0 = statement . toLowerCase ( ) . trim ( ) ; if ( ( ( ( IDENT_0 . isEmpty ( ) ) || ( IDENT_0 . startsWith ( STRING_0 ) ) ) || ( IDENT_0 . startsWith ( STRING_1 ) ) ) || ( IDENT_0 . startsWith ( STRING_2 ) ) ) { return STRING_3 + ( statement . trim ( ) ) ; } return statement ; }
+org . junit . Assert . assertEquals ( STRING_3 , this . executor . METHOD_1 ( "" ) ) 

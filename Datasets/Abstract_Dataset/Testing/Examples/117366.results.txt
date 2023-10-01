@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( int ) { return edu . illinois . library . cantaloupe . image . IDENT_0 . IDENT_1 ; }
+org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 , instance . METHOD_1 ( 0 ) ) 

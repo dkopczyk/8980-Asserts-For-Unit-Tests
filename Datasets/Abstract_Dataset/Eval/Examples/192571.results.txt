@@ -1,0 +1,2 @@
+test ( ) { try { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = connect ( ) ; java . util . List < org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 > IDENT_6 = IDENT_4 . METHOD_0 ( STRING_0 ) ; IDENT_6 . get ( 0 ) . METHOD_1 ( ) ; IDENT_6 . get ( 1 ) . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . Exception e ) { e . printStackTrace ( ) ; org . junit . Assert . fail ( ) ; } } METHOD_1 ( ) { System . out . println ( STRING_1 ) ; }
+org . junit . Assert . assertTrue ( true ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . oscm . IDENT_0 . data . IDENT_1 IDENT_2 = new org . oscm . IDENT_0 . data . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( STRING_0 ) ; IDENT_2 . METHOD_3 ( STRING_1 ) ; IDENT_2 . METHOD_4 ( STRING_2 ) ; IDENT_2 . METHOD_5 ( STRING_3 ) ; IDENT_2 . METHOD_6 ( STRING_4 ) ; org . oscm . IDENT_0 . data . IDENT_3 result = proxy . METHOD_7 ( IDENT_2 , null ) ; "<AssertPlaceHolder>" ; } METHOD_8 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertFalse ( ( ( result . METHOD_8 ( ) ) == 0 ) ) 

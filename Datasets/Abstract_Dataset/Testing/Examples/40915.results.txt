@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String content = STRING_0 ; java . io . File f = METHOD_1 ( content ) ; METHOD_2 ( new org . jboss . netty . handler . stream . METHOD_3 ( ) , new IDENT_0 . IDENT_1 . netty . http . METHOD_4 ( f . METHOD_5 ( ) ) ) ; java . lang . Thread . sleep ( 1000 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return get ( uri , 200 ) ; }
+org . junit . Assert . assertEquals ( content , get ( ( "/" + ( f . getName ( ) ) ) ) ) 

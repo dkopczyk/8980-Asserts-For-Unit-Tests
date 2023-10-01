@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . insert ( STRING_0 , STRING_0 ) ; IDENT_0 . insert ( STRING_1 , STRING_1 ) ; IDENT_0 . delete ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_0 . METHOD_1 ( ) ) == 1 ) ) 

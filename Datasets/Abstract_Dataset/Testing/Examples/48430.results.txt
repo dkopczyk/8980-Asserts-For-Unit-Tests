@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . view . model . IDENT_1 IDENT_2 = mock ( org . IDENT_0 . view . model . IDENT_1 . class ) ; org . IDENT_0 . view . model . events . IDENT_3 IDENT_4 = new org . IDENT_0 . view . model . events . METHOD_1 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . v1 ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_4 . METHOD_2 ( ) ) 

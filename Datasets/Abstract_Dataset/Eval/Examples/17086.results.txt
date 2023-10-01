@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 ; try { IDENT_0 = true ; com . IDENT_1 . IDENT_2 . strategy . IDENT_3 . METHOD_1 ( ) ; com . IDENT_1 . IDENT_2 . IDENT_4 . IDENT_5 IDENT_6 = org . mockito . Mockito . mock ( IDENT_4 . IDENT_5 . class ) ; IDENT_7 . METHOD_2 ( IDENT_8 , IDENT_6 ) ; } catch ( java . lang . Exception e ) { IDENT_0 = false ; } "<AssertPlaceHolder>" ; } METHOD_1 ( ) { throw new java . lang . METHOD_3 ( STRING_0 ) ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

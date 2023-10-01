@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] IDENT_0 = new int [ ] { INT_0 , INT_1 , INT_1 , INT_2 , INT_3 , INT_4 , INT_4 , INT_5 } ; java . util . List < java . lang . Integer > IDENT_1 = com . google . common . IDENT_2 . IDENT_3 . asList ( IDENT_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 8 , IDENT_1 . size ( ) ) 

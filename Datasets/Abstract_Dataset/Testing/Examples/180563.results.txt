@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . runner . IDENT_1 . IDENT_2 . IDENT_3 = 0 ; runner . run ( IDENT_0 . runner . IDENT_1 . IDENT_2 . class , new IDENT_0 . METHOD_1 ( new IDENT_0 . METHOD_2 ( ) ) ) ; "<AssertPlaceHolder>" ; } run ( java . lang . Class , IDENT_0 . runner . IDENT_4 ) { METHOD_3 ( IDENT_5 ) ; METHOD_4 ( IDENT_5 , IDENT_6 ) ; METHOD_5 ( IDENT_5 ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_0 . runner . IDENT_1 . IDENT_2 . IDENT_3 ) 

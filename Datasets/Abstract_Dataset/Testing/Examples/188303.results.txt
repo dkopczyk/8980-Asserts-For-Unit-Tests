@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . IDENT_0 . service . IDENT_1 IDENT_2 = IDENT_3 . IDENT_4 . METHOD_1 ( STRING_0 ) ; javax . net . IDENT_5 . IDENT_6 IDENT_7 = ( ( javax . net . IDENT_5 . IDENT_6 ) ( services . METHOD_2 ( ) . METHOD_3 ( IDENT_2 ) . getValue ( ) ) ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return IDENT_8 ; }
+org . junit . Assert . assertNotNull ( IDENT_7 ) 

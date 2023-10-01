@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 IDENT_2 = org . IDENT_0 . IDENT_1 . METHOD_1 ( STRING_0 , org . IDENT_0 . IDENT_3 . matchers . IDENT_4 . IDENT_5 . IDENT_6 , org . IDENT_0 . IDENT_7 . IDENT_8 ) ; matcher = org . IDENT_0 . IDENT_3 . matchers . IDENT_4 . IDENT_9 . METHOD_2 ( METHOD_3 ( STRING_1 ) ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } matches ( java . lang . Object ) { return false ; }
+org . junit . Assert . assertTrue ( matcher . matches ( IDENT_2 ) ) 

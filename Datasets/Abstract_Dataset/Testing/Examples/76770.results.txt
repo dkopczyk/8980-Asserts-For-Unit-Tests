@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . mock . web . IDENT_0 request = new org . springframework . mock . web . METHOD_1 ( STRING_0 , STRING_1 ) ; org . springframework . mock . web . IDENT_1 response = new org . springframework . mock . web . METHOD_2 ( ) ; com . IDENT_2 . IDENT_3 . filter . IDENT_4 IDENT_5 = new com . IDENT_2 . IDENT_3 . filter . METHOD_3 ( ) ; filter . METHOD_4 ( request , response , IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return this . IDENT_6 ; }
+org . junit . Assert . assertNotNull ( IDENT_5 . METHOD_5 ( ) ) 

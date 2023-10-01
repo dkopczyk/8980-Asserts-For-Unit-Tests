@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . kernel . impl . util . IDENT_0 IDENT_1 = new org . neo4j . kernel . impl . util . METHOD_1 ( ) ; java . util . Collection IDENT_2 = new java . util . ArrayList ( ) ; IDENT_1 . METHOD_2 ( IDENT_2 ) ; java . util . Collection instance = IDENT_1 . METHOD_3 ( java . util . Collection . class ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . Class ) { return IDENT_1 . METHOD_3 ( clazz ) ; }
+org . junit . Assert . assertThat ( instance , org . hamcrest . Matchers . equalTo ( IDENT_2 ) ) 

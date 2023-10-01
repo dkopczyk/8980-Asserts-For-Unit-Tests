@@ -1,0 +1,2 @@
+test ( ) { java . util . List < com . IDENT_0 . IDENT_1 . IDENT_2 . hibernate . query . IDENT_3 . IDENT_4 > IDENT_5 = METHOD_0 ( ( IDENT_6 ) -> { return ( ( List < com . IDENT_0 . IDENT_1 . IDENT_2 . hibernate . query . IDENT_3 . IDENT_4 > ) ( IDENT_6 . METHOD_1 ( . class ) . METHOD_2 ( ( STRING_0 + ( STRING_1 + STRING_2 ) ) ) . METHOD_3 ( STRING_3 , Status . IDENT_7 ) . METHOD_4 ( IDENT_8 . INSTANCE ) . METHOD_5 ( ) ) ) ; } ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_5 . size ( ) ) 

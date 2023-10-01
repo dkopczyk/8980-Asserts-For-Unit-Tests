@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String input = STRING_0 ; java . lang . String expected = STRING_0 ; org . drools . compiler . lang . IDENT_0 . IDENT_1 IDENT_0 = parse ( input ) ; java . lang . String result = IDENT_2 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . drools . core . IDENT_3 . IDENT_4 ) { METHOD_2 ( IDENT_5 , this :: IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( expected , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . persistence . IDENT_0 em = IDENT_1 . METHOD_1 ( ) ; com . IDENT_2 . IDENT_3 . bean . IDENT_4 . IDENT_5 IDENT_6 = em . find ( com . IDENT_2 . IDENT_3 . bean . IDENT_4 . IDENT_5 . class , new com . IDENT_7 . IDENT_8 . UUID ( ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNull ( IDENT_6 ) 

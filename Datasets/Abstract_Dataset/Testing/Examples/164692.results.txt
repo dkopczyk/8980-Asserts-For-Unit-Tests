@@ -1,0 +1,2 @@
+METHOD_0 ( ) { user . METHOD_1 ( " " ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ! ( METHOD_3 ( ) ) ; }
+org . junit . Assert . assertFalse ( user . METHOD_2 ( ) ) 

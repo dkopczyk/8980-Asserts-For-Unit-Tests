@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object result = org . apache . el . lang . IDENT_0 . METHOD_1 ( null , ( ( java . lang . Object ) ( null ) ) , int . class ) ; "<AssertPlaceHolder>" ; } valueOf ( int ) { return org . apache . tomcat . util . net . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . get ( java . lang . Integer . valueOf ( IDENT_5 ) ) ; }
+org . junit . Assert . assertEquals ( java . lang . Integer . valueOf ( 0 ) , result ) 

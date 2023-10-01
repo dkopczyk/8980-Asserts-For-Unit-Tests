@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . util . List < org . apache . commons . IDENT_0 . IDENT_1 > IDENT_2 = METHOD_2 ( ) ; for ( java . lang . Object value : values ) { if ( value instanceof org . apache . commons . IDENT_0 . IDENT_1 ) { IDENT_2 . add ( ( ( org . apache . commons . IDENT_0 . IDENT_1 ) ( value ) ) ) ; } } return IDENT_2 . toArray ( new org . apache . commons . IDENT_0 . IDENT_1 [ IDENT_2 . size ( ) ] ) ; }
+org . junit . Assert . assertArrayEquals ( new org . apache . commons . IDENT_0 . IDENT_1 [ 0 ] , values . METHOD_1 ( ) ) 

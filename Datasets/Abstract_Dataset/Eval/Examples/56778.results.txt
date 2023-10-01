@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . easymock . tests . IDENT_0 mock = METHOD_1 ( org . easymock . tests . IDENT_0 . class ) ; java . lang . String expected = STRING_0 + ( org . easymock . tests . IDENT_0 . class . toString ( ) ) ; java . lang . String actual = mock . toString ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { return STRING_1 ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

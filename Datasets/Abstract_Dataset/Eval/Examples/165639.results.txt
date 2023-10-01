@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( java . sql . ResultSet IDENT_0 : IDENT_1 . values ( ) ) { "<AssertPlaceHolder>" ; } } METHOD_1 ( ) { throw new java . sql . METHOD_2 ( STRING_0 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_0 . METHOD_1 ( ) ) 

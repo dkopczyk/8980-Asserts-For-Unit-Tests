@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . camel . component . sql . IDENT_0 strategy = new org . apache . camel . component . sql . METHOD_1 ( ) ; java . lang . String sql = STRING_0 ; java . lang . String expected = STRING_1 ; java . lang . String query = strategy . METHOD_2 ( sql , true , null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String , boolean , org . apache . camel . IDENT_1 ) { return query ; }
+org . junit . Assert . assertEquals ( expected , query ) 

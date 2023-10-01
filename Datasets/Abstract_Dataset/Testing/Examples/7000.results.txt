@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . lib . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new org . apache . IDENT_0 . IDENT_1 . lib . IDENT_2 . IDENT_3 . METHOD_1 ( STRING_0 ) ; long expected = ( 5 * INT_0 ) * 1000 ; long val = expected + INT_1 ; "<AssertPlaceHolder>" ; } METHOD_2 ( long ) { if ( ( IDENT_6 ) == null ) { return 0 ; } long IDENT_7 = IDENT_6 . METHOD_3 ( 1L ) ; return ( IDENT_8 / IDENT_7 ) * IDENT_7 ; }
+org . junit . Assert . assertEquals ( expected , IDENT_5 . METHOD_2 ( val ) ) 

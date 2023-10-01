@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ca . IDENT_0 . IDENT_1 . IDENT_2 . utils . model . IDENT_3 i = new ca . IDENT_0 . IDENT_1 . IDENT_2 . utils . model . METHOD_1 ( ) ; i . setId ( new java . lang . Long ( 1 ) ) ; i . METHOD_2 ( STRING_0 ) ; when ( IDENT_4 . METHOD_3 ( i . getId ( ) ) ) . thenReturn ( i ) ; try { i = IDENT_5 . read ( i . getId ( ) ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . IllegalArgumentException e ) { org . junit . Assert . fail ( ) ; } } getId ( ) { return this . id ; }
+org . junit . Assert . assertNotNull ( i ) 

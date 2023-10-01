@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . core . IDENT_1 . processor . core . jpa . model . IDENT_2 . IDENT_3 = INT_0 ; build ( ) ; java . util . List < com . IDENT_0 . core . IDENT_1 . api . IDENT_4 . provider . IDENT_5 > IDENT_6 = IDENT_7 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertEquals ( IDENT_6 . size ( ) , 0 ) 

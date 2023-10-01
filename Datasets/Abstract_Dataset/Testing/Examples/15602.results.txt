@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . hc . IDENT_0 . http . IDENT_1 . methods . IDENT_2 IDENT_3 = new org . apache . hc . IDENT_0 . http . IDENT_1 . methods . METHOD_1 ( "" ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return uri ; }
+org . junit . Assert . assertEquals ( new java . net . URI ( "/" ) , IDENT_3 . METHOD_2 ( ) ) 

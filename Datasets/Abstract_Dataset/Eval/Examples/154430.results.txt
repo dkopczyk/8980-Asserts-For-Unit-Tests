@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String expected = STRING_0 ; METHOD_1 ( IDENT_0 , ( ( java . lang . String ) ( null ) ) ) ; METHOD_1 ( IDENT_1 , expected ) ; java . lang . String location = org . IDENT_2 . resource . IDENT_3 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( org . IDENT_2 . resource . IDENT_3 . METHOD_3 ( ) ) != null ) { return org . IDENT_2 . resource . IDENT_3 . METHOD_3 ( ) ; } return org . IDENT_2 . resource . IDENT_3 . METHOD_4 ( IDENT_4 . IDENT_5 . IDENT_1 ) ; }
+org . junit . Assert . assertEquals ( expected , location ) 

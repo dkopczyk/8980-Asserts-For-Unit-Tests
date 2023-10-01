@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jfree . chart . IDENT_0 chart = new org . jfree . chart . METHOD_1 ( new org . jfree . chart . IDENT_1 . METHOD_2 ( ) ) ; org . jfree . chart . IDENT_2 IDENT_3 = new org . jfree . chart . METHOD_3 ( chart ) ; IDENT_3 . METHOD_4 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return this . chart ; }
+org . junit . Assert . assertEquals ( null , IDENT_3 . METHOD_5 ( ) ) 

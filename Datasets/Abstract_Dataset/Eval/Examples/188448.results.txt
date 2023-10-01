@@ -1,0 +1,2 @@
+test ( ) { java . lang . String expected = STRING_0 ; when ( this . generator . METHOD_0 ( ) ) . thenReturn ( expected ) ; java . lang . String result = this . factory . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return new org . jboss . IDENT_0 . client . METHOD_2 ( java . util . UUID . METHOD_3 ( ) ) ; }
+org . junit . Assert . assertSame ( expected , result ) 

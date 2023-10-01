@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 instance = new org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; instance . METHOD_2 ( METHOD_3 ( ) ) ; instance . METHOD_4 ( null ) ; instance . METHOD_5 ( true ) ; java . lang . String [ ] IDENT_4 = new java . lang . String [ ] { STRING_0 , STRING_1 } ; for ( java . lang . String name : IDENT_4 ) { "<AssertPlaceHolder>" ; } } accept ( java . io . File ) { return true ; }
+org . junit . Assert . assertTrue ( name , instance . accept ( new java . io . File ( name ) ) ) 

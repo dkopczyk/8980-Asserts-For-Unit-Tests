@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . test . IDENT_3 . IDENT_4 IDENT_5 = IDENT_0 . IDENT_1 . IDENT_2 . IDENT_6 . proxy ( new IDENT_0 . IDENT_1 . IDENT_2 . test . IDENT_3 . METHOD_1 ( ) , IDENT_0 . IDENT_1 . IDENT_2 . IDENT_7 . IDENT_8 . class ) ; java . lang . String result = IDENT_5 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } proxy ( T , java . lang . Class ) { return IDENT_0 . IDENT_1 . IDENT_2 . proxy . IDENT_9 . METHOD_3 ( target , IDENT_10 ) ; }
+org . junit . Assert . assertEquals ( "" , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new byte [ ] { INT_0 , 16 , ( ( byte ) ( INT_1 ) ) , INT_2 , 0 , 0 , 0 , INT_3 } ; long IDENT_1 = com . IDENT_2 . IDENT_3 . util . IDENT_4 . METHOD_1 ( IDENT_0 , 4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( byte [ ] , int ) { return ( ( ( ( ( IDENT_0 [ offset ] ) & 255 ) << INT_4 ) | ( ( ( IDENT_0 [ ( offset + 1 ) ] ) & 255 ) << 16 ) ) | ( ( ( IDENT_0 [ ( offset + 2 ) ] ) & 255 ) << 8 ) ) | ( ( IDENT_0 [ ( offset + 3 ) ] ) & 255 ) ; }
+org . junit . Assert . assertEquals ( INT_3 , IDENT_1 ) 

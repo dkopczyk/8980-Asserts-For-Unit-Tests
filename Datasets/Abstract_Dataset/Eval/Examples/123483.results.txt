@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . IDENT_0 . IDENT_1 . logging . IDENT_2 logger = nl . IDENT_0 . IDENT_1 . logging . IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; nl . IDENT_0 . IDENT_1 . logging . IDENT_4 . LOG . info ( STRING_0 ) ; } getName ( ) { java . lang . StringBuilder name = new java . lang . StringBuilder ( ) ; name . append ( IDENT_5 ) ; name . append ( " " ) ; name . append ( IDENT_6 ) ; return name . toString ( ) ; }
+org . junit . Assert . assertEquals ( this . getClass ( ) . getName ( ) , logger . getName ( ) ) 

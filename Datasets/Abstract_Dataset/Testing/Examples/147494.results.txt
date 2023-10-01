@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ca . IDENT_0 . IDENT_1 . IDENT_2 . model . IDENT_3 . IDENT_4 . IDENT_5 IDENT_6 = new ca . IDENT_0 . IDENT_1 . IDENT_2 . model . IDENT_3 . IDENT_4 . METHOD_1 ( "" ) ; java . util . Set < javax . validation . IDENT_7 < ca . IDENT_0 . IDENT_1 . IDENT_2 . model . IDENT_3 . IDENT_4 . METHOD_1 > > IDENT_8 = validator . validate ( IDENT_6 ) ; "<AssertPlaceHolder>" ; } size ( ) { return resources . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_8 . size ( ) ) 

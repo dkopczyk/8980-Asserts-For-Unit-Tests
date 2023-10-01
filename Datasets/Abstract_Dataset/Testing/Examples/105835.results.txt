@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; sync . METHOD_2 ( IDENT_0 , TimeUnit . IDENT_1 ) ; java . lang . String msg = ( ( STRING_0 + STRING_1 ) + ( org . IDENT_2 . IDENT_3 . platform . camel . test . IDENT_4 . server . IDENT_5 . class . getName ( ) ) ) + STRING_2 ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return org . IDENT_2 . IDENT_3 . platform . camel . IDENT_6 . IDENT_7 . IDENT_8 . IDENT_9 . get ( ) ; }
+org . junit . Assert . assertTrue ( msg , ( ( sync . METHOD_3 ( ) ) == 0 ) ) 

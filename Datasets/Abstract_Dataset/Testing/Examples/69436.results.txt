@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . String [ ] > parameters = new java . util . HashMap < java . lang . String , java . lang . String [ ] > ( ) ; parameters . put ( STRING_0 , new java . lang . String [ ] { "1" } ) ; IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new IDENT_0 . IDENT_1 . METHOD_1 ( IDENT_0 . IDENT_4 . IDENT_5 . METHOD_2 ( parameters ) , IDENT_0 . IDENT_1 . IDENT_6 . IDENT_7 ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertEquals ( new java . lang . Integer ( 1 ) , IDENT_3 . getId ( ) ) 

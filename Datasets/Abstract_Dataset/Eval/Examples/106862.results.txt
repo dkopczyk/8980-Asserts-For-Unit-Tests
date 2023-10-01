@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . lang . resource . IDENT_1 resource = new IDENT_0 . lang . resource . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } exists ( ) { try { return METHOD_2 ( ) . exists ( ) ; } catch ( java . lang . Exception ex ) { try { IDENT_0 . lang . resource . InputStream is = METHOD_3 ( ) ; is . close ( ) ; return true ; } catch ( java . lang . Throwable IDENT_2 ) { return false ; } } }
+org . junit . Assert . assertTrue ( resource . exists ( ) ) 

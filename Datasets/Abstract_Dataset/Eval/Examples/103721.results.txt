@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( session , IDENT_1 ) ; IDENT_0 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; verify ( IDENT_2 , METHOD_3 ( ) ) . METHOD_2 ( ) ; verify ( view , times ( 1 ) ) . METHOD_4 ( ) ; } getInstance ( ) { return delegate . getInstance ( ) ; }
+org . junit . Assert . assertNull ( IDENT_0 . getInstance ( ) ) 

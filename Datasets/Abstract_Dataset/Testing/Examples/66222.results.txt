@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Set < java . lang . String > IDENT_0 = new java . util . HashSet ( ) ; IDENT_0 . add ( STRING_0 ) ; IDENT_0 . add ( STRING_1 ) ; IDENT_0 . add ( STRING_2 ) ; "<AssertPlaceHolder>" ; } contains ( java . lang . Object ) { if ( o instanceof java . lang . String ) { return IDENT_1 . containsKey ( o ) ; } if ( o instanceof javax . servlet . http . IDENT_2 ) { return IDENT_1 . METHOD_1 ( o ) ; } return false ; }
+org . junit . Assert . assertTrue ( IDENT_0 . contains ( STRING_0 ) ) 

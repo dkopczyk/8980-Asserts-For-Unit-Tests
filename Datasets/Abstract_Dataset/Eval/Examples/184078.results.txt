@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . IDENT_0 . IDENT_1 < ? > actual = IDENT_2 . METHOD_1 ( IDENT_2 ) ; IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 < ? > expected = METHOD_2 ( INT_0 , IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_8 . IDENT_9 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( long , javax . IDENT_0 . IDENT_10 ) { return new IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 < IDENT_11 > ( java . lang . Long . valueOf ( l ) . METHOD_3 ( ) , unit ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

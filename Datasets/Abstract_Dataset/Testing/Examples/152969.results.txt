@@ -1,0 +1,2 @@
+METHOD_0 ( ) { doReturn ( true ) . when ( user ) . METHOD_1 ( ) ; com . IDENT_0 . repository . IDENT_1 IDENT_2 = new com . IDENT_0 . repository . METHOD_2 ( IDENT_3 , STRING_0 ) ; java . lang . String IDENT_4 = IDENT_2 . METHOD_3 ( ) ; java . lang . String IDENT_5 = STRING_1 + STRING_2 ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { java . lang . StringBuilder IDENT_2 = METHOD_4 ( ) ; return IDENT_2 . append ( STRING_3 ) . toString ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_5 , IDENT_4 ) 

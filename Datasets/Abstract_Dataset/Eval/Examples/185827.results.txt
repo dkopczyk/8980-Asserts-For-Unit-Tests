@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . mongodb . IDENT_0 IDENT_1 = new com . mongodb . METHOD_1 ( STRING_0 ) ; com . mongodb . IDENT_2 IDENT_3 = new io . vertx . ext . IDENT_4 . impl . config . METHOD_2 ( IDENT_1 , new io . vertx . core . json . METHOD_3 ( ) ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return METHOD_4 ; }
+org . junit . Assert . assertNull ( IDENT_3 ) 

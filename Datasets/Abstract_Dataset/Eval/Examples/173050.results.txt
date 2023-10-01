@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } isValid ( java . lang . String ) { if ( ( IDENT_0 == null ) || ( ( IDENT_0 . length ( ) ) <= ( org . springframework . IDENT_1 . metadata . IDENT_2 . IDENT_3 ) ) ) { return false ; } for ( int i = 0 ; i < ( org . springframework . IDENT_1 . metadata . IDENT_2 . IDENT_3 ) ; i ++ ) { if ( ( IDENT_0 . charAt ( i ) ) != ( org . springframework . IDENT_1 . metadata . IDENT_2 . IDENT_4 [ i ] ) ) { return false ; } } return true ; }
+org . junit . Assert . assertFalse ( org . springframework . IDENT_1 . metadata . IDENT_2 . isValid ( "" ) ) 

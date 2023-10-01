@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final byte [ ] [ ] bytes = new byte [ ] [ ] { new byte [ ] { 0 } } ; cache . put ( IDENT_0 , org . apache . kafka . common . utils . IDENT_1 . METHOD_1 ( bytes [ 0 ] ) , new org . apache . kafka . streams . state . IDENT_2 . METHOD_2 ( null ) ) ; store . put ( org . apache . kafka . common . utils . IDENT_1 . METHOD_1 ( bytes [ 0 ] ) , bytes [ 0 ] ) ; final org . apache . kafka . streams . state . IDENT_2 . IDENT_3 iterator = METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { return false ; }
+org . junit . Assert . assertFalse ( iterator . hasNext ( ) ) 

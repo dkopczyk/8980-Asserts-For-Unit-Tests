@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . cxf . IDENT_0 . ws . IDENT_1 . IDENT_2 port = METHOD_1 ( ) . METHOD_2 ( STRING_0 , org . apache . cxf . IDENT_0 . ws . IDENT_1 . IDENT_2 . class ) ; java . lang . Object IDENT_3 = port . METHOD_3 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { return message ; }
+org . junit . Assert . assertEquals ( STRING_1 , IDENT_3 ) 

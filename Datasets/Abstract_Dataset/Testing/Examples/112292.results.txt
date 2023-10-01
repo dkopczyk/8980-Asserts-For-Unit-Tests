@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( IDENT_1 ) ; IDENT_1 . METHOD_2 ( resource ) ; "<AssertPlaceHolder>" ; when ( IDENT_2 . find ( ch . puzzle . itc . mobiliar . business . function . IDENT_3 . IDENT_4 . IDENT_5 ) ) . thenReturn ( IDENT_1 ) ; IDENT_6 . METHOD_3 ( IDENT_1 . getId ( ) ) ; } METHOD_4 ( ) { return ! ( METHOD_5 ( ) . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_1 . METHOD_4 ( ) ) 

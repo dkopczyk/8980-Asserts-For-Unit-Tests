@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long [ ] array = new long [ ] { 1L , INT_0 , INT_1 } ; array = com . liferay . portal . kernel . util . IDENT_0 . remove ( array , INT_1 ) ; "<AssertPlaceHolder>" ; } remove ( boolean [ ] , boolean ) { return com . liferay . portal . kernel . util . IDENT_0 . remove ( array , value ) ; }
+org . junit . Assert . assertArrayEquals ( new long [ ] { 1L , INT_0 } , array ) 

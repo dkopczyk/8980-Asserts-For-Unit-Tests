@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } evaluate ( IDENT_0 . IDENT_1 . IDENT_2 [ ] ) { assert ( IDENT_3 . length ) == 1 ; @ IDENT_0 . IDENT_1 . METHOD_1 ( STRING_0 ) final java . util . List < java . lang . Double > input = ( ( java . util . List < java . lang . Double > ) ( IDENT_4 . METHOD_2 ( IDENT_3 [ 0 ] . get ( ) ) ) ) ; return IDENT_5 . evaluate ( input ) ; }
+org . junit . Assert . assertEquals ( "" , IDENT_5 . evaluate ( "" ) ) 

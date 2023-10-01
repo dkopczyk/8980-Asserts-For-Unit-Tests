@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openqa . selenium . IDENT_0 body = driver . METHOD_1 ( org . openqa . selenium . IDENT_1 . METHOD_2 ( STRING_0 ) ) ; org . openqa . selenium . IDENT_0 IDENT_2 = driver . METHOD_3 ( org . openqa . selenium . IDENT_1 . METHOD_4 ( STRING_1 ) ) . get ( 0 ) ; "<AssertPlaceHolder>" ; } get ( org . openqa . selenium . remote . IDENT_3 ) { return IDENT_4 . get ( IDENT_5 ) ; }
+org . junit . Assert . assertEquals ( body , IDENT_2 ) 

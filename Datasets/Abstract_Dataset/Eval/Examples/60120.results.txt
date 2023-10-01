@@ -1,0 +1,2 @@
+METHOD_0 ( ) { count . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return count ; }
+org . junit . Assert . assertEquals ( 1 , count . METHOD_2 ( ) ) 

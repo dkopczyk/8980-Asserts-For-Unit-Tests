@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . kie . workbench . common . IDENT_0 . api . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 parent = new org . kie . workbench . common . IDENT_0 . api . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; final org . kie . workbench . common . IDENT_0 . api . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 child = new org . kie . workbench . common . IDENT_0 . api . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; child . METHOD_2 ( parent ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return parent ; }
+org . junit . Assert . assertEquals ( parent , child . METHOD_3 ( ) ) 

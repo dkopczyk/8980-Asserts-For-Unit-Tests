@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final byte [ ] array = new byte [ 0 ] ; org . apache . commons . lang3 . IDENT_0 . METHOD_1 ( array , 0 , 2 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object [ ] , int , int ) { if ( ( array == null ) || ( ( array . length ) == 0 ) ) { return ; } org . apache . commons . lang3 . IDENT_0 . METHOD_1 ( array , IDENT_1 , IDENT_2 , 1 ) ; }
+org . junit . Assert . assertEquals ( 0 , array . length ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . IDENT_2 params = new com . IDENT_0 . IDENT_1 . METHOD_1 ( new java . lang . String [ 0 ] , new com . IDENT_0 . IDENT_1 . METHOD_2 ( "a" ) . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return IDENT_3 . containsKey ( name . toLowerCase ( ) ) ; }
+org . junit . Assert . assertFalse ( params . METHOD_4 ( "a" ) ) 

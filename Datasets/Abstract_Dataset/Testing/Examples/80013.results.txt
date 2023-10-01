@@ -1,0 +1,2 @@
+METHOD_0 ( ) { short i = INT_0 ; java . nio . ByteBuffer buffer = METHOD_1 ( i ) ; buffer . METHOD_2 ( ) ; short r = METHOD_3 ( buffer ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . nio . ByteBuffer ) { return ( ( short ) ( org . IDENT_0 . stream . IDENT_1 . IDENT_2 . METHOD_4 ( IDENT_3 ) ) ) ; }
+org . junit . Assert . assertEquals ( i , r ) 

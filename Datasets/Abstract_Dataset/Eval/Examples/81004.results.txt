@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; io . grpc . netty . IDENT_0 transport = METHOD_2 ( METHOD_3 ( ) , io . grpc . netty . IDENT_1 , IDENT_2 . IDENT_3 , null , true ) ; METHOD_4 ( transport . start ( IDENT_4 ) ) ; io . grpc . netty . IDENT_5 . IDENT_6 IDENT_7 = new io . grpc . netty . IDENT_5 . METHOD_5 ( transport ) . METHOD_6 ( ) ; IDENT_7 . METHOD_7 ( ) ; "<AssertPlaceHolder>" ; } METHOD_8 ( ) { return METHOD_8 ; }
+org . junit . Assert . assertNotNull ( transport . METHOD_8 ( ) ) 

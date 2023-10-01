@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int position = ( ( org . IDENT_0 . application . IDENT_1 . IDENT_2 ) ( IDENT_3 ) ) . METHOD_1 ( 1 , 10 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int , int ) { return ( IDENT_4 - 1 ) * IDENT_5 ; }
+org . junit . Assert . assertEquals ( 0 , position ) 

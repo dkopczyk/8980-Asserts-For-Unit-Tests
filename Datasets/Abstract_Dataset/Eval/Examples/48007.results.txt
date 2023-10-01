@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . String > expected = com . google . common . collect . Lists . newArrayList ( STRING_0 , STRING_1 , STRING_2 ) ; java . util . List < java . lang . String > result = com . IDENT_0 . IDENT_1 . service . IDENT_2 . IDENT_3 . METHOD_1 ( STRING_3 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { java . lang . String [ ] IDENT_4 = com . IDENT_0 . IDENT_1 . utils . IDENT_5 . METHOD_2 ( STRING_4 , str ) ; return java . util . Arrays . asList ( IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( expected , result ) 

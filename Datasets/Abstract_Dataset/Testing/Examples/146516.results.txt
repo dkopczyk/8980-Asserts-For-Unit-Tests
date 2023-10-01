@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . platform . plugin . services . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = org . mockito . Mockito . METHOD_1 ( new org . pentaho . platform . plugin . services . IDENT_0 . IDENT_1 . METHOD_2 ( ) ) ; IDENT_4 . IDENT_5 = new java . util . HashMap < java . lang . String , org . pentaho . platform . plugin . services . IDENT_6 . IDENT_7 . Builder > ( ) ; IDENT_4 . METHOD_3 ( IDENT_3 , true ) ; "<AssertPlaceHolder>" ; } size ( ) { return METHOD_4 ( ) . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_4 . IDENT_5 . size ( ) ) 

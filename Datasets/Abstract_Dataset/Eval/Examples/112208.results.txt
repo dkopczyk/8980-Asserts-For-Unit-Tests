@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String uri = org . IDENT_0 . tests . IDENT_1 . IDENT_2 . METHOD_1 ( ) . toString ( ) ; com . google . gson . IDENT_3 IDENT_4 = org . IDENT_0 . tests . IDENT_1 . IDENT_2 . METHOD_0 ( com . google . gson . IDENT_3 . class , uri ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( STRING_0 + ( IDENT_5 ) ) + "]" ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

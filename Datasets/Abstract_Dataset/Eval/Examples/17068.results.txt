@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] b = STRING_0 . getBytes ( STRING_1 ) ; "<AssertPlaceHolder>" ; } read ( byte [ ] ) { return read ( b , 0 , b . length ) ; }
+org . junit . Assert . assertEquals ( ( - 1 ) , instance . read ( b ) ) 

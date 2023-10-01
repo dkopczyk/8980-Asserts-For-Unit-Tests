@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . concurrent . IDENT_0 < org . IDENT_1 . base . IDENT_2 > IDENT_3 = org . IDENT_1 . concurrent . IDENT_4 . METHOD_1 ( ( ) -> org . IDENT_1 . base . IDENT_5 . METHOD_2 ( ) , IDENT_6 . INSTANCE ) ; "<AssertPlaceHolder>" ; } get ( ) { org . apache . avro . IDENT_7 result = replace . get ( root ) ; if ( result == null ) { throw new java . lang . IllegalStateException ( ( ( ( STRING_0 + ( root ) ) + STRING_1 ) + ( replace ) ) ) ; } return result ; }
+org . junit . Assert . assertNotNull ( IDENT_3 . get ( ) ) 

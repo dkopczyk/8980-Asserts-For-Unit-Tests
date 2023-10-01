@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jsoup . IDENT_0 IDENT_1 = org . jsoup . helper . IDENT_2 . connect ( STRING_0 ) ; IDENT_1 . METHOD_0 ( 1000 ) ; "<AssertPlaceHolder>" ; } connect ( org . jsoup . helper . URL ) { org . jsoup . helper . IDENT_0 IDENT_1 = new org . jsoup . helper . METHOD_1 ( ) ; IDENT_1 . url ( url ) ; return IDENT_1 ; }
+org . junit . Assert . assertEquals ( 1000 , IDENT_1 . request ( ) . METHOD_0 ( ) ) 

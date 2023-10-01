@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . lucene . store . IDENT_0 IDENT_1 = org . apache . lucene . store . IDENT_2 . METHOD_1 ( new java . io . File ( file , STRING_0 ) ) ; java . lang . String name = STRING_1 ; METHOD_2 ( name , IDENT_1 , directory ) ; long IDENT_3 = IDENT_1 . METHOD_3 ( name ) ; long IDENT_4 = directory . METHOD_3 ( name ) ; "<AssertPlaceHolder>" ; METHOD_4 ( name , IDENT_1 , IDENT_3 ) ; METHOD_4 ( name , directory , IDENT_4 ) ; } METHOD_3 ( java . lang . String ) { return IDENT_5 . METHOD_3 ( name ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_4 ) 

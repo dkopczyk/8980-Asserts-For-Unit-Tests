@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = false ; try { IDENT_1 . IDENT_2 . METHOD_1 ( ) . METHOD_2 ( null ) . execute ( IDENT_3 , null ) ; } catch ( java . lang . RuntimeException e ) { IDENT_0 = true ; } catch ( java . lang . Exception e ) { org . junit . Assert . fail ( STRING_0 ) ; } "<AssertPlaceHolder>" ; } execute ( IDENT_1 . internal . task . IDENT_4 , IDENT_1 . internal . task . IDENT_5 ) { METHOD_3 ( graph , null , IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( true , IDENT_0 ) 

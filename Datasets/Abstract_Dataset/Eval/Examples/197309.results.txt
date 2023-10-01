@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] IDENT_0 = new int [ ] { INT_0 , - 1 , 50 } ; int [ ] expected = new int [ ] { - 1 , INT_0 , - 1 , 50 , INT_1 } ; for ( int token = 2 ; token <= 6 ; token ++ ) { int s = - 1 ; if ( ( ( token >= 3 ) && ( token <= 5 ) ) && ( ( s = IDENT_0 [ ( token - 3 ) ] ) >= 0 ) ) { } else if ( token == 6 ) { s = INT_1 ; } "<AssertPlaceHolder>" ; } }
+org . junit . Assert . assertEquals ( expected [ ( token - 2 ) ] , s ) 

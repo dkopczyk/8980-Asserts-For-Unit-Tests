@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String json = new org . openqa . selenium . remote . METHOD_1 ( ) . convert ( new org . openqa . selenium . remote . METHOD_2 ( STRING_0 ) ) ; org . openqa . selenium . remote . METHOD_2 IDENT_0 = new org . openqa . selenium . remote . METHOD_3 ( ) . convert ( org . openqa . selenium . remote . METHOD_2 . class , json ) ; "<AssertPlaceHolder>" ; } toString ( ) { return serialize ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_0 . toString ( ) ) 

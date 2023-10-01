@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new controller . METHOD_1 ( "test" , 5 ) ; IDENT_0 . add ( new java . io . File ( "test" ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_0 . METHOD_2 ( ) . size ( ) ) == 0 ) ) 

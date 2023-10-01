@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . model . IDENT_1 < com . IDENT_0 . model . test . IDENT_2 > IDENT_3 = com . IDENT_0 . IDENT_4 . base . element . IDENT_5 . METHOD_1 ( METHOD_2 ( ) , com . IDENT_0 . model . test . IDENT_2 . class ) ; IDENT_3 . METHOD_3 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } count ( ) { throw METHOD_4 ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_3 . count ( ) ) > 0 ) ) 

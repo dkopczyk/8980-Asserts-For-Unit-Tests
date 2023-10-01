@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . IDENT_0 . ldap . IDENT_1 IDENT_2 = new javax . IDENT_0 . ldap . METHOD_1 ( "" ) ; javax . IDENT_0 . ldap . IDENT_3 IDENT_4 = new javax . IDENT_0 . ldap . METHOD_2 ( "" ) ; IDENT_2 . add ( 0 , IDENT_4 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return this . toString ( "" ) ; }
+org . junit . Assert . assertEquals ( "" , IDENT_2 . toString ( ) ) 

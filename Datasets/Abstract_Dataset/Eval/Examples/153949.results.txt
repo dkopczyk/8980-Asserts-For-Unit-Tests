@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . ws . rs . core . Response response = org . jboss . IDENT_0 . test . response . IDENT_1 . client . target ( METHOD_1 ( STRING_0 ) ) . request ( ) . METHOD_2 ( javax . ws . rs . client . Entity . text ( STRING_1 ) ) ; "<AssertPlaceHolder>" ; response . close ( ) ; } METHOD_3 ( java . lang . String ) { return IDENT_2 . METHOD_3 ( IDENT_3 ) ; }
+org . junit . Assert . assertTrue ( response . METHOD_3 ( STRING_1 ) ) 

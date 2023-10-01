@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . utils . exception . IDENT_1 fixture = new org . IDENT_0 . utils . exception . METHOD_1 ( org . IDENT_0 . utils . exception . IDENT_2 . IDENT_3 ) ; fixture . METHOD_2 ( 1 ) ; fixture . METHOD_3 ( "" ) ; int result = fixture . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( 1 , result ) 

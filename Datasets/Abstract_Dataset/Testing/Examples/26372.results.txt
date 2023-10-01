@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String string = STRING_0 ; boolean result = com . IDENT_0 . IDENT_1 . utils . StringUtils . METHOD_1 ( string ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return ( input != null ) && ( ! ( com . IDENT_0 . IDENT_1 . utils . StringUtils . IDENT_2 . equals ( input ) ) ) ; }
+org . junit . Assert . assertTrue ( result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { dataset . operation . setValue ( Operation . IDENT_0 ) ; runtime . METHOD_1 ( container , dataset ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return schema ; }
+org . junit . Assert . assertNotNull ( runtime . METHOD_2 ( ) ) 

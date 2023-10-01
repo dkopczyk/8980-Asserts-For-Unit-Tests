@@ -1,0 +1,2 @@
+METHOD_0 ( ) { uk . ac . IDENT_0 . beam . IDENT_1 buffer = uk . ac . IDENT_0 . beam . IDENT_1 . METHOD_1 ( "" ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( position ) < ( cs . length ) ; }
+org . junit . Assert . assertFalse ( buffer . METHOD_2 ( ) ) 

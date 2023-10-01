@@ -1,0 +1,2 @@
+test ( ) { final IDENT_0 . reflect . IDENT_1 . IDENT_2 < ? > IDENT_3 = eu . IDENT_4 . Utils . METHOD_0 ( STRING_0 ) ; java . util . List < IDENT_0 . reflect . IDENT_1 . IDENT_5 < ? > > IDENT_6 = eu . IDENT_4 . IDENT_7 . IDENT_8 . METHOD_1 ( IDENT_3 ) ; final eu . IDENT_4 . IDENT_9 . IDENT_10 . IDENT_11 IDENT_12 = new eu . IDENT_4 . IDENT_9 . IDENT_10 . METHOD_2 ( ) ; for ( int i = 0 ; i < 3 ; i ++ ) { IDENT_6 = IDENT_12 . METHOD_3 ( IDENT_6 , i ) ; } "<AssertPlaceHolder>" ; } size ( ) { return 0 ; }
+org . junit . Assert . assertEquals ( 6 , IDENT_6 . size ( ) ) 

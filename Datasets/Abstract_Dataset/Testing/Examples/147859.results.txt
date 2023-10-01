@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . data . IDENT_1 > result = this . IDENT_2 . METHOD_1 ( ) . get ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return this . properties . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( result . isEmpty ( ) ) 

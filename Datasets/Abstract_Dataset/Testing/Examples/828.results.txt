@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . log ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 instance = IDENT_5 . METHOD_1 ( ) ; instance . METHOD_2 ( ) ; java . lang . Boolean expResult = false ; java . lang . Boolean result = instance . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return this . IDENT_6 . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

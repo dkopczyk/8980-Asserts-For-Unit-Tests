@@ -1,0 +1,2 @@
+METHOD_0 ( ) { uk . ac . IDENT_0 . beam . IDENT_1 g = uk . ac . IDENT_0 . beam . IDENT_1 . METHOD_1 ( STRING_0 ) ; uk . ac . IDENT_0 . beam . IDENT_2 IDENT_3 = g . METHOD_2 ( 2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return uk . ac . IDENT_0 . beam . IDENT_4 . METHOD_4 ( this ) ; }
+org . junit . Assert . assertThat ( g . METHOD_3 ( ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) 

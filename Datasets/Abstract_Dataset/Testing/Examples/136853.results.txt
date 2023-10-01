@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 container = this . METHOD_1 ( java . nio . file . IDENT_2 . get ( STRING_0 ) , STRING_1 ) ; container . METHOD_2 ( STRING_2 , STRING_3 ) ; this . METHOD_3 ( container , this . IDENT_3 ) ; java . lang . String file = this . METHOD_4 ( STRING_4 ) ; container . save ( file ) ; container = org . IDENT_0 . IDENT_4 . METHOD_5 ( file ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( 2 , container . METHOD_6 ( ) . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { IDENT_0 . add ( java . lang . Integer . valueOf ( 1 ) ) ; IDENT_1 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } catch ( com . stratio . IDENT_2 . exceptions . IDENT_3 e ) { org . junit . Assert . fail ( STRING_0 ) ; } } METHOD_1 ( java . util . Collection ) { if ( IDENT_0 . isEmpty ( ) ) { logger . error ( message ) ; throw new com . stratio . IDENT_2 . exceptions . METHOD_2 ( new java . lang . Exception ( ) , message ) ; } }
+org . junit . Assert . assertTrue ( STRING_0 , true ) 

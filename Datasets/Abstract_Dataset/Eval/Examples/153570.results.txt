@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . io . File ) { try { if ( file . exists ( ) ) { final java . lang . String info = org . apache . commons . io . IDENT_0 . METHOD_2 ( file ) ; return com . IDENT_1 . IDENT_2 . model . IDENT_3 . METHOD_1 ( info ) ; } } catch ( java . io . IOException e ) { com . IDENT_1 . IDENT_2 . model . IDENT_3 . LOG . warn ( STRING_0 , file . getAbsolutePath ( ) ) ; } return null ; }
+org . junit . Assert . assertNull ( com . IDENT_1 . IDENT_2 . model . IDENT_3 . METHOD_1 ( "" ) ) 

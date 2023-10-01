@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . io . IDENT_1 out = METHOD_1 ( ) ; java . lang . String IDENT_2 = STRING_0 ; out . write ( IDENT_2 . getBytes ( STRING_1 ) ) ; java . io . InputStream in = out . METHOD_2 ( ) ; byte [ ] read = com . IDENT_0 . io . IDENT_3 . read ( in ) ; "<AssertPlaceHolder>" ; } read ( java . lang . String ) { return com . IDENT_0 . io . IDENT_3 . read ( new com . IDENT_0 . io . File ( IDENT_4 ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_2 , new java . lang . String ( read , STRING_1 ) ) 

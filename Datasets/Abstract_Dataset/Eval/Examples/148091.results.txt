@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object source = new java . lang . Object ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Object ) { return true ; }
+org . junit . Assert . assertThat ( this . listener . METHOD_1 ( source ) , org . hamcrest . Matchers . is ( true ) ) 

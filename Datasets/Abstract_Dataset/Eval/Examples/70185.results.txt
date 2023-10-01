@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( cache . METHOD_1 ( IDENT_0 ) ) . thenReturn ( IDENT_1 ) ; when ( writer . METHOD_2 ( IDENT_1 , STRING_0 ) ) . thenReturn ( true ) ; "<AssertPlaceHolder>" ; verify ( cache , times ( 1 ) ) . remove ( IDENT_0 ) ; verify ( writer , times ( 1 ) ) . METHOD_2 ( IDENT_1 , STRING_0 ) ; verify ( IDENT_1 , times ( 1 ) ) . METHOD_3 ( IDENT_1 ) ; } METHOD_2 ( com . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 , java . lang . Throwable ) { d . METHOD_4 ( IDENT_6 , t ) ; return METHOD_2 ( d ) ; }
+org . junit . Assert . assertTrue ( io . METHOD_2 ( IDENT_1 , STRING_0 ) ) 

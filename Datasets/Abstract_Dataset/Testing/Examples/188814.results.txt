@@ -1,0 +1,2 @@
+METHOD_0 ( ) { target . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( METHOD_3 ( ) ) { if ( STRING_1 . equals ( value ) ) { return IDENT_0 . IDENT_1 . IDENT_2 ; } else if ( "1" . equals ( value ) ) { return IDENT_0 . IDENT_1 . IDENT_3 ; } } return IDENT_0 . IDENT_1 . IDENT_4 ; }
+org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 . IDENT_3 , target . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( ( ( ( ( ( ( STRING_0 + ( type ) ) + STRING_1 ) + ( IDENT_0 ) ) + STRING_2 ) + ( name ) ) + STRING_3 ) + ( method ) ) + STRING_4 ) + ( value ) ) + "]" ; }
+org . junit . Assert . assertNotNull ( domain . toString ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Iterator < java . lang . String > IDENT_0 = new org . apache . jena . atlas . iterator . METHOD_1 ( org . apache . jena . atlas . iterator . IDENT_1 . METHOD_2 ( ) , ( item ) -> true ) ; long n = org . apache . jena . atlas . iterator . IDENT_1 . count ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } count ( java . io . InputStream ) { int count = 0 ; while ( ( in . read ( ) ) != ( - 1 ) ) count ++ ; return count ; }
+org . junit . Assert . assertEquals ( 0 , n ) 

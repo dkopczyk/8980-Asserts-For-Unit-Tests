@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; java . lang . String IDENT_0 = STRING_0 ; hudson . security . IDENT_1 group = j . jenkins . METHOD_2 ( ) . METHOD_3 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertThat ( group . getName ( ) , org . hamcrest . Matchers . is ( STRING_0 ) ) 

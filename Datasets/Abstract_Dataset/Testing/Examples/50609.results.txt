@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . dcache . util . IDENT_0 pattern = new org . dcache . util . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } matches ( int ) { return ( ( IDENT_1 ) & IDENT_2 ) == ( IDENT_1 ) ; }
+org . junit . Assert . assertTrue ( pattern . matches ( STRING_0 ) ) 

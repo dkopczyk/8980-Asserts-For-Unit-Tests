@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( int , int , int ) { if ( min > max ) { return au . gov . IDENT_0 . IDENT_1 . IDENT_2 . common . util . IDENT_3 . METHOD_1 ( value , max , min ) ; } return java . lang . Math . max ( min , java . lang . Math . min ( max , value ) ) ; }
+org . junit . Assert . assertEquals ( 9 , au . gov . IDENT_0 . IDENT_1 . IDENT_2 . common . util . IDENT_3 . METHOD_1 ( 7 , 10 , 9 ) ) 

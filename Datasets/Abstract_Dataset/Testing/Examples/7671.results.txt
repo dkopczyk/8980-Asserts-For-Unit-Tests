@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . beam . sdk . util . IDENT_0 IDENT_1 = org . apache . beam . sdk . util . IDENT_0 . METHOD_1 ( new java . io . IOException ( ) ) ; org . apache . beam . sdk . util . IDENT_0 IDENT_2 = org . apache . beam . sdk . util . IDENT_0 . METHOD_1 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Throwable ) { throw org . apache . beam . sdk . util . IDENT_0 . METHOD_1 ( t ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_2 ) 

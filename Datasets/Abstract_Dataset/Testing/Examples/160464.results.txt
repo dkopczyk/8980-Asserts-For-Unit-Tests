@@ -1,0 +1,2 @@
+test ( ) { org . IDENT_0 . extension . jdbc . gen . exception . IDENT_1 e = new org . IDENT_0 . extension . jdbc . gen . exception . METHOD_0 ( INT_0 ) ; "<AssertPlaceHolder>" ; System . out . println ( e . getMessage ( ) ) ; } METHOD_1 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( INT_0 , e . METHOD_1 ( ) ) 

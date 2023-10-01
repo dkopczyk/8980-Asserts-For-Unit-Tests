@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long count = IDENT_0 . METHOD_1 ( 1L ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { int count = 0 ; java . util . List < org . IDENT_1 . examples . library . media . domain . IDENT_2 > IDENT_3 = METHOD_2 ( ) ; for ( org . IDENT_1 . examples . library . media . domain . IDENT_2 IDENT_4 : IDENT_3 ) { if ( ( IDENT_4 instanceof org . IDENT_1 . examples . library . media . domain . IDENT_5 ) && ( IDENT_4 . METHOD_3 ( IDENT_6 ) ) ) { count ++ ; } } return count ; }
+org . junit . Assert . assertEquals ( 2 , count ) 

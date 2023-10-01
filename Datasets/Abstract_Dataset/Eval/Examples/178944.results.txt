@@ -1,0 +1,2 @@
+METHOD_0 ( ) { target . field = "value" ; info . IDENT_0 . IDENT_1 . IDENT_2 . reflect . Message IDENT_3 = fixture . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String [ ] ) { return METHOD_2 ( IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( target . field , METHOD_1 . METHOD_1 ( ) ) 

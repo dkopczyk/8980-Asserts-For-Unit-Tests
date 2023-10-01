@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String key = STRING_0 ; java . lang . Object value = new java . lang . Object ( ) ; cache . put ( key , value ) ; value = null ; METHOD_1 ( key ) ; "<AssertPlaceHolder>" ; } containsKey ( java . lang . Object ) { METHOD_2 ( ) ; return map . containsKey ( key ) ; }
+org . junit . Assert . assertThat ( cache . containsKey ( key ) , org . hamcrest . Matchers . is ( false ) ) 

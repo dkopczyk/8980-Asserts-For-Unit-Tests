@@ -1,0 +1,2 @@
+test ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_0 ( ) ; org . IDENT_0 . IDENT_1 . IDENT_2 . storage . IDENT_6 [ ] IDENT_7 = IDENT_5 . METHOD_1 ( METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; logger . info ( ( STRING_0 + ( METHOD_1 [ 0 ] . IDENT_8 . IDENT_9 ) ) ) ; } METHOD_2 ( ) { return gson . METHOD_3 ( METHOD_4 ( ) , org . IDENT_0 . IDENT_1 . IDENT_2 . msg . IDENT_10 . class ) ; }
+org . junit . Assert . assertTrue ( ( ( METHOD_1 . length ) == 1 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . repository . IDENT_4 . dao . save ( new IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . domain . Person ( STRING_0 , new IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . domain . METHOD_1 ( STRING_1 ) ) ) ; IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . domain . Person p = IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . repository . IDENT_4 . dao . METHOD_2 ( STRING_0 ) . get ( 0 ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertTrue ( ( ( p . getId ( ) ) != null ) ) 

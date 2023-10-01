@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . framework . util . IDENT_3 IDENT_4 = IDENT_0 . IDENT_1 . IDENT_2 . framework . util . IDENT_5 . METHOD_1 ( ) ; byte [ ] bytes = new byte [ 100 ] ; IDENT_4 . METHOD_2 ( bytes ) ; "<AssertPlaceHolder>" ; } equals ( IDENT_0 . IDENT_1 . IDENT_2 . framework . IDENT_6 , IDENT_0 . IDENT_1 . IDENT_2 . framework . IDENT_6 ) { ( IDENT_7 ) ++ ; return this . delegate . equals ( x , y ) ; }
+org . junit . Assert . assertFalse ( java . util . Arrays . equals ( bytes , new byte [ 100 ] ) ) 

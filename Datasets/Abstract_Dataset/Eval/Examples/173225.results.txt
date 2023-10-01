@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . dataset . IDENT_1 dataset = this . loader . METHOD_1 ( this . IDENT_2 . METHOD_2 ( ) , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( ( java . lang . Class < ? > ) ( org . springframework . util . IDENT_3 . METHOD_3 ( com . github . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 , this . IDENT_2 ) ) ) ; }
+org . junit . Assert . assertNull ( dataset ) 

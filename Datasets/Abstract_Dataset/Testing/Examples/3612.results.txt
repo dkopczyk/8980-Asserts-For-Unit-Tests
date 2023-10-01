@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . set ( IDENT_1 . IDENT_2 , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { try { return alluxio . util . IDENT_3 . METHOD_2 ( time ) ; } catch ( java . lang . Exception e ) { throw new java . lang . RuntimeException ( IDENT_4 . IDENT_5 . getMessage ( time ) ) ; } }
+org . junit . Assert . assertEquals ( 0 , IDENT_0 . METHOD_1 ( IDENT_1 . IDENT_2 ) ) 

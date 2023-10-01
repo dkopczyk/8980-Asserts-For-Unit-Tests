@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . db . IDENT_1 IDENT_2 = io . IDENT_3 . hibernate . IDENT_4 . getInstance ( ) . METHOD_1 ( new io . IDENT_3 . hibernate . IDENT_5 . METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( T extends io . IDENT_0 . Configuration ) { return configuration . METHOD_3 ( ) . METHOD_1 ( configuration ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

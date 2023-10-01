@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( new org . joda . time . METHOD_2 ( INT_0 , 7 , 12 , 12 , 0 , 0 ) , FLOAT_0 , FLOAT_1 ) ; org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 IDENT_5 = new org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( new org . joda . time . METHOD_2 ( INT_0 , 7 , 12 , 12 , 0 , 0 ) , FLOAT_0 , FLOAT_1 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return STRING_0 ; }
+org . junit . Assert . assertEquals ( IDENT_4 . toString ( ) , IDENT_5 . toString ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Optional < java . lang . String > empty = java . util . Optional . empty ( ) ; org . IDENT_0 . IDENT_1 . serialization . IDENT_2 < java . lang . String > IDENT_3 = org . IDENT_0 . IDENT_1 . serialization . IDENT_2 . METHOD_1 ( empty ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( empty , IDENT_3 . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( int i = 1 ; i <= 100 ; i ++ ) { "<AssertPlaceHolder>" ; } } METHOD_1 ( ) { return ( value ) < ( IDENT_0 ) ; }
+org . junit . Assert . assertEquals ( true , range . METHOD_1 ( ) ) 

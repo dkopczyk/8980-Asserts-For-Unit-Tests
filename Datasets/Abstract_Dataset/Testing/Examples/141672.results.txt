@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } isValid ( java . time . IDENT_0 , javax . validation . IDENT_1 ) { return ( ( IDENT_2 != null ) && ( ! ( IDENT_2 . METHOD_1 ( ) ) ) ) && ( ! ( IDENT_2 . METHOD_2 ( ) ) ) ; }
+org . junit . Assert . assertFalse ( validator . isValid ( null , null ) ) 

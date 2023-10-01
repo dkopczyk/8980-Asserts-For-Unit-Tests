@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ca . uhn . fhir . rest . server . IDENT_0 s = new ca . uhn . fhir . rest . server . METHOD_1 ( ) ; java . lang . String result = s . METHOD_2 ( null , null ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( javax . servlet . IDENT_1 , javax . servlet . http . IDENT_2 ) { return IDENT_3 ; }
+org . junit . Assert . assertNull ( result ) 

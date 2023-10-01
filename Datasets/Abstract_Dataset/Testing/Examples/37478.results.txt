@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String name = STRING_0 ; task . setName ( name ) ; org . camunda . bpm . engine . impl . IDENT_0 . model . IDENT_1 IDENT_2 = handler . METHOD_1 ( IDENT_3 , context ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( name , IDENT_2 . getName ( ) ) 

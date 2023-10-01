@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Integer > IDENT_3 = com . IDENT_0 . IDENT_1 . IDENT_2 . apply ( ) ; java . lang . Integer IDENT_4 = 2 ; int actual = IDENT_3 . indexOf ( IDENT_4 ) ; int expected = - 1 ; "<AssertPlaceHolder>" ; } indexOf ( T ) { return - 1 ; }
+org . junit . Assert . assertThat ( actual , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( expected ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = 3 ; org . eclipse . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new org . eclipse . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( org . eclipse . IDENT_1 . tests . IDENT_2 . IDENT_6 . METHOD_2 ( ) , IDENT_0 ) ; int IDENT_7 = IDENT_5 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertTrue ( ( IDENT_0 == IDENT_7 ) ) 

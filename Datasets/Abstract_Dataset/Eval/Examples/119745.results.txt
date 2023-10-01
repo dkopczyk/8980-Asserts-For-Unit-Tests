@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final nl . bzk . IDENT_0 . dal . domein . brp . entity . IDENT_1 result = IDENT_2 . METHOD_1 ( INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( nl . bzk . brp . model . IDENT_3 . kern . IDENT_4 ) { if ( IDENT_5 == null ) { return null ; } final java . lang . Long IDENT_6 = ( ( nl . bzk . brp . model . operationeel . kern . IDENT_7 ) ( IDENT_5 ) ) . METHOD_2 ( ) ; nl . bzk . brp . IDENT_8 . IDENT_9 . conversie . IDENT_10 . IDENT_11 . LOGGER . debug ( STRING_0 , IDENT_6 ) ; return IDENT_12 . get ( IDENT_6 ) ; }
+org . junit . Assert . assertNotNull ( result ) 

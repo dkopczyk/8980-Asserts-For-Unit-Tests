@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( org . ocpsoft . IDENT_0 . TimeUnit ) { if ( ( unit != null ) && ( ( IDENT_1 . get ( unit ) ) != null ) ) { return IDENT_1 . get ( unit ) ; } return null ; }
+org . junit . Assert . assertNull ( t . METHOD_1 ( null ) ) 

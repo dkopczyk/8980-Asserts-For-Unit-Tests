@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] b = new byte [ ] { 5 , 6 , 0 , 0 , 0 , 0 } ; org . IDENT_0 . IDENT_1 . protocol . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . protocol . METHOD_1 ( b , 0 , b . length ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return port ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_3 . METHOD_2 ( ) ) 

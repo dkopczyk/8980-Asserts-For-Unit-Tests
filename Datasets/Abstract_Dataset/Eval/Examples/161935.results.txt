@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . meta . IDENT_1 IDENT_2 = null ; org . IDENT_0 . core . IDENT_3 . IDENT_4 target = new org . IDENT_0 . core . IDENT_3 . METHOD_1 ( IDENT_2 ) ; java . lang . String IDENT_5 = null ; boolean actual = target . METHOD_2 ( IDENT_5 ) ; boolean expected = false ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return ( IDENT_5 != null ) && ( org . IDENT_0 . core . util . IDENT_6 . METHOD_2 ( IDENT_5 ) ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

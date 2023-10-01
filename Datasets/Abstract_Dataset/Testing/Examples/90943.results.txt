@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } get ( ) { return new ch . cyberduck . core . IDENT_0 . METHOD_1 ( ) . create ( ) ; }
+org . junit . Assert . assertNotNull ( ch . cyberduck . core . IDENT_0 . METHOD_1 . get ( ) ) 

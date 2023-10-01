@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 request = new com . IDENT_0 . IDENT_1 . METHOD_1 ( ) . METHOD_2 ( ) . METHOD_3 ( STRING_0 ) . METHOD_4 ( STRING_1 ) . METHOD_5 ( STRING_2 ) . METHOD_6 ( STRING_3 ) . METHOD_7 ( STRING_4 ) . METHOD_8 ( STRING_5 ) . METHOD_9 ( ) ; com . IDENT_0 . IDENT_1 . Result < com . IDENT_0 . IDENT_1 . IDENT_3 > result = IDENT_4 . METHOD_10 ( ) . create ( request ) ; "<AssertPlaceHolder>" ; } METHOD_11 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertTrue ( result . METHOD_11 ( ) ) 

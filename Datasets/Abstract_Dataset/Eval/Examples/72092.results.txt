@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . api . runtime . IDENT_2 IDENT_3 = IDENT_4 . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) . start ( ) ; org . IDENT_0 . IDENT_1 . api . runtime . IDENT_5 IDENT_6 = IDENT_4 . METHOD_3 ( ) . METHOD_4 ( IDENT_3 . getId ( ) ) . METHOD_5 ( ) ; IDENT_4 . METHOD_6 ( IDENT_6 . getId ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_7 ( ) { return new org . IDENT_0 . IDENT_1 . engine . impl . runtime . METHOD_8 ( IDENT_7 . METHOD_9 ( ) ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_4 . METHOD_7 ( ) . count ( ) ) 

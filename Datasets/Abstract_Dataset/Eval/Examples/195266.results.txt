@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Set < java . lang . String > IDENT_0 = IDENT_1 . METHOD_1 ( "test" , null ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_0 . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = new org . apache . rya . accumulo . utils . METHOD_1 ( ) . METHOD_2 ( STRING_0 , "" ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String , java . lang . String ) { METHOD_3 ( IDENT_1 ) ; METHOD_3 ( IDENT_2 ) ; if ( IDENT_1 . isEmpty ( ) ) { return IDENT_2 ; } if ( IDENT_2 . isEmpty ( ) ) { return IDENT_1 ; } return org . apache . rya . accumulo . utils . METHOD_1 . METHOD_4 ( ( ( ( ( STRING_1 + IDENT_1 ) + STRING_2 ) + IDENT_2 ) + STRING_3 ) ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_0 ) 

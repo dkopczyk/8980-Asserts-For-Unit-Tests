@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long expected = INT_0 ; org . talend . IDENT_0 . avro . converter . IDENT_1 < java . lang . Object , java . lang . Object > converter = org . talend . IDENT_2 . converter . IDENT_3 . getInstance ( ) ; long actual = ( ( java . lang . Long ) ( converter . METHOD_1 ( expected ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return new java . math . BigDecimal ( value ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

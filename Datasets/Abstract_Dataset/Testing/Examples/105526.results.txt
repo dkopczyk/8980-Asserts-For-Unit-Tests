@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( org . IDENT_0 . plugins . github . IDENT_1 . IDENT_2 , hudson . model . IDENT_3 ) { return new org . IDENT_0 . plugins . github . IDENT_1 . IDENT_4 . IDENT_5 . METHOD_2 ( IDENT_6 , logger ) ; }
+org . junit . Assert . assertThat ( org . IDENT_0 . plugins . github . IDENT_1 . IDENT_4 . IDENT_5 . METHOD_2 . METHOD_1 ( null , null ) . apply ( null ) , org . hamcrest . Matchers . is ( true ) ) 

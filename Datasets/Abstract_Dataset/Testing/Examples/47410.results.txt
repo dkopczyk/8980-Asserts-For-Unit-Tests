@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . core . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . core . METHOD_1 ( java . util . Collections . METHOD_2 ( STRING_0 , 1 ) ) { } ; "<AssertPlaceHolder>" ; } getString ( java . lang . Object ) { java . lang . Object value = get ( IDENT_4 ) ; return org . apache . commons . IDENT_5 . IDENT_6 . convert ( value ) ; }
+org . junit . Assert . assertEquals ( "1" , IDENT_3 . getString ( STRING_0 ) ) 

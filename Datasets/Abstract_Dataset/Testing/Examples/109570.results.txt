@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object value = null ; com . liferay . portal . search . query . IDENT_0 IDENT_1 = com . liferay . portal . search . query . test . IDENT_2 . IDENT_3 . match ( STRING_0 , value ) ; "<AssertPlaceHolder>" ; } match ( java . lang . String , java . lang . Object ) { return new com . liferay . portal . search . internal . query . METHOD_1 ( field , value ) ; }
+org . junit . Assert . assertNotNull ( IDENT_1 ) 

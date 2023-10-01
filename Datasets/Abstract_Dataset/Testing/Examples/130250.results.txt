@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . kernel . impl . api . IDENT_0 tx = METHOD_1 ( org . neo4j . kernel . api . security . IDENT_1 . METHOD_2 ( ) ) ; org . neo4j . internal . kernel . api . IDENT_2 IDENT_3 = tx . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { IDENT_4 . METHOD_4 ( ) ; METHOD_5 ( IDENT_5 :: IDENT_6 , STRING_0 ) ; METHOD_6 ( ) ; return operations ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

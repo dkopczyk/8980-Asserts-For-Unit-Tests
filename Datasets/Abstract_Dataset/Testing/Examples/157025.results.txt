@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 fixture = new org . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; org . IDENT_0 . IDENT_3 config = new org . IDENT_0 . METHOD_2 ( ) ; org . IDENT_0 . IDENT_1 . METHOD_1 result = fixture . METHOD_3 ( config ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . IDENT_0 . METHOD_2 ) { if ( config != null ) { this . config = config ; } return this ; }
+org . junit . Assert . assertNotNull ( result ) 

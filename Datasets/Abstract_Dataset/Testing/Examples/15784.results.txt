@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . net . URI uri = new org . apache . hc . core5 . net . METHOD_1 ( STRING_0 ) . build ( ) ; "<AssertPlaceHolder>" ; } build ( ) { return new org . apache . hc . core5 . IDENT_0 . METHOD_2 ( uri , IDENT_1 , IDENT_2 , IDENT_3 , IDENT_4 , IDENT_5 , IDENT_6 , IDENT_7 , IDENT_8 , headers , IDENT_9 , method , IDENT_10 , IDENT_11 , IDENT_12 , IDENT_13 , IDENT_14 , IDENT_15 , IDENT_16 , IDENT_17 , IDENT_18 , IDENT_19 , IDENT_20 ) ; }
+org . junit . Assert . assertEquals ( new java . net . URI ( STRING_0 ) , uri ) 

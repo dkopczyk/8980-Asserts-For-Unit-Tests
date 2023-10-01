@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Long [ ] IDENT_0 = new java . lang . Long [ ] { 0L , INT_0 , INT_1 } ; java . lang . Long [ ] IDENT_1 = org . IDENT_2 . rules . helpers . IDENT_3 . instance . METHOD_1 ( IDENT_0 , 1 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( org . IDENT_2 . rules . helpers . Arrays . equals ( new java . lang . Long [ ] { 0L , INT_1 } , IDENT_1 ) ) 

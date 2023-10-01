@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = IDENT_1 . METHOD_1 ( ) ; when ( IDENT_2 . size ( ) ) . thenReturn ( IDENT_0 ) ; long IDENT_3 = org . sagebionetworks . IDENT_4 . model . IDENT_5 . METHOD_2 ( IDENT_0 , IDENT_1 , offset ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int , long , long ) { if ( IDENT_0 >= IDENT_1 ) { return ( offset + IDENT_0 ) + 1 ; } else { return offset + IDENT_0 ; } }
+org . junit . Assert . assertEquals ( ( ( ( offset ) + IDENT_0 ) + 1 ) , IDENT_3 ) 

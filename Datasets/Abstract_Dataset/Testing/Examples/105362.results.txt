@@ -1,0 +1,2 @@
+METHOD_0 ( ) { short [ ] array = new short [ ] { 2 , 3 , 5 , 7 } ; java . nio . IDENT_0 buffer = java . nio . IDENT_0 . METHOD_1 ( array ) ; buffer . position ( 1 ) ; buffer . METHOD_2 ( ) ; buffer . position ( 2 ) ; buffer . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } position ( ) { return position ; }
+org . junit . Assert . assertThat ( buffer . position ( ) , org . hamcrest . CoreMatchers . is ( 1 ) ) 

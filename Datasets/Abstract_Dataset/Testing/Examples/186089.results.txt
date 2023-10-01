@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . IDENT_0 . IDENT_1 . ui . components . IDENT_2 block = new nl . IDENT_0 . IDENT_1 . ui . components . METHOD_1 ( METHOD_2 ( ) , nl . IDENT_0 . IDENT_1 . IDENT_3 . type . Type . METHOD_3 ( STRING_0 ) , STRING_1 , true ) ; block . setValue ( STRING_2 ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return this . value ; }
+org . junit . Assert . assertEquals ( block . getValue ( ) , STRING_2 ) 

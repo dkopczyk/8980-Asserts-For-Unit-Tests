@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Set < uk . gov . IDENT_0 . IDENT_1 . types . IDENT_2 . IDENT_3 > IDENT_4 = graph . METHOD_1 ( 3 , IDENT_5 ) ; "<AssertPlaceHolder>" ; } size ( ) { return ( ( int ) ( METHOD_2 ( ) . count ( ) ) ) ; }
+org . junit . Assert . assertEquals ( 4 , IDENT_4 . size ( ) ) 

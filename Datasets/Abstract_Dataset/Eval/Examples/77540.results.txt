@@ -1,0 +1,2 @@
+METHOD_0 ( ) { super . METHOD_0 ( ) ; com . gs . collections . api . set . IDENT_0 . IDENT_1 set = this . METHOD_1 ( ( ( byte ) ( 0 ) ) , ( ( byte ) ( 1 ) ) , ( ( byte ) ( INT_0 ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { int [ ] array = this . toArray ( ) ; java . util . Arrays . METHOD_2 ( array ) ; return array ; }
+org . junit . Assert . assertArrayEquals ( new byte [ ] { ( ( byte ) ( 0 ) ) , ( ( byte ) ( 1 ) ) , ( ( byte ) ( INT_0 ) ) } , set . METHOD_0 ( ) ) 

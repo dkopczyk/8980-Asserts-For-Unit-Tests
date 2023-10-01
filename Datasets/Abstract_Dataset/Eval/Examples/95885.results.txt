@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String key = STRING_0 ; long expResult = INT_0 ; METHOD_1 ( ) . METHOD_2 ( key , STRING_1 ) ; long result = METHOD_1 ( ) . METHOD_3 ( key ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { try { return java . lang . Long . METHOD_4 ( getString ( key ) ) ; } catch ( java . lang . IDENT_0 ex ) { throw new org . IDENT_1 . IDENT_2 . utils . METHOD_5 ( ( ( STRING_2 + key ) + STRING_3 ) , ex ) ; } }
+org . junit . Assert . assertEquals ( expResult , result ) 

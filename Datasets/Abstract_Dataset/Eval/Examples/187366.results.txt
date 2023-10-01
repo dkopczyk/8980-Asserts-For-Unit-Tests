@@ -1,0 +1,2 @@
+render ( ) { java . lang . String content = IDENT_0 . METHOD_0 ( STRING_0 ) . render ( ) ; "<AssertPlaceHolder>" ; } render ( ) { java . lang . String content = IDENT_0 . METHOD_0 ( STRING_0 ) . render ( ) ; org . junit . Assert . assertEquals ( STRING_1 , content ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , content ) 

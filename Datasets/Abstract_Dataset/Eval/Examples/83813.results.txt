@@ -1,0 +1,2 @@
+METHOD_0 ( ) { if ( IDENT_0 ) return ; long IDENT_1 = METHOD_1 ( INT_0 , false , false , false ) ; if ( ! ( IDENT_2 . equalsIgnoreCase ( IDENT_3 . IDENT_4 . IDENT_5 . getName ( ) ) ) ) { "<AssertPlaceHolder>" ; } METHOD_2 ( ) ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertTrue ( ( ( out . METHOD_3 ( ) ) < IDENT_1 ) ) 

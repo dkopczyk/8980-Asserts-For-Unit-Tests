@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . junit . IDENT_0 . METHOD_1 ( string ) ; "<AssertPlaceHolder>" ; } convert ( java . lang . Object , T ) { try { return ( ( T ) ( com . github . IDENT_1 . IDENT_2 . IDENT_3 . convert ( IDENT_4 , IDENT_5 . getClass ( ) ) ) ) ; } catch ( com . github . IDENT_1 . IDENT_2 . IDENT_6 e ) { return IDENT_5 ; } }
+org . junit . Assert . assertEquals ( string , com . github . IDENT_1 . IDENT_2 . IDENT_3 . convert ( value , java . lang . String . class ) ) 

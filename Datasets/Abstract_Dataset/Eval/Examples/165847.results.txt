@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final boolean startsWith = IDENT_0 . getPath ( STRING_0 ) . startsWith ( new org . jboss . IDENT_1 . impl . base . IDENT_2 . file . METHOD_1 ( ) ) ; "<AssertPlaceHolder>" ; } startsWith ( java . lang . String ) { return false ; }
+org . junit . Assert . assertFalse ( startsWith ) 

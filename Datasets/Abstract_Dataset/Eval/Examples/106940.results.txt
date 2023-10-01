@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; com . googlecode . IDENT_0 . IDENT_1 e = new com . googlecode . IDENT_0 . METHOD_1 ( ) ; com . googlecode . IDENT_0 . IDENT_2 IDENT_3 = new com . googlecode . IDENT_0 . METHOD_2 ( e . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { return this . IDENT_4 . hasNext ( ) ; }
+org . junit . Assert . assertFalse ( IDENT_3 . hasNext ( ) ) 

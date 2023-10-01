@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . teiid . jdbc . IDENT_0 cs = METHOD_1 ( ) ; cs . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; cs . close ( ) ; } METHOD_3 ( ) { if ( ( METHOD_4 ( ) ) == ( - 1 ) ) { return false ; } return ( ( ! ( hasNext ( ) ) ) && ( ( this . METHOD_5 ( ) ) > ( org . teiid . jdbc . IDENT_0 . IDENT_1 ) ) ) && ( ( this . METHOD_5 ( ) ) > ( METHOD_4 ( ) ) ) ; }
+org . junit . Assert . assertTrue ( cs . METHOD_3 ( ) ) 

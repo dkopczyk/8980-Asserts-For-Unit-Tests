@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 cache = new org . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; cache . IDENT_3 . put ( STRING_0 , 1 ) ; cache . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } contains ( java . lang . Object ) { return IDENT_3 . contains ( key ) ; }
+org . junit . Assert . assertThat ( cache . IDENT_3 . contains ( STRING_0 ) , org . hamcrest . CoreMatchers . is ( false ) ) 

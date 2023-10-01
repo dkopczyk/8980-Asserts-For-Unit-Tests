@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . bzk . brp . business . dto . IDENT_0 IDENT_1 = METHOD_1 ( ) . METHOD_2 ( METHOD_3 ( ) ) ; org . mockito . Mockito . verify ( METHOD_4 ( ) ) . METHOD_5 ( org . mockito . Matchers . any ( nl . bzk . brp . business . dto . IDENT_2 . class ) , org . mockito . Matchers . any ( nl . bzk . brp . business . dto . IDENT_3 . class ) ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return java . util . Collections . METHOD_7 ( IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_1 . METHOD_6 ( ) . size ( ) ) 

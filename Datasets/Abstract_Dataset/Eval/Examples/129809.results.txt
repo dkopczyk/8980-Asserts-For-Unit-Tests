@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . concurrent . IDENT_0 < java . lang . String > IDENT_1 = new org . neo4j . test . IDENT_2 . METHOD_1 ( ) . start ( org . neo4j . test . IDENT_2 . IDENT_3 ) ; try { "<AssertPlaceHolder>" ; } finally { org . neo4j . test . IDENT_4 . METHOD_2 ( IDENT_1 ) ; } } call ( ) { while ( ! ( IDENT_5 ) ) java . lang . Thread . sleep ( 1 ) ; return message ; }
+org . junit . Assert . assertEquals ( org . neo4j . test . IDENT_2 . IDENT_3 , IDENT_1 . call ( ) ) 

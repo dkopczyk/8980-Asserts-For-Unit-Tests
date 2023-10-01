@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . resolve ( IDENT_1 , null , builder ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertNotNull ( builder . METHOD_1 ( ) ) 

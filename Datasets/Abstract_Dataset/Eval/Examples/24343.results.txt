@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; list . add ( STRING_0 ) ; } toArray ( ) { org . apache . IDENT_0 . internal . IDENT_1 . IDENT_2 . IDENT_3 [ ] result = new org . apache . IDENT_0 . internal . IDENT_1 . IDENT_2 . IDENT_3 [ size ] ; java . lang . System . METHOD_1 ( data , 0 , result , 0 , size ) ; return result ; }
+org . junit . Assert . assertArrayEquals ( new java . lang . Object [ ] { "foo" } , list . toArray ( ) ) 

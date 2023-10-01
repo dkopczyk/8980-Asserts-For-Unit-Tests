@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . security . IDENT_0 ) { if ( METHOD_2 ( user ) ) { return false ; } else { throw new java . lang . METHOD_3 ( STRING_0 ) ; } }
+org . junit . Assert . assertFalse ( group . METHOD_1 ( group ) ) 

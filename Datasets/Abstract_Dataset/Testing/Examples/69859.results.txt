@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . repository . models . IDENT_1 . IDENT_2 parent = METHOD_1 ( STRING_0 ) ; io . IDENT_0 . repository . models . IDENT_1 . IDENT_2 IDENT_3 = parent . getId ( ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } getName ( ) { return field . getName ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_3 . getName ( ) ) 

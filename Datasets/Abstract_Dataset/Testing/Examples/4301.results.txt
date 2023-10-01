@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . stream . Optional < java . lang . Integer > IDENT_1 = com . IDENT_0 . stream . Optional . METHOD_1 ( null ) ; final com . IDENT_0 . stream . Optional < java . lang . Integer > IDENT_2 = com . IDENT_0 . stream . Optional . empty ( ) ; "<AssertPlaceHolder>" ; } empty ( ) { return ( ( com . IDENT_0 . stream . Optional < T > ) ( com . IDENT_0 . stream . Optional . IDENT_3 ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_2 ) 

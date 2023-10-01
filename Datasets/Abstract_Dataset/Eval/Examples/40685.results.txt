@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object IDENT_0 = new java . lang . Object ( ) ; doReturn ( IDENT_0 ) . when ( IDENT_1 ) . remove ( any ( ) ) ; METHOD_1 ( ) . when ( IDENT_2 ) . remove ( any ( ) , any ( ) ) ; java . lang . Object IDENT_3 = cache . METHOD_0 ( any ( ) ) ; verify ( IDENT_1 ) . remove ( any ( ) ) ; verify ( IDENT_2 ) . remove ( any ( ) , any ( ) ) ; "<AssertPlaceHolder>" ; } remove ( IDENT_4 , com . IDENT_5 . IDENT_6 . cache . IDENT_7 ) { this . IDENT_2 . remove ( key , value . getValue ( ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_3 ) 

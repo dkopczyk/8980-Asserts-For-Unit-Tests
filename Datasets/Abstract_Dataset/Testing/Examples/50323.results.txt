@@ -1,0 +1,2 @@
+METHOD_0 ( ) { instance . METHOD_1 ( STRING_0 , Collections . IDENT_0 ) ; org . IDENT_1 . persistence . jpa . List < org . IDENT_1 . persistence . test . domain . IDENT_2 > results = repository . find ( instance ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return true ; }
+org . junit . Assert . assertFalse ( results . isEmpty ( ) ) 

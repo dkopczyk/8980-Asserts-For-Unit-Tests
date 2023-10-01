@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int n = IDENT_0 . METHOD_1 ( ) ; org . openscience . cdk . IDENT_1 . IDENT_2 IDENT_3 = new org . openscience . cdk . IDENT_1 . METHOD_2 ( IDENT_0 ) ; for ( int i = 0 ; i < n ; i ++ ) { "<AssertPlaceHolder>" ; } } METHOD_3 ( int ) { return METHOD_3 . get ( v ) ; }
+org . junit . Assert . assertFalse ( IDENT_3 . METHOD_3 ( i ) ) 

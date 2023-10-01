@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . io . File file = new java . io . File ( IDENT_0 . toString ( ) ) ; com . baeldung . stream . IDENT_1 examples = new com . baeldung . stream . METHOD_1 ( ) ; examples . METHOD_2 ( IDENT_0 . toString ( ) , STRING_0 ) ; "<AssertPlaceHolder>" ; file . delete ( ) ; } toString ( ) { return ( ( ( ( ( STRING_1 + ( IDENT_2 ) ) + STRING_2 ) + ( IDENT_3 ) ) + STRING_3 ) + ( IDENT_4 ) ) + "]" ; }
+org . junit . Assert . assertTrue ( file . exists ( ) ) 

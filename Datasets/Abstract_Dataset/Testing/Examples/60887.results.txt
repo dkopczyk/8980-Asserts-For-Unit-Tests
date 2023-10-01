@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . remote . IDENT_0 IDENT_1 = mock ( org . eclipse . rap . rwt . remote . IDENT_0 . class ) ; when ( IDENT_1 . getId ( ) ) . thenReturn ( "foo" ) ; METHOD_1 ( IDENT_1 ) ; org . eclipse . rap . rwt . internal . IDENT_2 . IDENT_3 IDENT_4 = new org . eclipse . rap . rwt . internal . IDENT_2 . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_1 . getId ( ) ; }
+org . junit . Assert . assertEquals ( "foo" , IDENT_4 . METHOD_3 ( ) ) 

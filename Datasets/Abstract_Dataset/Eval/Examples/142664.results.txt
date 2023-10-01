@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . orientechnologies . orient . core . sql . executor . IDENT_0 IDENT_1 = db . query ( ( STRING_0 + STRING_1 ) ) ; final java . util . List < com . orientechnologies . orient . core . sql . executor . IDENT_2 > results = IDENT_1 . stream ( ) . collect ( java . util . stream . IDENT_3 . toList ( ) ) ; "<AssertPlaceHolder>" ; IDENT_1 . close ( ) ; } size ( ) { throw new java . lang . METHOD_1 ( STRING_2 ) ; }
+org . junit . Assert . assertEquals ( results . size ( ) , 12 ) 

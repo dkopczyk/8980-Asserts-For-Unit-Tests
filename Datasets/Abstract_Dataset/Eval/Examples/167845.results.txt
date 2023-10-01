@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . persistence . IDENT_0 em = factory . METHOD_1 ( ) ; org . IDENT_1 . jpa . IDENT_2 . entities . Person IDENT_3 = em . find ( org . IDENT_1 . jpa . IDENT_2 . entities . Person . class , org . IDENT_1 . jpa . IDENT_2 . IDENT_4 ) ; em . close ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertNotNull ( IDENT_3 . METHOD_2 ( ) ) 

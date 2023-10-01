@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . UUID id = java . util . UUID . METHOD_1 ( ) ; METHOD_2 ( id ) ; IDENT_0 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . util . UUID ) { return IDENT_0 . METHOD_4 ( id . METHOD_5 ( ) , id . METHOD_6 ( ) ) ; }
+org . junit . Assert . assertTrue ( METHOD_4 ( id ) ) 

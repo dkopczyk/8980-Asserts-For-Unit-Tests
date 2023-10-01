@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . persistence . Query q = METHOD_1 ( ) . METHOD_2 ( STRING_0 ) ; java . util . List < org . IDENT_0 . server . domain . IDENT_1 > results = q . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; org . IDENT_0 . server . domain . IDENT_1 IDENT_2 = results . get ( 0 ) ; IDENT_2 . METHOD_4 ( ( - 1 ) ) ; IDENT_3 . execute ( null ) ; } size ( ) { throw new java . lang . METHOD_5 ( org . IDENT_0 . server . service . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 ) ; }
+org . junit . Assert . assertTrue ( ( ( results . size ( ) ) == 1 ) ) 

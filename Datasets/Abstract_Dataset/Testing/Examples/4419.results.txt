@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . model . impl . IDENT_1 IDENT_2 = IDENT_0 . METHOD_1 ( com . github . IDENT_0 . model . impl . IDENT_1 . class ) ; IDENT_2 . METHOD_2 ( STRING_0 ) ; com . github . IDENT_0 . model . impl . IDENT_1 IDENT_3 = IDENT_0 . METHOD_3 ( com . github . IDENT_0 . model . impl . IDENT_1 . class , IDENT_2 . METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return getResource ( ) . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_3 . METHOD_4 ( ) ) 

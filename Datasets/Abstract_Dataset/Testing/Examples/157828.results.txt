@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String token = STRING_0 ; when ( IDENT_0 . METHOD_1 ( IDENT_1 ) ) . thenReturn ( token ) ; java . lang . String IDENT_2 = manager . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return IDENT_3 . METHOD_1 ( IDENT_1 ) ; }
+org . junit . Assert . assertEquals ( token , IDENT_2 ) 

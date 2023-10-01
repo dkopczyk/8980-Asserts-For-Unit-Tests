@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_1 . api . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new IDENT_0 . IDENT_1 . IDENT_1 . api . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } name ( java . lang . String ) { this . name = name ; return this ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_5 . name ( "test" ) ) instanceof IDENT_0 . IDENT_1 . IDENT_1 . api . IDENT_2 . IDENT_3 . METHOD_1 ) ) 

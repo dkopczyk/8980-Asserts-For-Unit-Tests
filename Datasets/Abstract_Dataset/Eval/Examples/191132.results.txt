@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . IDENT_0 value = INT_0 ; com . IDENT_1 . xwiki . IDENT_2 . IDENT_3 IDENT_4 = new com . IDENT_1 . xwiki . IDENT_2 . METHOD_1 ( ) ; com . IDENT_1 . xwiki . IDENT_2 . IDENT_3 IDENT_5 = new com . IDENT_1 . xwiki . IDENT_2 . METHOD_1 ( ) ; IDENT_4 . setValue ( value ) ; IDENT_5 . setValue ( value ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return METHOD_2 ( ) . hashCode ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_4 . hashCode ( ) , IDENT_5 . hashCode ( ) ) 

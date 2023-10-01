@@ -1,0 +1,2 @@
+METHOD_0 ( ) { it . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 IDENT_9 = new it . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 . METHOD_1 ( null , null ) ; IDENT_9 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { id = ( it . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_10 . IDENT_11 ) ++ ; }
+org . junit . Assert . assertNotNull ( IDENT_9 ) 

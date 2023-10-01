@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < org . IDENT_0 . web . catalog . domain . IDENT_1 > IDENT_2 = METHOD_1 ( false , Type . IDENT_3 ) ; final org . IDENT_0 . web . catalog . validator . IDENT_4 results = new org . IDENT_0 . web . catalog . validator . METHOD_2 ( ) ; IDENT_5 . validate ( IDENT_2 , results , false ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ! ( org . springframework . util . IDENT_6 . isEmpty ( errors ) ) ; }
+org . junit . Assert . assertTrue ( ( ! ( results . METHOD_3 ( ) ) ) ) 

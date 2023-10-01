@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = target ( ( ( METHOD_1 ( ) ) + STRING_0 ) ) . request ( io . IDENT_1 . rs . controller . IDENT_2 ) . get ( java . lang . String . class ) ; "<AssertPlaceHolder>" ; } get ( io . IDENT_1 . jpa . internal . query . IDENT_3 ) { java . lang . Class < ? > clazz = IDENT_4 . METHOD_2 ( ) . METHOD_3 ( ) ; io . IDENT_1 . jpa . internal . query . IDENT_5 . IDENT_6 IDENT_7 = map . get ( key ( clazz , IDENT_4 . getName ( ) ) ) ; return IDENT_7 != null ? IDENT_7 . IDENT_8 : null ; }
+org . junit . Assert . assertNotNull ( IDENT_0 ) 

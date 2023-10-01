@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . jts . tools . IDENT_4 . IDENT_5 IDENT_6 = METHOD_1 ( ) ; METHOD_2 ( true , false , IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { java . util . Set < javax . management . IDENT_7 > IDENT_8 = com . IDENT_9 . IDENT_10 . IDENT_9 . tools . IDENT_11 . util . IDENT_12 . METHOD_4 ( ) . METHOD_5 ( IDENT_13 , null ) ; return IDENT_8 != null ? IDENT_8 : new java . util . HashSet ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_6 . METHOD_3 ( ) . size ( ) ) 

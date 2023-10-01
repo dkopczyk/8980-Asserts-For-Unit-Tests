@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = IDENT_5 . METHOD_1 ( 1 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Object ) { return METHOD_2 ( map . get ( key ) ) ; }
+org . junit . Assert . assertEquals ( beans . get ( 1 ) , IDENT_4 ) 

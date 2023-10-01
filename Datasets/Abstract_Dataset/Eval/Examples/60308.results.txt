@@ -1,0 +1,2 @@
+METHOD_0 ( ) { handler . METHOD_1 ( IDENT_0 ) ; handler . METHOD_2 ( IDENT_0 ) ; new org . eclipse . rap . IDENT_1 . test . METHOD_3 ( handler ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { if ( ( org . eclipse . IDENT_2 . util . IDENT_3 . log ) == null ) { org . eclipse . IDENT_2 . util . IDENT_3 . log = org . eclipse . IDENT_2 . util . IDENT_3 . METHOD_6 ( ) ; } return org . eclipse . IDENT_2 . util . IDENT_3 . log ; }
+org . junit . Assert . assertEquals ( "" , IDENT_0 . METHOD_5 ( ) ) 

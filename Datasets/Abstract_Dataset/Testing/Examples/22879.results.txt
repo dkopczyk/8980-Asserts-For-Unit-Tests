@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File f = org . apache . poi . IDENT_0 . METHOD_1 ( ) . METHOD_2 ( STRING_0 ) ; org . apache . poi . IDENT_1 . IDENT_2 . IDENT_3 r = new org . apache . poi . IDENT_1 . IDENT_2 . METHOD_3 ( f ) ; java . util . Map < java . lang . String , java . lang . IDENT_4 > IDENT_2 = r . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; r . close ( ) ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 20 , IDENT_2 . size ( ) ) 

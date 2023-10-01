@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . tinkerpop . IDENT_0 . IDENT_1 . IDENT_2 v = graph . METHOD_1 ( ) ; final org . apache . tinkerpop . IDENT_0 . IDENT_1 . IDENT_3 e = v . METHOD_2 ( STRING_0 , v , STRING_1 , FLOAT_0 ) ; final java . lang . Double IDENT_4 = e . value ( STRING_1 ) ; "<AssertPlaceHolder>" ; } value ( java . lang . String ) { return this . element . value ( key ) ; }
+org . junit . Assert . assertEquals ( IDENT_4 , java . lang . Double . valueOf ( FLOAT_0 ) ) 

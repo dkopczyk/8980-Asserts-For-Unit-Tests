@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . netty . util . IDENT_0 IDENT_1 = io . netty . util . IDENT_2 . METHOD_1 ( ) ; IDENT_1 . METHOD_2 ( Integer . MAX_VALUE ) ; "<AssertPlaceHolder>" ; IDENT_1 . METHOD_3 ( ) ; } METHOD_4 ( ) { return buf . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( Integer . MAX_VALUE , IDENT_1 . METHOD_4 ( ) ) 

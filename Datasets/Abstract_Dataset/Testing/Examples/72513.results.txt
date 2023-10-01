@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] IDENT_0 = IDENT_1 . METHOD_0 ( new com . IDENT_2 . IDENT_3 . tuple . METHOD_1 ( STRING_0 ) , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( com . IDENT_2 . IDENT_3 . tuple . IDENT_4 , java . lang . String [ ] ) { com . alibaba . IDENT_5 . JSONObject filter = new com . alibaba . IDENT_5 . JSONObject ( ) ; filter . put ( STRING_2 , IDENT_6 ) ; return METHOD_2 ( tuple , filter ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_0 [ 0 ] ) != null ) ) 

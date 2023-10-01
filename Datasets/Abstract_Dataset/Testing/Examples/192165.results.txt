@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . sql . IDENT_0 connection = mock ( java . sql . IDENT_0 . class ) ; final java . sql . IDENT_0 proxy = org . IDENT_1 . junit . db . internal . IDENT_2 . METHOD_1 ( connection ) ; "<AssertPlaceHolder>" ; proxy . close ( ) ; METHOD_2 ( connection ) ; } METHOD_1 ( java . sql . IDENT_0 ) { java . util . IDENT_3 . METHOD_3 ( connection , STRING_0 ) ; return ( ( java . sql . IDENT_0 ) ( org . IDENT_1 . junit . db . internal . IDENT_2 . METHOD_4 ( connection ) ) ) ; }
+org . junit . Assert . assertNotNull ( proxy ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . amazon . IDENT_1 . services . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 obj = new IDENT_0 . amazon . IDENT_1 . services . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return METHOD_2 ; }
+org . junit . Assert . assertNull ( obj . METHOD_2 ( ) ) 

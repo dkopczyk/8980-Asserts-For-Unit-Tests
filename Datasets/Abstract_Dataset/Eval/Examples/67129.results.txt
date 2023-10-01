@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . json . schema . IDENT_1 subject = org . IDENT_0 . json . schema . IDENT_1 . builder ( ) . METHOD_1 ( org . IDENT_0 . json . schema . IDENT_2 . IDENT_3 ) . METHOD_2 ( STRING_0 ) . build ( ) ; subject . METHOD_3 ( org . IDENT_0 . json . schema . IDENT_4 . builder ( ) . build ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return ( METHOD_1 ) == null ? super . METHOD_4 ( ) : METHOD_1 ; }
+org . junit . Assert . assertEquals ( org . IDENT_0 . json . schema . IDENT_2 . IDENT_3 , subject . METHOD_4 ( ) ) 

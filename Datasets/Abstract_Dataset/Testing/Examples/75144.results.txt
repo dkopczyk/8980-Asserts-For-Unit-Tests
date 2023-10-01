@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . commands . IDENT_1 . t ( STRING_0 ) ; org . IDENT_0 . commands . IDENT_1 . METHOD_1 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( org . IDENT_0 . common . kernel . commands . IDENT_1 . app . METHOD_3 ( ) . METHOD_4 ( ) ) == null ) { return 0 ; } return org . IDENT_0 . common . kernel . commands . IDENT_1 . app . METHOD_3 ( ) . METHOD_4 ( ) . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , org . IDENT_0 . commands . IDENT_1 . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . app . IDENT_1 IDENT_2 = mock ( org . IDENT_0 . app . IDENT_1 . class ) ; org . IDENT_0 . app . IDENT_3 . IDENT_4 m = new org . IDENT_0 . app . IDENT_3 . METHOD_1 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( m . adapter , IDENT_2 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( user . METHOD_2 ( ) , user . METHOD_3 ( ) ) ) . thenReturn ( user ) ; io . IDENT_1 . model . User IDENT_2 = IDENT_3 . METHOD_4 ( user . METHOD_2 ( ) , user . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return provider ; }
+org . junit . Assert . assertEquals ( user , IDENT_2 ) 

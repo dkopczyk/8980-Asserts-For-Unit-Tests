@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( IDENT_1 . IDENT_2 ) ) . thenReturn ( false ) ; hudson . plugins . IDENT_3 . IDENT_4 IDENT_5 = METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_4 ( ) . METHOD_1 ( IDENT_6 . IDENT_2 ) ; }
+org . junit . Assert . assertFalse ( IDENT_5 . METHOD_3 ( ) ) 

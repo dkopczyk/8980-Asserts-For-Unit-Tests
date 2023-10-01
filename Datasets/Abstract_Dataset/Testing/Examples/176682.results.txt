@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; org . talend . IDENT_1 . examples . IDENT_2 . model . IDENT_3 IDENT_4 = METHOD_2 ( STRING_0 ) ; IDENT_5 . add ( IDENT_4 ) ; IDENT_0 . METHOD_3 ( ) ; org . talend . IDENT_1 . examples . IDENT_2 . model . IDENT_3 IDENT_6 = IDENT_5 . METHOD_4 ( IDENT_4 . getId ( ) ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertNull ( IDENT_6 ) 

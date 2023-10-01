@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . nio . ByteBuffer data = java . nio . ByteBuffer . METHOD_1 ( len ) ; data . put ( IDENT_0 ) ; data . METHOD_2 ( ) ; q . METHOD_3 ( data ) ; byte [ ] IDENT_1 = new byte [ len ] ; q . get ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object , java . lang . Object ) { if ( IDENT_2 == null ) { return IDENT_3 == null ; } else { return IDENT_2 . equals ( IDENT_3 ) ; } }
+org . junit . Assert . assertTrue ( java . util . Arrays . equals ( IDENT_1 , IDENT_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = com . liferay . portal . kernel . test . util . IDENT_1 . METHOD_1 ( ) ; store . METHOD_2 ( IDENT_2 , IDENT_3 , IDENT_0 , com . liferay . IDENT_4 . IDENT_5 . store . test . IDENT_6 . IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( long , long , java . lang . String ) { throw new java . lang . METHOD_4 ( ) ; }
+org . junit . Assert . assertTrue ( store . METHOD_3 ( IDENT_2 , IDENT_3 , IDENT_0 ) ) 

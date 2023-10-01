@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . commons . IDENT_2 . IDENT_3 . core . transform . IDENT_4 . IDENT_5 IDENT_6 = new org . IDENT_0 . IDENT_1 . commons . IDENT_2 . IDENT_3 . core . transform . IDENT_4 . METHOD_1 ( ) ; java . util . List < java . lang . String > IDENT_7 = IDENT_8 . METHOD_2 ( IDENT_6 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_9 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_7 . size ( ) ) 

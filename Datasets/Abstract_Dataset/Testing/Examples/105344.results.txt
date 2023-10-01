@@ -1,0 +1,2 @@
+METHOD_0 ( ) { float [ ] array = new float [ 4 ] ; java . nio . IDENT_0 buffer = java . nio . IDENT_0 . METHOD_1 ( array ) ; buffer . put ( 2 ) . put ( 3 ) . put ( 5 ) . put ( 7 ) ; "<AssertPlaceHolder>" ; } put ( IDENT_1 ) { java . util . IDENT_2 . METHOD_2 ( e ) ; while ( METHOD_3 ( ) ) { METHOD_4 ( 0 ) ; } METHOD_5 ( e ) ; }
+org . junit . Assert . assertThat ( array , org . hamcrest . CoreMatchers . is ( new float [ ] { 2 , 3 , 5 , 7 } ) ) 

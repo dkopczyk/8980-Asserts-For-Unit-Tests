@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean fail = false ; final java . nio . ByteBuffer buffer = java . nio . ByteBuffer . METHOD_1 ( 100 ) ; buffer . put ( STRING_0 . getBytes ( STRING_1 ) ) . METHOD_2 ( ) ; try { IDENT_0 . write ( buffer ) ; } catch ( java . io . IOException e ) { fail = true ; } "<AssertPlaceHolder>" ; } write ( java . nio . ByteBuffer [ ] ) { return write ( IDENT_1 , 0 , IDENT_1 . length ) ; }
+org . junit . Assert . assertTrue ( fail ) 

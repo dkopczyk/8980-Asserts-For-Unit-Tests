@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String version = org . sagebionetworks . client . IDENT_0 . METHOD_1 ( ) ; System . out . println ( version ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return org . sagebionetworks . client . IDENT_0 . IDENT_1 . METHOD_2 ( ) ; }
+org . junit . Assert . assertNotNull ( version ) 

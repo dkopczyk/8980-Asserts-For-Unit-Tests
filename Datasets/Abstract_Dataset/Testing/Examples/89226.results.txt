@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final net . IDENT_0 . type . IDENT_1 . IDENT_2 l = new net . IDENT_0 . type . IDENT_1 . METHOD_1 ( false ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return get ( ) ? java . math . BigInteger . IDENT_3 : java . math . BigInteger . IDENT_4 ; }
+org . junit . Assert . assertEquals ( BigInteger . IDENT_4 , l . METHOD_2 ( ) ) 

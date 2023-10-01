@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { try { org . sagebionetworks . repo . model . query . entity . IDENT_0 . valueOf ( key ) ; return true ; } catch ( java . lang . IllegalArgumentException e ) { return false ; } }
+org . junit . Assert . assertFalse ( org . sagebionetworks . repo . model . query . entity . IDENT_0 . METHOD_1 ( "foo" ) ) 

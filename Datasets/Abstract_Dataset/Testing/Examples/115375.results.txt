@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . property . IDENT_1 property = new IDENT_0 . property . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return values ; }
+org . junit . Assert . assertEquals ( java . util . Arrays . asList ( ) , property . METHOD_2 ( ) ) 

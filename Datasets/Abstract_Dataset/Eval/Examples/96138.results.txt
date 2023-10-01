@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . mapping . Iterator ) { if ( IDENT_4 . hasNext ( ) ) { java . lang . Object IDENT_5 = IDENT_4 . next ( ) ; return METHOD_2 ( IDENT_5 , IDENT_5 , IDENT_4 ) ; } else { return IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . mapping . Collections . emptyList ( ) ; } }
+org . junit . Assert . assertTrue ( provider . METHOD_1 ( java . util . Collections . emptyList ( ) ) . isEmpty ( ) ) 

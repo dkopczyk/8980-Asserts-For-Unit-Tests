@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final IDENT_0 . IDENT_1 . IDENT_2 instance = new IDENT_0 . IDENT_1 . METHOD_1 ( ) ; instance . METHOD_2 ( state , IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 ) ; final IDENT_0 . IDENT_5 IDENT_6 = IDENT_0 . IDENT_1 . IDENT_3 . METHOD_3 ( new double [ ] { 0 , 0 , 0 } ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( IDENT_0 . IDENT_5 ) { return IDENT_0 . IDENT_1 . METHOD_1 . METHOD_4 ( IDENT_6 , IDENT_7 ) ; }
+org . junit . Assert . assertEquals ( 0.0 , instance . METHOD_4 ( IDENT_6 ) , 0.0 ) 

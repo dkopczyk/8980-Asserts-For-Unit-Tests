@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < net . IDENT_0 . model . IDENT_1 . IDENT_2 > IDENT_3 = service . list ( ) ; for ( net . IDENT_0 . model . IDENT_1 . IDENT_2 IDENT_1 : IDENT_3 ) { net . IDENT_0 . service . IDENT_1 . IDENT_4 . log . info ( STRING_0 , IDENT_1 . toString ( ) ) ; } "<AssertPlaceHolder>" ; } toString ( ) { return ( ( ( ( ( ( STRING_1 + ( IDENT_5 ) ) + STRING_2 ) + ( IDENT_6 ) ) + STRING_3 ) + ( IDENT_7 ) ) + STRING_4 ) + ( name ) ; }
+org . junit . Assert . assertFalse ( IDENT_3 . isEmpty ( ) ) 

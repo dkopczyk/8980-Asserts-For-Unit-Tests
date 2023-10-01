@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = java . lang . System . currentTimeMillis ( ) ; org . openscience . cdk . math . IDENT_1 . METHOD_1 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . openscience . cdk . math . IDENT_1 . IDENT_2 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , org . openscience . cdk . math . IDENT_1 . METHOD_2 ( ) ) 

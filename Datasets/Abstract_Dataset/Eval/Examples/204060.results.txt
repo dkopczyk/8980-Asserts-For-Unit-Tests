@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . net . URL url = com . google . common . io . IDENT_0 . getResource ( STRING_0 ) ; java . lang . String json = com . google . common . io . IDENT_0 . toString ( url , IDENT_1 . UTF_8 ) ; com . github . IDENT_2 . json . IDENT_3 . IDENT_4 IDENT_5 = new com . github . IDENT_2 . json . IDENT_3 . METHOD_1 ( new java . io . METHOD_2 ( url . METHOD_3 ( ) ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_5 , new com . github . IDENT_2 . json . IDENT_3 . METHOD_1 ( json ) ) 

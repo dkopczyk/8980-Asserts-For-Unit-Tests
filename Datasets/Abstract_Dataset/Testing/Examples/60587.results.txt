@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object service = new java . lang . Object ( ) ; container . add ( service ) ; container . remove ( service ) ; "<AssertPlaceHolder>" ; } size ( ) { return new org . eclipse . IDENT_0 . internal . IDENT_1 . swt . METHOD_1 ( ) ; }
+org . junit . Assert . assertEquals ( 0 , container . size ( ) ) 

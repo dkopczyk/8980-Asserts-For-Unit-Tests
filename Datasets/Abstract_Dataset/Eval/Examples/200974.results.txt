@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte IDENT_0 = 3 ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 2 , ( IDENT_0 & 2 ) , 0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . Object > IDENT_0 = IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" . containsKey ( STRING_0 ) . containsKey ( STRING_1 ) . METHOD_2 ( STRING_2 , false ) . METHOD_2 ( STRING_3 , false ) ; } METHOD_1 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertThat ( IDENT_0 ) 

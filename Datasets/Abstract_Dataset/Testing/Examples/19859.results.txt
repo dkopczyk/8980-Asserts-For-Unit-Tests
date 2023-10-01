@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . kafka . streams . state . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 = false ; IDENT_4 . METHOD_1 ( context ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . apache . kafka . streams . processor . IDENT_5 ) { super . METHOD_1 ( context ) ; IDENT_6 = context ; }
+org . junit . Assert . assertTrue ( org . apache . kafka . streams . state . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 ) 

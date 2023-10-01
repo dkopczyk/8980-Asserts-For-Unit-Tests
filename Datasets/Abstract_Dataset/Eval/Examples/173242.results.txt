@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new com . github . IDENT_1 . metrics . METHOD_1 ( null , IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_0 . METHOD_2 ( ) ) 

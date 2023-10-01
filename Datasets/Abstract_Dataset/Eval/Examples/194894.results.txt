@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < ? > result = org . eclipse . IDENT_0 . repo . utils . IDENT_1 . split ( java . util . Arrays . asList ( 1 , 2 , 3 ) , 0 , 10 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 3 , result . size ( ) ) 

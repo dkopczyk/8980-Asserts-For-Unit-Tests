@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nd4j . linalg . api . ndarray . INDArray arr = org . nd4j . linalg . factory . Nd4j . create ( 2 , 2 , 2 , 2 ) ; IDENT_0 . val IDENT_1 = org . nd4j . linalg . util . IDENT_2 . METHOD_1 ( arr ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . nd4j . linalg . api . ndarray . INDArray ) { return org . nd4j . linalg . util . IDENT_2 . METHOD_1 ( arr , 0 ) ; }
+org . junit . Assert . assertEquals ( 8 , METHOD_1 ) 

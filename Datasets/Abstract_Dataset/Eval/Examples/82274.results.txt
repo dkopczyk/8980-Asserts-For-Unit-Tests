@@ -1,0 +1,2 @@
+setName ( ) { java . lang . String IDENT_0 = METHOD_0 ( ) ; com . IDENT_1 . IDENT_2 . pipeline . IDENT_3 < java . lang . Integer > IDENT_4 = METHOD_1 ( emptyList ( ) ) ; IDENT_4 . setName ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } name ( ) { return name ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_4 . name ( ) ) 

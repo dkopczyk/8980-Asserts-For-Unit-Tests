@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < java . io . IDENT_0 > IDENT_1 = new java . util . HashSet < java . io . IDENT_0 > ( ) ; java . util . Map < java . io . IDENT_0 , com . liferay . IDENT_2 . data . IDENT_3 . model . IDENT_4 > IDENT_5 = IDENT_6 . METHOD_1 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_7 . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_5 . isEmpty ( ) ) 

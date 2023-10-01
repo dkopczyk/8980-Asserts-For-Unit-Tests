@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; com . sun . jersey . api . client . IDENT_0 response = put ( METHOD_2 ( ) , org . IDENT_1 . security . web . IDENT_2 . METHOD_3 ( IDENT_3 ) ) ; int IDENT_4 = IDENT_0 . Status . IDENT_5 . getStatusCode ( ) ; "<AssertPlaceHolder>" ; } getStatus ( ) { try { return IDENT_6 . getStatus ( ) ; } catch ( javax . transaction . IDENT_7 e ) { throw new org . IDENT_1 . core . persistence . METHOD_4 ( e ) ; } }
+org . junit . Assert . assertThat ( response . getStatus ( ) , org . hamcrest . Matchers . is ( IDENT_4 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean found = false ; for ( com . alibaba . IDENT_0 . IDENT_1 . support . IDENT_2 . IDENT_3 item : IDENT_4 ) { if ( item . METHOD_1 ( ) . equals ( STRING_0 ) ) { found = true ; } } "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { return true ; }
+org . junit . Assert . assertTrue ( found ) 

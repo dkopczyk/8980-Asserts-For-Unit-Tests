@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . management . IDENT_0 IDENT_1 = java . lang . management . IDENT_2 . METHOD_1 ( ) ; javax . management . IDENT_3 IDENT_4 = IDENT_1 . METHOD_2 ( IDENT_5 . IDENT_6 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_4 ) 

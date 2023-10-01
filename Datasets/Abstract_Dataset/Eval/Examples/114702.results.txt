@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . openmrs . module . IDENT_1 . IDENT_2 client = METHOD_1 ( ) . METHOD_2 ( 1 ) ; client . setName ( IDENT_0 ) ; METHOD_1 ( ) . METHOD_3 ( client ) ; client = METHOD_1 ( ) . METHOD_2 ( 1 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( IDENT_0 , client . getName ( ) ) 

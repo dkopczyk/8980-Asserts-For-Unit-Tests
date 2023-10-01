@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . json . IDENT_1 object = com . vaadin . flow . internal . IDENT_2 . METHOD_1 ( java . util . Collections . METHOD_2 ( ) , ( item ) -> { throw new java . lang . METHOD_3 ( STRING_0 ) ; } ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . Map , java . util . function . IDENT_3 ) { IDENT_0 . json . IDENT_1 object = IDENT_0 . json . IDENT_4 . METHOD_1 ( ) ; map . METHOD_4 ( ( key , value ) -> object . put ( key , IDENT_5 . apply ( value ) ) ) ; return object ; }
+org . junit . Assert . assertEquals ( 0 , object . keys ( ) . length ) 

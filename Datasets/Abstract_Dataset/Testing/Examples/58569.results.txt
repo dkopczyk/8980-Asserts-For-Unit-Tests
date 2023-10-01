@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int count = org . eclipse . collections . impl . IDENT_0 . IDENT_1 . count ( STRING_0 , IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } count ( java . lang . String , org . eclipse . collections . impl . block . IDENT_4 . IDENT_5 . IDENT_6 ) { return org . eclipse . collections . impl . IDENT_0 . IDENT_1 . METHOD_1 ( string , IDENT_4 :: accept ) ; }
+org . junit . Assert . assertEquals ( 3 , count ) 

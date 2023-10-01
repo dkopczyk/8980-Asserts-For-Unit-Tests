@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String query = java . lang . String . format ( STRING_0 , org . IDENT_0 . IDENT_1 . IDENT_2 ) ; org . IDENT_0 . IDENT_1 . query . IDENT_3 IDENT_4 = METHOD_1 ( query ) ; org . elasticsearch . action . search . IDENT_5 response = ( ( org . elasticsearch . action . search . IDENT_5 ) ( IDENT_4 . get ( ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return this . IDENT_6 ; }
+org . junit . Assert . assertEquals ( 10 , response . METHOD_2 ( ) . METHOD_2 ( ) . length ) 

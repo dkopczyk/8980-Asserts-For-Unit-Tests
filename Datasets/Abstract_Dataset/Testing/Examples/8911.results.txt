@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . Integer > map = new org . apache . IDENT_0 . util . METHOD_1 ( 3 ) ; map . put ( STRING_0 , INT_0 ) ; map . put ( STRING_1 , INT_1 ) ; map . put ( STRING_2 , INT_2 ) ; "<AssertPlaceHolder>" ; java . util . Iterator < Map . Entry < java . lang . String , java . lang . Integer > > iterator = map . entrySet ( ) . iterator ( ) ; while ( iterator . hasNext ( ) ) { iterator . remove ( ) ; } } size ( ) { return IDENT_1 . size ( ) ; }
+org . junit . Assert . assertEquals ( 3 , map . size ( ) ) 

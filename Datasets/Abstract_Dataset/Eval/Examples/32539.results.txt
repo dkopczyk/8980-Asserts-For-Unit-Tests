@@ -1,0 +1,2 @@
+test ( ) { com . IDENT_0 . IDENT_1 . core . api . security . IDENT_2 factory = new com . IDENT_0 . IDENT_1 . core . api . security . METHOD_0 ( ) ; com . IDENT_0 . IDENT_1 . api . security . IDENT_3 IDENT_4 = new com . IDENT_0 . IDENT_1 . core . api . security . IDENT_5 . METHOD_1 ( ) ; factory . METHOD_2 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertNotNull ( factory . METHOD_3 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String id = STRING_0 ; model . METHOD_1 ( id ) ; when ( IDENT_0 . METHOD_2 ( anyString ( ) ) ) . thenReturn ( java . util . Arrays . asList ( new org . oscm . internal . IDENT_1 . METHOD_3 ( ) , new org . oscm . internal . IDENT_1 . METHOD_3 ( ) ) ) ; IDENT_2 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; verify ( IDENT_3 ) . METHOD_4 ( eq ( id ) ) ; } METHOD_5 ( ) { return services ; }
+org . junit . Assert . assertEquals ( 2 , model . METHOD_5 ( ) . size ( ) ) 

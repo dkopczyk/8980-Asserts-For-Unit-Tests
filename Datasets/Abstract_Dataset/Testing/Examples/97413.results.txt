@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . framework . web . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . framework . web . IDENT_1 . METHOD_1 ( ) ; IDENT_3 . run ( ) ; java . lang . Thread . sleep ( INT_0 ) ; "<AssertPlaceHolder>" ; } run ( ) { try { if ( ! ( this . IDENT_4 . get ( ) ) ) { METHOD_2 ( ) ; } } catch ( java . lang . Exception e ) { com . IDENT_0 . framework . IDENT_5 . service . impl . IDENT_6 . logger . error ( STRING_0 , e ) ; } }
+org . junit . Assert . assertTrue ( true ) 

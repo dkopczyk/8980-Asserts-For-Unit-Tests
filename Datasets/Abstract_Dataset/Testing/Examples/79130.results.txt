@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( false ) ; java . text . IDENT_0 pos = new java . text . METHOD_2 ( 0 ) ; METHOD_3 ( ) . METHOD_4 ( "a" , pos ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( pos . METHOD_5 ( ) , 0 ) 

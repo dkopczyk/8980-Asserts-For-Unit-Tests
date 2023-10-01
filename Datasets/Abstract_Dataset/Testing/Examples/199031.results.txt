@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File file = new java . io . File ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . class . getResource ( STRING_0 ) . METHOD_1 ( ) ) ; java . util . Map < java . lang . String , com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_6 > map = com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_7 . create ( file , false ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 2 , map . size ( ) ) 

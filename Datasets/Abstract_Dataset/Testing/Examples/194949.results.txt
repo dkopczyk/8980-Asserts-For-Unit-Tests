@@ -1,0 +1,2 @@
+METHOD_0 ( ) { double start = FLOAT_0 ; double end = FLOAT_1 ; org . jfree . data . IDENT_0 . IDENT_1 IDENT_2 = new org . jfree . data . IDENT_0 . METHOD_1 ( start , end ) ; org . jfree . data . IDENT_0 . METHOD_1 IDENT_3 = new org . jfree . data . IDENT_0 . METHOD_1 ( start , end ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_3 ) 

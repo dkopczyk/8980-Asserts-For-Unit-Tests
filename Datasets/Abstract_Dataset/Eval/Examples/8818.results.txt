@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 > IDENT_4 = org . apache . IDENT_0 . query . IDENT_5 . query ( org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . class ) . METHOD_1 ( IDENT_3 . IDENT_6 . eq ( STRING_0 ) ) . METHOD_2 ( IDENT_3 . IDENT_7 . count ( ) . METHOD_3 ( INT_0 ) ) . select ( context ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_8 . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_4 . size ( ) ) 

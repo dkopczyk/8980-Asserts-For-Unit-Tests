@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . data . IDENT_1 < java . lang . Integer > IDENT_2 = this . IDENT_3 . METHOD_1 ( null ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . json . JSONObject ) { return null ; }
+org . junit . Assert . assertNull ( IDENT_2 ) 

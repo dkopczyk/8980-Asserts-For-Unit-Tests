@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Object > list = new com . baeldung . java . list . METHOD_1 ( ) ; list . add ( STRING_0 ) ; list . add ( STRING_1 ) ; java . lang . Object [ ] array = list . toArray ( ) ; "<AssertPlaceHolder>" ; } toArray ( ) { return java . util . Arrays . METHOD_2 ( internal , internal . length ) ; }
+org . junit . Assert . assertArrayEquals ( new java . lang . Object [ ] { STRING_0 , STRING_1 } , array ) 

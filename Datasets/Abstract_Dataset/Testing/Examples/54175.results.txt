@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Object > parameters = org . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return org . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_1 ( STRING_1 , string ) ; }
+org . junit . Assert . assertThat ( parameters , org . hamcrest . CoreMatchers . equalTo ( java . util . Arrays . asList ( ( ( java . lang . Object ) ( "foo" ) ) ) ) ) 

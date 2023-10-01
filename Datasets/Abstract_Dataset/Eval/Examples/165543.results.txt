@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int actual = IDENT_0 . METHOD_1 ( 4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { for ( java . util . Map . Entry < java . lang . Integer , java . lang . String > entry : IDENT_1 . entrySet ( ) ) { if ( entry . getValue ( ) . equals ( IDENT_2 ) ) { return entry . getKey ( ) ; } } throw new org . apache . shardingsphere . core . exception . METHOD_2 ( STRING_0 ) ; }
+org . junit . Assert . assertThat ( actual , org . hamcrest . CoreMatchers . is ( 2 ) ) 

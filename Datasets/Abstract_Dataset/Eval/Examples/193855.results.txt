@@ -1,0 +1,2 @@
+METHOD_0 ( ) { br . com . IDENT_0 . IDENT_1 . client . IDENT_2 IDENT_3 = new br . com . IDENT_0 . IDENT_1 . client . METHOD_1 ( STRING_0 , null ) ; br . com . IDENT_0 . IDENT_1 . client . METHOD_1 IDENT_4 = new br . com . IDENT_0 . IDENT_1 . client . METHOD_1 ( STRING_0 , "value" ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_4 ) 

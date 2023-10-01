@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = edu . illinois . cs . IDENT_2 . core . IDENT_3 . IDENT_4 . METHOD_1 ( IDENT_0 ) ; boolean IDENT_5 = ! ( IDENT_1 . contains ( STRING_1 ) ) ; edu . illinois . cs . IDENT_2 . IDENT_6 . IDENT_3 . IDENT_7 . logger . error ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } error ( java . lang . String ) { System . err . println ( message ) ; java . lang . System . METHOD_2 ( ( - 1 ) ) ; }
+org . junit . Assert . assertEquals ( true , IDENT_5 ) 

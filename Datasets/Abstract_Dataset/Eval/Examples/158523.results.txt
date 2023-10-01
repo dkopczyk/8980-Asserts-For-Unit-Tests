@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . IDENT_0 . IDENT_1 . service . dto . IDENT_2 > IDENT_3 = IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . util . List < IDENT_5 > result = new java . util . ArrayList < IDENT_5 > ( ) ; for ( T t : repository . METHOD_1 ( ) ) { result . add ( mapper . map ( t , IDENT_6 ) ) ; } return result ; }
+org . junit . Assert . assertFalse ( IDENT_3 . isEmpty ( ) ) 

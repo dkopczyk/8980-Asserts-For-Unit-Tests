@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( "foo" , com . amazon . IDENT_1 . model . IDENT_2 . class ) ) . thenReturn ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . io . InputStream , java . lang . Class ) { try { return com . amazon . IDENT_1 . util . IDENT_4 . mapper . METHOD_1 ( IDENT_5 , type ) ; } catch ( java . io . IOException e ) { throw new com . amazon . IDENT_1 . exception . METHOD_3 ( STRING_0 , e ) ; } }
+org . junit . Assert . assertEquals ( serializer . METHOD_2 ( "foo" , com . amazon . IDENT_1 . model . IDENT_2 . class ) , IDENT_3 ) 

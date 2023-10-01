@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String expected = org . IDENT_0 . generator . exec . IDENT_1 . IDENT_2 . method ( STRING_0 , IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } execute ( org . IDENT_0 . javascript . IDENT_5 . IDENT_6 ) { }
+org . junit . Assert . assertEquals ( expected , execute ( org . IDENT_0 . generator . exec . IDENT_1 . IDENT_2 . class ) ) 

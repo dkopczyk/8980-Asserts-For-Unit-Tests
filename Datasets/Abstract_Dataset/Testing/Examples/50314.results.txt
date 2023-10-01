@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . IDENT_1 . persistence . hibernate . IDENT_2 query = new org . IDENT_1 . persistence . hibernate . METHOD_1 ( repository , IDENT_0 ) . METHOD_2 ( "name" , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( org . IDENT_1 . persistence . jpa . IDENT_3 ) { try { return ( ( T ) ( METHOD_4 ( IDENT_4 ) . METHOD_3 ( ) ) ) ; } catch ( javax . persistence . IDENT_5 e ) { return null ; } }
+org . junit . Assert . assertEquals ( 1L , repository . METHOD_3 ( query ) ) 

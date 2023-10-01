@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . get ( ) ) . thenReturn ( false ) ; com . facebook . IDENT_1 . IDENT_2 < java . lang . IDENT_3 > IDENT_4 = IDENT_5 . METHOD_1 ( IDENT_6 , IDENT_7 ) ; "<AssertPlaceHolder>" ; METHOD_2 ( IDENT_8 , IDENT_9 , IDENT_10 ) ; } METHOD_3 ( ) { return ( IDENT_11 ) == ( com . facebook . IDENT_1 . IDENT_12 . IDENT_13 . IDENT_14 ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . METHOD_3 ( ) ) 

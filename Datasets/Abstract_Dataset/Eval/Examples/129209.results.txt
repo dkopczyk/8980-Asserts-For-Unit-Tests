@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String path = com . IDENT_0 . IDENT_1 . IDENT_2 . config . IDENT_3 . class . getResource ( STRING_0 ) . getPath ( ) ; logger . debug ( STRING_1 , path ) ; com . IDENT_0 . IDENT_1 . IDENT_2 . config . IDENT_4 IDENT_5 = com . IDENT_0 . IDENT_1 . IDENT_2 . config . IDENT_3 . load ( path ) ; com . IDENT_0 . IDENT_1 . IDENT_2 . config . IDENT_6 IDENT_7 = IDENT_5 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertTrue ( IDENT_7 . METHOD_2 ( ) ) 

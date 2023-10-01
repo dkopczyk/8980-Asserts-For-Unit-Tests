@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . Integer > IDENT_0 = com . google . common . collect . Lists . newArrayList ( INT_0 , INT_1 , INT_2 , INT_3 , INT_4 , INT_5 , INT_6 , 12 , 15 , INT_7 , INT_8 ) ; java . util . List < java . lang . Integer > IDENT_1 = com . google . common . collect . IDENT_2 . METHOD_1 ( ) . METHOD_2 ( IDENT_0 , IDENT_0 . size ( ) ) ; com . IDENT_3 . java . IDENT_4 . IDENT_5 . logger . info ( IDENT_1 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( new java . lang . Integer ( INT_8 ) , IDENT_1 . get ( 0 ) ) 

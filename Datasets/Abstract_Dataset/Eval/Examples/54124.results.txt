@@ -1,0 +1,2 @@
+METHOD_0 ( ) { double result = org . IDENT_0 . IDENT_1 . IDENT_2 . min ( 1 , Double . IDENT_3 ) ; "<AssertPlaceHolder>" ; } min ( double , double ) { if ( java . lang . Double . METHOD_1 ( a ) ) { return b ; } if ( java . lang . Double . METHOD_1 ( b ) ) { return a ; } return java . lang . Math . min ( a , b ) ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . CoreMatchers . equalTo ( 1.0 ) ) 

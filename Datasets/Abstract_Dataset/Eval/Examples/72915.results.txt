@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . model . IDENT_1 . IDENT_2 a = new org . IDENT_0 . model . IDENT_1 . METHOD_1 ( ) ; org . IDENT_0 . model . IDENT_3 IDENT_4 = new org . IDENT_0 . model . METHOD_2 ( IDENT_5 ) ; java . util . List < org . IDENT_0 . model . IDENT_6 > IDENT_7 = a . METHOD_3 ( IDENT_4 ) ; "<AssertPlaceHolder>" ; IDENT_7 . METHOD_4 ( ) ; } METHOD_3 ( org . IDENT_0 . model . METHOD_2 ) { return IDENT_8 . METHOD_5 ( STRING_0 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_7 ) 

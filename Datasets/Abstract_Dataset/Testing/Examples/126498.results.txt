@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . joda . time . IDENT_0 IDENT_1 = new org . joda . time . METHOD_1 ( org . joda . time . IDENT_2 . now ( ) , org . joda . time . IDENT_2 . now ( ) . METHOD_2 ( 1 ) ) ; java . lang . Object value = new org . IDENT_3 . domain . converter . METHOD_3 ( ) . METHOD_4 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return key ; }
+org . junit . Assert . assertThat ( ( ( java . lang . String ) ( value ) ) , org . hamcrest . CoreMatchers . is ( IDENT_1 . toString ( ) ) ) 

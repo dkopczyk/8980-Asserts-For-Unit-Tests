@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date IDENT_0 = com . IDENT_1 . utils . IDENT_2 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( com . IDENT_1 . utils . Date ) { java . text . IDENT_3 IDENT_4 = new java . text . METHOD_2 ( com . IDENT_1 . utils . IDENT_2 . IDENT_5 ) ; IDENT_4 . METHOD_3 ( new com . IDENT_1 . utils . METHOD_4 ( 0 , com . IDENT_1 . utils . IDENT_2 . IDENT_6 ) ) ; return IDENT_4 . format ( date ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , com . IDENT_1 . utils . IDENT_2 . METHOD_0 ( IDENT_0 ) ) 

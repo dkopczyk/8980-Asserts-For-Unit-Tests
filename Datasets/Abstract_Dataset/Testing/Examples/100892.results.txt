@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . backend . IDENT_1 . IDENT_2 . IDENT_3 IDENT_2 = this . IDENT_4 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( javax . IDENT_5 . IDENT_6 . spi . IDENT_7 , java . lang . Class ) { final javax . IDENT_5 . IDENT_6 . spi . IDENT_8 < T > bean = ( ( javax . IDENT_5 . IDENT_6 . spi . IDENT_8 < T > ) ( IDENT_9 . METHOD_3 ( clazz ) . iterator ( ) . next ( ) ) ) ; return METHOD_4 ( IDENT_9 , clazz , bean ) ; }
+org . junit . Assert . assertNull ( this . IDENT_4 . METHOD_2 ( IDENT_2 , "a" ) ) 

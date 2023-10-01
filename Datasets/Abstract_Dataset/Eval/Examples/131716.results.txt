@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . util . repo . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . util . repo . IDENT_1 . METHOD_1 ( ) ; IDENT_3 . METHOD_2 ( com . google . common . collect . IDENT_4 . of ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { if ( IDENT_5 ) { return ( ( IDENT_6 ) == null ) || ( IDENT_6 . contains ( IDENT_7 ) ) ; } else { return ( ( IDENT_6 ) != null ) && ( ! ( IDENT_6 . contains ( IDENT_7 ) ) ) ; } }
+org . junit . Assert . assertFalse ( IDENT_3 . METHOD_3 ( STRING_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final io . IDENT_0 . IDENT_1 . domain . IDENT_2 . IDENT_3 IDENT_4 = IDENT_5 . resolve ( STRING_0 , io . IDENT_0 . IDENT_1 . domain . IDENT_2 . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } getProperty ( ) { return io . IDENT_0 . IDENT_1 . domain . IDENT_2 . IDENT_6 . IDENT_7 ; }
+org . junit . Assert . assertEquals ( IDENT_6 . IDENT_7 , IDENT_4 . getProperty ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . lang . model . element . IDENT_0 IDENT_1 = org . IDENT_2 . helper . IDENT_3 . METHOD_1 ( int . class , org . IDENT_2 . helper . Integer . class ) ; org . IDENT_2 . IDENT_4 IDENT_5 = new org . IDENT_2 . METHOD_2 ( "" , IDENT_1 ) ; validator . METHOD_3 ( IDENT_6 . IDENT_7 ) . METHOD_4 ( ) . validate ( IDENT_1 , IDENT_5 ) ; "<AssertPlaceHolder>" ; } isValid ( ) { return isValid ; }
+org . junit . Assert . assertTrue ( IDENT_5 . isValid ( ) ) 

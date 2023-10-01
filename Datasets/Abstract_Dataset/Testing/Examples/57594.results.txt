@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( org . eclipse . IDENT_0 . IDENT_1 . IDENT_2 ) { IDENT_3 . add ( java . lang . String . format ( STRING_0 , exception . getMessage ( ) ) ) ; return IDENT_4 ; }
+org . junit . Assert . assertFalse ( policy . METHOD_1 ( exception ) ) 

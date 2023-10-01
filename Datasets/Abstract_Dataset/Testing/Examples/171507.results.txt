@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( 20 , STRING_0 ) ; final com . spotify . IDENT_0 . Query get = com . spotify . IDENT_0 . IDENT_1 . query ( ) . METHOD_2 ( STRING_0 ) . METHOD_3 ( com . spotify . IDENT_0 . IDENT_1 . METHOD_4 ( STRING_1 , INT_0 ) ) ; final java . util . List < com . spotify . IDENT_0 . Entity > entities = datastore . execute ( get ) . METHOD_5 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return entities ; }
+org . junit . Assert . assertEquals ( 0 , entities . size ( ) ) 

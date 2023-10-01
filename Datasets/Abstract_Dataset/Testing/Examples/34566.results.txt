@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . bonitasoft . engine . events . IDENT_0 IDENT_1 = new org . bonitasoft . engine . events . METHOD_1 ( ) ; final org . bonitasoft . engine . events . IDENT_2 IDENT_3 = new org . bonitasoft . engine . events . METHOD_2 ( IDENT_4 ) ; IDENT_5 . METHOD_3 ( IDENT_4 , IDENT_1 ) ; IDENT_5 . METHOD_4 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; IDENT_5 . METHOD_5 ( IDENT_4 , IDENT_1 ) ; } METHOD_6 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertTrue ( IDENT_3 . METHOD_6 ( ) ) 

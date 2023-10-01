@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Collection < org . IDENT_0 . IDENT_1 . ui . model . IDENT_2 > IDENT_3 = mock ( java . util . Collection . class ) ; when ( IDENT_4 . METHOD_1 ( IDENT_5 ) ) . thenReturn ( IDENT_3 ) ; when ( IDENT_3 . isEmpty ( ) ) . thenReturn ( false ) ; "<AssertPlaceHolder>" ; verify ( IDENT_4 , times ( 1 ) ) . METHOD_1 ( IDENT_5 ) ; } METHOD_2 ( org . IDENT_0 . IDENT_1 . ui . model . IDENT_6 ) { METHOD_3 ( STRING_0 , IDENT_5 ) ; return ! ( IDENT_4 . METHOD_1 ( IDENT_5 ) . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( service . METHOD_2 ( IDENT_5 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . ibm . ws . IDENT_0 . osgi . internal . IDENT_1 . IDENT_2 helper = METHOD_1 ( true ) ; java . util . Collection < ? extends javax . IDENT_1 . IDENT_3 > IDENT_4 = helper . METHOD_2 ( IDENT_5 . IDENT_6 , STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { throw new java . lang . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_4 . size ( ) ) 

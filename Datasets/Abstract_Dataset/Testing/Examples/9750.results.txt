@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] data = new byte [ ] { 1 , 2 , 3 , 4 } ; try ( org . apache . commons . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 s = new org . apache . commons . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( new java . io . ByteArrayInputStream ( data ) ) ) { s . METHOD_2 ( 3 ) ; "<AssertPlaceHolder>" ; s . METHOD_3 ( new byte [ ] { 1 , 2 , 3 } ) ; } } read ( ) { throw new java . io . IOException ( STRING_0 ) ; }
+org . junit . Assert . assertEquals ( 1 , s . read ( ) ) 

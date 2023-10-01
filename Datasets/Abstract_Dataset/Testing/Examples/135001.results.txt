@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int p = m . METHOD_1 ( IDENT_0 ) ; int IDENT_1 = ( IDENT_0 ) * 2 ; char [ ] buf = new char [ IDENT_1 ] ; for ( int i = 0 ; i < IDENT_1 ; i ++ ) { buf [ i ] = ( ( char ) ( STRING_0 + i ) ) ; } m . METHOD_2 ( p , 0 , buf , 0 , IDENT_1 ) ; char [ ] out = new char [ IDENT_1 ] ; m . METHOD_3 ( p , 0 , out , 0 , IDENT_1 ) ; "<AssertPlaceHolder>" ; m . METHOD_4 ( p ) ; } METHOD_3 ( int , int , char [ ] , int , int ) { IDENT_2 . METHOD_3 ( IDENT_3 , ( ( IDENT_4 ) + IDENT_5 ) , IDENT_6 , IDENT_7 , IDENT_8 ) ; }
+org . junit . Assert . assertArrayEquals ( buf , out ) 

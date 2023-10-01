@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . IDENT_0 . api . IDENT_1 . IDENT_2 file = service . METHOD_1 ( STRING_0 , STRING_1 ) ; com . google . IDENT_0 . api . IDENT_1 . IDENT_3 channel = service . METHOD_2 ( file , true ) ; channel . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( com . google . IDENT_0 . api . IDENT_4 . IDENT_5 ) { com . google . IDENT_0 . api . IDENT_1 . IDENT_2 file = METHOD_5 ( IDENT_6 ) ; return METHOD_4 ( file ) ; }
+org . junit . Assert . assertTrue ( METHOD_4 ( file ) . isEmpty ( ) ) 

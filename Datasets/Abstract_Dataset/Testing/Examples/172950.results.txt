@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { this . IDENT_0 . put ( STRING_0 , null ) ; org . junit . Assert . fail ( STRING_1 ) ; } catch ( java . lang . IllegalArgumentException e ) { "<AssertPlaceHolder>" ; } } put ( java . lang . String , java . lang . String ) { org . springframework . util . Assert . METHOD_1 ( key , STRING_2 ) ; org . springframework . util . Assert . METHOD_1 ( value , STRING_3 ) ; this . map . put ( key , value ) ; }
+org . junit . Assert . assertEquals ( STRING_3 , e . getMessage ( ) ) 

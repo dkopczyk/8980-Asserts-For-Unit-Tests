@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . springframework . data . elasticsearch . core . query . IDENT_0 IDENT_1 = new org . springframework . data . elasticsearch . core . query . METHOD_1 ( ) . METHOD_2 ( METHOD_3 ( STRING_0 , STRING_1 ) ) . build ( ) ; final java . util . List < com . baeldung . IDENT_2 . data . IDENT_3 . model . IDENT_4 > IDENT_5 = IDENT_6 . METHOD_4 ( IDENT_1 , com . baeldung . IDENT_2 . data . IDENT_3 . model . IDENT_4 . class ) ; "<AssertPlaceHolder>" ; } size ( ) { return elements . size ( ) ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_5 . size ( ) ) 

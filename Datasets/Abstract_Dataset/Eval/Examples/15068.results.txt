@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . hive . jdbc . IDENT_0 stmt = new org . apache . hive . jdbc . METHOD_1 ( null , null , null ) ; stmt . METHOD_2 ( INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( IDENT_1 ) { throw new java . sql . METHOD_4 ( STRING_0 ) ; } return IDENT_2 ; }
+org . junit . Assert . assertEquals ( INT_0 , stmt . METHOD_3 ( ) ) 

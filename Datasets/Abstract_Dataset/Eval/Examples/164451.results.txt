@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; IDENT_0 . METHOD_2 ( ) . METHOD_3 ( 1 ) ; user . METHOD_4 ( ) . add ( IDENT_1 . IDENT_2 ) ; boolean b = IDENT_0 . METHOD_5 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return ( ( ( model . METHOD_6 ( ) ) <= 0 ) || ( ( ( model . METHOD_7 ( ) ) != null ) && ( IDENT_3 . IDENT_4 . equals ( model . METHOD_7 ( ) . getStatus ( ) ) ) ) ) || ( ! ( ui . METHOD_8 ( ) . METHOD_9 ( ) . METHOD_4 ( ) . contains ( IDENT_1 . IDENT_5 ) ) ) ; }
+org . junit . Assert . assertTrue ( b ) 

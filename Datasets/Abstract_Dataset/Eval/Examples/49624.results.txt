@@ -1,0 +1,2 @@
+test ( ) { METHOD_0 ( ) ; IDENT_0 . IDENT_1 . METHOD_1 ( ) . METHOD_2 ( IDENT_0 . internal . task . IDENT_2 . METHOD_3 ( STRING_0 ) ) . METHOD_4 ( new IDENT_0 . METHOD_5 ( ) { @ IDENT_3 . internal . task . Override public void METHOD_6 ( IDENT_0 . IDENT_4 ctx ) { "<AssertPlaceHolder>" ; } } ) . execute ( graph , null ) ; METHOD_7 ( ) ; } METHOD_8 ( ) { return ( ( IDENT_0 . internal . task . IDENT_5 < java . lang . String > ) ( IDENT_6 ) ) ; }
+org . junit . Assert . assertEquals ( ctx . METHOD_8 ( ) . get ( 0 ) , STRING_0 ) 

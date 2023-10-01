@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . web . catalog . utils . IDENT_1 response = new org . IDENT_0 . web . catalog . utils . METHOD_1 ( ) ; response . METHOD_0 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return errors ; }
+org . junit . Assert . assertFalse ( response . METHOD_2 ( ) . isEmpty ( ) ) 

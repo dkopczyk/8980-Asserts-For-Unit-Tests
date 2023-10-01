@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String expResult = STRING_0 ; java . lang . String result = de . IDENT_0 . IDENT_1 . util . IDENT_2 . IDENT_3 . instance . toString ( ) ; "<AssertPlaceHolder>" ; } toString ( ) { return java . lang . String . format ( STRING_1 , METHOD_1 ( IDENT_4 , 4 ) , METHOD_1 ( IDENT_5 , 4 ) ) ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

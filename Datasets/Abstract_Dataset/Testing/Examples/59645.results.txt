@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . service . authentication . IDENT_1 . exceptions . IDENT_2 ex = new org . eclipse . IDENT_0 . service . authentication . IDENT_1 . exceptions . METHOD_1 ( new java . util . Date ( ) ) ; "<AssertPlaceHolder>" ; } getMessage ( ) { return message ; }
+org . junit . Assert . assertNotNull ( ex . getMessage ( ) ) 

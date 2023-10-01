@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openmrs . IDENT_0 location = new org . openmrs . METHOD_1 ( ) ; location . setName ( STRING_0 ) ; location . METHOD_2 ( STRING_1 ) ; org . springframework . validation . IDENT_1 errors = new org . springframework . validation . METHOD_3 ( location , STRING_2 ) ; new org . openmrs . validator . METHOD_4 ( ) . validate ( location , errors ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertFalse ( errors . METHOD_5 ( ) ) 

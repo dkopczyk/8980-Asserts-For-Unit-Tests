@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . easymock . EasyMock . expect ( IDENT_0 . METHOD_1 ( IDENT_1 , IDENT_2 , IDENT_3 ) ) . andReturn ( false ) . METHOD_2 ( ) ; org . easymock . EasyMock . replay ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } from ( com . facebook . buck . file . IDENT_0 . IDENT_4 , int ) { return new com . facebook . buck . file . IDENT_0 . impl . METHOD_3 ( IDENT_0 , IDENT_5 ) ; }
+org . junit . Assert . assertFalse ( com . facebook . buck . file . IDENT_0 . impl . METHOD_3 . from ( IDENT_0 , 3 ) . METHOD_1 ( IDENT_1 , IDENT_2 , IDENT_3 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . collections . api . IDENT_0 < java . lang . Integer > IDENT_1 = this . METHOD_1 ( 2 , 4 , 1 , 3 ) ; org . eclipse . collections . api . list . IDENT_2 < java . lang . Integer > list = IDENT_1 . METHOD_0 ( String :: valueOf ) ; "<AssertPlaceHolder>" ; } with ( IDENT_3 , IDENT_4 , IDENT_3 , IDENT_4 ) { return org . eclipse . collections . impl . IDENT_5 . mutable . IDENT_6 . METHOD_2 ( IDENT_7 , IDENT_8 , IDENT_9 , IDENT_10 ) ; }
+org . junit . Assert . assertEquals ( Lists . mutable . with ( 1 , 2 , 3 , 4 ) , list ) 

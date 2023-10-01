@@ -1,0 +1,2 @@
+METHOD_0 ( ) { group = new org . IDENT_0 . IDENT_1 . METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 ) ; final org . IDENT_0 . IDENT_1 . IDENT_4 key = org . IDENT_0 . IDENT_1 . IDENT_4 . METHOD_2 ( BigInteger . IDENT_5 ) ; group . METHOD_3 ( key ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { IDENT_6 . METHOD_5 ( ) ; try { METHOD_6 ( ) ; return IDENT_7 . METHOD_4 ( ) ; } finally { IDENT_6 . METHOD_7 ( ) ; } }
+org . junit . Assert . assertFalse ( group . METHOD_4 ( ) ) 

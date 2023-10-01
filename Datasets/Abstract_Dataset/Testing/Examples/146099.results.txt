@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . di . engine . configuration . impl . pentaho . IDENT_0 IDENT_1 = new org . pentaho . di . engine . configuration . impl . pentaho . METHOD_1 ( ) ; IDENT_1 . METHOD_2 ( true ) ; org . pentaho . di . IDENT_2 . IDENT_3 IDENT_4 = new org . pentaho . di . IDENT_2 . METHOD_3 ( ) ; IDENT_5 . execute ( IDENT_1 , IDENT_4 , IDENT_6 , IDENT_7 , null ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertTrue ( IDENT_4 . METHOD_4 ( ) ) 

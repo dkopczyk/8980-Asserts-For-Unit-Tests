@@ -1,0 +1,2 @@
+METHOD_0 ( ) { hudson . IDENT_0 . IDENT_1 IDENT_2 = new hudson . IDENT_0 . IDENT_3 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return hudson . util . IDENT_4 . METHOD_3 ( this , hudson . IDENT_0 . IDENT_1 . IDENT_5 ) . getValue ( ) ; }
+org . junit . Assert . assertNull ( IDENT_2 . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String id = STRING_1 + IDENT_0 ; java . lang . String IDENT_1 = com . vmware . IDENT_2 . adapter . IDENT_3 . IDENT_4 . getId ( id ) ; "<AssertPlaceHolder>" ; } getId ( java . lang . String ) { if ( id . startsWith ( STRING_1 ) ) { return id . substring ( STRING_1 . length ( ) ) ; } return id ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_1 ) 

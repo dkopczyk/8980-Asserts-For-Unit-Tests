@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . logging . log4j . IDENT_0 IDENT_1 = org . apache . logging . log4j . IDENT_2 . METHOD_1 ( org . apache . logging . log4j . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class ) { final java . lang . Class < ? > IDENT_4 = org . apache . logging . log4j . IDENT_2 . METHOD_2 ( clazz ) ; return org . apache . logging . log4j . IDENT_2 . METHOD_3 ( IDENT_4 . METHOD_4 ( ) , false ) . METHOD_1 ( org . apache . logging . log4j . IDENT_2 . METHOD_5 ( IDENT_4 ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_1 ) 

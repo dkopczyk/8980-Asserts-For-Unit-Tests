@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String sql = STRING_0 ; org . teiid . query . resolver . IDENT_0 c = METHOD_1 ( sql ) ; "<AssertPlaceHolder>" ; METHOD_2 ( c , new java . lang . Class [ ] { org . teiid . query . resolver . Integer . class } ) ; } toString ( ) { java . lang . StringBuilder sb = new java . lang . StringBuilder ( ) ; sb . append ( this . IDENT_1 ) ; sb . append ( this . type ) ; sb . append ( this . IDENT_2 ) ; return sb . toString ( ) ; }
+org . junit . Assert . assertEquals ( sql , c . toString ( ) ) 

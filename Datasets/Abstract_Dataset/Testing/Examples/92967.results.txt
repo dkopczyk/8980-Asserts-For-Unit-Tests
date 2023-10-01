@@ -1,0 +1,2 @@
+METHOD_0 ( ) { handler . METHOD_1 ( STRING_0 , STRING_1 , INT_0 ) . METHOD_2 ( STRING_2 ) ; boolean IDENT_0 = IDENT_1 . METHOD_3 ( STRING_3 , new com . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . entity . METHOD_4 ( STRING_4 , 1 ) , new com . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_5 ( file , null ) , file . length ( ) , true ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . lang . String , int ) { return METHOD_1 ( true , method , url , IDENT_7 ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 ) 

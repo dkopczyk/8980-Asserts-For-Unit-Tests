@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] args = new java . lang . String [ ] { STRING_0 , STRING_0 , STRING_0 } ; org . apache . beam . sdk . options . IDENT_0 . Arrays options = org . apache . beam . sdk . options . IDENT_1 . METHOD_1 ( args ) . as ( org . apache . beam . sdk . options . IDENT_0 . Arrays . class ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertArrayEquals ( new java . lang . String [ ] { "" , "" , "" } , options . getString ( ) ) 

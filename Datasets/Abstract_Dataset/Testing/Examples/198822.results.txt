@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . IDENT_0 < java . lang . Double > set = new uk . co . IDENT_1 . mockito . collections . util . IDENT_2 < java . lang . Double > ( ) ; set . addAll ( java . util . Arrays . asList ( FLOAT_0 , FLOAT_1 , FLOAT_2 ) ) ; boolean IDENT_3 = set . METHOD_1 ( java . util . Arrays . asList ( FLOAT_3 , FLOAT_4 , FLOAT_5 ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertFalse ( METHOD_1 ) 

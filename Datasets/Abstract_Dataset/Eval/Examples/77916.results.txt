@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . google . IDENT_0 . api . datastore . Entity > results = METHOD_1 ( METHOD_2 ( 2 ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( com . google . IDENT_0 . api . datastore . IDENT_1 ) { com . google . IDENT_0 . api . datastore . Query query = new com . google . IDENT_0 . api . datastore . Query ( STRING_0 ) . METHOD_3 ( "bar" ) ; return service . METHOD_4 ( query ) . METHOD_5 ( IDENT_2 ) ; }
+org . junit . Assert . assertEquals ( 5 , results . size ( ) ) 

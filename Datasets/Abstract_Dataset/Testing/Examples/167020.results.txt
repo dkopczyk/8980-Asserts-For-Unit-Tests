@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( IDENT_0 . get ( ) ) == null ) { IDENT_0 . METHOD_2 ( null , new com . IDENT_1 . api . internal . METHOD_3 ( this ) ) ; } return IDENT_0 . get ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_1 . METHOD_1 ( ) ) 

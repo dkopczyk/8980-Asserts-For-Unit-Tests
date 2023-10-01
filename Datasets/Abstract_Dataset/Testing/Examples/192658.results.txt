@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( org . IDENT_0 . io . IDENT_1 pos = new org . IDENT_0 . io . METHOD_1 ( INT_0 ) ) { try ( java . io . InputStream is = pos . METHOD_2 ( ) ) { pos . write ( INT_1 ) ; pos . METHOD_3 ( ) ; int val = is . read ( ) ; "<AssertPlaceHolder>" ; } pos . write ( INT_1 ) ; } } read ( ) { int result = is . read ( ) ; if ( result >= 0 ) { IDENT_2 . METHOD_4 ( from ) . record ( 1 ) ; } return result ; }
+org . junit . Assert . assertEquals ( INT_1 , val ) 

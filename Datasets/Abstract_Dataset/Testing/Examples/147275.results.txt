@@ -1,0 +1,2 @@
+METHOD_0 ( ) { spark . route . IDENT_0 method = spark . route . IDENT_0 . get ( STRING_0 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { spark . route . IDENT_0 method = spark . route . IDENT_0 . methods . get ( IDENT_1 ) ; return method != null ? method : spark . route . IDENT_0 . IDENT_2 ; }
+org . junit . Assert . assertEquals ( IDENT_0 . IDENT_2 , method ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Long IDENT_0 = INT_0 ; METHOD_1 ( this . page . METHOD_2 ( ) ) . METHOD_3 ( IDENT_0 ) ; java . lang . Object content = org . springframework . IDENT_1 . page . ui . IDENT_2 . getInstance ( ) . METHOD_4 ( this . page ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( content , org . hamcrest . CoreMatchers . is ( org . hamcrest . CoreMatchers . equalTo ( ( ( java . lang . Object ) ( IDENT_0 ) ) ) ) ) 

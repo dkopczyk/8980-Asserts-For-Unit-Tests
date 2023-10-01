@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . mongodb . client . IDENT_0 < org . bson . Document > IDENT_1 = IDENT_2 . find ( ) . iterator ( ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { return METHOD_1 ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_1 . hasNext ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < ? extends nl . bzk . brp . model . IDENT_0 . IDENT_1 > IDENT_2 = IDENT_3 . METHOD_1 ( nl . bzk . brp . model . algemeen . IDENT_4 . kern . IDENT_5 . class ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return IDENT_6 . isEmpty ( ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 . isEmpty ( ) ) 

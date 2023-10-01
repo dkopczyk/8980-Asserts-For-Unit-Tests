@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . math . BigDecimal IDENT_0 = BigDecimal . IDENT_1 . METHOD_1 ( new java . math . BigDecimal ( STRING_0 ) ) ; int result = IDENT_0 . compareTo ( new java . math . BigDecimal ( STRING_1 ) ) ; "<AssertPlaceHolder>" ; } compareTo ( org . IDENT_2 . IDENT_3 . java . lang . IDENT_4 ) { return org . IDENT_2 . IDENT_3 . java . lang . IDENT_4 . compare ( value , other . value ) ; }
+org . junit . Assert . assertEquals ( 0 , result ) 

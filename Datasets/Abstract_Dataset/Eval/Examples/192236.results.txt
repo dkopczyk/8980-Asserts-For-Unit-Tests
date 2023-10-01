@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 f = new org . IDENT_0 . METHOD_1 ( STRING_0 . getBytes ( ) ) ; org . IDENT_0 . METHOD_1 IDENT_2 = f . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } is ( int ) { return ( get ( ) ) == err ; }
+org . junit . Assert . assertThat ( IDENT_2 , org . hamcrest . CoreMatchers . is ( f ) ) 

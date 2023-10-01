@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String query = STRING_0 ; com . IDENT_0 . core . query . IDENT_1 IDENT_2 = new com . IDENT_0 . core . query . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; System . out . println ( IDENT_2 ) ; } METHOD_2 ( java . lang . String , int ) { com . IDENT_0 . core . query . METHOD_1 . IDENT_3 p = new com . IDENT_0 . core . query . METHOD_1 . METHOD_3 ( this , IDENT_4 ) ; if ( p . parse ( query ) ) { return ( expressions . size ( ) ) > 0 ; } return false ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_2 ( query , 1 ) ) 

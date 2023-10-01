@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . IDENT_0 < org . oscm . IDENT_1 . dao . model . IDENT_2 > result = IDENT_3 . METHOD_1 ( IDENT_4 , IDENT_5 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return false ; }
+org . junit . Assert . assertTrue ( result . isEmpty ( ) ) 

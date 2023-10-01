@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . concurrent . atomic . IDENT_0 IDENT_1 = IDENT_2 . METHOD_1 ( ) ; com . jboss . IDENT_3 . ws . client . test . IDENT_4 IDENT_5 = IDENT_6 . METHOD_2 ( IDENT_1 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . Integer ) { return IDENT_7 . METHOD_2 ( IDENT_8 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_5 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String str = STRING_0 ; gov . hhs . fha . nhinc . IDENT_0 . IDENT_1 instance = new gov . hhs . fha . nhinc . IDENT_0 . METHOD_1 ( null , null , null ) ; gov . hhs . fha . nhinc . IDENT_0 . METHOD_1 result = instance . subject ( str ) ; "<AssertPlaceHolder>" ; } subject ( java . lang . String ) { subject = str ; return this ; }
+org . junit . Assert . assertTrue ( ( result instanceof gov . hhs . fha . nhinc . IDENT_0 . METHOD_1 ) ) 

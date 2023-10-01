@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . IDENT_2 . config . IDENT_3 config = null ; com . github . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 actual = com . github . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 . getInstance ( config ) ; "<AssertPlaceHolder>" ; } getInstance ( com . github . IDENT_0 . IDENT_1 . IDENT_2 . config . IDENT_3 ) { com . github . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 IDENT_1 = new com . github . IDENT_0 . IDENT_1 . IDENT_2 . impl . METHOD_1 ( ) ; IDENT_1 . METHOD_2 ( config ) ; return IDENT_1 ; }
+org . junit . Assert . assertNotNull ( actual ) 

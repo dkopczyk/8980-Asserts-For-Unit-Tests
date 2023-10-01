@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Collection < org . IDENT_0 . IDENT_1 . javascript . IDENT_2 . IDENT_3 . IDENT_4 > IDENT_3 = org . IDENT_0 . IDENT_1 . javascript . IDENT_2 . IDENT_3 . IDENT_5 . METHOD_1 ( STRING_0 , STRING_1 , STRING_2 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return IDENT_6 . getPath ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_3 . toString ( ) , IDENT_3 . isEmpty ( ) ) 

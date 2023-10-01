@@ -1,0 +1,2 @@
+METHOD_0 ( ) { replay ( IDENT_0 ) ; IDENT_1 . load ( IDENT_2 , null , METHOD_1 ( ) , STRING_0 , 0 , 0 , "" ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . io . InputStream in = new java . io . ByteArrayInputStream ( new byte [ ] { } ) { @ org . IDENT_3 . format . IDENT_4 . Override public void close ( ) throws java . io . IOException { IDENT_5 = true ; throw new java . io . IOException ( STRING_1 ) ; } } ; return in ; }
+org . junit . Assert . assertTrue ( IDENT_5 ) 

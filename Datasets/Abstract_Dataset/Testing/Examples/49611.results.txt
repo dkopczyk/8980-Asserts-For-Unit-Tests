@@ -1,0 +1,2 @@
+test ( ) { IDENT_0 . IDENT_1 g = IDENT_0 . IDENT_2 . METHOD_0 ( ) . METHOD_1 ( new IDENT_0 . IDENT_3 . METHOD_2 ( ) ) . build ( ) ; g . connect ( null ) ; IDENT_0 . Node n = g . METHOD_3 ( 0 , 0 ) ; n . set ( "name" , Type . IDENT_4 , STRING_0 ) ; IDENT_0 . Node IDENT_5 = ( ( IDENT_0 . base . IDENT_6 ) ( n ) ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; IDENT_5 . METHOD_5 ( ) ; n . METHOD_5 ( ) ; } get ( int ) { return backend [ index ] ; }
+org . junit . Assert . assertEquals ( IDENT_5 . get ( "name" ) , n . get ( "name" ) ) 

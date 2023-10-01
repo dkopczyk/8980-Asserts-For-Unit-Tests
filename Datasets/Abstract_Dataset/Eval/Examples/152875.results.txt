@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . client . IDENT_1 . IDENT_2 header = METHOD_1 ( com . IDENT_0 . client . IDENT_1 . IDENT_3 . IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( 16 , header . METHOD_0 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nd4j . linalg . api . ndarray . INDArray IDENT_0 = org . nd4j . linalg . factory . Nd4j . create ( 1 , 4 ) ; org . nd4j . linalg . api . ndarray . INDArray IDENT_1 = IDENT_0 . METHOD_1 ( 4 , 4 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . nd4j . linalg . api . METHOD_2 . IDENT_2 . METHOD_2 ( IDENT_3 ) ; }
+org . junit . Assert . assertTrue ( java . util . Arrays . equals ( new long [ ] { 4 , 16 } , METHOD_1 . METHOD_2 ( ) ) ) 

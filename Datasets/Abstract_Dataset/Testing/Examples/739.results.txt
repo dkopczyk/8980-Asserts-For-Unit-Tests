@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . business . pool . entity . IDENT_1 IDENT_2 = this . IDENT_3 . METHOD_1 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { final javax . json . IDENT_4 IDENT_5 = METHOD_3 ( ) ; if ( IDENT_5 == null ) { return IDENT_6 ; } int value = IDENT_5 . METHOD_4 ( STRING_2 ) ; METHOD_0 . set ( value ) ; return this . METHOD_0 ; }
+org . junit . Assert . assertNotNull ( IDENT_2 . METHOD_2 ( ) ) 

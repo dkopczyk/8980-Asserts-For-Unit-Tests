@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . auth . IDENT_1 p = auth . METHOD_1 ( request ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . jboss . IDENT_2 . spi . IDENT_3 ) { return new org . IDENT_0 . auth . METHOD_2 ( ) ; }
+org . junit . Assert . assertNull ( p ) 

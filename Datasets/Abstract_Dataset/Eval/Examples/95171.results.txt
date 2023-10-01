@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < javax . mail . IDENT_0 . IDENT_1 > IDENT_2 = hudson . plugins . IDENT_3 . IDENT_4 . METHOD_1 ( STRING_0 , IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String [ ] ) { final java . util . Set < javax . mail . IDENT_0 . IDENT_1 > IDENT_6 = new java . util . METHOD_3 ( ) ; for ( java . lang . String IDENT_7 : IDENT_8 ) { IDENT_6 . add ( new javax . mail . IDENT_0 . METHOD_4 ( IDENT_7 ) ) ; } return IDENT_6 ; }
+org . junit . Assert . assertEquals ( METHOD_2 ( STRING_0 ) , IDENT_2 ) 

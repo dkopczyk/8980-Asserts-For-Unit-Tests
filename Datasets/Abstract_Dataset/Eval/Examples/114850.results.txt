@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( ) ) . thenReturn ( 200 ) ; io . IDENT_1 . rest . model . IDENT_2 < java . lang . String > response = new io . IDENT_1 . rest . model . METHOD_2 ( IDENT_0 , "test" ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( METHOD_1 ( ) ) < INT_0 ; }
+org . junit . Assert . assertThat ( response . METHOD_3 ( ) , org . hamcrest . CoreMatchers . is ( true ) ) 

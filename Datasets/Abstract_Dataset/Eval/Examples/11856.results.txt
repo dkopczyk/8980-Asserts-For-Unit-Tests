@@ -1,0 +1,2 @@
+METHOD_0 ( ) { connection . METHOD_1 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; connection . METHOD_2 ( ) ; connection . close ( ) ; } METHOD_3 ( ) { return ( session ) != null ; }
+org . junit . Assert . assertTrue ( connection . METHOD_3 ( ) ) 

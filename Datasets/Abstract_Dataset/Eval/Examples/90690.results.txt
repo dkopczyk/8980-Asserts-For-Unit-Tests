@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; java . sql . IDENT_0 expResult = edu . IDENT_1 . IDENT_2 . IDENT_3 . authorization . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return this . IDENT_7 ; }
+org . junit . Assert . assertEquals ( expResult , edu . IDENT_1 . IDENT_2 . IDENT_3 . authorization . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_1 ( ) ) 

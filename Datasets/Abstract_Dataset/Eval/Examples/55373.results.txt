@@ -1,0 +1,2 @@
+METHOD_0 ( ) { backend . put ( STRING_0 , STRING_1 ) ; IDENT_0 . delete ( STRING_0 ) ; "<AssertPlaceHolder>" ; } get ( com . IDENT_1 . service . job . IDENT_2 . IDENT_3 ) { try { return IDENT_4 . get ( IDENT_5 ) ; } catch ( java . util . concurrent . IDENT_6 ex ) { throw com . google . common . base . IDENT_7 . METHOD_1 ( ex . METHOD_2 ( ) ) ; } }
+org . junit . Assert . assertNull ( backend . get ( STRING_0 ) ) 

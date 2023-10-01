@@ -1,0 +1,2 @@
+METHOD_0 ( ) { subject = new net . ripe . db . whois . query . query . METHOD_1 ( "test" ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return value ; }
+org . junit . Assert . assertThat ( subject . getValue ( ) , org . hamcrest . Matchers . is ( "test" ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long expected = - 3 ; long actual = IDENT_0 . METHOD_1 ( INT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Long ) { return OP_0 l ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

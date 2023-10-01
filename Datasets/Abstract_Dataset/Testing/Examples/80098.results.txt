@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . management . model . api . IDENT_1 api = mock ( io . IDENT_0 . management . model . api . IDENT_1 . class ) ; when ( api . METHOD_1 ( ) ) . thenReturn ( null ) ; boolean IDENT_2 = IDENT_3 . isValid ( api ) ; "<AssertPlaceHolder>" ; } isValid ( io . IDENT_0 . management . model . api . IDENT_1 ) { return ( ( api . METHOD_2 ( ) ) != null ) && ( ! ( api . METHOD_2 ( ) . isEmpty ( ) ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 ) 

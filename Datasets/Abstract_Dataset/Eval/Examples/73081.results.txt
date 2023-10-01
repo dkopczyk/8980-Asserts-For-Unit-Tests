@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int exceptions = 0 ; try { IDENT_0 . METHOD_1 ( ) ; } catch ( java . lang . IDENT_1 IDENT_2 ) { exceptions ++ ; } try { IDENT_3 . METHOD_1 ( ) ; } catch ( java . lang . IDENT_1 IDENT_2 ) { exceptions ++ ; } try { IDENT_4 . METHOD_1 ( ) ; } catch ( java . lang . IDENT_1 IDENT_2 ) { exceptions ++ ; } "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return new me . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( 3 , exceptions ) 

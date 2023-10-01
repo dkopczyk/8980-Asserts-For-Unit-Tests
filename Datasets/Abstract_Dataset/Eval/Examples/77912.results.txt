@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . IDENT_0 . api . IDENT_1 . set ( IDENT_2 [ 1 ] ) ; com . google . IDENT_0 . api . datastore . Query q = new com . google . IDENT_0 . api . datastore . Query ( IDENT_3 ) ; q . METHOD_1 ( new com . google . IDENT_0 . api . datastore . Query . METHOD_2 ( STRING_0 , Query . IDENT_4 . IDENT_5 , ( ( IDENT_6 [ 2 ] ) + 1 ) ) ) ; int IDENT_7 = service . METHOD_3 ( q ) . METHOD_4 ( IDENT_8 . Builder . METHOD_5 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_8 . Builder . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_7 ) 

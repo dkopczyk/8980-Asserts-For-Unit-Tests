@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = org . hibernate . id . IDENT_1 . IDENT_2 ; me . IDENT_3 . IDENT_4 . IDENT_5 . order . entity . IDENT_6 IDENT_7 = new me . IDENT_3 . IDENT_4 . IDENT_5 . order . entity . METHOD_1 ( ) ; IDENT_7 . METHOD_2 ( BigDecimal . IDENT_8 ) ; IDENT_7 . METHOD_3 ( IDENT_0 ) ; IDENT_9 . save ( IDENT_7 ) ; me . IDENT_3 . IDENT_4 . IDENT_5 . order . entity . METHOD_1 IDENT_10 = IDENT_9 . METHOD_4 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_0 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_10 . METHOD_5 ( ) ) 

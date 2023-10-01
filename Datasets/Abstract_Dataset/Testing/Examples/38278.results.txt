@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . persistence . IDENT_0 IDENT_1 = new org . jboss . IDENT_2 . jpa . METHOD_1 ( new org . jboss . test . IDENT_2 . jpa . support . METHOD_2 ( ) ) ; javax . persistence . IDENT_3 em = IDENT_1 . METHOD_3 ( ) ; org . jboss . test . IDENT_2 . jpa . support . Person person = new org . jboss . test . IDENT_2 . jpa . support . Person ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( T ) { T entity = METHOD_5 ( t ) ; T IDENT_4 = delegate . METHOD_4 ( entity ) ; return METHOD_6 ( IDENT_4 ) ; }
+org . junit . Assert . assertSame ( person , em . METHOD_4 ( person ) ) 

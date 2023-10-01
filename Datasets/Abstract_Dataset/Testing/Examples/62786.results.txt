@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . IDENT_1 array = new com . eclipsesource . IDENT_0 . METHOD_1 ( IDENT_0 ) ; com . eclipsesource . IDENT_0 . utils . IDENT_2 . METHOD_2 ( IDENT_0 , array , 7 ) ; "<AssertPlaceHolder>" ; array . close ( ) ; } METHOD_3 ( java . lang . String ) { throw new java . lang . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( 7 , array . METHOD_3 ( 0 ) ) 

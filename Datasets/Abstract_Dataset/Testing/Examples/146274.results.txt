@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . platform . api . engine . IDENT_0 ex = new org . pentaho . platform . api . engine . METHOD_1 ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_1 ; }
+org . junit . Assert . assertEquals ( STRING_1 , ex . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new com . eclipsesource . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; com . eclipsesource . IDENT_0 . device . IDENT_4 . IDENT_5 platform = IDENT_3 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return platform ; }
+org . junit . Assert . assertNull ( platform ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { message . METHOD_1 ( "foo" , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { java . util . List < java . lang . String > values = headers . get ( name ) ; if ( values == null ) { return null ; } else { java . util . Iterator < java . lang . String > iterator = values . iterator ( ) ; return iterator . next ( ) ; } }
+org . junit . Assert . assertEquals ( STRING_0 , message . METHOD_2 ( "foo" ) ) 

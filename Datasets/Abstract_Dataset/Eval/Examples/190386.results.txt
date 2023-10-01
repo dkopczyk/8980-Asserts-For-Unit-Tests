@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] script = STRING_0 . getBytes ( ) ; byte [ ] args = "foo" . getBytes ( ) ; IDENT_0 . METHOD_1 ( script , 1 , args ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { return new redis . IDENT_1 . IDENT_2 . IDENT_3 < java . lang . String > ( IDENT_4 , IDENT_5 ) { @ redis . IDENT_1 . IDENT_2 . Override public redis . IDENT_1 . IDENT_2 . String execute ( redis . IDENT_1 . IDENT_2 . IDENT_6 connection ) { return connection . get ( key ) ; } } . run ( key ) ; }
+org . junit . Assert . assertEquals ( "bar" , IDENT_0 . get ( "foo" ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int size = 4 ; org . openscience . cdk . graph . IDENT_0 IDENT_1 = new org . openscience . cdk . graph . METHOD_1 ( size ) ; int [ ] random = IDENT_1 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( int [ ] ) { java . util . IDENT_2 IDENT_3 = new java . util . METHOD_4 ( array . length ) ; for ( int index = 0 ; index < ( array . length ) ; index ++ ) { if ( IDENT_3 . get ( index ) ) { return false ; } else { IDENT_3 . set ( index ) ; } } return true ; }
+org . junit . Assert . assertTrue ( METHOD_3 ( random ) ) 

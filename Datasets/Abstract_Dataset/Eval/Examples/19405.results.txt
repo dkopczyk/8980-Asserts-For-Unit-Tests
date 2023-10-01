@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = org . apache . IDENT_1 . core . IDENT_2 . encode ( "/" ) ; "<AssertPlaceHolder>" ; } encode ( java . lang . String ) { if ( ( s == null ) || ( ( s . length ( ) ) == 0 ) ) { return s ; } return s . replace ( STRING_0 , STRING_1 ) . replace ( "/" , STRING_2 ) ; }
+org . junit . Assert . assertEquals ( STRING_2 , IDENT_0 ) 

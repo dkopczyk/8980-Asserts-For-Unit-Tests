@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String name = STRING_0 ; java . lang . String action = STRING_1 ; com . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . IDENT_3 > response = IDENT_4 . METHOD_1 ( name , action ) ; "<AssertPlaceHolder>" ; } getStatusCode ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( 200 , response . getStatusCode ( ) ) 

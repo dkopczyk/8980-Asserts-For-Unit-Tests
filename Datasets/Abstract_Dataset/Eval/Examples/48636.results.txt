@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . edu . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new IDENT_0 . edu . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( java . util . Arrays . asList ( 100 , 200 ) , 1 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { int p = 1 ; for ( int i = 0 ; i < ( IDENT_6 ) ; ++ i ) { p OP_0 d [ i ] ; } return p ; }
+org . junit . Assert . assertEquals ( IDENT_5 . METHOD_0 ( ) , ( 100 * 200 ) ) 

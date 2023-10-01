@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . jcr . Node n = METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return IDENT_0 ; }
+org . junit . Assert . assertEquals ( STRING_0 , n . getName ( ) ) 

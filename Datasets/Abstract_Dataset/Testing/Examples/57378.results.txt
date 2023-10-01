@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . Date IDENT_0 = new java . sql . Date ( INT_0 ) ; java . lang . String format = type . METHOD_1 ( IDENT_0 ) ; java . sql . Date IDENT_1 = type . parse ( format ) ; "<AssertPlaceHolder>" ; } parse ( java . lang . String ) { return IDENT_2 . parse ( value ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_0 ) 

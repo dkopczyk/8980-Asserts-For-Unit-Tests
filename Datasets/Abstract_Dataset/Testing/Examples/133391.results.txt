@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nuxeo . common . utils . Path IDENT_0 = new org . nuxeo . common . utils . Path ( STRING_0 ) ; org . nuxeo . common . utils . Path IDENT_1 = new org . nuxeo . common . utils . Path ( STRING_1 ) ; org . nuxeo . common . utils . Path IDENT_2 = new org . nuxeo . common . utils . Path ( STRING_2 ) ; "<AssertPlaceHolder>" ; } append ( java . lang . String ) { append ( text , IDENT_3 . IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 . append ( IDENT_1 ) , IDENT_2 ) 

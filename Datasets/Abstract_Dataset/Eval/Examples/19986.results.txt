@@ -1,0 +1,2 @@
+test ( ) { final org . apache . IDENT_0 . metadata . IDENT_1 . IDENT_2 registry = org . apache . IDENT_0 . metadata . IDENT_1 . IDENT_2 . getInstance ( org . apache . IDENT_0 . common . IDENT_3 . METHOD_0 ( ) ) ; final java . util . Set < org . apache . IDENT_0 . metadata . IDENT_1 . IDENT_4 > IDENT_5 = registry . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } values ( ) { return IDENT_6 . values ( ) ; }
+org . junit . Assert . assertEquals ( ( ( org . apache . IDENT_0 . metadata . IDENT_1 . IDENT_4 . values ( ) . length ) - 1 ) , IDENT_5 . size ( ) ) 

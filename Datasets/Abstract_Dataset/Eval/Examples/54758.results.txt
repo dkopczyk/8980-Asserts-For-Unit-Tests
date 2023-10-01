@@ -1,0 +1,2 @@
+METHOD_0 ( ) { builder . METHOD_1 ( org . IDENT_0 . tc . IDENT_1 . METHOD_1 . builder . IDENT_2 , STRING_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return name ; }
+org . junit . Assert . assertEquals ( builder . type . toString ( ) , org . IDENT_0 . tc . IDENT_1 . METHOD_1 . builder . IDENT_2 . toString ( ) ) 

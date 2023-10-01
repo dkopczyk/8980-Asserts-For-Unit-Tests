@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . camunda . bpm . IDENT_0 IDENT_1 = org . camunda . bpm . IDENT_2 . METHOD_1 ( ) ; org . camunda . bpm . engine . IDENT_3 engine = IDENT_1 . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return org . camunda . bpm . engine . IDENT_4 . METHOD_2 ( IDENT_5 , true ) ; }
+org . junit . Assert . assertNull ( engine ) 

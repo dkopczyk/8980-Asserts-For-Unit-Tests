@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . UUID IDENT_0 = java . util . UUID . METHOD_1 ( ) ; com . microsoft . IDENT_1 . services . media . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 IDENT_6 = new com . microsoft . IDENT_1 . services . media . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_2 ( IDENT_0 ) ; java . util . UUID IDENT_7 = IDENT_6 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_8 ; }
+org . junit . Assert . assertEquals ( IDENT_7 , IDENT_0 ) 

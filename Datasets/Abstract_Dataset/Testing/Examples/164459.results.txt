@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . ui . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 m = new org . oscm . ui . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; m . METHOD_0 ( 5 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { long l = m . METHOD_2 ( ) ; org . junit . Assert . assertEquals ( 0 , l ) ; }
+org . junit . Assert . assertEquals ( 5 , m . METHOD_2 ( ) ) 

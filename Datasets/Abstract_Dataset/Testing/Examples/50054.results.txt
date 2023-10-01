@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 < java . lang . Integer > o = IDENT_0 . IDENT_1 . empty ( ) ; java . util . List < java . util . List < java . lang . Integer > > IDENT_2 = o . METHOD_1 ( com . github . davidmoten . IDENT_0 . IDENT_3 . < java . lang . Integer > METHOD_2 ( ) ) . toList ( ) . METHOD_3 ( ) . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( count . get ( ) ) == 0 ; }
+org . junit . Assert . assertTrue ( IDENT_2 . isEmpty ( ) ) 

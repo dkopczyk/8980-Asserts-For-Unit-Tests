@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . utils . IDENT_1 < java . lang . String > map = new com . eclipsesource . IDENT_0 . utils . IDENT_1 < java . lang . String > ( ) ; IDENT_0 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; map . close ( ) ; } METHOD_2 ( java . lang . Object ) { return map . METHOD_2 ( value ) ; }
+org . junit . Assert . assertFalse ( map . METHOD_2 ( "foo" ) ) 

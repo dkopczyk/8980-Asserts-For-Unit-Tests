@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . irods . jargon . core . query . IDENT_0 > IDENT_1 = new java . util . ArrayList < org . irods . jargon . core . query . IDENT_0 > ( ) ; org . irods . jargon . IDENT_2 . domain . IDENT_3 result = org . irods . jargon . IDENT_2 . domain . IDENT_3 . instance ( STRING_0 , IDENT_1 ) ; "<AssertPlaceHolder>" ; } instance ( java . lang . String , java . util . List ) { return new org . irods . jargon . IDENT_2 . domain . METHOD_1 ( IDENT_4 , IDENT_5 ) ; }
+org . junit . Assert . assertNotNull ( result ) 

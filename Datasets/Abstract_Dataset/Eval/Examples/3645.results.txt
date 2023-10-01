@@ -1,0 +1,2 @@
+METHOD_0 ( ) { alluxio . IDENT_0 . options . IDENT_1 options = alluxio . IDENT_0 . options . IDENT_1 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( 0 , options . METHOD_1 ( ) ) 

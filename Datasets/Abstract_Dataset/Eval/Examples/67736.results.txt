@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 service = METHOD_1 ( ) ; java . io . ByteArrayOutputStream out = new java . io . ByteArrayOutputStream ( ) ; service . METHOD_2 ( out , new com . IDENT_0 . core . IDENT_5 . model . METHOD_3 ( ) , new com . IDENT_0 . core . IDENT_5 . model . METHOD_4 ( ) , METHOD_5 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; out . close ( ) ; } size ( ) { return this . size ; }
+org . junit . Assert . assertTrue ( ( ( out . size ( ) ) > 0 ) ) 

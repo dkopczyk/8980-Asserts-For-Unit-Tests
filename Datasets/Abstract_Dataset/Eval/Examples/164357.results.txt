@@ -1,0 +1,2 @@
+METHOD_0 ( ) { model . METHOD_1 ( null ) ; boolean result = IDENT_0 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( ( model . METHOD_3 ( ) ) == null ) return false ; if ( model . METHOD_3 ( ) . equals ( IDENT_1 . IDENT_2 ) ) return true ; else return false ; }
+org . junit . Assert . assertFalse ( result ) 

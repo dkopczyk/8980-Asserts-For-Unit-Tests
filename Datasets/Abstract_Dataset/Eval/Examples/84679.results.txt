@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( com . IDENT_1 . IDENT_2 . IDENT_3 . api . model . IDENT_4 . METHOD_2 ( ) ) ; java . util . Set < javax . validation . IDENT_5 < T > > IDENT_6 = validator . validate ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_7 . size ( ) ; }
+org . junit . Assert . assertThat ( IDENT_6 . size ( ) , org . hamcrest . CoreMatchers . is ( 0 ) ) 

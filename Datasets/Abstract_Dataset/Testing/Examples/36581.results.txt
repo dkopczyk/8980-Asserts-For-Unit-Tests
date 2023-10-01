@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . model . User IDENT_1 = user ( STRING_0 , STRING_1 ) ; org . IDENT_0 . model . IDENT_2 IDENT_3 = IDENT_4 . METHOD_1 ( IDENT_1 ) . build ( ) ; IDENT_3 . remove ( ) ; boolean IDENT_5 = IDENT_3 . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . IDENT_0 . model . User ) { return ( this . METHOD_3 ( ) ) || ( ( user != null ) && ( ( user . METHOD_4 ( ) ) || ( user . METHOD_5 ( this ) ) ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_5 ) 

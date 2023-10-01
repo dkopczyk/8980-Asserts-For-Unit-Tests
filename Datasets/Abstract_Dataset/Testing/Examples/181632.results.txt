@@ -1,0 +1,2 @@
+join ( ) { long start = java . lang . System . currentTimeMillis ( ) ; long IDENT_0 = 10 ; IDENT_1 . join ( java . time . IDENT_2 . METHOD_0 ( 10 ) ) ; "<AssertPlaceHolder>" ; } join ( java . time . IDENT_2 ) { try { java . lang . Thread . sleep ( IDENT_0 . METHOD_1 ( ) ) ; } catch ( final java . lang . IDENT_3 e ) { throw new io . IDENT_4 . future . METHOD_2 ( e ) ; } }
+org . junit . Assert . assertTrue ( ( ( ( java . lang . System . currentTimeMillis ( ) ) - start ) >= IDENT_0 ) ) 

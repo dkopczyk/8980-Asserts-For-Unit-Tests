@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . avro . grpc . test . IDENT_0 IDENT_1 = IDENT_2 . METHOD_1 ( record ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . apache . avro . test . IDENT_0 ) { return record ; }
+org . junit . Assert . assertEquals ( record , IDENT_1 ) 

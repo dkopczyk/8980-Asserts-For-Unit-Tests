@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . nio . file . Path simple = METHOD_1 ( "test" ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return root . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( METHOD_2 ( ) , simple . METHOD_2 ( ) ) 

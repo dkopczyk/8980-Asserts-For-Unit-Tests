@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , org . oscm . app . IDENT_0 . data . IDENT_1 > IDENT_2 = METHOD_1 ( STRING_0 ) ; java . lang . String actual = IDENT_3 . METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . util . Map ) { if ( METHOD_3 ( IDENT_2 ) ) { return STRING_1 ; } else { return STRING_2 ; } }
+org . junit . Assert . assertEquals ( STRING_2 , actual ) 

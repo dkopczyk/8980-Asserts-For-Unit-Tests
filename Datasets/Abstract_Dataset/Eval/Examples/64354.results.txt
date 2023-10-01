@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . IDENT_2 factory = com . github . IDENT_0 . IDENT_1 . IDENT_2 . getInstance ( ) ; "<AssertPlaceHolder>" ; } getInstance ( ) { if ( ( com . github . IDENT_0 . IDENT_1 . IDENT_2 . factory ) == null ) com . github . IDENT_0 . IDENT_1 . IDENT_2 . factory = new com . github . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; return com . github . IDENT_0 . IDENT_1 . METHOD_1 . factory ; }
+org . junit . Assert . assertNotNull ( factory ) 

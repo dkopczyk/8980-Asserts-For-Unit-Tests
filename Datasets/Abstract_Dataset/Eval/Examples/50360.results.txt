@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . IDENT_1 . utils . beans . IDENT_2 [ ] IDENT_3 = null ; java . lang . String result = org . IDENT_1 . utils . IDENT_4 . join ( IDENT_3 , STRING_1 , IDENT_0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return true ; }
+org . junit . Assert . assertTrue ( result . isEmpty ( ) ) 

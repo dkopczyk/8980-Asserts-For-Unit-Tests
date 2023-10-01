@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . json . IDENT_0 IDENT_1 = new org . eclipse . rap . json . METHOD_1 ( array ) ; array . add ( INT_0 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( ( IDENT_2 . size ( ) ) == 0 ) && ( ( IDENT_3 . size ( ) ) == 0 ) ; }
+org . junit . Assert . assertTrue ( IDENT_1 . isEmpty ( ) ) 

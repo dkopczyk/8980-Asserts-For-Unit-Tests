@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 state = new com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; state = state . METHOD_2 ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_4 :: new ) . METHOD_3 ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 :: new ) ; }
+org . junit . Assert . assertTrue ( ( state instanceof com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ) ) 

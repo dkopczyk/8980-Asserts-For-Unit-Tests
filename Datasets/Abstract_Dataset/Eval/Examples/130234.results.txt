@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long IDENT_0 = INT_0 ; org . neo4j . kernel . impl . api . IDENT_1 tx = mock ( org . neo4j . kernel . impl . api . IDENT_1 . class ) ; when ( tx . METHOD_1 ( ) ) . thenReturn ( IDENT_0 ) ; when ( tx . METHOD_2 ( ) ) . thenReturn ( true ) ; org . neo4j . kernel . impl . api . IDENT_2 IDENT_3 = new org . neo4j . kernel . impl . api . METHOD_3 ( tx , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return METHOD_1 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_3 . METHOD_1 ( ) ) 

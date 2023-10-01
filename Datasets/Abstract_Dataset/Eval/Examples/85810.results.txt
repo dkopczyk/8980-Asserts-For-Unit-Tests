@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = STRING_1 ; java . util . ArrayList < java . lang . String > IDENT_2 = new java . util . ArrayList < java . lang . String > ( ) ; IDENT_2 . add ( STRING_2 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . lang . String , java . util . ArrayList , boolean ) { return METHOD_1 ( IDENT_3 , IDENT_4 , IDENT_5 , "" , IDENT_6 ) ; }
+org . junit . Assert . assertTrue ( METHOD_1 ( IDENT_0 , IDENT_1 , IDENT_2 , true ) ) 

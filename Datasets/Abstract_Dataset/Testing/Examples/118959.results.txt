@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return nl . bzk . brp . bijhouding . dal . IDENT_0 . IDENT_1 . context . METHOD_2 ( nl . bzk . IDENT_2 . dal . IDENT_3 . IDENT_4 . class ) ; }
+org . junit . Assert . assertNotNull ( nl . bzk . brp . bijhouding . dal . IDENT_0 . METHOD_1 ( ) ) 

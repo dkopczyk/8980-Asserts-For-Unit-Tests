@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . data . IDENT_1 IDENT_2 = org . IDENT_0 . io . IDENT_3 . METHOD_1 ( STRING_0 , IDENT_4 . IDENT_5 ) ; org . IDENT_0 . data . IDENT_6 IDENT_7 = IDENT_2 . METHOD_2 ( null , IDENT_8 . IDENT_9 ) ; "<AssertPlaceHolder>" ; } size ( ) { return size ; }
+org . junit . Assert . assertEquals ( 5 , IDENT_7 . size ( ) ) 

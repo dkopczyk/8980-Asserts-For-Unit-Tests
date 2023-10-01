@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . METHOD_1 ( ) . METHOD_2 ( ) . METHOD_3 ( ) . METHOD_4 ( com . IDENT_0 . model . User . IDENT_2 , STRING_0 ) . commit ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { java . lang . String IDENT_3 = com . IDENT_0 . model . User . METHOD_2 ( ) . getString ( com . IDENT_0 . model . User . IDENT_2 , null ) ; return IDENT_3 != null ? IDENT_3 : com . IDENT_0 . model . User . METHOD_6 ( ) ; }
+org . junit . Assert . assertThat ( com . IDENT_0 . model . User . METHOD_5 ( ) , org . hamcrest . CoreMatchers . equalTo ( STRING_0 ) ) 

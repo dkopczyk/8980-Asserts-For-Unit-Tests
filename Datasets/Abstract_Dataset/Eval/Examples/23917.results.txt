@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] args = new java . lang . String [ ] { STRING_0 , STRING_1 , STRING_2 , STRING_3 } ; org . apache . IDENT_0 . IDENT_1 IDENT_2 = parse ( args ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_3 ; }
+org . junit . Assert . assertEquals ( STRING_3 , IDENT_2 . METHOD_1 ( ) ) 

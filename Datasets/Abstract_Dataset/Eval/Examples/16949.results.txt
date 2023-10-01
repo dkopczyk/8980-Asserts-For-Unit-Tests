@@ -1,0 +1,2 @@
+getName ( ) { "<AssertPlaceHolder>" ; } getName ( ) { java . lang . String name = STRING_0 ; new IDENT_0 . METHOD_0 ( ) { { IDENT_1 . getName ( ) ; result = name ; } } ; org . junit . Assert . assertEquals ( name , IDENT_2 . getName ( ) ) ; }
+org . junit . Assert . assertEquals ( name , IDENT_1 . getName ( ) ) 

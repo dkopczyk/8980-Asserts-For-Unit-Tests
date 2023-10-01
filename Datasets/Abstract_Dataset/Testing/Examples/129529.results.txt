@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . web . batch . job . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . web . batch . job . METHOD_1 ( ) ; java . util . Map < java . lang . String , org . springframework . batch . item . IDENT_4 > METHOD_0 = IDENT_3 . METHOD_0 ( 0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return this . queue . size ( ) ; }
+org . junit . Assert . assertEquals ( 1 , METHOD_0 . size ( ) ) 

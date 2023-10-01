@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Exception e = new java . lang . IllegalArgumentException ( STRING_0 ) ; r = new org . apache . accumulo . server . IDENT_0 . METHOD_1 ( org . apache . accumulo . server . IDENT_0 . IDENT_1 . IDENT_2 , IDENT_3 . IDENT_4 , org . apache . accumulo . server . IDENT_0 . IDENT_1 . IDENT_5 , org . apache . accumulo . server . IDENT_0 . IDENT_1 . IDENT_6 , e ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return monitor . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , r . METHOD_2 ( ) ) 

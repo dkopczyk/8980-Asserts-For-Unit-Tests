@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < com . IDENT_0 . stream . IDENT_1 > IDENT_2 = com . IDENT_0 . stream . IDENT_3 . IDENT_4 . stream ( ) . collect ( java . util . stream . IDENT_5 . toList ( ) ) ; "<AssertPlaceHolder>" ; } stream ( ) { return java . util . stream . IDENT_6 . of ( com . baeldung . java . IDENT_7 . IDENT_8 . values ( ) ) ; }
+org . junit . Assert . assertEquals ( com . IDENT_0 . stream . IDENT_3 . IDENT_4 , IDENT_2 ) 

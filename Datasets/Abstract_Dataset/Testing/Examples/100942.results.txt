@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String text = STRING_0 ; final org . IDENT_0 . ext . IDENT_1 . commons . client . file . IDENT_2 . IDENT_3 content = org . IDENT_0 . ext . IDENT_1 . commons . client . file . IDENT_2 . IDENT_3 . create ( text ) ; "<AssertPlaceHolder>" ; } getText ( ) { return text ; }
+org . junit . Assert . assertEquals ( text , content . getText ( ) ) 

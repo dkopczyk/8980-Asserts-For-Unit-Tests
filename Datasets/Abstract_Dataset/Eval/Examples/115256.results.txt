@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . commons . lang3 . mutable . IDENT_0 IDENT_1 = new org . apache . commons . lang3 . mutable . METHOD_1 ( ( ( byte ) ( 1 ) ) ) ; IDENT_1 . add ( java . lang . Integer . valueOf ( 1 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return value ; }
+org . junit . Assert . assertEquals ( ( ( byte ) ( 2 ) ) , IDENT_1 . METHOD_2 ( ) ) 

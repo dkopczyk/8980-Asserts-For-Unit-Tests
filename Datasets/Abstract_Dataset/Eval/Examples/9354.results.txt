@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . cloud . IDENT_0 . IDENT_1 result = org . mockito . Mockito . mock ( com . cloud . IDENT_0 . IDENT_1 . class ) ; org . apache . IDENT_2 . api . response . IDENT_3 response = new org . apache . IDENT_2 . api . response . METHOD_1 ( ) ; METHOD_2 ( result , STRING_0 , STRING_1 ) ; com . cloud . api . IDENT_4 . METHOD_3 ( result , response ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertTrue ( response . METHOD_4 ( ) . equals ( STRING_0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return sun . util . logging . IDENT_0 . IDENT_1 . IDENT_2 [ this . METHOD_2 ( ) ] ; }
+org . junit . Assert . assertEquals ( 10 , new java . lang . Integer ( ( ( int ) ( 10 ) ) ) . METHOD_1 ( ) , 0 ) 

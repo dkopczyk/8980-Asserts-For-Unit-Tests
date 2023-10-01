@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . IDENT_1 . IDENT_2 . IDENT_3 . events . IDENT_4 . model . IDENT_5 data = gson . METHOD_1 ( IDENT_0 , org . IDENT_1 . IDENT_2 . IDENT_3 . events . IDENT_4 . model . IDENT_5 . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return METHOD_2 ; }
+org . junit . Assert . assertEquals ( 2 , data . METHOD_2 ( ) . size ( ) ) 

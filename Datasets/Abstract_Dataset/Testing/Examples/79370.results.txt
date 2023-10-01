@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 , org . IDENT_1 . util . IDENT_2 . map ( STRING_0 , STRING_1 ) ) ; IDENT_3 . METHOD_2 ( IDENT_0 , IDENT_4 , IDENT_5 , IDENT_6 ) ; java . util . Map < java . lang . String , java . lang . String > properties = IDENT_3 . METHOD_3 ( java . util . Collections . < java . lang . String , java . lang . String > METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; } get ( org . IDENT_1 . api . IDENT_7 . IDENT_8 ) { return get ( IDENT_9 , spec ) ; }
+org . junit . Assert . assertEquals ( STRING_1 , properties . get ( STRING_0 ) ) 

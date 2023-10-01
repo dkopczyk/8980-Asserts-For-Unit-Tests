@@ -1,0 +1,2 @@
+METHOD_0 ( ) { double IDENT_0 = ( org . apache . commons . lang . math . IDENT_1 . METHOD_1 ( ) ) + 1 ; configuration . IDENT_2 = true ; configuration . IDENT_3 = true ; when ( IDENT_4 . METHOD_2 ( IDENT_5 ) ) . thenReturn ( IDENT_0 ) ; state . METHOD_3 ( IDENT_6 , IDENT_5 , org . IDENT_7 . IDENT_8 . IDENT_9 . IDENT_10 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_11 ; }
+org . junit . Assert . assertEquals ( IDENT_0 , state . METHOD_4 ( ) , 0 ) 

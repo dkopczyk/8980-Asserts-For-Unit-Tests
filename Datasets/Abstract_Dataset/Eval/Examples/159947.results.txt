@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 IDENT_7 = METHOD_1 ( org . oscarehr . IDENT_8 . model . IDENT_9 . template . IDENT_10 . IDENT_11 ) . METHOD_2 ( ) . get ( 1 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { try { return IDENT_12 . get ( path ) ; } catch ( ca . uhn . IDENT_13 . IDENT_14 e ) { IDENT_15 . IDENT_16 . ca . IDENT_17 . IDENT_18 . IDENT_19 . logger . warn ( ( STRING_0 + path ) , e ) ; return null ; } }
+org . junit . Assert . assertNull ( IDENT_7 ) 

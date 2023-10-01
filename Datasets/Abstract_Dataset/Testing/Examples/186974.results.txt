@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . ibm . IDENT_0 . IDENT_1 . v1 . model . IDENT_2 IDENT_3 = new com . ibm . IDENT_0 . IDENT_1 . v1 . model . IDENT_2 . Builder ( ) . METHOD_1 ( METHOD_1 ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return METHOD_1 ; }
+org . junit . Assert . assertEquals ( METHOD_1 , IDENT_3 . METHOD_1 ( ) ) 

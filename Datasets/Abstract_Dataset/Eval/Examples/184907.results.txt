@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . IDENT_0 . data . util . IDENT_1 . IDENT_2 property = new com . vaadin . IDENT_0 . data . util . IDENT_1 . METHOD_1 ( STRING_0 , true , false , true , false , STRING_1 , java . lang . String . class ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { if ( METHOD_3 ( ) ) { return false ; } return ( METHOD_4 ( ) ) && ( ! ( METHOD_5 ( ) ) ) ; }
+org . junit . Assert . assertFalse ( property . METHOD_2 ( ) ) 

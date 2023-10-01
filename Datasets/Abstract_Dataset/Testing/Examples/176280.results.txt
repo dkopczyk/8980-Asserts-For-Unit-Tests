@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = org . talend . IDENT_1 . maven . utils . IDENT_2 . METHOD_1 ( ( ( org . talend . core . model . process . IDENT_3 ) ( null ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . talend . core . model . properties . IDENT_4 ) { if ( property != null ) { return org . talend . core . model . utils . IDENT_5 . METHOD_2 ( property . METHOD_3 ( ) ) ; } return null ; }
+org . junit . Assert . assertNull ( IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { new net . IDENT_0 . position . transform . IDENT_1 < net . IDENT_0 . IDENT_2 > ( target , o ) ; target . METHOD_1 ( location ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( double [ ] ) { position . METHOD_1 ( pos ) ; }
+org . junit . Assert . assertArrayEquals ( location , o ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { listener . METHOD_1 ( ) ; org . IDENT_0 . log . IDENT_1 IDENT_2 = logger . METHOD_2 ( STRING_0 ) ; IDENT_2 . error ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . util . function . IDENT_3 ) { return messages . stream ( ) . METHOD_4 ( IDENT_4 ) ; }
+org . junit . Assert . assertTrue ( listener . METHOD_3 ( ( m ) -> m . source ( ) . path ( ) . contains ( STRING_0 ) ) ) 

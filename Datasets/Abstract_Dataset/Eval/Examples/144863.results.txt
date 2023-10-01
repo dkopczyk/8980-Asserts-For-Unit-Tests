@@ -1,0 +1,2 @@
+METHOD_0 ( ) { buffer . write ( STRING_0 ) ; buffer . METHOD_1 ( ) ; buffer . write ( STRING_1 ) ; buffer . write ( STRING_2 ) ; buffer . METHOD_1 ( ) ; java . lang . String expected = "" + ( STRING_3 + STRING_4 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return STRING_5 + ( getValue ( ) . toString ( ) ) ; }
+org . junit . Assert . assertEquals ( expected , buffer . toString ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { expect ( IDENT_0 . METHOD_1 ( "test" , 10 , 20 ) ) . andReturn ( IDENT_1 ) ; IDENT_0 . METHOD_2 ( IDENT_1 ) ; replay ( IDENT_0 ) ; IDENT_2 . METHOD_3 ( STRING_0 , "test" , 10 , 20 ) ; IDENT_2 . METHOD_2 ( STRING_0 ) ; IDENT_2 . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_3 ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_2 . METHOD_4 ( ) ) 

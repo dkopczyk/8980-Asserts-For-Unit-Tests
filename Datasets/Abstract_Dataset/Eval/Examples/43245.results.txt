@@ -1,0 +1,2 @@
+parse ( ) { java . util . Map < java . lang . String , java . lang . String > params = new com . IDENT_0 . IDENT_1 . util . METHOD_0 ( ) . parse ( METHOD_1 ( ) . param ( STRING_0 , STRING_1 ) . build ( ) ) ; "<AssertPlaceHolder>" ; } build ( ) { return new com . IDENT_0 . IDENT_1 . METHOD_2 ( id , "" , "" , "" , "" , "" , IDENT_2 ) ; }
+org . junit . Assert . assertThat ( params , org . hamcrest . CoreMatchers . < java . util . Map < java . lang . String , java . lang . String > > is ( of ( STRING_0 , STRING_1 ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . IDENT_0 original = new java . sql . METHOD_1 ( STRING_0 ) ; when ( IDENT_1 . METHOD_2 ( anyString ( ) ) ) . METHOD_3 ( original ) ; org . apache . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = new org . apache . IDENT_2 . IDENT_3 . METHOD_4 ( IDENT_6 , IDENT_1 , null ) ; try { IDENT_5 . METHOD_2 ( STRING_1 ) ; } catch ( java . sql . METHOD_1 e ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( java . lang . String ) { return connection . METHOD_2 ( sql ) ; }
+org . junit . Assert . assertSame ( original , e ) 

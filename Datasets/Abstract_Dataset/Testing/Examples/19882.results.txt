@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . kafka . common . utils . IDENT_0 IDENT_1 = org . apache . kafka . streams . state . IDENT_2 . IDENT_3 . METHOD_1 ( IDENT_4 , 0 , IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( byte [ ] ) { return java . nio . ByteBuffer . METHOD_3 ( IDENT_6 ) . METHOD_4 ( ( ( IDENT_6 . length ) - ( org . apache . kafka . streams . state . IDENT_2 . IDENT_3 . IDENT_7 ) ) ) ; }
+org . junit . Assert . assertEquals ( 0 , org . apache . kafka . streams . state . IDENT_2 . IDENT_3 . METHOD_2 ( IDENT_1 . get ( ) ) ) 

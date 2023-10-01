@@ -1,0 +1,2 @@
+empty ( ) { "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( props . isEmpty ( ) ) 

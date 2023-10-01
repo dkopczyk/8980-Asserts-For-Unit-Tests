@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String IDENT_0 = IDENT_1 . METHOD_1 ( IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { final ch . IDENT_4 . IDENT_5 . model . User user = new ch . IDENT_4 . IDENT_5 . model . User ( ) ; user . setName ( IDENT_6 ) ; user . METHOD_2 ( IDENT_6 ) ; user . METHOD_3 ( STRING_0 ) ; return IDENT_7 . METHOD_4 ( user ) ; }
+org . junit . Assert . assertNotNull ( IDENT_0 ) 

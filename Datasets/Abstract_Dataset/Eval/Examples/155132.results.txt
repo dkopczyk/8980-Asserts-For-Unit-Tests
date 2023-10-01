@@ -1,0 +1,2 @@
+test ( ) { int expected = org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . get ( dataset ) ; org . IDENT_0 . IDENT_1 . IDENT_4 IDENT_5 = new org . IDENT_0 . IDENT_1 . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . IDENT_0 . IDENT_1 . state . IDENT_6 ) { int IDENT_7 = 0 ; for ( int k = 0 ; ( k + 1 ) < ( IDENT_8 . IDENT_9 . size ( ) ) ; ++ k ) { IDENT_7 += IDENT_8 . IDENT_9 . get ( k ) . and ( IDENT_8 . IDENT_9 . get ( ( k + 1 ) ) ) . METHOD_2 ( ) ; } return IDENT_7 ; }
+org . junit . Assert . assertEquals ( expected , IDENT_5 . METHOD_1 ( IDENT_8 ) ) 

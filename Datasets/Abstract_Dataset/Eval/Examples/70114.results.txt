@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = 0 ; java . lang . String IDENT_1 = null ; int IDENT_2 = 0 ; int IDENT_3 = 0 ; IDENT_3 = 0 ; for ( int i = 0 ; i < 10 ; i ++ ) { IDENT_1 = STRING_0 + i ; IDENT_2 = br . com . IDENT_4 . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 . random . METHOD_1 ( 1000 ) ; this . METHOD_2 ( IDENT_1 , IDENT_2 ) ; IDENT_3 += IDENT_2 ; } IDENT_0 = this . IDENT_9 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return 0 ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_0 ) 

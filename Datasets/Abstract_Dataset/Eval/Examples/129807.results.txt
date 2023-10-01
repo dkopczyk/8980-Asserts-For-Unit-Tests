@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . IDENT_0 . IDENT_1 . IDENT_2 IDENT_1 = org . neo4j . kernel . IDENT_3 . description ( ) . filter ( org . neo4j . kernel . IDENT_3 . METHOD_1 ( ) ) ; int count = 0 ; for ( org . neo4j . IDENT_0 . IDENT_4 IDENT_5 : IDENT_1 . METHOD_2 ( METHOD_3 ( ) ) . METHOD_4 ( ) ) { count ++ ; } "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return path . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( 1 , count ) 

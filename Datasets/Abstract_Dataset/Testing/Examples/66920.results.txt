@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . baeldung . common . web . IDENT_0 . create ( ) ; final io . IDENT_1 . response . Response response = io . IDENT_1 . IDENT_2 . get ( ( ( com . baeldung . common . web . IDENT_0 . METHOD_1 ( ) ) + STRING_0 ) ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( internal . length ) == 0 ; }
+org . junit . Assert . assertFalse ( response . body ( ) . as ( java . util . List . class ) . isEmpty ( ) ) 

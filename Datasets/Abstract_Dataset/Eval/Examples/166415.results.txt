@@ -1,0 +1,2 @@
+METHOD_0 ( ) { br . com . IDENT_0 . IDENT_1 . model . IDENT_2 IDENT_3 = br . com . IDENT_0 . IDENT_1 . IDENT_4 . from ( br . com . IDENT_0 . IDENT_1 . model . IDENT_2 . class ) . METHOD_1 ( STRING_0 ) ; br . com . IDENT_0 . IDENT_1 . model . IDENT_2 IDENT_5 = br . com . IDENT_0 . IDENT_1 . IDENT_4 . from ( br . com . IDENT_0 . IDENT_1 . model . IDENT_2 . class ) . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_3 . getId ( ) ) < ( IDENT_5 . getId ( ) ) ) ) 

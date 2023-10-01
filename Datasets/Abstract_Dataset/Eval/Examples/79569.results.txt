@@ -1,0 +1,2 @@
+METHOD_0 ( ) { writer . write ( new java . lang . METHOD_1 ( ) { @ com . IDENT_0 . writer . neo4j . Override public void run ( ) { METHOD_2 ( ) . METHOD_3 ( ) ; } } ) ; try ( org . neo4j . IDENT_1 . IDENT_2 tx = METHOD_2 ( ) . METHOD_4 ( ) ) { "<AssertPlaceHolder>" ; tx . METHOD_5 ( ) ; } } METHOD_6 ( org . neo4j . IDENT_1 . IDENT_3 ) { return com . IDENT_0 . common . util . IDENT_4 . count ( database . METHOD_7 ( ) ) ; }
+org . junit . Assert . assertEquals ( 1 , com . IDENT_0 . common . util . IDENT_4 . METHOD_6 ( METHOD_2 ( ) ) ) 

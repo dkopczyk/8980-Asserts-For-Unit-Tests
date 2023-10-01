@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return METHOD_2 ( new org . eclipse . IDENT_0 . swt . IDENT_1 . results . METHOD_3 ( ) { @ org . eclipse . IDENT_0 . swt . IDENT_1 . widgets . Override public org . eclipse . IDENT_0 . swt . IDENT_1 . widgets . Integer run ( ) { return IDENT_2 . METHOD_4 ( ) ; } } ) ; }
+org . junit . Assert . assertEquals ( 0 , tree . METHOD_1 ( ) ) 

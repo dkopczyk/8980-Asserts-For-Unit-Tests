@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; for ( int x = 0 ; x < 1000 ; x ++ ) { int IDENT_5 = IDENT_4 . METHOD_2 ( 100 ) ; byte [ ] bytes = new byte [ IDENT_5 ] ; IDENT_4 . METHOD_3 ( bytes ) ; "<AssertPlaceHolder>" ; java . lang . String IDENT_6 = new java . lang . String ( bytes ) ; System . out . println ( ( ( ( bytes . length ) + STRING_0 ) + IDENT_6 ) ) ; } }
+org . junit . Assert . assertEquals ( IDENT_5 , bytes . length ) 

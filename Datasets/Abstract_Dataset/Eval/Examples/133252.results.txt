@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Calendar ref = java . util . Calendar . getInstance ( java . util . IDENT_0 . METHOD_1 ( STRING_0 ) ) ; ref . set ( INT_0 , 6 , 16 , INT_1 , 20 , INT_2 ) ; ref . set ( Calendar . IDENT_1 , 0 ) ; java . util . Calendar IDENT_2 = org . nuxeo . ecm . IDENT_3 . client . model . IDENT_4 . parse ( STRING_1 ) ; "<AssertPlaceHolder>" ; } getTime ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( ref . getTime ( ) , IDENT_2 . getTime ( ) ) 

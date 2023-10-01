@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . action . IDENT_2 IDENT_3 = serialize ( action ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( T ) { return new org . IDENT_0 . test . matchers . IDENT_4 < T > ( object ) ; }
+org . junit . Assert . assertThat ( IDENT_3 , org . hamcrest . CoreMatchers . is ( METHOD_1 ( action ) ) ) 

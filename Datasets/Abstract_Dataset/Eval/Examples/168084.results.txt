@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 , manager . METHOD_2 ( IDENT_0 ) ) ; org . IDENT_1 . IDENT_2 . repository . IDENT_3 request = new org . IDENT_1 . IDENT_2 . repository . METHOD_3 ( IDENT_0 , java . util . Arrays . asList ( repository ) , IDENT_4 ) ; org . IDENT_1 . IDENT_2 . repository . IDENT_5 result = manager . find ( session , request ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertTrue ( result . METHOD_4 ( ) ) 

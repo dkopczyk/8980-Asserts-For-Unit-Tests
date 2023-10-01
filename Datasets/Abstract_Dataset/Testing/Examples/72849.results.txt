@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . METHOD_1 ( null , INT_0 , INT_1 ) ; final com . IDENT_0 . IDENT_1 . METHOD_1 other = new com . IDENT_0 . IDENT_1 . METHOD_1 ( INT_2 , INT_3 , INT_4 ) ; final int IDENT_4 = IDENT_3 . compareTo ( other ) ; "<AssertPlaceHolder>" ; } compareTo ( com . IDENT_0 . IDENT_5 . IDENT_6 ) { return description . compareTo ( other . toString ( ) ) ; }
+org . junit . Assert . assertEquals ( ( - 1 ) , IDENT_4 ) 

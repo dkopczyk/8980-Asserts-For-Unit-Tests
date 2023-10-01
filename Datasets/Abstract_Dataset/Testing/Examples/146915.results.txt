@@ -1,0 +1,2 @@
+save ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 model = new com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_0 ( ) ; model . save ( ) ; "<AssertPlaceHolder>" ; } from ( java . lang . Class ) { return new com . IDENT_0 . IDENT_1 . db . Query < T > ( ( IDENT_4 != null ? IDENT_4 . getName ( ) : null ) , IDENT_4 ) ; }
+org . junit . Assert . assertThat ( com . IDENT_0 . IDENT_1 . db . Query . from ( com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_0 . class ) . first ( ) , is ( model ) ) 

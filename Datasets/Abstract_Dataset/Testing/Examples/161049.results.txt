@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . github . IDENT_0 . IDENT_1 IDENT_2 = IDENT_3 . IDENT_4 . io . github . IDENT_0 . IDENT_5 . METHOD_1 ( ) ; io . github . IDENT_0 . IDENT_1 IDENT_6 = io . github . IDENT_0 . IDENT_7 . IDENT_8 . events . IDENT_9 . METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } is ( java . lang . String ) { return METHOD_3 ( IDENT_10 . IDENT_11 , IDENT_12 ) ; }
+org . junit . Assert . assertThat ( IDENT_6 , org . hamcrest . core . Is . is ( IDENT_2 ) ) 

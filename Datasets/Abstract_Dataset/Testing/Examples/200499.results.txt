@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { new IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( "a" , "a" , "a" , null ) ; org . junit . Assert . fail ( ) ; } catch ( java . lang . Exception e ) { e . printStackTrace ( ) ; "<AssertPlaceHolder>" ; } }
+org . junit . Assert . assertEquals ( IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IllegalArgumentException . class , e . getClass ( ) ) 

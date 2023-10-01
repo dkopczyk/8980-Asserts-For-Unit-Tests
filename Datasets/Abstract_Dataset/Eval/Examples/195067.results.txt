@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . RuntimeException . class ) . when ( IDENT_5 ) . METHOD_2 ( eq ( IDENT_6 . IDENT_7 ) , METHOD_3 ( ) ) ; try { IDENT_8 . METHOD_4 ( IDENT_5 , null ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( java . lang . RuntimeException IDENT_9 ) { "<AssertPlaceHolder>" ; } }
+org . junit . Assert . assertNotNull ( IDENT_9 ) 

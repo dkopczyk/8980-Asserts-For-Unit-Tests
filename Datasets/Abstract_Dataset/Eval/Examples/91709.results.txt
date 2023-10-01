@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . jdbc . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . jdbc . METHOD_1 ( ) ; java . lang . String url = STRING_0 ; IDENT_3 . METHOD_2 ( url ) ; "<AssertPlaceHolder>" ; IDENT_3 . METHOD_3 ( ) ; IDENT_3 . close ( ) ; } METHOD_4 ( ) { return url ; }
+org . junit . Assert . assertEquals ( url , IDENT_3 . METHOD_4 ( ) ) 

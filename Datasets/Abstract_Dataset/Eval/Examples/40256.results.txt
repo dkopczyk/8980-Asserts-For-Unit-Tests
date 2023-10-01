@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . IDENT_0 . IDENT_1 IDENT_2 = new org . openscience . cdk . IDENT_0 . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( new org . openscience . cdk . IDENT_0 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . openscience . cdk . IDENT_0 . METHOD_3 ) { if ( ! ( IDENT_3 . contains ( IDENT_4 ) ) ) IDENT_3 . add ( IDENT_4 ) ; IDENT_5 = IDENT_3 . indexOf ( IDENT_4 ) ; }
+org . junit . Assert . assertNotNull ( IDENT_2 ) 

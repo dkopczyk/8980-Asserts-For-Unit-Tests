@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int count = java . util . stream . IDENT_0 . of ( 1 , 2 , 3 ) . METHOD_1 ( 0 , ( IDENT_1 , element ) -> IDENT_1 + element ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 6 , count ) 

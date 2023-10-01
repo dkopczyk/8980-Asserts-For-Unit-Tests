@@ -1,0 +1,2 @@
+asList ( ) { IDENT_0 . put ( new com . google . IDENT_1 . api . datastore . Entity ( STRING_0 ) ) ; org . IDENT_2 . datastore . IDENT_3 q = new org . IDENT_2 . datastore . METHOD_0 ( IDENT_0 , STRING_0 ) ; "<AssertPlaceHolder>" ; } asList ( ) { return super . METHOD_1 ( ) ; }
+org . junit . Assert . assertThat ( q . asList ( ) . size ( ) , org . hamcrest . CoreMatchers . is ( 1 ) ) 

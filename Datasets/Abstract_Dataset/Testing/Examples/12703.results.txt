@@ -1,0 +1,2 @@
+METHOD_0 ( ) { parameter . METHOD_1 ( 0 , true ) ; parameter . METHOD_2 ( org . apache . flink . api . java . utils . IDENT_0 . METHOD_3 ( new java . lang . String [ ] { STRING_0 , STRING_1 } ) ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return value ; }
+org . junit . Assert . assertEquals ( new java . lang . Double ( 0 ) , parameter . getValue ( ) ) 

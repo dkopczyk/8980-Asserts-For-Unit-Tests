@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( " " , IDENT_0 . IDENT_1 , IDENT_2 . IDENT_3 , new org . eclipse . swt . IDENT_4 . METHOD_2 ( 2 , 0 ) ) ; org . eclipse . swt . IDENT_4 . METHOD_2 size = org . eclipse . rap . rwt . internal . IDENT_5 . IDENT_2 . METHOD_3 ( METHOD_4 ( ) , " " , 0 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return new org . eclipse . swt . IDENT_4 . METHOD_5 ( IDENT_6 , org . eclipse . rap . rwt . internal . IDENT_5 . IDENT_7 . IDENT_8 ) ; }
+org . junit . Assert . assertEquals ( 10 , size . y ) 

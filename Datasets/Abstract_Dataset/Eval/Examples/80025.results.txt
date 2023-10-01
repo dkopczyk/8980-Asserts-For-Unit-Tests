@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( api . METHOD_1 ( ) ) . thenReturn ( false ) ; io . IDENT_0 . IDENT_1 . IDENT_2 . handler . IDENT_3 handler = IDENT_4 . create ( api ) ; "<AssertPlaceHolder>" ; } create ( io . IDENT_0 . IDENT_1 . api . IDENT_5 ) { io . IDENT_0 . IDENT_1 . IDENT_2 . handler . context . IDENT_6 context = new io . IDENT_0 . IDENT_1 . IDENT_2 . handler . context . METHOD_2 ( ( ( io . IDENT_0 . IDENT_1 . api . context . IDENT_7 ) ( IDENT_8 ) ) , IDENT_9 ) ; context . METHOD_3 ( IDENT_10 ) ; return context ; }
+org . junit . Assert . assertNull ( handler ) 

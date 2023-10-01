@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long expResult = INT_0 ; long result = instance . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_0 ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

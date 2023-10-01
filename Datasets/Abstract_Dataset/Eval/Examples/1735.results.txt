@@ -1,0 +1,2 @@
+toByteArray ( ) { byte [ ] expected = new byte [ ( IDENT_0 . METHOD_0 ( ) ) / ( IDENT_1 . IDENT_2 ) ] ; expected [ ( ( expected . length ) - 1 ) ] = INT_0 ; "<AssertPlaceHolder>" ; } toByteArray ( ) { return IDENT_3 . IDENT_4 . IDENT_5 . framework . util . IDENT_6 . toByteArray ( value ) ; }
+org . junit . Assert . assertArrayEquals ( expected , IDENT_0 . toByteArray ( ) ) 

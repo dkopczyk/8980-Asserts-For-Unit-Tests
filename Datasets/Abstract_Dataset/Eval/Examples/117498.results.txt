@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { org . junit . Assert . assertEquals ( 5 , edu . illinois . library . cantaloupe . source . IDENT_0 . METHOD_0 ( ) . size ( ) ) ; }
+org . junit . Assert . assertEquals ( 5 , edu . illinois . library . cantaloupe . source . IDENT_0 . METHOD_0 ( ) . size ( ) ) 

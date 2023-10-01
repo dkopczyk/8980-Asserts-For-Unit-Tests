@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . Class ) { return com . IDENT_0 . IDENT_1 . java . IDENT_2 . IDENT_3 . METHOD_1 ( clazz ) ; }
+org . junit . Assert . assertNull ( METHOD_1 ( ( ( java . lang . Class < ? > ) ( null ) ) ) ) 

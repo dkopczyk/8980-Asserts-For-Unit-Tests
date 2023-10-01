@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . IDENT_0 . dao . IDENT_1 IDENT_2 = new org . oscm . IDENT_0 . dao . METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( Locale . IDENT_3 . toString ( ) ) ; org . oscm . IDENT_0 . dao . METHOD_1 IDENT_4 = new org . oscm . IDENT_0 . dao . METHOD_1 ( ) ; IDENT_4 . METHOD_2 ( Locale . IDENT_5 . toString ( ) ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { int result = first . hashCode ( ) ; result = ( INT_0 * result ) + ( IDENT_6 . hashCode ( ) ) ; return result ; }
+org . junit . Assert . assertFalse ( ( ( IDENT_2 . hashCode ( ) ) == ( IDENT_4 . hashCode ( ) ) ) ) 

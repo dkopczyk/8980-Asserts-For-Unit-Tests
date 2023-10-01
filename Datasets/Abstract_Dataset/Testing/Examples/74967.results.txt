@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; int index = 0 ; org . IDENT_0 . engine . IDENT_1 . IDENT_2 . IDENT_3 instance = new org . IDENT_0 . engine . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; double expResult = 0.0 ; double result = instance . get ( index ) ; "<AssertPlaceHolder>" ; } get ( java . lang . String ) { int index = schema . get ( field ) ; return line [ index ] ; }
+org . junit . Assert . assertEquals ( expResult , result , 0.0 ) 

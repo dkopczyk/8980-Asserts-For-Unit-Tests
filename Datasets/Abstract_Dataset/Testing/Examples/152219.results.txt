@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( org . apache . http . conn . IDENT_0 . class ) . when ( client ) . METHOD_2 ( org . mockito . Matchers . any ( ) , org . mockito . Matchers . < java . lang . String > any ( ) ) ; IDENT_1 . METHOD_3 ( IDENT_2 , token , IDENT_3 ) ; "<AssertPlaceHolder>" ; verify ( IDENT_4 , times ( 1 ) ) . save ( org . mockito . Matchers . < org . IDENT_5 . atlas . service . domain . events . entities . IDENT_6 > any ( ) ) ; } METHOD_4 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_1 . METHOD_4 ( ) . size ( ) ) 

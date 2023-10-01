@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . netty . util . internal . IDENT_0 . apply ( new java . lang . METHOD_1 ( ) { @ io . netty . util . internal . Override public void run ( ) { "<AssertPlaceHolder>" ; } } , IDENT_1 . INSTANCE ) . run ( ) ; } METHOD_2 ( ) { return io . netty . util . internal . IDENT_0 . IDENT_2 . get ( ) ; }
+org . junit . Assert . assertSame ( IDENT_1 . INSTANCE , io . netty . util . internal . IDENT_0 . METHOD_2 ( ) ) 

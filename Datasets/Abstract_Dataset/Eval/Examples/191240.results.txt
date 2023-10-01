@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_0 ( ) ) . thenReturn ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { when ( configuration . getProperty ( STRING_1 , "" ) ) . thenReturn ( STRING_2 ) ; org . junit . Assert . assertEquals ( STRING_2 , IDENT_1 . METHOD_1 ( ) . METHOD_0 ( ) ) ; when ( configuration . getProperty ( STRING_1 , "" ) ) . thenReturn ( STRING_3 ) ; org . junit . Assert . assertEquals ( STRING_3 , IDENT_1 . METHOD_1 ( ) . METHOD_0 ( ) ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 . METHOD_1 ( ) . METHOD_0 ( ) , STRING_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . bonitasoft . engine . IDENT_0 . model . builder . IDENT_1 builder = IDENT_2 . METHOD_1 ( ) ; builder . METHOD_2 ( 1 ) . METHOD_3 ( IDENT_3 . IDENT_4 ) ; builder . METHOD_4 ( STRING_0 ) . METHOD_5 ( STRING_1 ) . METHOD_6 ( STRING_2 ) ; final org . bonitasoft . engine . IDENT_0 . model . IDENT_5 IDENT_6 = builder . METHOD_7 ( ) ; "<AssertPlaceHolder>" ; } METHOD_8 ( ) { return METHOD_2 ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_6 . METHOD_8 ( ) ) 

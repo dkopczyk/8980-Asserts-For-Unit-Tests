@@ -1,0 +1,2 @@
+config ( ) { com . IDENT_0 . config . IDENT_1 config = com . IDENT_0 . config . IDENT_2 . METHOD_0 ( org . IDENT_3 . elasticsearch . IDENT_4 . class , STRING_0 ) ; "<AssertPlaceHolder>" ; } config ( ) { return null ; }
+org . junit . Assert . assertEquals ( config , new org . IDENT_3 . elasticsearch . METHOD_1 ( ) . config ( ) ) 

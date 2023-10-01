@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . common . dao . model . IDENT_1 model = new com . IDENT_0 . common . dao . model . METHOD_1 ( 1 , "test" ) ; dao . METHOD_2 ( model ) ; model . METHOD_3 ( STRING_0 ) ; dao . METHOD_4 ( model ) ; model = dao . get ( 1 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( model . METHOD_5 ( ) , STRING_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { factory . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return executor . METHOD_2 ( ) ; }
+org . junit . Assert . assertThat ( factory . executor . METHOD_2 ( ) , org . hamcrest . Matchers . is ( true ) ) 

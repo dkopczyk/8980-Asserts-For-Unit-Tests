@@ -1,0 +1,2 @@
+METHOD_0 ( ) { net . sourceforge . IDENT_0 . lang . IDENT_1 . ast . IDENT_2 input = METHOD_1 ( METHOD_2 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { try { return org . apache . commons . io . IDENT_3 . toString ( this . getClass ( ) . getResourceAsStream ( name ) , IDENT_4 . UTF_8 ) ; } catch ( java . io . IOException e ) { throw new java . lang . RuntimeException ( e ) ; } }
+org . junit . Assert . assertNotNull ( input ) 

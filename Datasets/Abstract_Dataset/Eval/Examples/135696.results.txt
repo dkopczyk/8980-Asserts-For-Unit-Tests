@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int expected = INT_0 + 7 ; int count = IDENT_0 . METHOD_1 ( ) . count ( null ) . first ( ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } count ( org . IDENT_1 . commons . datastore . core . Query ) { org . bson . IDENT_2 . IDENT_3 bson = METHOD_3 ( query , false ) ; return IDENT_4 . count ( bson ) ; }
+org . junit . Assert . assertEquals ( expected , count ) 

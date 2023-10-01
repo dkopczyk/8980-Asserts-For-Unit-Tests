@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . IDENT_1 . IDENT_2 root = new org . IDENT_0 . IDENT_1 . METHOD_1 ( new java . io . File ( STRING_0 ) ) ; this . IDENT_3 = new org . IDENT_0 . IDENT_4 . config . METHOD_2 ( org . IDENT_0 . IDENT_5 . IDENT_6 . IDENT_7 . METHOD_3 ( STRING_1 ) ) ; "<AssertPlaceHolder>" ; } test ( java . lang . String ) { return this . IDENT_8 . contains ( a ) ; }
+org . junit . Assert . assertFalse ( this . IDENT_3 . test ( root ) ) 

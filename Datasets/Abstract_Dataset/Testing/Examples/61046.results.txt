@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . rap . rwt . internal . IDENT_0 . IDENT_1 IDENT_2 = IDENT_1 . IDENT_3 ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( ( IDENT_4 ) != null ) && ( ( IDENT_5 ) != null ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 . METHOD_1 ( ) ) 

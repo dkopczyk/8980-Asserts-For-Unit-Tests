@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Class < com . github . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 > clazz = com . github . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . class ; IDENT_4 . METHOD_1 ( clazz ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . lang . String ) { return METHOD_3 ( new io . IDENT_5 . IDENT_6 . IDENT_7 . Builder ( IDENT_8 ) . build ( ) ) ; }
+org . junit . Assert . assertThat ( IDENT_4 . METHOD_2 ( clazz ) , is ( false ) ) 

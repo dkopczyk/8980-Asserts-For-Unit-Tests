@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int size = 100 ; byte [ ] bytes = new byte [ size ] ; random . METHOD_1 ( bytes ) ; java . lang . Object object = new java . lang . Object ( ) ; doReturn ( IDENT_0 ) . when ( IDENT_1 ) . get ( object ) ; doReturn ( bytes ) . when ( IDENT_2 ) . remove ( IDENT_0 ) ; doReturn ( object ) . when ( serializer ) . METHOD_2 ( bytes ) ; java . lang . Object IDENT_3 = cache . METHOD_0 ( object ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( IDENT_4 ) { return IDENT_5 . METHOD_0 ( key ) ; }
+org . junit . Assert . assertEquals ( object , IDENT_3 ) 

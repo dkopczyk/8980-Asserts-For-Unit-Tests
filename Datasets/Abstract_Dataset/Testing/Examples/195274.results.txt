@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nhindirect . monitor . processor . impl . IDENT_0 IDENT_1 = new org . nhindirect . monitor . processor . impl . METHOD_1 ( ) ; IDENT_1 . METHOD_2 ( IDENT_2 ) ; boolean IDENT_3 = false ; try { IDENT_1 . METHOD_3 ( null ) ; } catch ( java . lang . IllegalArgumentException e ) { IDENT_3 = true ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( IDENT_3 ) 

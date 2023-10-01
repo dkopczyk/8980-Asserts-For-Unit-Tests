@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; java . util . List < java . lang . Long > IDENT_0 = dao . METHOD_2 ( org . oscm . IDENT_1 . dao . IDENT_2 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_4 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_0 . size ( ) ) 

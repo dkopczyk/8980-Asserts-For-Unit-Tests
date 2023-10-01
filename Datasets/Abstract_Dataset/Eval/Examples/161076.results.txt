@@ -1,0 +1,2 @@
+delete ( ) { this . save ( ) ; com . IDENT_0 . test . model . User IDENT_1 = new com . IDENT_0 . test . model . User ( ) ; IDENT_1 . METHOD_0 ( ( - INT_0 ) ) ; IDENT_1 . METHOD_1 ( STRING_0 ) ; IDENT_1 . METHOD_2 ( "1" ) ; int i = IDENT_2 . delete ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } delete ( java . lang . Class ) { return new com . IDENT_0 . dal . build . METHOD_3 ( clazz , new com . IDENT_0 . dal . build . METHOD_4 ( clazz ) ) ; }
+org . junit . Assert . assertEquals ( i , 1 ) 

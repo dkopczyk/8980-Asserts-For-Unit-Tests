@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; IDENT_4 . METHOD_2 ( 2 ) ; IDENT_4 . set ( 1 , null ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Object ) { return IDENT_5 . get ( key ) ; }
+org . junit . Assert . assertNull ( IDENT_4 . get ( 1 ) ) 

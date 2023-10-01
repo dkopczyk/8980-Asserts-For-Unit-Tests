@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = false ; try { java . util . Iterator < org . IDENT_1 . IDENT_2 . util . IDENT_3 . IDENT_4 . Entry > it = IDENT_5 . iterator ( ) ; it . remove ( ) ; } catch ( java . lang . IDENT_6 e ) { IDENT_0 = true ; } "<AssertPlaceHolder>" ; } remove ( ) { throw new java . lang . METHOD_1 ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

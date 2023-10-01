@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Integer [ ] IDENT_0 = new java . lang . Integer [ ] { 10 , 15 , 20 } ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertThat ( IDENT_0 , org . hamcrest . CoreMatchers . is ( array ( org . hamcrest . CoreMatchers . equalTo ( 10 ) , org . hamcrest . CoreMatchers . equalTo ( 15 ) , org . hamcrest . CoreMatchers . equalTo ( 20 ) ) ) ) 

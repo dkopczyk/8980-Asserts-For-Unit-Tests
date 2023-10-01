@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . model . IDENT_2 map = new com . IDENT_0 . IDENT_1 . model . METHOD_1 ( null , new java . io . METHOD_2 ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { this . IDENT_3 . METHOD_4 ( ) ; try { return this . root ; } finally { this . IDENT_3 . METHOD_5 ( ) ; } }
+org . junit . Assert . assertNull ( map . METHOD_3 ( ) ) 

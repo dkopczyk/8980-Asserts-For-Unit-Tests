@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . IDENT_1 IDENT_2 = new com . eclipsesource . IDENT_0 . METHOD_1 ( IDENT_0 ) ; IDENT_2 . add ( STRING_0 , 1 ) . add ( STRING_1 , FLOAT_0 ) . add ( STRING_2 , true ) . add ( STRING_3 , STRING_4 ) ; java . lang . String [ ] keys = IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; com . eclipsesource . IDENT_0 . IDENT_3 . METHOD_3 ( keys , STRING_0 , STRING_1 , STRING_2 , STRING_3 ) ; IDENT_2 . close ( ) ; } METHOD_2 ( ) { throw new java . lang . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( 4 , keys . length ) 

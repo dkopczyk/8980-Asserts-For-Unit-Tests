@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . baeldung . java . collections . List < java . lang . Long > list = new org . baeldung . java . collections . ArrayList ( ) ; list . add ( 1L ) ; list . add ( INT_0 ) ; list . add ( 1 , INT_1 ) ; "<AssertPlaceHolder>" ; } add ( int , IDENT_0 ) { throw new java . lang . METHOD_1 ( ) ; }
+org . junit . Assert . assertThat ( org . baeldung . java . collections . Arrays . asList ( 1L , INT_1 , INT_0 ) , org . hamcrest . CoreMatchers . equalTo ( list ) ) 

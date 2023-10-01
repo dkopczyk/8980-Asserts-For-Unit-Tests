@@ -1,0 +1,2 @@
+test ( ) { com . IDENT_0 . context . IDENT_1 IDENT_2 = new com . IDENT_0 . context . METHOD_0 ( ) ; IDENT_2 . METHOD_1 ( new java . io . File ( this . getClass ( ) . METHOD_2 ( ) . getResource ( STRING_0 ) . METHOD_3 ( ) ) ) ; com . IDENT_0 . context . test . function . base . data . IDENT_3 person = IDENT_2 . METHOD_4 ( com . IDENT_0 . context . test . function . base . data . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( 12 , person . METHOD_5 ( ) ) 

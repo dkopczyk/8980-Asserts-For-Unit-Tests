@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . impl . rest . IDENT_2 IDENT_3 = com . IDENT_0 . IDENT_1 . impl . rest . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_1 ( ) ; IDENT_3 . METHOD_2 ( STRING_0 ) ; METHOD_3 ( IDENT_3 ) ; javax . IDENT_7 . IDENT_8 IDENT_9 = IDENT_10 . METHOD_4 ( IDENT_11 . IDENT_12 , javax . IDENT_7 . IDENT_8 . class ) ; "<AssertPlaceHolder>" ; } getText ( ) { if ( ( IDENT_13 ) == null ) { return null ; } return IDENT_13 . getText ( ) ; }
+org . junit . Assert . assertThat ( IDENT_9 . getText ( ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) 

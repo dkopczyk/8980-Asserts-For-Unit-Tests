@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean result = org . oscm . validator . IDENT_0 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return org . oscm . validator . IDENT_0 . IDENT_1 . isValid ( value ) ; }
+org . junit . Assert . assertTrue ( result ) 

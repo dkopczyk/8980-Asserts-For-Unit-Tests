@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . IDENT_1 . server . config . IDENT_2 config = IDENT_3 . METHOD_1 ( IDENT_4 . IDENT_5 , STRING_0 , STRING_1 , STRING_2 ) ; IDENT_6 . METHOD_2 ( config ) ; IDENT_6 . METHOD_3 ( config ) ; final java . util . List < org . IDENT_0 . IDENT_1 . server . config . IDENT_2 > IDENT_7 = IDENT_6 . METHOD_4 ( IDENT_4 . IDENT_5 , STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return index . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_7 . size ( ) ) 

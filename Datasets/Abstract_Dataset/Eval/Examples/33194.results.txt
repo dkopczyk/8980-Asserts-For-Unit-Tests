@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String result = IDENT_0 . METHOD_0 ( ( ( de . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 ) + STRING_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( java . lang . String ) { java . lang . String IDENT_6 = IDENT_7 . METHOD_1 ( IDENT_8 . IDENT_9 ) ; return de . IDENT_1 . IDENT_2 . web . util . IDENT_10 . METHOD_2 ( uri , IDENT_11 , IDENT_6 ) ; }
+org . junit . Assert . assertEquals ( ( ( de . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_9 ) + STRING_0 ) , result ) 

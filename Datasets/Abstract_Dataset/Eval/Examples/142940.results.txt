@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . bean . model . Person person = METHOD_1 ( ) ; person . setName ( org . IDENT_0 . bean . IDENT_1 . IDENT_2 ) ; person . setId ( org . IDENT_0 . bean . IDENT_1 . IDENT_3 ) ; "<AssertPlaceHolder>" ; } insert ( T ) { return persistence . insert ( bean ) ; }
+org . junit . Assert . assertTrue ( dao . insert ( person ) ) 

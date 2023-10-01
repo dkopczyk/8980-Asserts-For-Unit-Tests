@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final int expResult = 5 ; final int result = IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { int IDENT_1 = 0 ; for ( final com . IDENT_2 . IDENT_3 . commons . IDENT_4 . cache . impl . IDENT_5 entry : this . cache . values ( ) ) { IDENT_1 = IDENT_1 + ( entry . METHOD_2 ( ) ) ; } return IDENT_1 ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

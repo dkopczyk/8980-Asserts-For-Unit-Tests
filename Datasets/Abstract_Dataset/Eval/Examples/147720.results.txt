@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( this . helper . METHOD_1 ( ) ) . thenReturn ( null ) ; final boolean IDENT_0 = this . component . METHOD_2 ( this . entity ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . IDENT_1 . entities . IDENT_2 ) { return METHOD_2 ( entity , this . helper . METHOD_1 ( ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 ) 

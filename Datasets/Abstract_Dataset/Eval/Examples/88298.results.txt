@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) ; IDENT_1 = new net . sourceforge . IDENT_2 . client . action . METHOD_2 ( IDENT_3 , IDENT_4 ) { MOD_0 MOD_1 final long IDENT_5 = 1L ; public void METHOD_3 ( java . awt . event . IDENT_6 e ) { } } ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_1 . METHOD_4 ( ) ) 

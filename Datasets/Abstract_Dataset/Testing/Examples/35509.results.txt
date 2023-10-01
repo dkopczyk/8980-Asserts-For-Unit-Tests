@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( java . lang . Object element : elements ) queue . METHOD_1 ( element ) ; IDENT_0 . IDENT_1 . IDENT_2 . nio . List < java . lang . Object > IDENT_3 = new IDENT_0 . IDENT_1 . IDENT_2 . nio . ArrayList < java . lang . Object > ( ) ; queue . METHOD_2 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . util . Collection ) { return METHOD_2 ( new java . util . IDENT_4 < IDENT_0 . IDENT_1 . IDENT_2 . nio . util . IDENT_5 < IDENT_6 > > ( ) , target ) ; }
+org . junit . Assert . assertArrayEquals ( elements . toArray ( ) , IDENT_3 . toArray ( ) ) 

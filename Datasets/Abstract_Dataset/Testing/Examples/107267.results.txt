@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . java . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new com . IDENT_0 . java . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; com . IDENT_0 . java . IDENT_1 . IDENT_2 . METHOD_1 . IDENT_5 IDENT_6 = IDENT_4 . new com . IDENT_0 . java . IDENT_1 . IDENT_2 . METHOD_1 . METHOD_2 ( ( - INT_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( IDENT_7 ) <= ( - FLOAT_0 ) ) { return true ; } else { return false ; } }
+org . junit . Assert . assertTrue ( IDENT_6 . METHOD_3 ( ) ) 

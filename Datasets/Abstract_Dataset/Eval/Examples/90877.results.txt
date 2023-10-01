@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; IDENT_0 . resource . IDENT_1 result = IDENT_0 . utils . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { if ( ( IDENT_0 . utils . IDENT_2 . IDENT_3 ) == null ) { IDENT_0 . resource . IDENT_4 ctx = new IDENT_0 . resource . METHOD_2 ( ) ; IDENT_0 . utils . IDENT_2 . IDENT_3 = ( ( IDENT_0 . resource . IDENT_1 ) ( ctx . get ( IDENT_1 . IDENT_5 ) ) ) ; } return IDENT_0 . utils . IDENT_2 . IDENT_3 ; }
+org . junit . Assert . assertNotNull ( result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . util . IDENT_1 fixture = new org . IDENT_0 . core . util . METHOD_1 ( "" ) ; fixture . METHOD_2 ( false ) ; fixture . start ( "" ) ; METHOD_3 ( ) ; fixture . METHOD_4 ( ) ; org . IDENT_0 . core . util . METHOD_1 [ ] result = fixture . METHOD_5 ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { if ( ! ( this . IDENT_2 ) ) { throw new java . lang . METHOD_6 ( STRING_0 ) ; } return this . IDENT_3 . toArray ( new org . IDENT_0 . core . util . METHOD_1 . IDENT_4 [ this . IDENT_3 . size ( ) ] ) ; }
+org . junit . Assert . assertNotNull ( result ) 

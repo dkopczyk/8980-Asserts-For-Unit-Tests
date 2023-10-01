@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . IDENT_1 IDENT_2 = new com . eclipsesource . IDENT_0 . METHOD_1 ( IDENT_0 ) ; IDENT_2 . METHOD_2 ( IDENT_2 ) ; java . util . List < java . lang . Object > list = ( ( java . util . List < java . lang . Object > ) ( com . eclipsesource . IDENT_0 . utils . IDENT_3 . getValue ( IDENT_2 ) ) ) ; "<AssertPlaceHolder>" ; IDENT_2 . close ( ) ; } get ( byte [ ] ) { IDENT_0 . METHOD_3 ( ) ; METHOD_4 ( ) ; IDENT_4 . get ( IDENT_5 ) ; return this ; }
+org . junit . Assert . assertEquals ( list , list . get ( 0 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . openscience . cdk . tools . IDENT_0 logger = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . lang . String IDENT_1 = java . lang . System . getProperty ( STRING_0 ) ; java . lang . System . setProperty ( STRING_0 , STRING_1 ) ; org . openscience . cdk . tools . IDENT_2 logger = new org . openscience . cdk . tools . METHOD_2 ( this ) ; if ( IDENT_1 != null ) java . lang . System . setProperty ( STRING_0 , IDENT_1 ) ; return logger ; }
+org . junit . Assert . assertNotNull ( logger ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( new javax . jms . METHOD_2 ( "test" ) ) . when ( IDENT_0 ) . close ( ) ; IDENT_1 . connect ( ) ; IDENT_1 . METHOD_3 ( ) ; verify ( IDENT_0 , times ( 1 ) ) . close ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return ( ( connection ) != null ) && ( ( session ) != null ) ; }
+org . junit . Assert . assertFalse ( IDENT_1 . METHOD_4 ( ) ) 

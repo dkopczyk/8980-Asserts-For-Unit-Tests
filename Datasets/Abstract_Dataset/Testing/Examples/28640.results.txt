@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Date date = new java . util . Date ( ) ; java . lang . String IDENT_0 = IDENT_1 . METHOD_1 ( date . getTime ( ) ) ; java . util . Date expected = new java . util . Date ( IDENT_1 . METHOD_2 ( IDENT_0 ) ) ; java . util . Date actual = com . amazonaws . util . IDENT_2 . METHOD_3 ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( java . lang . String ) { return com . amazonaws . util . IDENT_2 . parse ( com . amazonaws . util . IDENT_2 . IDENT_3 , IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

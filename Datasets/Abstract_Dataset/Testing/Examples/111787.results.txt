@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] array = null ; "<AssertPlaceHolder>" ; } count ( T [ ] , java . util . function . IDENT_0 ) { return com . liferay . portal . kernel . util . IDENT_1 . count ( array , IDENT_2 ) ; }
+org . junit . Assert . assertEquals ( 0 , com . liferay . portal . kernel . util . IDENT_1 . count ( array , ( s ) -> true ) ) 

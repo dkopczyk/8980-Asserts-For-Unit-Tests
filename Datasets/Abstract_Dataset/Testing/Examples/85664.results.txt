@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( IDENT_0 . IDENT_1 ) { if ( ( node == null ) || ( ( node . next ) == null ) ) return false ; IDENT_0 . IDENT_1 next = node . next ; node . val = next . val ; node . next = next . next ; return true ; }
+org . junit . Assert . assertFalse ( s . METHOD_1 ( null ) ) 

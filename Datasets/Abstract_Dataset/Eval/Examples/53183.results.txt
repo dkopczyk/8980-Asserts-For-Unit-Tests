@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object result = IDENT_0 . IDENT_1 . run ( STRING_0 ) ; "<AssertPlaceHolder>" ; } run ( java . lang . String ) { IDENT_0 . IDENT_2 unit = IDENT_0 . IDENT_1 . METHOD_1 ( file ) ; unit . METHOD_2 ( true ) ; return IDENT_0 . IDENT_1 . METHOD_3 ( unit , null ) ; }
+org . junit . Assert . assertEquals ( new java . util . Date ( 0 ) , result ) 

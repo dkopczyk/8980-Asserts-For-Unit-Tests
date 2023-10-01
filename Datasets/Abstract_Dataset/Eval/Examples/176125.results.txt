@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 IDENT_1 = METHOD_1 ( ) ; IDENT_1 . METHOD_2 ( STRING_0 ) ; IDENT_1 . METHOD_2 ( STRING_1 ) ; METHOD_3 ( ) . save ( IDENT_1 ) ; METHOD_3 ( ) . remove ( IDENT_1 . METHOD_4 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return repository ; }
+org . junit . Assert . assertNull ( METHOD_3 ( ) . get ( IDENT_1 . METHOD_4 ( ) ) ) 

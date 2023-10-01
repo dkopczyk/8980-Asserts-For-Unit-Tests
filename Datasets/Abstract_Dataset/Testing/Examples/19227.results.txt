@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String x = STRING_0 ; org . apache . jena . IDENT_0 . IDENT_1 . ResultSet IDENT_2 = org . apache . jena . IDENT_0 . IDENT_1 . IDENT_3 . exec ( x ) ; "<AssertPlaceHolder>" ; org . apache . jena . IDENT_0 . IDENT_1 . IDENT_4 . METHOD_1 ( IDENT_2 ) ; } hasNext ( ) { return IDENT_5 . hasNext ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_2 . hasNext ( ) ) 

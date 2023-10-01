@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . repo . content . transform . IDENT_1 . METHOD_1 ( IDENT_2 , STRING_0 , STRING_1 ) ; IDENT_3 = new org . IDENT_0 . repo . content . transform . METHOD_2 ( IDENT_2 , IDENT_4 ) ; org . IDENT_0 . service . IDENT_5 . repository . IDENT_6 IDENT_7 = IDENT_3 . METHOD_3 ( IDENT_8 , STRING_2 , STRING_3 , null ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return METHOD_3 ( ) . METHOD_4 ( ) ; }
+org . junit . Assert . assertEquals ( 10 , IDENT_7 . METHOD_4 ( ) ) 

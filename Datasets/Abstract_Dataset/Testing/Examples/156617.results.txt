@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( new byte [ ] { 1 , 2 , 3 } ) ; byte [ ] IDENT_1 = IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return state . METHOD_3 ( ) . METHOD_4 ( ) . METHOD_5 ( ) ; }
+org . junit . Assert . assertArrayEquals ( new byte [ ] { 1 , 2 , 3 } , IDENT_1 ) 

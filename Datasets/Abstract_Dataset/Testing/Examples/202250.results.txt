@@ -1,0 +1,2 @@
+test ( ) { for ( int i = 0 ; i < ( org . IDENT_0 . IDENT_1 . IDENT_2 ) ; i ++ ) { if ( ( i OP_0 100 ) == 0 ) System . out . println ( ( STRING_0 + i ) ) ; java . lang . Thread t = new org . IDENT_0 . IDENT_1 . METHOD_0 ( ) ; t . start ( ) ; t . join ( ) ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( true ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . String actual = org . IDENT_0 . util . IDENT_1 . METHOD_1 ( STRING_0 ) ; final java . lang . String expected = STRING_0 ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { final int i = IDENT_2 . METHOD_2 ( STRING_1 ) ; if ( i == ( - 1 ) ) { return IDENT_2 ; } return IDENT_2 . substring ( ( i + 1 ) ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

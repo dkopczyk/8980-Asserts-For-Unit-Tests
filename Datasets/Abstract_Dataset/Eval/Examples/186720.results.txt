@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . android . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 model = new IDENT_0 . IDENT_1 . android . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 ( ) ; IDENT_0 . IDENT_1 . android . IDENT_2 . api . model . IDENT_6 < IDENT_0 . IDENT_1 . android . IDENT_2 . IDENT_3 . IDENT_4 . METHOD_1 > support = IDENT_0 . IDENT_1 . android . IDENT_2 . IDENT_7 . METHOD_2 ( model ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return model ; }
+org . junit . Assert . assertTrue ( ( model == ( support . METHOD_3 ( ) ) ) ) 

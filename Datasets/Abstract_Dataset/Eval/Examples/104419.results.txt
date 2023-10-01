@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 request = new com . IDENT_0 . IDENT_1 . METHOD_1 ( IDENT_3 . IDENT_4 , null , IDENT_5 . IDENT_6 ) ; com . IDENT_0 . IDENT_1 . IDENT_7 response = request . execute ( ) ; "<AssertPlaceHolder>" ; } getCode ( ) { return code ; }
+org . junit . Assert . assertThat ( response . getCode ( ) , org . hamcrest . Matchers . is ( ( - 1 ) ) ) 

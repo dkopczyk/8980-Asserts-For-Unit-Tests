@@ -1,0 +1,2 @@
+replaceAll ( ) { org . eclipse . collections . api . list . IDENT_0 < java . lang . Integer > IDENT_1 = this . METHOD_0 ( 1 , 2 , 3 , 4 ) ; IDENT_1 . replaceAll ( ( i ) -> i * 2 ) ; "<AssertPlaceHolder>" ; } with ( IDENT_2 , IDENT_3 , IDENT_2 , IDENT_3 ) { return org . eclipse . collections . impl . IDENT_4 . mutable . IDENT_5 . METHOD_1 ( IDENT_6 , IDENT_7 , IDENT_8 , IDENT_9 ) ; }
+org . junit . Assert . assertEquals ( Lists . mutable . with ( 2 , 4 , 6 , 8 ) , IDENT_1 ) 

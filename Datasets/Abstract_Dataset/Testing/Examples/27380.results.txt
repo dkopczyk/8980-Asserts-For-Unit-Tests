@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . asakusafw . utils . graph . IDENT_0 < java . lang . String > graph = com . asakusafw . utils . graph . IDENT_1 . newInstance ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return entity . METHOD_2 ( ) ; }
+org . junit . Assert . assertThat ( graph . METHOD_1 ( ) . isEmpty ( ) , is ( true ) ) 

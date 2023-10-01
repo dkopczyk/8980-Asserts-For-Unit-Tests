@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File file = java . io . File . METHOD_1 ( STRING_0 , null ) ; file . METHOD_2 ( ) ; try ( java . io . InputStream stream = com . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_3 ( file ) ) { "<AssertPlaceHolder>" ; } file . delete ( ) ; } METHOD_3 ( java . io . File ) { return com . IDENT_0 . IDENT_1 . io . internal . IDENT_3 . create ( file ) ; }
+org . junit . Assert . assertNotNull ( stream ) 

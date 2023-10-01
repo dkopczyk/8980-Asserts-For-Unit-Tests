@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . w3c . dom . Document doc = METHOD_1 ( STRING_0 ) ; org . w3c . dom . IDENT_0 IDENT_1 = doc . METHOD_2 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return length ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_1 . METHOD_3 ( ) ) 

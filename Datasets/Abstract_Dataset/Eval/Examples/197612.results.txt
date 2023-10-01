@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] IDENT_0 = new int [ ] { 0 , 1 , 2 } ; int [ ] IDENT_1 = org . apache . commons . lang3 . IDENT_2 . addAll ( IDENT_0 , 3 , 4 , 5 ) ; int [ ] IDENT_3 = new int [ ] { 0 , 1 , 2 , 3 , 4 , 5 } ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertArrayEquals ( IDENT_3 , IDENT_1 ) 

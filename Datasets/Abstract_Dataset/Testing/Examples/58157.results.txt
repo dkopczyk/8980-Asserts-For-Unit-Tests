@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . collections . api . block . IDENT_0 . IDENT_1 < java . lang . Integer > IDENT_0 = new org . eclipse . collections . impl . block . IDENT_0 . IDENT_2 . IDENT_3 < java . lang . Integer > ( ) { @ org . eclipse . collections . impl . block . IDENT_0 . IDENT_2 . Override public void METHOD_1 ( java . lang . Integer IDENT_4 ) { "<AssertPlaceHolder>" ; } } ; IDENT_0 . value ( 1 ) ; } valueOf ( IDENT_5 ) { return this . IDENT_6 . get ( subject ) ; }
+org . junit . Assert . assertEquals ( java . lang . Integer . valueOf ( 1 ) , IDENT_4 ) 

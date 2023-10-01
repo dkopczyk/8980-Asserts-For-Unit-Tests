@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 < java . lang . Integer > r = org . IDENT_0 . IDENT_1 . IDENT_2 . create ( org . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 , true , ( 2 * ( org . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 ) ) , true ) ; "<AssertPlaceHolder>" ; } contains ( java . awt . IDENT_5 ) { return contains ( p . METHOD_1 ( ) , p . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertTrue ( r . contains ( org . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 ) ) 

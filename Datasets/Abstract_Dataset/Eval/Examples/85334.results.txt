@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new com . IDENT_1 . streaming . IDENT_2 . METHOD_1 ( service ) ; com . IDENT_1 . streaming . view . IDENT_3 IDENT_4 = IDENT_0 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return new com . IDENT_1 . streaming . IDENT_2 . METHOD_1 ( service ) ; }
+org . junit . Assert . assertEquals ( true , ( METHOD_2 instanceof com . IDENT_1 . streaming . IDENT_2 . METHOD_1 ) ) 

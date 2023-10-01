@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String name = STRING_0 ; org . eu . IDENT_0 . tools . IDENT_1 . extension . IDENT_2 . IDENT_3 expResult = IDENT_3 . IDENT_4 ; org . eu . IDENT_0 . tools . IDENT_1 . extension . IDENT_2 . IDENT_3 result = org . eu . IDENT_0 . tools . IDENT_1 . extension . IDENT_2 . IDENT_3 . valueOf ( name ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

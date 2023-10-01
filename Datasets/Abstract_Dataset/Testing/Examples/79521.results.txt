@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . runtime . IDENT_1 runtime = com . IDENT_0 . runtime . IDENT_2 . METHOD_1 ( database ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( org . neo4j . IDENT_3 . IDENT_4 ) { return com . IDENT_0 . runtime . IDENT_5 . IDENT_6 . get ( com . IDENT_0 . runtime . IDENT_5 . METHOD_3 ( database ) ) ; }
+org . junit . Assert . assertEquals ( runtime , com . IDENT_0 . runtime . IDENT_5 . METHOD_2 ( database ) ) 

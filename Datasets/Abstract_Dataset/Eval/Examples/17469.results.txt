@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = factory . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return new org . apache . IDENT_0 . IDENT_1 . IDENT_5 . METHOD_2 ( ) ; }
+org . junit . Assert . assertNotNull ( METHOD_1 ) 

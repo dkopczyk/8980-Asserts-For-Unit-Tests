@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . utils . IDENT_2 . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . utils . IDENT_2 . METHOD_1 ( ) ; java . lang . String message = STRING_0 ; byte [ ] IDENT_5 = IDENT_4 . METHOD_2 ( message . getBytes ( ) ) ; IDENT_4 . METHOD_3 ( IDENT_5 ) ; byte [ ] IDENT_6 = set . METHOD_4 ( IDENT_4 , IDENT_5 ) ; "<AssertPlaceHolder>" ; } getBytes ( ) { return METHOD_5 ( 0 ) ; }
+org . junit . Assert . assertArrayEquals ( message . getBytes ( ) , IDENT_6 ) 

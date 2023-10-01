@@ -1,0 +1,2 @@
+METHOD_0 ( ) { bean . METHOD_1 ( java . util . Arrays . asList ( user ) ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( ) { bean . METHOD_1 ( java . util . Arrays . asList ( user ) ) ; org . junit . Assert . assertTrue ( bean . METHOD_0 ( ) ) ; }
+org . junit . Assert . assertTrue ( bean . METHOD_0 ( ) ) 

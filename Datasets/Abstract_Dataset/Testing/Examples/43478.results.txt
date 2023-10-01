@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . netty . buffer . IDENT_0 buf = org . jboss . netty . buffer . IDENT_1 . buffer ( 0 ) ; org . jboss . netty . buffer . IDENT_2 in = new org . jboss . netty . buffer . METHOD_1 ( buf ) ; java . lang . String s = in . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; in . close ( ) ; } length ( ) { return size ; }
+org . junit . Assert . assertEquals ( 0 , s . length ( ) ) 

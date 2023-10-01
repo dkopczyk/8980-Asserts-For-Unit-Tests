@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final uk . gov . gchq . gaffer . data . element . Properties properties = new uk . gov . gchq . gaffer . data . element . Properties ( ) ; properties . put ( null , STRING_0 ) ; "<AssertPlaceHolder>" ; } size ( ) { return map . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , properties . size ( ) ) 

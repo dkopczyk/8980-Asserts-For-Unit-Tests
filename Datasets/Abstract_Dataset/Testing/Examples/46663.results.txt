@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final int IDENT_0 = 10 ; java . util . concurrent . IDENT_1 < java . lang . Integer > IDENT_2 = new com . IDENT_3 . util . concurrent . IDENT_4 < java . lang . Integer > ( IDENT_0 ) ; while ( IDENT_2 . METHOD_1 ( java . lang . Integer . valueOf ( 0 ) ) ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . get ( ) ; }
+org . junit . Assert . assertEquals ( 16 , IDENT_2 . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { T IDENT_0 = METHOD_1 ( ) ; T IDENT_1 = create ( IDENT_0 ) ; "<AssertPlaceHolder>" ; eu . IDENT_2 . IDENT_3 . IDENT_4 . test . IDENT_5 . IDENT_6 . LOG . log ( IDENT_7 . IDENT_8 , ( ( STRING_0 + ( METHOD_2 ( ) ) ) + STRING_1 ) , new java . lang . Object [ ] { IDENT_1 . getId ( ) , eu . IDENT_2 . IDENT_3 . IDENT_4 . test . IDENT_9 . of ( ) . METHOD_3 ( ) } ) ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( IDENT_0 . getName ( ) , IDENT_1 . getName ( ) ) 

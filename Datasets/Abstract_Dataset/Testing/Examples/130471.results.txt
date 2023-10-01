@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . neo4j . IDENT_0 . api . schema . IDENT_1 IDENT_2 = METHOD_1 ( org . neo4j . kernel . impl . store . record . IDENT_3 , org . neo4j . kernel . impl . store . record . IDENT_4 ) ; org . neo4j . IDENT_0 . api . schema . IDENT_5 IDENT_6 = IDENT_2 . METHOD_2 ( org . neo4j . kernel . impl . store . record . IDENT_7 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return ( METHOD_4 ( ) ) && ( ( METHOD_5 ( ) ) == null ) ; }
+org . junit . Assert . assertTrue ( IDENT_6 . METHOD_3 ( ) ) 

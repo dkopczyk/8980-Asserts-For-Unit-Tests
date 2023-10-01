@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . domain . model . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( IDENT_4 ) ; verify ( IDENT_5 , times ( 1 ) ) . METHOD_2 ( com . IDENT_0 . service . IDENT_6 . impl . test . Mockito . any ( com . IDENT_0 . domain . model . IDENT_1 . class ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( com . IDENT_0 . domain . model . type . IDENT_7 ) { com . IDENT_0 . service . index . IDENT_8 . IDENT_9 IDENT_10 = IDENT_11 . METHOD_3 ( item ) ; if ( IDENT_10 != null ) { IDENT_12 . METHOD_4 ( ) . METHOD_5 ( item ) ; } }
+org . junit . Assert . assertSame ( IDENT_4 , IDENT_2 ) 

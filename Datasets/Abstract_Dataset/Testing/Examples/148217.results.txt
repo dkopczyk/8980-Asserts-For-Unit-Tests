@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < javax . IDENT_0 . component . IDENT_1 > components = METHOD_1 ( 3 ) ; org . springframework . IDENT_2 . template . ui . IDENT_3 info = new org . springframework . IDENT_2 . template . ui . METHOD_2 ( this . context , components ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { for ( javax . IDENT_0 . component . IDENT_1 component : this . components ) { if ( METHOD_3 ( component ) ) { return true ; } } return false ; }
+org . junit . Assert . assertThat ( info . METHOD_3 ( ) , org . hamcrest . Matchers . is ( false ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = IDENT_1 . transform ( from , to ) ; from . add ( "a" ) ; from . add ( "b" ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . util . List < java . lang . String > source = new java . util . ArrayList ( from ) ; java . util . Collections . METHOD_2 ( source ) ; return source ; }
+org . junit . Assert . assertEquals ( METHOD_1 ( ) , to ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . artemis . IDENT_0 strategy = new com . artemis . METHOD_1 ( ) { @ com . artemis . Override MOD_0 void process ( ) { } } ; com . artemis . IDENT_1 IDENT_2 = new com . artemis . METHOD_2 ( new com . artemis . METHOD_3 ( ) . METHOD_4 ( strategy ) ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return ( ( T ) ( IDENT_3 ) ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_2 . METHOD_5 ( ) ) == strategy ) ) 

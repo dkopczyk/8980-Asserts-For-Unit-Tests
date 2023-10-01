@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . commons . math3 . geometry . IDENT_0 . IDENT_1 . IDENT_2 c = new org . apache . commons . math3 . geometry . IDENT_0 . IDENT_1 . METHOD_1 ( FLOAT_0 , FLOAT_1 , ( - FLOAT_2 ) ) ; java . lang . String expected = ( ( ( ( ( STRING_0 + ( METHOD_2 ( ) ) ) + STRING_1 ) + ( METHOD_2 ( ) ) ) + STRING_2 ) + ( METHOD_2 ( ) ) ) + STRING_3 ; java . lang . String actual = IDENT_3 . format ( c ) ; "<AssertPlaceHolder>" ; } format ( java . lang . Object [ ] ) { return format . format ( IDENT_4 ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

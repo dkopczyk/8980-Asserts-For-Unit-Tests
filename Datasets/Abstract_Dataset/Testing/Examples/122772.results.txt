@@ -1,0 +1,2 @@
+METHOD_0 ( ) { nl . bzk . brp . IDENT_0 . business . dto . IDENT_1 . IDENT_2 IDENT_1 = new nl . bzk . brp . IDENT_0 . business . dto . IDENT_1 . METHOD_1 ( ( ( nl . bzk . brp . domein . kern . IDENT_3 ) ( null ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return null ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_1 . METHOD_2 ( ) . size ( ) ) 

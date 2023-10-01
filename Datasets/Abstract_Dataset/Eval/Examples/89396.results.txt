@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . IDENT_0 stmt = IDENT_1 . METHOD_1 ( ) ; java . sql . ResultSet rs = stmt . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; try { rs . METHOD_3 ( ( - 9 ) ) ; } catch ( java . sql . IDENT_2 IDENT_3 ) { } try { rs . METHOD_3 ( 1000 ) ; } catch ( java . sql . IDENT_2 IDENT_3 ) { } rs . close ( ) ; stmt . close ( ) ; } next ( ) { return METHOD_4 ( 1 ) ; }
+org . junit . Assert . assertTrue ( rs . next ( ) ) 

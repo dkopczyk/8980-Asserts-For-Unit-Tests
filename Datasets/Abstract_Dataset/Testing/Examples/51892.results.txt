@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nd4j . linalg . api . ndarray . INDArray arr = org . nd4j . linalg . factory . Nd4j . METHOD_1 ( 1 , 4 , 4 , IDENT_0 . IDENT_1 ) . METHOD_2 ( 2 , 2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( long , int [ ] ) { return null ; }
+org . junit . Assert . assertEquals ( arr . METHOD_3 ( 0 , 1 ) , arr . METHOD_3 ( 0 , 1 ) ) 

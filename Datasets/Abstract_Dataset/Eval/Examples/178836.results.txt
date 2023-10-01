@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . debug . core . IDENT_0 configuration = METHOD_1 ( STRING_0 ) ; IDENT_1 . METHOD_2 ( STRING_1 , IDENT_2 , configuration ) ; java . lang . String IDENT_3 = STRING_2 + ( org . eclipse . IDENT_4 . internal . IDENT_5 . IDENT_6 . METHOD_3 ( new java . io . File ( STRING_3 ) . getAbsolutePath ( ) ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return getId ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_2 . toString ( ) ) 

@@ -1,0 +1,2 @@
+read ( ) { org . IDENT_0 . client . to . IDENT_1 IDENT_1 = IDENT_2 . METHOD_0 ( ( ( IDENT_3 ) + STRING_0 ) , org . IDENT_0 . client . to . IDENT_1 . class ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( IDENT_1 ) 

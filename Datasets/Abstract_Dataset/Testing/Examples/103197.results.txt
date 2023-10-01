@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final boolean expected = true ; view . METHOD_1 ( expected ) ; final boolean actual = IDENT_0 . IDENT_1 ; "<AssertPlaceHolder>" ; } METHOD_1 ( boolean ) { this . IDENT_0 . IDENT_1 = IDENT_0 ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( plugin . METHOD_1 ( ) ) . thenReturn ( IDENT_0 . IDENT_1 ) ; final java . lang . String [ ] result = page . METHOD_2 ( IDENT_2 . IDENT_3 ) ; final java . util . List < java . lang . String > IDENT_4 = java . util . Arrays . asList ( result ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_4 . size ( ) ) 

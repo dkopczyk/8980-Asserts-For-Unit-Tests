@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . common . IDENT_2 . IDENT_3 IDENT_4 = org . IDENT_0 . IDENT_1 . common . IDENT_2 . IDENT_3 . of ( clazz ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return ( this . METHOD_2 ( s ) ) == ( org . IDENT_0 . IDENT_1 . common . IDENT_2 . IDENT_3 . IDENT_5 ) ; }
+org . junit . Assert . assertThat ( IDENT_4 . METHOD_1 ( "\n" ) , org . hamcrest . CoreMatchers . is ( true ) ) 

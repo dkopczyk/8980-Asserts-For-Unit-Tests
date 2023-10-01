@@ -1,0 +1,2 @@
+getValue ( ) { net . time4j . range . IDENT_0 IDENT_1 = net . time4j . range . IDENT_0 . METHOD_0 ( net . time4j . IDENT_2 . of ( INT_0 , 1 , 5 ) , net . time4j . IDENT_2 . of ( INT_0 , 3 , INT_1 ) ) ; net . time4j . range . IDENT_3 < net . time4j . IDENT_2 , net . time4j . range . IDENT_0 , java . lang . String > IDENT_4 = IDENT_1 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return ( this . METHOD_2 ( ) ) + 1 ; }
+org . junit . Assert . assertThat ( IDENT_4 . getValue ( ) , org . hamcrest . CoreMatchers . is ( STRING_0 ) ) 

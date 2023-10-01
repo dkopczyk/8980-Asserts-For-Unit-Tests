@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] [ ] arr = new int [ ] [ ] { new int [ ] { INT_0 , INT_1 , INT_2 } , new int [ ] { 1 , 2 , INT_3 } } ; int [ ] [ ] IDENT_0 = ( ( int [ ] [ ] ) ( org . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( arr ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( IDENT_4 ) { return org . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_2 ( value ) ; }
+org . junit . Assert . assertArrayEquals ( arr , IDENT_0 ) 

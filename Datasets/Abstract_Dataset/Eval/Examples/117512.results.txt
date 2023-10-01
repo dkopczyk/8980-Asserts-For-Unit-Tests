@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { java . lang . management . IDENT_0 IDENT_1 = java . lang . management . IDENT_2 . METHOD_2 ( ) ; return IDENT_1 . METHOD_3 ( ) ; }
+org . junit . Assert . assertTrue ( ( ( instance . METHOD_1 ( ) ) > 10 ) ) 

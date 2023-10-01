@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; org . openscience . IDENT_1 . helper . IDENT_2 instance = new org . openscience . IDENT_1 . helper . METHOD_1 ( ) ; instance . METHOD_2 ( IDENT_0 ) ; int IDENT_3 = 3 ; int result = instance . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return this . size ; }
+org . junit . Assert . assertEquals ( IDENT_3 , result ) 

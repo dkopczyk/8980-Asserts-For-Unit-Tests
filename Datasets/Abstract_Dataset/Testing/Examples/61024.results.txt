@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . swt . IDENT_0 . IDENT_1 str = org . eclipse . rap . rwt . internal . IDENT_2 . IDENT_3 . METHOD_1 ( METHOD_2 ( ) , STRING_0 ) ; org . eclipse . swt . IDENT_0 . IDENT_1 IDENT_4 = org . eclipse . rap . rwt . internal . IDENT_2 . IDENT_3 . METHOD_1 ( METHOD_2 ( ) , STRING_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return new org . eclipse . swt . IDENT_0 . METHOD_3 ( IDENT_5 , org . eclipse . rap . rwt . internal . IDENT_2 . IDENT_6 . IDENT_7 ) ; }
+org . junit . Assert . assertTrue ( ( ( str . x ) > ( IDENT_4 . x ) ) ) 

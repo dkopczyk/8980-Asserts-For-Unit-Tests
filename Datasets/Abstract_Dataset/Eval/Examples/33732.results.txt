@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( java . lang . reflect . Field . class , IDENT_1 ) ; final boolean result = IDENT_0 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ! ( METHOD_3 ( ) . isEmpty ( ) ) ; }
+org . junit . Assert . assertTrue ( result ) 

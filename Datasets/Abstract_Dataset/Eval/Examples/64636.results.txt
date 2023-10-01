@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . common . collect . ImmutableList < java . lang . Object > of = IDENT_0 . METHOD_1 ( 10 ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( getText ( ) . length ( ) ) < 1 ; }
+org . junit . Assert . assertTrue ( of . isEmpty ( ) ) 

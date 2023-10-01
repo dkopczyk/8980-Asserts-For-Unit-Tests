@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ch . puzzle . itc . mobiliar . business . IDENT_0 . entity . IDENT_1 c = ch . puzzle . itc . mobiliar . business . IDENT_0 . entity . IDENT_1 . builder ( IDENT_2 ) . METHOD_1 ( STRING_0 ) . METHOD_2 ( STRING_1 ) . build ( ) ; c . METHOD_3 ( IDENT_3 . eq ) ; java . lang . String IDENT_4 = c . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return this . METHOD_1 . replaceAll ( " " , "" ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_4 ) 

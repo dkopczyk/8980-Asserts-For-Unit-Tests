@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return com . liferay . document . library . kernel . service . IDENT_0 . METHOD_2 ( ) . METHOD_1 ( ) ; }
+org . junit . Assert . assertEquals ( 4 , com . liferay . document . library . kernel . service . IDENT_0 . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { javax . servlet . http . IDENT_0 IDENT_1 = mock ( javax . servlet . http . IDENT_0 . class ) ; com . IDENT_2 . session . servlet . IDENT_3 req = METHOD_1 ( new com . IDENT_2 . session . servlet . METHOD_2 ( IDENT_1 , IDENT_4 ) ) ; req . METHOD_3 ( com . IDENT_2 . session . servlet . IDENT_5 . IDENT_6 , true ) ; "<AssertPlaceHolder>" ; verify ( req , METHOD_4 ( ) ) . METHOD_5 ( false ) ; } METHOD_6 ( ) { METHOD_7 ( ) ; return ( ( IDENT_7 ) != null ) && ( METHOD_8 ( ) ) ; }
+org . junit . Assert . assertFalse ( req . METHOD_6 ( ) ) 

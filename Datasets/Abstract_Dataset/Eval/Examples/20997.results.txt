@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . IDENT_1 . common . shell . IDENT_2 result = executor . execute ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return ( status ) == ( org . apache . IDENT_0 . IDENT_1 . common . shell . IDENT_2 . Status . IDENT_3 ) ; }
+org . junit . Assert . assertTrue ( result . METHOD_1 ( ) ) 

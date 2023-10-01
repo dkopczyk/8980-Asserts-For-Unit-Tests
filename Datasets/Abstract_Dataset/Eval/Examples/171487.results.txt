@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( com . spotify . IDENT_1 . Response . METHOD_2 ( Status . IDENT_2 ) ) ; IDENT_0 . METHOD_1 ( com . spotify . IDENT_1 . Response . METHOD_2 ( Status . IDENT_3 ) ) ; "<AssertPlaceHolder>" ; } code ( ) { return IDENT_4 ; }
+org . junit . Assert . assertThat ( response . getStatus ( ) , org . hamcrest . CoreMatchers . is ( Status . IDENT_2 . code ( ) ) ) 

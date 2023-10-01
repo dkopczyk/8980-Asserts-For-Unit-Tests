@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { org . junit . Assert . assertEquals ( Integer . MAX_VALUE , org . apache . IDENT_0 . IDENT_1 . IDENT_2 . response . consumer . IDENT_3 . factory . METHOD_0 ( ) ) ; }
+org . junit . Assert . assertEquals ( Integer . MAX_VALUE , org . apache . IDENT_0 . IDENT_1 . IDENT_2 . response . consumer . IDENT_3 . factory . METHOD_0 ( ) ) 

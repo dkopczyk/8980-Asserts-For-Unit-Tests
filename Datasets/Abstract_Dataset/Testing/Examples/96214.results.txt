@@ -1,0 +1,2 @@
+METHOD_0 ( ) { list . put ( "a" , "b" ) ; "<AssertPlaceHolder>" ; } containsKey ( IDENT_0 ) { return ( METHOD_1 ( key ) ) >= 0 ; }
+org . junit . Assert . assertFalse ( list . containsKey ( "b" ) ) 

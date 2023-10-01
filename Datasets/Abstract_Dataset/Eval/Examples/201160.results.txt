@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . time . IDENT_2 now = new IDENT_0 . IDENT_1 . time . METHOD_1 ( ) ; IDENT_0 . IDENT_1 . time . METHOD_1 IDENT_3 = new IDENT_0 . IDENT_1 . time . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( now , IDENT_3 ) 

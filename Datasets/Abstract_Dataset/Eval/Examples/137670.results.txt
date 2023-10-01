@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . IDENT_0 . image . feature . IDENT_1 . IDENT_2 . IDENT_3 < byte [ ] , float [ ] > IDENT_4 = new org . IDENT_0 . image . feature . IDENT_1 . IDENT_2 . IDENT_3 < byte [ ] , float [ ] > ( new org . IDENT_0 . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 . METHOD_1 ( IDENT_9 , false , 1 ) ) ; final org . IDENT_0 . feature . IDENT_10 IDENT_11 = IDENT_4 . METHOD_2 ( IDENT_12 ) ; "<AssertPlaceHolder>" ; } length ( ) { return this . length ; }
+org . junit . Assert . assertEquals ( 10 , IDENT_11 . length ( ) ) 

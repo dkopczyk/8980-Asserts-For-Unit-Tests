@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 reader = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { return ( ( IDENT_4 ) != null ) || ( ( IDENT_5 ) != null ) ; }
+org . junit . Assert . assertFalse ( reader . hasNext ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . time . IDENT_0 IDENT_1 = java . time . IDENT_0 . METHOD_1 ( INT_0 , INT_1 ) ; java . time . IDENT_0 IDENT_2 = type . parse ( STRING_0 ) ; "<AssertPlaceHolder>" ; } parse ( java . lang . String ) { return IDENT_3 . parse ( value ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_2 ) 

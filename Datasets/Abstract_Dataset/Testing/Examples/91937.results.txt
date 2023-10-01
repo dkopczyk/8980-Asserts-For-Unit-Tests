@@ -1,0 +1,2 @@
+METHOD_0 ( ) { writer . METHOD_1 ( ) ; final org . IDENT_0 . core . runtime . IDENT_1 reader = METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } read ( ) { throw new java . io . IOException ( ) ; }
+org . junit . Assert . assertTrue ( reader . read ( ) ) 

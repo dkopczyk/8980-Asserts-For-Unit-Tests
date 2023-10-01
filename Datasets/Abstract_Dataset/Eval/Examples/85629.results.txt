@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . lang . String ) { if ( ( a . length ( ) ) == ( b . length ( ) ) ) { return METHOD_2 ( a , b ) ; } else if ( ( ( a . length ( ) ) - ( b . length ( ) ) ) == 1 ) { return METHOD_3 ( a , b ) ; } else if ( ( ( b . length ( ) ) - ( a . length ( ) ) ) == 1 ) { return METHOD_3 ( b , a ) ; } else { return false ; } }
+org . junit . Assert . assertTrue ( s . METHOD_1 ( "" , "" ) ) 

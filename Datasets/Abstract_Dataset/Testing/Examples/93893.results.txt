@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . jaxrs . IDENT_1 . support . IDENT_2 . IDENT_3 IDENT_4 = new com . IDENT_0 . jaxrs . IDENT_1 . support . IDENT_2 . METHOD_1 ( ) ; com . IDENT_0 . jaxrs . IDENT_1 . support . IDENT_5 . METHOD_2 ( IDENT_4 , "value" , STRING_0 ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return value ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_4 . getValue ( ) ) 

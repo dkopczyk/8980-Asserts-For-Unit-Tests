@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; com . IDENT_1 . config . IDENT_2 config = METHOD_1 ( IDENT_0 , STRING_1 ) ; boolean value = io . github . IDENT_3 . IDENT_4 . config . IDENT_5 . METHOD_2 ( config , IDENT_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( com . IDENT_1 . config . IDENT_2 , java . lang . String ) { if ( config . METHOD_3 ( key ) ) { return config . METHOD_2 ( key ) ; } throw new io . github . IDENT_3 . IDENT_4 . api . exception . METHOD_4 ( key ) ; }
+org . junit . Assert . assertTrue ( value ) 

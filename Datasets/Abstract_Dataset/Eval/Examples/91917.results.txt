@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . runtime . IDENT_1 options = new org . IDENT_0 . core . runtime . METHOD_1 ( ( ( java . lang . String ) ( null ) ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( text ) + ( IDENT_2 ) ; }
+org . junit . Assert . assertEquals ( "" , options . toString ( ) ) 

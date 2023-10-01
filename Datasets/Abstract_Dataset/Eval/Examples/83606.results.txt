@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . File file = new java . io . File ( org . IDENT_0 . core . file . IDENT_1 . parent , METHOD_1 ( ) ) ; org . apache . commons . io . IDENT_2 . write ( file , "test" ) ; org . IDENT_0 . core . model . IDENT_3 IDENT_4 = org . IDENT_0 . core . file . IDENT_5 . METHOD_2 ( file , IDENT_6 . IDENT_7 , 100 , METHOD_1 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return java . util . UUID . METHOD_3 ( ) . toString ( ) ; }
+org . junit . Assert . assertNull ( IDENT_4 ) 

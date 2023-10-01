@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Collection < java . security . IDENT_0 . IDENT_1 > input = null ; final java . util . Collection < java . security . IDENT_0 . IDENT_1 > result = org . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_1 ( input ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return map . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( result . isEmpty ( ) ) 

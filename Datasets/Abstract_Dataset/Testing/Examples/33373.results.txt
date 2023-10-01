@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String query = STRING_0 ; com . IDENT_0 . net . http . IDENT_1 IDENT_2 = com . IDENT_0 . net . http . IDENT_3 . IDENT_4 . METHOD_1 ( query , 10 , 5 ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_5 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_2 . dataset . size ( ) ) 

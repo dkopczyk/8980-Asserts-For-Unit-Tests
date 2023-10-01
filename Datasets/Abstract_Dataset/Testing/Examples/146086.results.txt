@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . di . core . IDENT_0 . IDENT_1 IDENT_2 = METHOD_1 ( IDENT_3 , null ) ; int IDENT_4 = IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; for ( int i = 1 ; i < IDENT_4 ; i ++ ) { org . pentaho . di . core . IDENT_0 . IDENT_5 IDENT_6 = IDENT_2 . METHOD_3 ( i ) ; for ( int j = 0 ; j < ( IDENT_6 . METHOD_4 ( ) ) ; j ++ ) { IDENT_6 . METHOD_5 ( j ) ; } } } METHOD_2 ( ) { return IDENT_7 . size ( ) ; }
+org . junit . Assert . assertEquals ( 3 , IDENT_4 ) 

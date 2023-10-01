@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte [ ] IDENT_0 = IDENT_1 . IDENT_2 . core . util . IDENT_3 . METHOD_1 ( IDENT_1 . IDENT_2 . core . io . IDENT_4 . file ( STRING_0 ) , IDENT_5 . IDENT_6 , STRING_1 ) ; "<AssertPlaceHolder>" ; } file ( java . lang . String ) { if ( IDENT_1 . IDENT_2 . core . util . IDENT_7 . METHOD_2 ( path ) ) { throw new java . lang . METHOD_3 ( STRING_2 ) ; } return new java . io . File ( IDENT_1 . IDENT_2 . core . io . IDENT_4 . getAbsolutePath ( path ) ) ; }
+org . junit . Assert . assertNotNull ( IDENT_0 ) 

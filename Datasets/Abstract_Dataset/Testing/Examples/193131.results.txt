@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String str = STRING_0 ; java . lang . Boolean ret = null ; try { ret = proxy . < java . lang . Boolean > call ( STRING_1 , str ) . get ( ) ; } catch ( java . lang . Exception e ) { org . junit . Assert . fail ( ( STRING_2 + ( e . getMessage ( ) ) ) ) ; } "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ret ) 

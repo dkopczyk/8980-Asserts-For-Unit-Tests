@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object element = new java . lang . Object ( ) ; java . lang . Object [ ] IDENT_0 = new java . lang . Object [ ] { element } ; java . lang . Object [ ] IDENT_1 = new java . lang . Object [ ] { element } ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertArrayEquals ( IDENT_0 , IDENT_1 ) 

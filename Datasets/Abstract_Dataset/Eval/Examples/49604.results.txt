@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . base . IDENT_1 res = new IDENT_0 . base . METHOD_1 ( null , false ) ; res . set ( 1 , "" ) ; res . set ( 0 , "" ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( 2 , res . size ( ) ) 

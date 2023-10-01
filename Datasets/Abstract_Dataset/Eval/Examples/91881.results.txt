@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . core . analysis . IDENT_1 c = org . IDENT_0 . core . internal . analysis . IDENT_2 . getInstance ( INT_0 , INT_1 ) ; "<AssertPlaceHolder>" ; } equals ( java . lang . Object ) { return data . equals ( obj ) ; }
+org . junit . Assert . assertFalse ( c . equals ( new java . lang . Integer ( INT_1 ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String container = null ; com . google . common . collect . IDENT_0 < java . lang . String , java . lang . String > services = IDENT_1 . METHOD_1 ( container , host ) ; "<AssertPlaceHolder>" ; } size ( ) { java . util . List < java . lang . Object [ ] > s = IDENT_2 . get ( ) ; if ( s == null ) { return 0 ; } else { return s . size ( ) ; } }
+org . junit . Assert . assertEquals ( 0 , services . size ( ) ) 

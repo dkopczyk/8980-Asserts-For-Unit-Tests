@@ -1,0 +1,2 @@
+METHOD_0 ( IDENT_0 . IDENT_1 ) { final byte [ ] bytes = "test" . getBytes ( ) ; new IDENT_0 . METHOD_1 ( ) { { mock . METHOD_2 ( ) ; result = new IDENT_0 . METHOD_3 ( ) { byte [ ] delegate ( ) { return bytes ; } } ; } } ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertSame ( bytes , mock . METHOD_2 ( ) ) 

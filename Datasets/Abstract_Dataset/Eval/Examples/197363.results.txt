@@ -1,0 +1,2 @@
+METHOD_0 ( ) { ( org . eclipse . xtext . testing . tests . IDENT_0 . IDENT_1 ) OP_0 ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( ( org . eclipse . xtext . testing . tests . IDENT_0 . IDENT_1 ) <= 0 ) ) 

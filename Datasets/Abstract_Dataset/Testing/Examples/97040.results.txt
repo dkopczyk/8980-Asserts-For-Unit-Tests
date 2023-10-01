@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jfree . data . IDENT_0 d = new org . jfree . data . METHOD_1 ( ) ; boolean IDENT_1 = false ; try { d . METHOD_2 ( 0 ) ; } catch ( java . lang . IDENT_2 e ) { IDENT_1 = true ; } "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { this . data . METHOD_2 ( IDENT_3 ) ; METHOD_3 ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_1 ) 

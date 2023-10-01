@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Map < java . lang . String , java . lang . String > parameters = new java . util . HashMap ( ) ; when ( source . METHOD_1 ( ) ) . thenReturn ( parameters ) ; when ( view . METHOD_2 ( ) ) . thenReturn ( STRING_0 ) ; IDENT_0 . METHOD_3 ( true ) ; "<AssertPlaceHolder>" ; } containsKey ( java . lang . Object ) { return delegate . containsKey ( key ) ; }
+org . junit . Assert . assertTrue ( parameters . containsKey ( STRING_0 ) ) 

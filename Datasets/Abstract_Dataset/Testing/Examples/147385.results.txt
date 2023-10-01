@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . Object [ ] expected = new java . lang . Object [ ] { INT_0 , INT_1 , INT_0 , 50 , INT_1 , 10 , INT_0 , 50 , INT_2 , 10 , INT_0 , 50 , INT_2 , INT_3 } ; java . lang . Object [ ] actual = result . stream ( ) . map ( IDENT_0 :: getValue ) . toArray ( ) ; "<AssertPlaceHolder>" ; } stream ( ) { return java . util . stream . IDENT_1 . stream ( java . util . IDENT_2 . METHOD_1 ( iterator ( ) , ( ( java . util . IDENT_3 . IDENT_4 ) | ( java . util . IDENT_3 . IDENT_5 ) ) ) , false ) ; }
+org . junit . Assert . assertArrayEquals ( expected , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { METHOD_1 ( STRING_0 ) ; } catch ( java . lang . RuntimeException e ) { boolean IDENT_0 = e . getMessage ( ) . contains ( STRING_1 ) ; "<AssertPlaceHolder>" ; } } getMessage ( ) { return IDENT_1 ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

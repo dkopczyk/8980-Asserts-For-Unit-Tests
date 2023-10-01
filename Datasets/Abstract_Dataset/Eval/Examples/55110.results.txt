@@ -1,0 +1,2 @@
+METHOD_0 ( ) { source . token = STRING_0 ; com . github . IDENT_0 . core . IDENT_1 . annotation . IDENT_2 . IDENT_3 result = mapper . map ( source , com . github . IDENT_0 . core . IDENT_1 . annotation . IDENT_2 . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } map ( java . lang . Object , java . lang . Class ) { return map ( IDENT_4 , IDENT_5 , null ) ; }
+org . junit . Assert . assertThat ( result . token , org . hamcrest . CoreMatchers . equalTo ( STRING_0 ) ) 

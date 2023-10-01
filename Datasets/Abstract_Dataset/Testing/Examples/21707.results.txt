@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . apache . olingo . IDENT_0 . proxy . IDENT_1 . IDENT_2 . types . IDENT_3 IDENT_4 = container . operations ( ) . METHOD_0 ( ) ; "<AssertPlaceHolder>" ; } execute ( ) { final org . apache . http . IDENT_5 res = org . apache . olingo . client . core . IDENT_6 . request . IDENT_7 . IDENT_8 . METHOD_1 ( ) ; return new METHOD_2 ( IDENT_9 , IDENT_10 , res ) ; }
+org . junit . Assert . assertEquals ( 5 , IDENT_4 . execute ( ) . size ( ) ) 

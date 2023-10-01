@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jena . IDENT_0 . IDENT_1 . IDENT_2 e = factory . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return new org . apache . jena . IDENT_3 . expr . METHOD_2 ( ) ; }
+org . junit . Assert . assertTrue ( ( e instanceof org . apache . jena . IDENT_0 . IDENT_1 . METHOD_2 ) ) 

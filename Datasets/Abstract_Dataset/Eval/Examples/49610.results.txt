@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = false ; try { IDENT_1 . METHOD_1 ( null ) ; IDENT_1 . connect ( new IDENT_2 . IDENT_3 < java . lang . Boolean > ( ) { @ IDENT_4 . internal . Override public void METHOD_2 ( java . lang . Boolean result ) { } } ) ; } catch ( java . lang . Exception e ) { IDENT_0 = true ; } "<AssertPlaceHolder>" ; } METHOD_2 ( IDENT_2 . IDENT_5 . Node [ ] ) { }
+org . junit . Assert . assertEquals ( false , IDENT_0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . concurrent . atomic . IDENT_0 IDENT_1 = new java . util . concurrent . atomic . METHOD_1 ( 0 ) ; java . util . concurrent . atomic . METHOD_1 IDENT_2 = new java . util . concurrent . atomic . METHOD_1 ( 0 ) ; IDENT_3 . METHOD_2 ( ) ; org . apache . jena . IDENT_4 . IDENT_5 IDENT_6 = org . apache . jena . IDENT_4 . IDENT_7 . METHOD_3 ( unit , ( ) -> IDENT_1 . METHOD_4 ( ) ) ; IDENT_6 . run ( ) ; "<AssertPlaceHolder>" ; } get ( ) { return other ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_1 . get ( ) ) 

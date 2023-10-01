@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . domain . conn . IDENT_2 pool = METHOD_1 ( ) ; try { com . github . IDENT_0 . IDENT_1 . domain . conn . IDENT_3 IDENT_4 = pool . METHOD_2 ( address ) ; "<AssertPlaceHolder>" ; pool . METHOD_3 ( address , IDENT_4 ) ; pool . METHOD_4 ( address ) ; } catch ( java . lang . Exception e ) { e . printStackTrace ( ) ; } } METHOD_5 ( ) { return IDENT_5 . METHOD_5 ( ) ; }
+org . junit . Assert . assertFalse ( IDENT_4 . METHOD_5 ( ) ) 

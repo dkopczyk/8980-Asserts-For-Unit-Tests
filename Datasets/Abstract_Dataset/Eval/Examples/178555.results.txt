@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = new org . IDENT_1 . IDENT_2 . web . IDENT_3 . support . METHOD_1 ( ) ; java . lang . String result = IDENT_0 . METHOD_2 ( request , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( javax . servlet . http . IDENT_4 , java . lang . String ) { return action ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . core . Is . is ( STRING_0 ) ) 

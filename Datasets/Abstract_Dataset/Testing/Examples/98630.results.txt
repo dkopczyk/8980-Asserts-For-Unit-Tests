@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < ? > list = new java . util . ArrayList < java . lang . String > ( java . util . Arrays . asList ( "a" , "b" , null , "1" , "2" , null ) ) ; org . IDENT_0 . examples . java . parser . IDENT_1 . METHOD_1 ( list ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . util . List ) { for ( java . util . Iterator < ? > it = list . iterator ( ) ; it . hasNext ( ) ; ) { if ( ( it . next ( ) ) == null ) { it . remove ( ) ; } } return list ; }
+org . junit . Assert . assertEquals ( java . util . Arrays . asList ( "a" , "b" , "1" , "2" ) , list ) 

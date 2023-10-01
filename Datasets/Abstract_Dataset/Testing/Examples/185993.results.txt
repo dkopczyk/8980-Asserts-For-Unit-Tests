@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final it . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 < java . lang . Integer > s = new it . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . METHOD_1 ( ) ; final java . lang . Integer o = java . lang . Integer . valueOf ( 0 ) ; s . add ( o ) ; "<AssertPlaceHolder>" ; } get ( int ) { return delegate . get ( key ) ; }
+org . junit . Assert . assertSame ( o , s . get ( java . lang . Integer . valueOf ( 0 ) ) ) 

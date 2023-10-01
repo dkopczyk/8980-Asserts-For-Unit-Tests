@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final uk . gov . gchq . gaffer . IDENT_0 . IDENT_1 store = new uk . gov . gchq . gaffer . IDENT_0 . METHOD_1 ( ) ; final java . util . Set < uk . gov . gchq . gaffer . store . IDENT_2 > IDENT_3 = new java . util . HashSet ( ) ; IDENT_3 . add ( IDENT_2 . IDENT_4 ) ; IDENT_3 . add ( IDENT_2 . IDENT_5 ) ; IDENT_3 . add ( IDENT_2 . IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return uk . gov . gchq . gaffer . integration . store . IDENT_7 . IDENT_8 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 , store . METHOD_2 ( ) ) 

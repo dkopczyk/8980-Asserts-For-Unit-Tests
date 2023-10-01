@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . IDENT_0 . map . IDENT_1 IDENT_2 = new org . apache . IDENT_0 . map . METHOD_1 ( ) ; org . apache . IDENT_0 . map . Entity IDENT_3 = new org . apache . IDENT_0 . map . METHOD_2 ( ) ; IDENT_2 . METHOD_3 ( IDENT_3 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return IDENT_4 ; }
+org . junit . Assert . assertSame ( IDENT_3 , IDENT_2 . METHOD_4 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < java . lang . Integer > actual = IDENT_0 . IDENT_1 . METHOD_1 ( ) . METHOD_2 ( ) . getInstance ( org . apache . IDENT_2 . IDENT_3 . IDENT_4 . class ) . METHOD_3 ( ) ; final java . util . List < java . lang . Integer > expected = new java . util . ArrayList ( ) ; expected . add ( 1 ) ; expected . add ( 2 ) ; expected . add ( 3 ) ; "<AssertPlaceHolder>" ; } add ( org . apache . IDENT_2 . IDENT_5 . remote . impl . IDENT_6 ) { queue . add ( event ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { a . org . IDENT_0 . test . IDENT_1 . IDENT_2 . IDENT_3 c = new a . org . IDENT_0 . test . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( long , int , java . lang . String , float , double ) { return STRING_0 ; }
+org . junit . Assert . assertEquals ( STRING_0 , c . METHOD_2 ( 0 , 0 , "" , 0 , 0 ) ) 

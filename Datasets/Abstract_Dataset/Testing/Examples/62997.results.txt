@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . eclipsesource . IDENT_0 . widgets . IDENT_1 . IDENT_2 provider = mock ( com . eclipsesource . IDENT_0 . widgets . IDENT_1 . IDENT_2 . class ) ; com . eclipsesource . IDENT_0 . internal . IDENT_3 manager = new com . eclipsesource . IDENT_0 . internal . METHOD_1 ( provider ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return provider ; }
+org . junit . Assert . assertSame ( provider , manager . METHOD_2 ( ) ) 

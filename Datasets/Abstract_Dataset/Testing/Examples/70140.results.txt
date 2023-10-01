@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . server . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . server . IDENT_1 . METHOD_1 ( STRING_0 , STRING_1 ) ; IDENT_3 . METHOD_2 ( STRING_2 ) ; IDENT_3 . METHOD_3 ( STRING_2 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( java . lang . String ) { return IDENT_4 . contains ( location ) ; }
+org . junit . Assert . assertFalse ( IDENT_3 . METHOD_4 ( STRING_2 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . gs . collections . api . IDENT_0 . IDENT_1 < java . lang . Integer > IDENT_0 = this . METHOD_1 ( 1 , 2 , 3 ) ; "<AssertPlaceHolder>" ; } valueOf ( char ) { return function . valueOf ( IDENT_2 ) ; }
+org . junit . Assert . assertEquals ( java . lang . Integer . valueOf ( 1 ) , IDENT_0 . METHOD_0 ( ) ) 

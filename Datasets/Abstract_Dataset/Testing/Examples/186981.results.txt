@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . ibm . IDENT_0 . IDENT_1 . v1 . model . IDENT_2 IDENT_3 = service . METHOD_1 ( ) . execute ( ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return METHOD_1 ( null ) ; }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

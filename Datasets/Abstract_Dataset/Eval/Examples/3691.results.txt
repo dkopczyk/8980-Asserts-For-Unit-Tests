@@ -1,0 +1,2 @@
+getPath ( ) { alluxio . IDENT_0 IDENT_1 = new alluxio . METHOD_0 ( "/" ) ; long IDENT_2 = IDENT_3 . METHOD_1 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; try { IDENT_3 . getPath ( ( IDENT_2 + INT_0 ) ) ; org . junit . Assert . fail ( STRING_0 ) ; } catch ( alluxio . exception . IDENT_4 e ) { } } getPath ( long ) { try ( alluxio . IDENT_5 . file . meta . IDENT_6 IDENT_7 = IDENT_8 . METHOD_2 ( IDENT_9 , IDENT_10 . IDENT_11 ) ) { return IDENT_8 . getPath ( IDENT_7 . METHOD_3 ( ) ) ; } }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_3 . getPath ( IDENT_2 ) ) 

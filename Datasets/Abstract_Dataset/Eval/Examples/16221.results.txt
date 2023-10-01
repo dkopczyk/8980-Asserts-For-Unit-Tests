@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; java . io . ByteArrayOutputStream out = new java . io . ByteArrayOutputStream ( ) ; java . io . IDENT_0 IDENT_1 = new java . io . METHOD_1 ( out ) ; org . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 instance = org . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_2 ( STRING_1 ) ; instance . start ( ) ; METHOD_3 ( ) ; instance . METHOD_4 ( IDENT_1 ) ; IDENT_1 . close ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_6 . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( out . size ( ) ) > 0 ) ) 

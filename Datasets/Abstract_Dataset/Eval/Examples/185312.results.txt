@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . vaadin . IDENT_0 . elements . IDENT_1 IDENT_2 = METHOD_1 ( com . vaadin . IDENT_0 . elements . IDENT_1 . class ) . get ( 0 ) ; java . lang . String expected = "" + ( com . vaadin . tests . elements . IDENT_3 . IDENT_4 ) ; java . lang . String actual = IDENT_2 . getValue ( ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return select . METHOD_2 ( ) . getText ( ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

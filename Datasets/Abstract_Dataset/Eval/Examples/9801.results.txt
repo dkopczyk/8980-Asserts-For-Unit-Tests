@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . junit . IDENT_0 . METHOD_1 ( ( ! ( org . apache . commons . crypto . IDENT_1 . METHOD_2 ( ) ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return org . apache . commons . crypto . IDENT_1 . IDENT_2 ; }
+org . junit . Assert . assertNotNull ( org . apache . commons . crypto . IDENT_1 . METHOD_3 ( ) ) 

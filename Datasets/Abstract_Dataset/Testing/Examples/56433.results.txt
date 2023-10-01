@@ -1,0 +1,2 @@
+METHOD_0 ( ) { new org . springframework . IDENT_0 . builder . METHOD_1 ( java . lang . Object . class ) . parent ( java . lang . Object . class ) . web ( IDENT_1 . IDENT_2 ) . run ( ) . close ( ) ; java . util . concurrent . atomic . IDENT_3 IDENT_4 = org . apache . dubbo . IDENT_5 . IDENT_0 . context . event . IDENT_6 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . apache . dubbo . IDENT_5 . IDENT_0 . context . event . IDENT_6 . IDENT_4 ; }
+org . junit . Assert . assertTrue ( IDENT_4 . get ( ) ) 

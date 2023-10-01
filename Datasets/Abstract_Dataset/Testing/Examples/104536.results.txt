@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { org . IDENT_0 . IDENT_1 . services . file . IDENT_2 . IDENT_3 . METHOD_1 ( java . net . URI . create ( STRING_0 ) , STRING_1 ) ; } catch ( java . io . IOException e ) { org . IDENT_0 . IDENT_1 . services . file . IDENT_2 . logger . error ( ( STRING_2 + ( e . getMessage ( ) ) ) ) ; } java . io . File file = org . IDENT_0 . IDENT_1 . services . file . IDENT_2 . IDENT_3 . METHOD_2 ( java . net . URI . create ( STRING_3 ) ) ; "<AssertPlaceHolder>" ; } exists ( ) { return this . file . exists ( ) ; }
+org . junit . Assert . assertFalse ( file . exists ( ) ) 

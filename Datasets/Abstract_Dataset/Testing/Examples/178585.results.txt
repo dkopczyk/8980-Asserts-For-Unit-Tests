@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . web . pagination . IDENT_2 info = new org . IDENT_0 . IDENT_1 . web . pagination . METHOD_1 ( page , IDENT_3 , IDENT_4 , 0 ) ; boolean result = info . METHOD_2 ( 5 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { return ( IDENT_5 ) == page ; }
+org . junit . Assert . assertTrue ( result ) 

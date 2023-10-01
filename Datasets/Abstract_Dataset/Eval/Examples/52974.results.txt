@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jackrabbit . api . security . IDENT_0 IDENT_1 = METHOD_1 ( METHOD_2 ( ) , METHOD_3 ( ) , IDENT_2 ) ; for ( javax . jcr . security . IDENT_3 IDENT_4 : IDENT_1 . METHOD_4 ( ) ) { IDENT_1 . METHOD_5 ( IDENT_4 ) ; } "<AssertPlaceHolder>" ; } isEmpty ( ) { return options . isEmpty ( ) ; }
+org . junit . Assert . assertTrue ( IDENT_1 . isEmpty ( ) ) 

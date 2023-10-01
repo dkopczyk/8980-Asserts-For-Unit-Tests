@@ -1,0 +1,2 @@
+METHOD_0 ( ) { gov . IDENT_0 . IDENT_1 . text . IDENT_2 IDENT_3 = new gov . IDENT_0 . IDENT_1 . text . METHOD_1 ( 0 , 100 , 1 ) ; gov . IDENT_0 . IDENT_1 . text . IDENT_4 IDENT_5 = new gov . IDENT_0 . IDENT_1 . text . METHOD_2 ( STRING_0 ) ; IDENT_3 . METHOD_3 ( 0 , IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( int ) { return IDENT_6 [ index ] ; }
+org . junit . Assert . assertEquals ( IDENT_5 , IDENT_3 . METHOD_4 ( 0 ) ) 

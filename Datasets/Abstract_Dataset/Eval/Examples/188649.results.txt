@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . IDENT_0 IDENT_1 = java . lang . Thread . METHOD_1 ( ) . METHOD_2 ( ) ; java . net . URL IDENT_2 = IDENT_1 . getResource ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getResource ( java . lang . Object ) { return org . wildfly . transaction . client . IDENT_3 . getInstance ( ) . getResource ( key ) ; }
+org . junit . Assert . assertNull ( IDENT_2 ) 

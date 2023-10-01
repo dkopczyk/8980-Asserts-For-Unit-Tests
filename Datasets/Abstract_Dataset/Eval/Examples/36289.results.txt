@@ -1,0 +1,2 @@
+METHOD_0 ( ) { map . put ( INT_0 , STRING_0 ) ; "<AssertPlaceHolder>" ; } get ( IDENT_0 ) { return IDENT_1 . get ( key ) ; }
+org . junit . Assert . assertNull ( map . get ( STRING_0 ) ) 

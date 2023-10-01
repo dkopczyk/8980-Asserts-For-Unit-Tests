@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean result = ( ( java . lang . Boolean ) ( IDENT_0 . call ( new java . lang . Object [ ] { STRING_0 , STRING_1 , true } , context ) ) ) ; "<AssertPlaceHolder>" ; } call ( java . lang . Object , java . lang . Object , org . mule . IDENT_1 . integration . IDENT_2 , java . lang . Object [ ] ) { return STRING_2 ; }
+org . junit . Assert . assertFalse ( result ) 

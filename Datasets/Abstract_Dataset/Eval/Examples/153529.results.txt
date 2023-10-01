@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream stream = org . IDENT_0 . ws . common . IDENT_1 . getResourceAsStream ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getResourceAsStream ( java . lang . String ) { org . IDENT_0 . ws . common . IDENT_1 . Path path = org . IDENT_0 . ws . common . IDENT_1 . METHOD_1 ( IDENT_2 ) ; return org . IDENT_0 . ws . common . IDENT_1 . METHOD_2 ( path . IDENT_3 , path . IDENT_2 ) ; }
+org . junit . Assert . assertNotNull ( stream ) 

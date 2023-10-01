@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . IDENT_1 . IDENT_2 . data . model . IDENT_3 IDENT_4 = ( ( IDENT_0 . IDENT_1 . IDENT_2 . data . model . IDENT_3 ) ( session . load ( IDENT_0 . IDENT_1 . IDENT_2 . data . model . IDENT_3 . class , 2 ) ) ) ; IDENT_0 . IDENT_1 . IDENT_2 . data . model . IDENT_5 IDENT_6 = IDENT_4 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return ( IDENT_7 . METHOD_3 ( ) ) - ( IDENT_8 ) ; }
+org . junit . Assert . assertThat ( METHOD_2 ( ) , org . hamcrest . CoreMatchers . is ( 1L ) ) 

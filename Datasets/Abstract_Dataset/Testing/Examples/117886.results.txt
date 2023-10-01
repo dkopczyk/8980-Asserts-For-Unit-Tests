@@ -1,0 +1,2 @@
+apply ( ) { "<AssertPlaceHolder>" ; } apply ( java . util . List ) { java . lang . Object [ ] IDENT_0 = IDENT_1 . METHOD_0 ( 1 , IDENT_1 . size ( ) ) . toArray ( ) ; return java . lang . String . format ( java . lang . String . valueOf ( IDENT_1 . get ( 0 ) ) , IDENT_0 ) ; }
+org . junit . Assert . assertThat ( function . apply ( java . util . Collections . singletonList ( 0 ) ) , equalTo ( 0.0 ) ) 

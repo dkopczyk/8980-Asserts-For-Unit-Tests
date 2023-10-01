@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean result = IDENT_0 . IDENT_1 . METHOD_1 ( this . context ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( org . jboss . IDENT_2 . container . Context ) { return ( this . IDENT_3 ) != null ? this . IDENT_3 : ! ( context . METHOD_2 ( ) ) ; }
+org . junit . Assert . assertFalse ( result ) 

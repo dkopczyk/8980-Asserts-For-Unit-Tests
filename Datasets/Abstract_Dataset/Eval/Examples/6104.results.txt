@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = IDENT_1 . METHOD_1 ( ) ; int IDENT_2 = METHOD_1 / 3 ; byte [ ] bytes = org . apache . activemq . artemis . utils . IDENT_3 . METHOD_2 ( IDENT_2 ) ; IDENT_1 . METHOD_3 ( bytes ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return 0 ; }
+org . junit . Assert . assertEquals ( ( METHOD_1 - IDENT_2 ) , IDENT_1 . METHOD_4 ( ) ) 

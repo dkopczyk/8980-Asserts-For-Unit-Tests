@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . client . api . IDENT_1 response = org . teiid . olingo . IDENT_2 . http . METHOD_1 ( ( ( ( org . teiid . olingo . IDENT_2 . IDENT_3 ) + STRING_0 ) + ( org . apache . olingo . commons . core . IDENT_4 . encode ( STRING_1 ) ) ) ) ; "<AssertPlaceHolder>" ; } getStatus ( ) { return status ; }
+org . junit . Assert . assertEquals ( 200 , response . getStatus ( ) ) 

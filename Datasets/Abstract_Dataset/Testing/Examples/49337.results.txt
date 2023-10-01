@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . internal . IDENT_3 target = com . IDENT_0 . IDENT_1 . IDENT_2 . internal . IDENT_4 . METHOD_1 ( "foo" ) ; org . openqa . selenium . IDENT_5 found = target . METHOD_2 ( IDENT_6 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_4 ( driver :: METHOD_3 ) ; }
+org . junit . Assert . assertThat ( found . METHOD_3 ( ) , org . hamcrest . Matchers . is ( "foo" ) ) 

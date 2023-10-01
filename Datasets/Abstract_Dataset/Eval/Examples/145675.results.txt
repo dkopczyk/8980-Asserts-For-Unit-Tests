@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . hbase . IDENT_0 . api . IDENT_1 IDENT_2 = METHOD_1 ( ) ; IDENT_2 . METHOD_2 ( true ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( boolean ) { IDENT_3 = key ; }
+org . junit . Assert . assertTrue ( "test" , IDENT_2 . IDENT_3 ) 

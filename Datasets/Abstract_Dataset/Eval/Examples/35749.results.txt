@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . generator . IDENT_2 . IDENT_3 . IDENT_4 provider = new com . IDENT_0 . IDENT_1 . generator . IDENT_2 . IDENT_3 . METHOD_1 ( ( column ) -> STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( IDENT_5 . schema . IDENT_6 ) { return column . METHOD_3 ( ) . METHOD_4 ( ) . METHOD_5 ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , provider . METHOD_2 ( org . mockito . Mockito . mock ( IDENT_5 . schema . IDENT_6 . class ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . config . IDENT_2 IDENT_3 = METHOD_1 ( ) ; "<AssertPlaceHolder>" ; verify ( IDENT_4 ) . METHOD_2 ( true ) ; verify ( IDENT_5 ) . METHOD_2 ( true ) ; } METHOD_3 ( boolean ) { for ( org . IDENT_0 . IDENT_1 . config . IDENT_2 b : IDENT_6 . values ( ) ) { b . METHOD_3 ( IDENT_7 ) ; } return this ; }
+org . junit . Assert . assertSame ( IDENT_3 , IDENT_3 . METHOD_3 ( true ) ) 

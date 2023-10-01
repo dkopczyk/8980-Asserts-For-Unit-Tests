@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = INT_0 ; int IDENT_1 = 2 ; int IDENT_2 = INT_1 ; java . util . Date actual = info . IDENT_3 . IDENT_4 . date . IDENT_5 . date ( IDENT_0 , IDENT_1 , IDENT_2 ) ; java . util . Date expected = new java . util . METHOD_1 ( INT_0 , 1 , INT_1 ) . getTime ( ) ; "<AssertPlaceHolder>" ; } date ( int , int , int ) { info . IDENT_3 . IDENT_4 . tools . IDENT_6 . METHOD_2 ( IDENT_0 , IDENT_1 , IDENT_2 ) ; return new java . util . METHOD_1 ( IDENT_0 , ( IDENT_1 - 1 ) , IDENT_2 ) . getTime ( ) ; }
+org . junit . Assert . assertEquals ( expected , actual ) 

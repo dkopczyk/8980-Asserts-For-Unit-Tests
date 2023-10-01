@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . jboss . netty . buffer . IDENT_0 bytes = read ( STRING_0 , true ) ; this . IDENT_1 . METHOD_1 ( bytes ) ; org . IDENT_2 . IDENT_3 . IDENT_4 . protocol . IDENT_5 IDENT_6 = this . IDENT_1 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_7 . METHOD_2 ( ) ; }
+org . junit . Assert . assertNotNull ( IDENT_6 ) 

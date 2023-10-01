@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . google . auth . IDENT_0 . IDENT_1 IDENT_2 = com . google . auth . IDENT_0 . IDENT_3 . METHOD_1 ( ) . METHOD_2 ( com . google . auth . IDENT_0 . IDENT_4 . IDENT_5 ) . METHOD_3 ( com . google . auth . IDENT_0 . IDENT_4 . IDENT_6 ) . METHOD_4 ( com . google . auth . IDENT_0 . IDENT_4 . IDENT_7 ) . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return true ; }
+org . junit . Assert . assertTrue ( IDENT_2 . METHOD_5 ( ) ) 

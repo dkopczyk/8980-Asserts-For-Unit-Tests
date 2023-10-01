@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 . IDENT_1 , STRING_0 ) ; IDENT_2 . METHOD_2 ( ) ; METHOD_3 ( org . eclipse . rap . rwt . internal . service . IDENT_3 . METHOD_4 ( IDENT_4 . IDENT_5 ) ) ; IDENT_2 . METHOD_5 ( response ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { if ( ( IDENT_6 ) != null ) { return IDENT_6 . METHOD_6 ( ) ; } return null ; }
+org . junit . Assert . assertEquals ( STRING_0 , response . METHOD_6 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int expected = ( state . METHOD_1 ( ) ) + 1 ; IDENT_0 . METHOD_2 ( IDENT_1 , state ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_2 ; }
+org . junit . Assert . assertEquals ( expected , state . METHOD_1 ( ) ) 

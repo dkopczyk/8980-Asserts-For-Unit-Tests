@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . github . IDENT_0 . IDENT_1 . IDENT_2 a = com . github . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 . report . get ( STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertEquals ( 0 , a . METHOD_1 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . entity . IDENT_1 IDENT_2 = mock ( org . IDENT_0 . entity . IDENT_1 . class ) ; org . IDENT_0 . event . entity . IDENT_3 e = new org . IDENT_0 . event . entity . METHOD_1 ( IDENT_2 , org . IDENT_0 . event . entity . METHOD_1 . IDENT_4 . IDENT_5 , 0.0 ) ; listener . METHOD_2 ( e ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertFalse ( e . METHOD_3 ( ) ) 

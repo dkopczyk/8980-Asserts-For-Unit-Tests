@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . model . entity . IDENT_1 IDENT_2 = new com . IDENT_0 . model . entity . METHOD_1 ( ) ; IDENT_2 . setName ( "test" ) ; IDENT_2 . METHOD_2 ( 1L ) ; service . METHOD_3 ( IDENT_2 ) ; IDENT_2 . setName ( STRING_0 ) ; service . METHOD_0 ( IDENT_2 ) ; com . IDENT_0 . model . entity . METHOD_1 IDENT_3 = service . METHOD_4 ( IDENT_2 . getId ( ) ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertTrue ( IDENT_3 . getName ( ) . equals ( STRING_0 ) ) 

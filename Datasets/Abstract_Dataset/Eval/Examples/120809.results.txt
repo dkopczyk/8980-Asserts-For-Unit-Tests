@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( ) . METHOD_2 ( new nl . bzk . brp . model . algemeen . IDENT_1 . kern . METHOD_3 ( INT_0 ) ) ; java . util . List < nl . bzk . brp . model . validatie . IDENT_2 > IDENT_3 = IDENT_4 . METHOD_4 ( null , IDENT_5 , null ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_6 . size ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_3 . size ( ) ) == 0 ) ) 

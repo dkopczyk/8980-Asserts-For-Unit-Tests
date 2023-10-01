@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . example . IDENT_1 . domain . IDENT_2 b = builder . build ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_3 ; }
+org . junit . Assert . assertNull ( b . METHOD_1 ( ) ) 

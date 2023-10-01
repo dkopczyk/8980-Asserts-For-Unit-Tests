@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Collection < java . lang . String > IDENT_0 = new java . util . ArrayList < java . lang . String > ( ) ; IDENT_0 . add ( STRING_0 ) ; final java . util . Set < java . lang . String > IDENT_1 = IDENT_2 . METHOD_1 ( null , IDENT_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_1 . size ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { request . METHOD_1 ( INT_0 ) ; request . METHOD_2 ( METHOD_3 ( data ) ) ; "<AssertPlaceHolder>" ; } validate ( ) { return true ; }
+org . junit . Assert . assertThat ( request . validate ( ) , org . hamcrest . CoreMatchers . equalTo ( false ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . ibatis . session . IDENT_0 IDENT_1 = org . apache . ibatis . IDENT_2 . IDENT_3 . IDENT_4 . IDENT_5 . METHOD_1 ( ) ; try { org . apache . ibatis . IDENT_2 . IDENT_3 . IDENT_6 mapper = IDENT_1 . METHOD_2 ( org . apache . ibatis . IDENT_2 . IDENT_3 . IDENT_6 . class ) ; org . apache . ibatis . IDENT_2 . IDENT_3 . User user = mapper . METHOD_3 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } finally { IDENT_1 . close ( ) ; } } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( STRING_0 , user . getName ( ) ) 

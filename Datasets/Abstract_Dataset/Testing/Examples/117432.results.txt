@@ -1,0 +1,2 @@
+METHOD_0 ( ) { edu . illinois . library . cantaloupe . resource . IDENT_0 . v1 . IDENT_1 r = edu . illinois . library . cantaloupe . resource . IDENT_0 . v1 . IDENT_1 . METHOD_1 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } toString ( ) { return ( IDENT_2 ) + "" ; }
+org . junit . Assert . assertEquals ( STRING_0 , r . toString ( ) ) 

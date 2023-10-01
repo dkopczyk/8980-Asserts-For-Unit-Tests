@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . pentaho . IDENT_0 . IDENT_1 . IDENT_2 . pentaho . repository . IDENT_3 . IDENT_4 task = new org . pentaho . IDENT_0 . IDENT_1 . IDENT_2 . pentaho . repository . IDENT_3 . METHOD_1 ( IDENT_5 , IDENT_6 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( task ) 

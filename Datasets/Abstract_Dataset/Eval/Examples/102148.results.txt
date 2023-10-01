@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . kie . workbench . common . widgets . metadata . client . IDENT_0 . IDENT_1 IDENT_2 = mock ( org . kie . workbench . common . widgets . metadata . client . IDENT_0 . IDENT_1 . class ) ; doReturn ( false ) . when ( IDENT_2 ) . METHOD_1 ( ) ; doReturn ( IDENT_2 ) . when ( IDENT_3 ) . METHOD_2 ( ) ; final boolean METHOD_1 = IDENT_3 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return METHOD_2 ( ) . METHOD_1 ( ) ; }
+org . junit . Assert . assertFalse ( METHOD_1 ) 

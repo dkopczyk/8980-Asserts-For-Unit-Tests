@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . github . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) . config ( ) . METHOD_2 ( true ) . METHOD_3 ( new java . net . URL ( STRING_0 ) ) ; io . github . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) . METHOD_4 ( ) . METHOD_5 ( ) . METHOD_6 ( ) ; java . io . File IDENT_3 = new java . io . File ( io . github . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) . METHOD_7 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_7 ( ) { return resolve ( IDENT_4 ) ; }
+org . junit . Assert . assertTrue ( IDENT_3 . exists ( ) ) 

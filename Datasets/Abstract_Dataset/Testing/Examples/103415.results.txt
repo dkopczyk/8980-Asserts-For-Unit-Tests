@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( IDENT_0 ) ; org . kie . workbench . common . IDENT_1 . IDENT_2 . management . model . IDENT_3 IDENT_4 = IDENT_5 . METHOD_2 ( IDENT_0 . METHOD_3 ( ) ) ; METHOD_4 ( IDENT_4 ) ; IDENT_4 = IDENT_5 . METHOD_2 ( IDENT_0 . METHOD_3 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertNull ( IDENT_4 ) 

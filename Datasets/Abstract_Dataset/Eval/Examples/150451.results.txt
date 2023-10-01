@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String [ ] IDENT_0 = new java . lang . String [ ] { STRING_0 , STRING_1 } ; int [ ] IDENT_1 = new int [ ] { 3 , 5 } ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String [ ] ) { return ( ( int [ ] ) ( net . sf . IDENT_2 . util . IDENT_3 . to ( net . sf . IDENT_2 . util . Integer . class , values ) ) ) ; }
+org . junit . Assert . assertArrayEquals ( IDENT_1 , net . sf . IDENT_2 . util . IDENT_3 . METHOD_1 ( IDENT_0 ) ) 

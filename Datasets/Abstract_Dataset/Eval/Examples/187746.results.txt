@@ -1,0 +1,2 @@
+sync ( ) { "<AssertPlaceHolder>" ; } sync ( ) { org . junit . Assert . assertTrue ( redis . sync ( ) . startsWith ( STRING_0 ) ) ; }
+org . junit . Assert . assertTrue ( redis . sync ( ) . startsWith ( STRING_0 ) ) 

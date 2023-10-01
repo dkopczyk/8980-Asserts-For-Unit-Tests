@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( route , 8 ) ; final long now = java . lang . System . currentTimeMillis ( ) ; IDENT_1 . METHOD_2 ( now ) ; impl . METHOD_3 ( route ) ; final long max = IDENT_0 . METHOD_4 ( route ) ; IDENT_1 . METHOD_2 ( ( now + 1 ) ) ; impl . METHOD_5 ( route ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( org . apache . hc . IDENT_2 . http . IDENT_3 ) { return pool . METHOD_4 ( route ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_0 . METHOD_4 ( route ) ) < max ) ) 

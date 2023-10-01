@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . core . IDENT_1 IDENT_2 = new io . IDENT_0 . core . METHOD_1 ( new com . google . gson . METHOD_2 ( ) ) ; IDENT_2 . METHOD_3 ( false ) ; java . lang . Double count = IDENT_2 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { java . lang . Double count = null ; if ( IDENT_3 ) { count = METHOD_5 ( io . IDENT_0 . core . Double . class ) ; } return count ; }
+org . junit . Assert . assertNull ( count ) 

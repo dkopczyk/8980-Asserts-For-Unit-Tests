@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( INT_0 ) ; boolean isValid = IDENT_0 . validate ( ) ; "<AssertPlaceHolder>" ; } validate ( ) { return true ; }
+org . junit . Assert . assertThat ( isValid , org . hamcrest . CoreMatchers . is ( false ) ) 

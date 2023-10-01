@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 IDENT_4 = new com . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 . IDENT_6 , METHOD_2 ( ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_7 ) { return ( when . METHOD_4 ( ) . test ( call ) ) && ( ( ( ( IDENT_8 . size ( ) ) == 0 ) || ( ( IDENT_9 ) != null ) ) || ( ( IDENT_8 . size ( ) ) > ( IDENT_10 ) ) ) ; }
+org . junit . Assert . assertTrue ( IDENT_4 . METHOD_3 ( mock ( com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_7 . class ) ) ) 

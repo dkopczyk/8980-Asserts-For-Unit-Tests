@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . concurrent . IDENT_0 < java . lang . String > future = METHOD_1 ( STRING_0 ) ; final java . util . concurrent . IDENT_0 < java . lang . String > IDENT_1 = com . spotify . IDENT_2 . IDENT_3 . METHOD_2 ( METHOD_1 ( future ) ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( T ) { return com . spotify . IDENT_2 . IDENT_4 . METHOD_3 ( org . hamcrest . core . Is . is ( expected ) ) ; }
+org . junit . Assert . assertThat ( IDENT_1 , com . spotify . IDENT_2 . IDENT_4 . METHOD_3 ( STRING_0 ) ) 

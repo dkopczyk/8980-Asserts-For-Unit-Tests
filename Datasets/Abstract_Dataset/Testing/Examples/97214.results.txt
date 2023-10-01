@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . awt . image . IDENT_0 IDENT_1 = new java . awt . image . METHOD_1 ( 10 , 10 , java . awt . image . METHOD_1 . IDENT_2 ) ; IDENT_3 . METHOD_2 ( IDENT_1 , null , 2 , 3 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . awt . image . METHOD_1 , java . awt . image . IDENT_4 , int , int ) { java . awt . image . METHOD_1 IDENT_5 = IDENT_1 ; if ( op != null ) { IDENT_5 = op . filter ( IDENT_1 , null ) ; } METHOD_2 ( IDENT_5 , new java . awt . geom . METHOD_3 ( FLOAT_0 , FLOAT_1 , FLOAT_1 , FLOAT_0 , x , y ) , null ) ; }
+org . junit . Assert . assertTrue ( true ) 

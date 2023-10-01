@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = IDENT_1 . METHOD_1 ( INT_0 , IDENT_2 , IDENT_3 , IDENT_4 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( int , edu . IDENT_5 . IDENT_6 . core . entities . IDENT_7 , edu . IDENT_5 . IDENT_6 . core . entities . User , edu . IDENT_5 . IDENT_6 . core . entities . IDENT_8 ) { java . math . BigDecimal IDENT_9 = edu . IDENT_5 . IDENT_6 . core . util . IDENT_10 . METHOD_2 ( IDENT_11 , IDENT_12 . IDENT_13 , IDENT_14 , user , IDENT_4 ) ; return ( user . METHOD_3 ( ) . compareTo ( IDENT_9 ) ) >= 0 ; }
+org . junit . Assert . assertTrue ( IDENT_0 ) 

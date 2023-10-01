@@ -1,0 +1,2 @@
+METHOD_0 ( ) { byte b = org . apache . activemq . artemis . utils . IDENT_0 . METHOD_1 ( ) ; IDENT_1 . METHOD_2 ( b ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( IDENT_2 . LOGGER . METHOD_4 ( ) ) { IDENT_2 . LOGGER . trace ( STRING_0 ) ; } return ( ( javax . jms . IDENT_3 ) ( message ) ) . METHOD_3 ( ) ; }
+org . junit . Assert . assertEquals ( b , IDENT_1 . METHOD_3 ( ) ) 

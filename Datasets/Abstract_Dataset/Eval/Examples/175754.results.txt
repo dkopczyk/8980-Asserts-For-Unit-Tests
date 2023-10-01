@@ -1,0 +1,2 @@
+METHOD_0 ( ) { writer . METHOD_1 ( "test" ) ; "<AssertPlaceHolder>" ; } close ( ) { if ( ! ( IDENT_0 ) ) { org . talend . components . IDENT_1 . runtime . writer . IDENT_2 . LOG . debug ( STRING_0 ) ; } rest = null ; IDENT_0 = false ; return result ; }
+org . junit . Assert . assertNotNull ( writer . close ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . workbench . api . IDENT_1 IDENT_2 = new org . eclipse . IDENT_0 . workbench . impl . view . METHOD_1 ( STRING_0 ) ; IDENT_2 . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { if ( ( METHOD_4 ( ) ) == null ) { return super . METHOD_3 ( ) ; } else { METHOD_5 ( METHOD_4 ( ) . getName ( ) ) ; return METHOD_4 ( ) . getName ( ) ; } }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_2 . METHOD_3 ( ) ) 

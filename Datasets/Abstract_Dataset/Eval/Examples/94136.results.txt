@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . jboss . IDENT_0 . value . IDENT_1 < java . lang . Class < ? extends java . lang . Boolean > > value = new org . jboss . IDENT_0 . value . IDENT_2 < java . lang . Boolean > ( new org . jboss . IDENT_0 . value . IDENT_3 < java . lang . Boolean > ( true ) ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return ( count ) ++ ; }
+org . junit . Assert . assertSame ( org . jboss . IDENT_0 . value . Boolean . class , value . getValue ( ) ) 

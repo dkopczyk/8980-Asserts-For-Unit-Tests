@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . xtext . util . IDENT_0 IDENT_1 = new org . eclipse . xtext . util . METHOD_1 ( new org . eclipse . xtext . util . METHOD_2 ( ( STRING_0 + ( org . eclipse . xtext . util . IDENT_2 . IDENT_3 ) ) ) , STRING_1 ) ; IDENT_1 . METHOD_3 ( STRING_1 ) ; "<AssertPlaceHolder>" ; } write ( java . io . IDENT_4 ) { write ( new java . io . METHOD_4 ( new java . io . METHOD_5 ( stream ) ) ) ; }
+org . junit . Assert . assertEquals ( ( STRING_0 + ( org . eclipse . xtext . util . IDENT_2 . IDENT_3 ) ) , write ( IDENT_1 ) ) 

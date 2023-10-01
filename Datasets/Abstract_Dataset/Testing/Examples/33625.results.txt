@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final net . IDENT_0 . IDENT_1 . IDENT_2 . User user = new net . IDENT_0 . IDENT_1 . IDENT_2 . User ( STRING_0 , INT_0 ) ; final net . IDENT_0 . IDENT_1 . ui . IDENT_3 IDENT_4 = mock ( net . IDENT_0 . IDENT_1 . ui . IDENT_3 . class ) ; user . METHOD_1 ( IDENT_4 ) ; IDENT_5 . METHOD_2 ( user ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertSame ( IDENT_4 , user . METHOD_3 ( ) ) 

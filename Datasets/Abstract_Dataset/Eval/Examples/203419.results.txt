@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try { org . talend . IDENT_0 . analysis . IDENT_1 . IDENT_2 IDENT_3 = new org . talend . IDENT_0 . analysis . IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . Exception e ) { org . junit . Assert . fail ( e . getMessage ( ) ) ; } }
+org . junit . Assert . assertNotNull ( IDENT_3 ) 

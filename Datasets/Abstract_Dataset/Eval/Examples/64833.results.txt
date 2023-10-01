@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 IDENT_5 = manager . METHOD_1 ( uri ( STRING_0 ) ) ; final com . IDENT_0 . IDENT_1 . IDENT_6 . IDENT_7 . IDENT_8 handler = new com . IDENT_0 . IDENT_1 . IDENT_6 . IDENT_7 . METHOD_2 ( com . IDENT_0 . IDENT_1 . core . events . IDENT_9 . IDENT_10 . IDENT_11 ) ; manager . METHOD_3 ( handler ) ; manager . close ( IDENT_5 ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return ( METHOD_5 ( ) ) == 1 ; }
+org . junit . Assert . assertTrue ( handler . METHOD_4 ( ) ) 

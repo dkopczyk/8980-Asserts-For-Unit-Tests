@@ -1,0 +1,2 @@
+name ( ) { IDENT_0 . IDENT_1 . compiler . IDENT_2 e = new IDENT_0 . IDENT_1 . compiler . METHOD_0 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( STRING_0 , e . getName ( ) ) 

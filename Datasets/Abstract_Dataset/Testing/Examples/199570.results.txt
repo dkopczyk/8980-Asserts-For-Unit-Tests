@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] IDENT_0 ; IDENT_0 = new int [ 4 ] ; IDENT_0 [ 0 ] = INT_0 ; IDENT_0 [ 1 ] = INT_1 ; IDENT_0 [ 2 ] = INT_2 ; IDENT_0 [ 3 ] = INT_3 ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_0 . length ) == 4 ) ) 

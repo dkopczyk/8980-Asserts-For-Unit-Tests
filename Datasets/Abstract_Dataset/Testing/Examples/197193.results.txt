@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . IDENT_1 . api . IDENT_2 manager = METHOD_1 ( ) ; org . eclipse . IDENT_0 . IDENT_1 . api . IDENT_3 context = new org . eclipse . IDENT_0 . IDENT_1 . api . METHOD_2 ( null , STRING_0 , STRING_1 , org . eclipse . IDENT_0 . IDENT_1 . api . METHOD_2 . IDENT_4 ) ; java . io . File file = manager . METHOD_3 ( context ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( file ) 

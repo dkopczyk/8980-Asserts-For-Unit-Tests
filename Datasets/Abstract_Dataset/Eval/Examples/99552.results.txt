@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String script = STRING_0 + ( ( ( ( ( ( ( ( ( ( STRING_1 + STRING_2 ) + STRING_3 ) + STRING_4 ) + "\n" ) + STRING_5 ) + STRING_6 ) + STRING_2 ) + STRING_7 ) + STRING_8 ) + STRING_4 ) ; java . lang . String expected = script ; IDENT_0 . METHOD_1 ( script ) . METHOD_2 ( ) ; IDENT_0 . METHOD_3 ( ) . METHOD_2 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return ( IDENT_1 ) != null ? IDENT_1 . METHOD_4 ( ) : null ; }
+org . junit . Assert . assertEquals ( expected , IDENT_0 . METHOD_4 ( ) ) 

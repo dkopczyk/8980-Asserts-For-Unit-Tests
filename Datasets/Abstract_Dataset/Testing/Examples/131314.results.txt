@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Iterator < Map . Entry < java . lang . IDENT_0 , java . lang . IDENT_0 > > iterator = io . netty . handler . codec . IDENT_1 . newInstance ( ) . iterator ( ) ; "<AssertPlaceHolder>" ; iterator . next ( ) ; } hasNext ( ) { return IDENT_2 . hasNext ( ) ; }
+org . junit . Assert . assertFalse ( iterator . hasNext ( ) ) 

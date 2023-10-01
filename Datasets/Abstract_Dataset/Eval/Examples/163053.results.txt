@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . oscm . app . vmware . business . model . IDENT_0 host = new org . oscm . app . vmware . business . METHOD_1 ( ) . METHOD_2 ( org . oscm . app . vmware . business . IDENT_1 . METHOD_3 ( STRING_0 , STRING_1 , STRING_2 ) ) ; host . METHOD_4 ( 12 ) ; host . METHOD_5 ( org . oscm . app . vmware . business . IDENT_2 . parse ( STRING_3 ) ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return ( IDENT_3 ) < ( METHOD_7 ( ) ) ; }
+org . junit . Assert . assertFalse ( host . METHOD_6 ( ) ) 

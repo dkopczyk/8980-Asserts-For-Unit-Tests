@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . entities . IDENT_2 entity = com . IDENT_0 . IDENT_1 . entities . IDENT_2 . METHOD_1 ( ) ; com . IDENT_0 . IDENT_1 . entities . IDENT_2 IDENT_3 = com . IDENT_0 . IDENT_1 . IDENT_4 . em . insert ( entity ) ; "<AssertPlaceHolder>" ; } getId ( ) { return id ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_3 . getId ( ) . getValue ( ) ) > 0 ) ) 

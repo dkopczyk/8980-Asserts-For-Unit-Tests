@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String str = io . vertx . test . core . TestUtils . METHOD_1 ( 100 ) ; io . vertx . core . buffer . IDENT_0 IDENT_1 = io . vertx . core . buffer . IDENT_0 . buffer ( str ) ; "<AssertPlaceHolder>" ; } toString ( ) { return buffer . toString ( IDENT_2 . UTF_8 ) ; }
+org . junit . Assert . assertEquals ( str , IDENT_1 . toString ( ) ) 

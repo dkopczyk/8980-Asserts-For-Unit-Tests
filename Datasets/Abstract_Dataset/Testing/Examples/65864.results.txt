@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new org . IDENT_0 . IDENT_1 . METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_4 . IDENT_5 ) ; org . IDENT_0 . IDENT_1 . METHOD_1 IDENT_6 = new org . IDENT_0 . IDENT_1 . METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_4 . bytes ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { return id . hashCode ( ) ; }
+org . junit . Assert . assertTrue ( ( ( IDENT_3 . hashCode ( ) ) == ( IDENT_6 . hashCode ( ) ) ) ) 

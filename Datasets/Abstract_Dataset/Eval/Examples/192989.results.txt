@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . springframework . data . IDENT_0 . domain . IDENT_1 > result = repository . METHOD_1 ( java . lang . String . valueOf ( FLOAT_0 ) , STRING_0 ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertNotNull ( result ) 

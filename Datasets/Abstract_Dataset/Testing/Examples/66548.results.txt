@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . baeldung . IDENT_0 IDENT_1 = new org . baeldung . METHOD_1 ( ) ; IDENT_1 . setName ( STRING_0 ) ; IDENT_1 . METHOD_2 ( java . util . IDENT_2 . of ( 1 ) ) ; java . util . Set < javax . validation . IDENT_3 < org . baeldung . METHOD_1 > > IDENT_4 = validator . validate ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } size ( ) { return elements . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_4 . size ( ) ) 

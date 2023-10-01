@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . IDENT_0 . IDENT_1 . core . IDENT_2 . IDENT_3 pool = new org . eclipse . IDENT_0 . IDENT_1 . core . IDENT_2 . METHOD_1 ( IDENT_4 , org . eclipse . IDENT_0 . IDENT_2 . core . IDENT_5 . IDENT_6 ) ; "<AssertPlaceHolder>" ; pool . METHOD_2 ( IDENT_5 . IDENT_6 , ( ( org . eclipse . IDENT_0 . IDENT_1 . core . tests . IDENT_2 . IDENT_7 . IDENT_8 ) + 10 ) ) ; }
+org . junit . Assert . assertNotNull ( pool ) 

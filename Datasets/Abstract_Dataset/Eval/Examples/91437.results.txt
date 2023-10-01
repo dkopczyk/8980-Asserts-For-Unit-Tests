@@ -1,0 +1,2 @@
+test ( ) { IDENT_0 . METHOD_0 ( ) . set ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Long ) { com . IDENT_1 . model . Message message = this . IDENT_2 . METHOD_1 ( id ) ; return message ; }
+org . junit . Assert . assertEquals ( STRING_1 , IDENT_0 . METHOD_0 ( ) . get ( STRING_0 ) ) 

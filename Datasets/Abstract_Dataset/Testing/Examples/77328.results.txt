@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . gs . collections . api . list . IDENT_0 < java . lang . Integer > IDENT_1 = this . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_0 ( int ) { throw new java . lang . METHOD_2 ( STRING_0 ) ; }
+org . junit . Assert . assertEquals ( ( - 1 ) , IDENT_1 . METHOD_0 ( 1 ) ) 

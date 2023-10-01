@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . awt . IDENT_0 IDENT_1 = new java . awt . METHOD_1 ( 10 , 20 ) ; IDENT_2 = METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { throw new java . lang . IllegalStateException ( STRING_0 ) ; }
+org . junit . Assert . assertFalse ( IDENT_2 . METHOD_3 ( ) ) 

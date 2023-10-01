@@ -1,0 +1,2 @@
+test ( ) { "<AssertPlaceHolder>" ; this . METHOD_0 ( ) ; this . METHOD_1 ( ) ; this . METHOD_2 ( ) ; this . METHOD_3 ( ) ; }
+org . junit . Assert . assertNotNull ( service ) 

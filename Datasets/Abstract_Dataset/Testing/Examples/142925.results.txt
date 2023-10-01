@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return persistence . METHOD_2 ( IDENT_0 ) ; }
+org . junit . Assert . assertNotNull ( dao . METHOD_1 ( ) ) 

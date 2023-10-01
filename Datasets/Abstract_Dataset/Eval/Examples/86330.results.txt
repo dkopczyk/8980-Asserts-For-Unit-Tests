@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; METHOD_2 ( "" ) ; IDENT_0 . format ( ) ; java . lang . String [ ] string = METHOD_3 ( IDENT_1 . toString ( ) ) ; "<AssertPlaceHolder>" ; } toString ( ) { return name ; }
+org . junit . Assert . assertEquals ( 1 , string . length ) 

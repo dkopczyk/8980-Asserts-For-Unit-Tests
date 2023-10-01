@@ -1,0 +1,2 @@
+METHOD_0 ( ) { image = METHOD_1 ( org . IDENT_0 . IDENT_1 . iterator . IDENT_2 . IDENT_3 , org . IDENT_0 . IDENT_1 . iterator . IDENT_2 . IDENT_4 , org . IDENT_0 . IDENT_1 . iterator . IDENT_2 . IDENT_5 ) ; IDENT_6 = new org . IDENT_0 . IDENT_1 . iterator . METHOD_2 ( image , null , null ) ; java . awt . IDENT_7 IDENT_8 = image . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return new java . awt . METHOD_4 ( IDENT_9 ) ; }
+org . junit . Assert . assertEquals ( IDENT_8 , IDENT_6 . METHOD_3 ( ) ) 

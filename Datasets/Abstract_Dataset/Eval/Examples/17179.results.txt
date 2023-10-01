@@ -1,0 +1,2 @@
+METHOD_0 ( org . apache . IDENT_0 . common . rest . IDENT_1 . path . IDENT_2 ) { new IDENT_3 . METHOD_1 ( ) { { IDENT_4 . METHOD_2 ( ) ; result = builder ; builder . METHOD_3 ( args ) ; result = STRING_0 ; } } ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return this . IDENT_5 . path ( ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , request . METHOD_4 ( ) ) 

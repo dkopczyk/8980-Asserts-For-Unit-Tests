@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . vertx . core . json . IDENT_0 json = IDENT_1 . METHOD_1 ( ) ; io . vertx . ext . sql . IDENT_2 IDENT_3 = new io . vertx . ext . sql . METHOD_2 ( json ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { io . vertx . core . json . IDENT_0 obj = new io . vertx . core . json . METHOD_3 ( ) ; io . vertx . ext . sql . IDENT_4 . METHOD_1 ( this , obj ) ; return obj ; }
+org . junit . Assert . assertEquals ( IDENT_1 , IDENT_3 ) 

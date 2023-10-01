@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { return IDENT_0 . METHOD_1 ( ) ; }
+org . junit . Assert . assertEquals ( record . METHOD_1 ( ) , 0 ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int [ ] expected = new int [ ] { 0 , 1 , 2 , 3 , 4 } ; int [ ] actual = IDENT_0 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( ) { int [ ] arr = new int [ 5 ] ; for ( int i = 0 ; i < 5 ; i ++ ) { arr [ i ] = i ; System . out . println ( ( STRING_0 + i ) ) ; } return arr ; }
+org . junit . Assert . assertArrayEquals ( expected , actual ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { params . METHOD_1 ( new nl . bzk . brp . bijhouding . bericht . model . METHOD_2 ( STRING_0 ) ) ; IDENT_0 = builder . METHOD_3 ( STRING_1 , params ) ; final java . util . List < nl . bzk . brp . bijhouding . bericht . model . IDENT_1 > IDENT_2 = IDENT_0 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_3 . size ( ) ; }
+org . junit . Assert . assertEquals ( 0 , IDENT_2 . size ( ) ) 

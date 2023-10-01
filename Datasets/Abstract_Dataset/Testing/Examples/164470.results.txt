@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 = java . lang . String . format ( "" ) . getBytes ( STRING_0 ) ; IDENT_1 . METHOD_1 ( ) ; verify ( IDENT_2 , times ( 1 ) ) . METHOD_2 ( IDENT_3 . METHOD_3 ( ) ) ; java . util . Properties value = IDENT_3 . getValue ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return null ; }
+org . junit . Assert . assertTrue ( value . METHOD_4 ( ) . isEmpty ( ) ) 

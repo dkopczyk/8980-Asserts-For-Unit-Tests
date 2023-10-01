@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String input = org . apache . commons . io . IDENT_0 . toString ( org . IDENT_1 . fhir . IDENT_2 . IDENT_3 . validation . IDENT_4 . class . getResourceAsStream ( STRING_0 ) , IDENT_5 . UTF_8 ) ; ca . uhn . fhir . validation . IDENT_6 output = IDENT_7 . METHOD_1 ( input ) ; java . util . List < ca . uhn . fhir . validation . IDENT_8 > IDENT_9 = METHOD_2 ( output ) ; "<AssertPlaceHolder>" ; } empty ( ) { return ( IDENT_10 . size ( ) ) == 0 ; }
+org . junit . Assert . assertThat ( IDENT_9 , org . hamcrest . Matchers . empty ( ) ) 

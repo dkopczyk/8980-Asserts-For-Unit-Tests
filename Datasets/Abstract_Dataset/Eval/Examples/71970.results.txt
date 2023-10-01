@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int result = this . IDENT_0 . compare ( IDENT_1 , IDENT_2 ) ; "<AssertPlaceHolder>" ; } compare ( java . lang . reflect . Method , java . lang . reflect . Method ) { java . lang . Integer IDENT_3 = IDENT_4 . METHOD_1 ( ) . length ; java . lang . Integer IDENT_5 = IDENT_6 . METHOD_1 ( ) . length ; return IDENT_3 . compareTo ( IDENT_5 ) ; }
+org . junit . Assert . assertTrue ( ( result < 0 ) ) 

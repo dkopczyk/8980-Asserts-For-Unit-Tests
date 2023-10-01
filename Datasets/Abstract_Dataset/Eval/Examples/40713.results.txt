@@ -1,0 +1,2 @@
+get ( ) { int key = 3 ; int value = 5 ; doReturn ( serializer . serialize ( value ) ) . when ( client ) . get ( serializer . serialize ( key ) ) ; int IDENT_0 = cache . get ( key ) ; "<AssertPlaceHolder>" ; } get ( java . lang . Object ) { if ( key == null ) { return null ; } final java . lang . Object value = cache . get ( key ) ; return value != null ? new org . springframework . cache . support . METHOD_0 ( value ) : null ; }
+org . junit . Assert . assertEquals ( value , IDENT_0 ) 

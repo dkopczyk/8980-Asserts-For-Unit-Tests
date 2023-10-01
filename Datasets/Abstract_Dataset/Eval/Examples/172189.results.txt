@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } read ( ) { if ( ( count ) >= ( IDENT_0 ) ) { return null ; } ++ ( count ) ; return new org . springframework . batch . admin . IDENT_1 . IDENT_2 . METHOD_1 ( ( INT_0 + ( count ) ) , new org . springframework . batch . admin . IDENT_1 . IDENT_2 . METHOD_2 ( ( STRING_0 + ( count ) ) , STRING_1 ) , new org . springframework . batch . admin . IDENT_1 . IDENT_2 . METHOD_3 ( STRING_2 ) ) ; }
+org . junit . Assert . assertNotNull ( reader . read ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . springframework . data . solr . core . IDENT_0 query = new org . springframework . data . solr . core . METHOD_1 ( new org . springframework . data . solr . core . METHOD_2 ( STRING_0 ) ) ; org . apache . solr . client . IDENT_1 . IDENT_2 IDENT_3 = IDENT_4 . METHOD_3 ( query , null ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return this . IDENT_5 ; }
+org . junit . Assert . assertNull ( IDENT_3 . METHOD_4 ( ) ) 

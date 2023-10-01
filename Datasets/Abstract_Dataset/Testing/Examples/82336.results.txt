@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . operations . IDENT_3 op = new com . IDENT_0 . IDENT_1 . IDENT_2 . operations . METHOD_1 ( STRING_0 ) ; java . lang . String expected = STRING_1 ; when ( IDENT_2 . METHOD_2 ( op ) ) . thenReturn ( expected ) ; java . lang . String result = remote . execute ( op ) ; "<AssertPlaceHolder>" ; } execute ( java . lang . String ) { return new com . IDENT_0 . IDENT_1 . utils . METHOD_3 ( command ) . execute ( ) ; }
+org . junit . Assert . assertSame ( expected , result ) 

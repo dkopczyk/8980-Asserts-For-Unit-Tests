@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( int i = 0 ; i < ( IDENT_0 . IDENT_1 . tools . IDENT_2 . IDENT_3 . IDENT_4 ) ; i ++ ) { IDENT_5 . METHOD_1 ( ( ( i OP_0 3 ) + 1 ) , true ) ; } "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { if ( ( count ) < ( size ) ) { return size ; } return METHOD_3 ( IDENT_6 ) ; }
+org . junit . Assert . assertThat ( IDENT_5 . METHOD_2 ( IDENT_0 . IDENT_1 . tools . IDENT_2 . IDENT_3 . IDENT_4 ) , org . hamcrest . core . Is . is ( 3 ) ) 

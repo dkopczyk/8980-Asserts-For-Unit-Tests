@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Set < java . lang . reflect . Field > actual = org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( org . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 . class ) ; final java . lang . reflect . Field expected = org . IDENT_0 . IDENT_1 . IDENT_3 . IDENT_4 . class . METHOD_2 ( STRING_0 ) ; "<AssertPlaceHolder>" ; } contains ( T ) { for ( final T IDENT_5 : this . IDENT_6 ) { if ( this . IDENT_7 . METHOD_3 ( IDENT_8 , IDENT_5 ) ) { return true ; } } return false ; }
+org . junit . Assert . assertTrue ( actual . contains ( expected ) ) 

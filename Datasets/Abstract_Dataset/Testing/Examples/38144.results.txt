@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Calendar c = java . util . Calendar . getInstance ( ) ; c . METHOD_1 ( new java . util . Date ( ) ) ; c . add ( Calendar . IDENT_0 , ( - 10 ) ) ; int IDENT_1 = c . get ( Calendar . IDENT_0 ) ; c . METHOD_1 ( org . IDENT_2 . util . IDENT_3 . METHOD_2 ( ( - 10 ) ) ) ; "<AssertPlaceHolder>" ; } get ( int ) { return ( ( java . util . List < IDENT_4 > ) ( this . collection ) ) . get ( index ) ; }
+org . junit . Assert . assertEquals ( IDENT_1 , c . get ( Calendar . IDENT_0 ) ) 

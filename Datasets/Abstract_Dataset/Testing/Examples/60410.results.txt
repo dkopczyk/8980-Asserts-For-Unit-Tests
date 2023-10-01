@@ -1,0 +1,2 @@
+METHOD_0 ( ) { grid = new org . eclipse . IDENT_0 . widgets . grid . METHOD_1 ( shell , org . eclipse . swt . IDENT_1 . IDENT_2 ) ; grid . METHOD_2 ( 1 ) ; org . eclipse . IDENT_0 . widgets . grid . IDENT_3 item = grid . METHOD_3 ( 0 ) ; item . METHOD_4 ( 0 , "foo" ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return parent . METHOD_6 ( ) ? ( data ) != null : true ; }
+org . junit . Assert . assertTrue ( item . METHOD_5 ( ) ) 

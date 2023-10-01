@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 path = IDENT_4 . getPath ( "" ) ; java . util . Iterator < java . nio . file . Path > it = path . iterator ( ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { return ( ( next ) != null ) || ( METHOD_1 ( ) ) ; }
+org . junit . Assert . assertFalse ( it . hasNext ( ) ) 

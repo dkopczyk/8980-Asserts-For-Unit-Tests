@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . IDENT_0 IDENT_1 = org . easymock . EasyMock . METHOD_1 ( org . exist . security . IDENT_0 . class ) ; final org . exist . security . IDENT_2 IDENT_3 = new org . exist . security . IDENT_4 . METHOD_2 ( IDENT_1 , 1 , 1 , 0 ) ; for ( int IDENT_5 = 0 ; IDENT_5 <= INT_0 ; IDENT_5 ++ ) { IDENT_3 . METHOD_3 ( IDENT_5 ) ; "<AssertPlaceHolder>" ; } } METHOD_4 ( ) { return this . IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_5 , IDENT_3 . METHOD_4 ( ) ) 

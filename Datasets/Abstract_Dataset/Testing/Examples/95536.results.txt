@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( ) ; boolean IDENT_0 = IDENT_1 . METHOD_2 ( run ) ; "<AssertPlaceHolder>" ; verify ( logger ) . println ( ) ; METHOD_3 ( run ) ; } METHOD_2 ( hudson . IDENT_2 . IDENT_3 ) { if ( ! ( org . IDENT_4 . plugins . IDENT_5 . IDENT_6 . class . METHOD_4 ( IDENT_7 ) ) ) { logger . warn ( org . IDENT_4 . plugins . IDENT_5 . IDENT_8 . METHOD_5 ( ) ) ; } logger . debug ( STRING_0 , run ) ; listener . METHOD_6 ( ) . println ( ) ; return super . METHOD_2 ( run ) ; }
+org . junit . Assert . assertThat ( IDENT_0 , org . hamcrest . CoreMatchers . is ( true ) ) 

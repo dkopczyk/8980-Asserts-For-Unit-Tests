@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . sql . IDENT_0 stmt = IDENT_1 . METHOD_1 ( ) ; stmt . execute ( STRING_0 ) ; stmt . execute ( ( STRING_1 + ( com . IDENT_2 . IDENT_3 . jdbc . IDENT_4 . METHOD_2 ( ) ) ) ) ; stmt . close ( ) ; java . sql . IDENT_5 IDENT_6 = IDENT_1 . METHOD_3 ( ) ; java . sql . ResultSet rs = IDENT_6 . METHOD_4 ( null , null , STRING_2 ) ; "<AssertPlaceHolder>" ; rs . close ( ) ; } next ( ) { return METHOD_5 ( 1 ) ; }
+org . junit . Assert . assertTrue ( ( ! ( rs . next ( ) ) ) ) 

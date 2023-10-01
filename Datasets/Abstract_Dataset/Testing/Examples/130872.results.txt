@@ -1,0 +1,2 @@
+METHOD_0 ( ) { de . IDENT_0 . IDENT_1 . common . domain . IDENT_2 block = new de . IDENT_0 . IDENT_1 . common . domain . METHOD_1 ( null , METHOD_2 ( 1 ) , INT_0 ) ; boolean IDENT_3 = IDENT_4 . append ( block ) ; "<AssertPlaceHolder>" ; } append ( de . IDENT_0 . IDENT_1 . common . domain . METHOD_1 ) { if ( verify ( block ) ) { IDENT_5 . add ( block ) ; block . METHOD_3 ( ) . METHOD_4 ( IDENT_6 :: remove ) ; return true ; } return false ; }
+org . junit . Assert . assertFalse ( IDENT_3 ) 

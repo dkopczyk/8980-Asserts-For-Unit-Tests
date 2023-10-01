@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . IDENT_0 . examples . library . person . domain . Person > IDENT_1 = IDENT_2 . METHOD_1 ( METHOD_2 ( ) , STRING_0 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return org . IDENT_0 . framework . test . IDENT_3 . METHOD_2 ( ) ; }
+org . junit . Assert . assertEquals ( 2 , IDENT_1 . size ( ) ) 

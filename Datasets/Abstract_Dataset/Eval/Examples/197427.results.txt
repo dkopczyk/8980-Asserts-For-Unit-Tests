@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; java . lang . String IDENT_0 = STRING_1 ; java . lang . String IDENT_1 = com . IDENT_2 . IDENT_3 . IDENT_4 . processor . IDENT_5 . test . IDENT_6 . IDENT_7 . METHOD_1 ( IDENT_0 ) ; java . lang . String IDENT_8 = STRING_2 ; System . out . println ( ( ( ( STRING_3 + IDENT_0 ) + STRING_4 ) + IDENT_1 ) ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( IDENT_8 , IDENT_1 ) 

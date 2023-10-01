@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( this . client . execute ( any ( org . apache . http . client . methods . IDENT_0 . class ) ) ) . METHOD_1 ( new java . io . IOException ( ) ) ; java . lang . String result = this . IDENT_1 . METHOD_2 ( ) . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { org . json . JSONObject info = METHOD_4 ( ) ; return info == null ? "" : info . getString ( STRING_0 ) ; }
+org . junit . Assert . assertEquals ( "" , result ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . camunda . bpm . engine . IDENT_0 . IDENT_1 IDENT_2 = IDENT_3 . METHOD_1 ( ) . METHOD_2 ( ) ; org . camunda . bpm . engine . batch . IDENT_4 batch = IDENT_5 . METHOD_3 ( null , IDENT_2 , 5 ) ; METHOD_4 ( batch ) ; for ( org . camunda . bpm . engine . IDENT_0 . IDENT_6 task : IDENT_2 . list ( ) ) { "<AssertPlaceHolder>" ; } } METHOD_5 ( ) { return IDENT_7 ; }
+org . junit . Assert . assertEquals ( 5 , ( ( int ) ( task . METHOD_5 ( ) ) ) ) 

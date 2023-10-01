@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final org . jboss . IDENT_0 . value . IDENT_1 < java . lang . String > value = new org . jboss . IDENT_0 . value . IDENT_2 < java . lang . String > ( new org . jboss . IDENT_0 . value . IDENT_3 < java . lang . String > ( null ) , new org . jboss . IDENT_0 . value . IDENT_3 < java . lang . String > ( STRING_0 ) ) ; "<AssertPlaceHolder>" ; } getValue ( ) { return ( count ) ++ ; }
+org . junit . Assert . assertEquals ( STRING_0 , value . getValue ( ) ) 

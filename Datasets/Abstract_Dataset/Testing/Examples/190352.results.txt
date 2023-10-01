@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream is = new java . io . ByteArrayInputStream ( STRING_0 . getBytes ( ) ) ; java . lang . String response = ( ( java . lang . String ) ( redis . IDENT_0 . IDENT_1 . IDENT_2 . read ( new redis . IDENT_0 . IDENT_1 . util . METHOD_1 ( is ) ) ) ) ; "<AssertPlaceHolder>" ; } read ( redis . IDENT_0 . IDENT_1 . util . METHOD_1 ) { return redis . IDENT_0 . IDENT_1 . IDENT_2 . process ( is ) ; }
+org . junit . Assert . assertNull ( response ) 

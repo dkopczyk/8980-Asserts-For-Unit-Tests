@@ -1,0 +1,2 @@
+METHOD_0 ( ) { int IDENT_0 = INT_0 ; byte [ ] IDENT_1 = IDENT_2 . IDENT_3 . core . convert . IDENT_4 . METHOD_1 ( IDENT_0 ) ; int IDENT_5 = IDENT_2 . IDENT_3 . core . convert . IDENT_4 . METHOD_2 ( IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( byte [ ] ) { return ( ( ( ( bytes [ 3 ] ) & 255 ) | ( ( ( bytes [ 2 ] ) & 255 ) << 8 ) ) | ( ( ( bytes [ 1 ] ) & 255 ) << 16 ) ) | ( ( ( bytes [ 0 ] ) & 255 ) << INT_1 ) ; }
+org . junit . Assert . assertEquals ( IDENT_0 , IDENT_5 ) 

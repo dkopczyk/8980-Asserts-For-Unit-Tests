@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . nuxeo . ecm . platform . IDENT_0 . IDENT_1 a = new org . nuxeo . ecm . platform . IDENT_0 . METHOD_1 ( "foo" ) ; org . nuxeo . ecm . platform . IDENT_0 . METHOD_1 b = new org . nuxeo . ecm . platform . IDENT_0 . METHOD_1 ( "foo" ) ; "<AssertPlaceHolder>" ; } hashCode ( ) { final int IDENT_2 = INT_0 ; int result = 1 ; result = ( IDENT_2 * result ) + ( ( pattern ) == null ? 0 : pattern . pattern ( ) . hashCode ( ) ) ; return result ; }
+org . junit . Assert . assertEquals ( a . hashCode ( ) , b . hashCode ( ) ) 

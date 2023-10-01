@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( IDENT_1 ) ; com . IDENT_2 . IDENT_3 . view . IDENT_4 . IDENT_5 result = strategy . METHOD_2 ( req , view , IDENT_0 ) ; "<AssertPlaceHolder>" ; } is ( java . lang . String ) { return ( com . IDENT_2 . IDENT_3 . configuration . IDENT_6 . IDENT_7 ) == null ? IDENT_7 == null : com . IDENT_2 . IDENT_3 . configuration . IDENT_6 . IDENT_7 . equals ( IDENT_7 ) ; }
+org . junit . Assert . assertThat ( result , is ( IDENT_1 ) ) 

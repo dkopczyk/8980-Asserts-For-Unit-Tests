@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Set < java . util . Locale > result = org . eclipse . IDENT_0 . internal . ui . text . IDENT_1 . IDENT_2 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return IDENT_3 . length ; }
+org . junit . Assert . assertTrue ( ( ( result . size ( ) ) >= 0 ) ) 

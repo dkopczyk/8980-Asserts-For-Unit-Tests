@@ -1,0 +1,2 @@
+METHOD_0 ( org . junit . runner . IDENT_0 ) { new IDENT_1 . METHOD_1 ( ) { { IDENT_2 . value ( ) ; result = org . junit . runners . IDENT_3 . class ; } } ; "<AssertPlaceHolder>" ; } value ( ) { return - 1 ; }
+org . junit . Assert . assertSame ( org . junit . runners . IDENT_3 . class , IDENT_2 . value ( ) ) 

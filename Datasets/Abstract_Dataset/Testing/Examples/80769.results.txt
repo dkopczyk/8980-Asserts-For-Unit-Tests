@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . metrics . IDENT_2 . expression . IDENT_3 IDENT_4 = new com . IDENT_0 . IDENT_1 . metrics . IDENT_2 . expression . METHOD_1 ( com . IDENT_0 . IDENT_1 . metrics . IDENT_2 . expression . IDENT_5 . IDENT_6 , com . IDENT_0 . IDENT_1 . metrics . IDENT_7 . valueOf ( STRING_0 ) ) ; com . IDENT_0 . IDENT_1 . metrics . IDENT_2 . IDENT_8 found = IDENT_4 . apply ( ctx ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( IDENT_9 ) == ( end ) ; }
+org . junit . Assert . assertTrue ( found . isEmpty ( ) ) 

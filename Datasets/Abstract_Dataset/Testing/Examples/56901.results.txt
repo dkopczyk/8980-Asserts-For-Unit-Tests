@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . IDENT_2 . v1 . services . IDENT_3 IDENT_4 = new org . IDENT_0 . IDENT_1 . IDENT_2 . v1 . services . METHOD_1 ( ) ; IDENT_4 . METHOD_2 ( FLOAT_0 ) ; IDENT_4 . METHOD_3 ( FLOAT_1 ) ; service . METHOD_4 ( IDENT_4 ) ; java . lang . Double IDENT_5 = java . lang . Double . valueOf ( FLOAT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_5 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_5 , java . lang . Double . valueOf ( IDENT_4 . METHOD_5 ( ) ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . Set < org . IDENT_0 . IDENT_1 . common . IDENT_2 . IDENT_3 > set = new org . IDENT_0 . IDENT_1 . common . IDENT_2 . METHOD_1 ( ) . METHOD_2 ( "" , "a" ) . METHOD_2 ( "" , "a" ) . build ( ) . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { return java . lang . reflect . IDENT_4 . METHOD_4 ( IDENT_5 ) ; }
+org . junit . Assert . assertThat ( set . size ( ) , org . hamcrest . CoreMatchers . is ( 1 ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; a . METHOD_1 ( ) . remove ( ) ; } METHOD_2 ( ) { return new com . IDENT_0 . commons . collections . tree . IDENT_1 . METHOD_3 ( METHOD_4 ( ) ) ; }
+org . junit . Assert . assertThat ( com . google . common . collect . Lists . newArrayList ( a . METHOD_2 ( ) ) , org . hamcrest . CoreMatchers . is ( com . google . common . collect . Lists . newArrayList ( c , f , b , d , e , a ) ) ) 

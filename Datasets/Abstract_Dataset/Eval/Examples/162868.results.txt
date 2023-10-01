@@ -1,0 +1,2 @@
+METHOD_0 ( ) { parameters . put ( IDENT_0 . IDENT_1 , new org . oscm . app . IDENT_2 . data . METHOD_1 ( IDENT_0 . IDENT_1 , STRING_0 ) ) ; IDENT_3 = new org . oscm . app . IDENT_4 . controller . METHOD_2 ( IDENT_5 ) ; IDENT_3 . METHOD_3 ( FlowState . IDENT_6 ) ; org . oscm . app . IDENT_4 . data . FlowState status = IDENT_3 . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; } METHOD_4 ( ) { return state ; }
+org . junit . Assert . assertEquals ( FlowState . IDENT_6 , status ) 

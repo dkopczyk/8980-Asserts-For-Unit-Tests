@@ -1,0 +1,2 @@
+METHOD_0 ( ) { android . IDENT_0 . IDENT_1 IDENT_2 = android . IDENT_0 . IDENT_1 . METHOD_1 ( 1 , 1 , null ) ; com . android . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 listener = mock ( IDENT_5 . IDENT_6 . class ) ; when ( IDENT_7 . METHOD_2 ( anyString ( ) ) ) . thenReturn ( IDENT_2 ) ; com . android . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_8 IDENT_9 = IDENT_10 . get ( STRING_0 , listener ) ; "<AssertPlaceHolder>" ; verify ( listener ) . METHOD_3 ( IDENT_9 , true ) ; }
+org . junit . Assert . assertSame ( IDENT_2 , IDENT_9 . METHOD_2 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { if ( ! ( org . IDENT_0 . IDENT_1 . test . IDENT_2 . IDENT_3 ) ) { java . lang . String msg ; msg = STRING_0 ; msg = STRING_1 + ( org . IDENT_0 . IDENT_1 . test . tests . IDENT_4 . IDENT_5 . METHOD_1 ( ) ) ; msg += STRING_2 ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_6 ; }
+org . junit . Assert . assertNull ( msg , org . IDENT_0 . IDENT_1 . test . tests . IDENT_4 . IDENT_5 . METHOD_2 ( ) ) 

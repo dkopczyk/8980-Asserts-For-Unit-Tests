@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . lang . Boolean [ ] IDENT_0 = new org . IDENT_1 . tests . model . IDENT_2 . Boolean [ ] { false } ; IDENT_3 . METHOD_1 ( IDENT_4 ) . execute ( new java . lang . METHOD_2 ( ) { public void run ( ) { IDENT_0 [ 0 ] = true ; } } ) ; IDENT_4 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } is ( java . lang . String ) { return org . IDENT_1 . IDENT_5 . IDENT_6 . IDENT_7 . IDENT_8 . contains ( IDENT_9 ) ; }
+org . junit . Assert . assertThat ( IDENT_0 [ 0 ] , org . hamcrest . CoreMatchers . is ( true ) ) 

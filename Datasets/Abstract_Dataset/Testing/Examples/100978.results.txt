@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = ( IDENT_1 ) + 50 ; org . jboss . IDENT_2 . security . shared . api . IDENT_3 . User user = IDENT_4 . get ( IDENT_0 ) ; "<AssertPlaceHolder>" ; } get ( java . net . URI ) { return org . IDENT_5 . java . nio . file . IDENT_6 . get ( uri ) ; }
+org . junit . Assert . assertNull ( user ) 

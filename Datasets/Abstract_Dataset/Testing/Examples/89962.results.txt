@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . add ( METHOD_1 ( STRING_0 , "" , new java . lang . METHOD_2 ( ) ) ) ; IDENT_0 . add ( METHOD_1 ( STRING_0 , "" , new java . lang . METHOD_3 ( STRING_1 ) ) ) ; event = new org . IDENT_1 . IDENT_2 . METHOD_4 ( STRING_2 , source , new org . IDENT_1 . IDENT_2 . METHOD_5 ( IDENT_0 ) ) ; "<AssertPlaceHolder>" ; } METHOD_6 ( ) { return ! ( METHOD_7 ( ) . isEmpty ( ) ) ; }
+org . junit . Assert . assertFalse ( event . METHOD_6 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final int value = INT_0 ; final byte [ ] expected = IDENT_0 . test . common . util . IDENT_1 . IDENT_2 . METHOD_1 ( INT_1 , INT_2 , 5 , 0 , 0 ) ; final byte [ ] actual = this . METHOD_2 ( value ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( int ) { final int IDENT_3 = 5 ; final byte [ ] data = new byte [ IDENT_3 ] ; final java . nio . ByteBuffer buffer = java . nio . ByteBuffer . METHOD_3 ( data ) ; IDENT_0 . common . util . IDENT_1 . IDENT_4 . METHOD_2 ( value , buffer ) ; return data ; }
+org . junit . Assert . assertArrayEquals ( expected , actual ) 

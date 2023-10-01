@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( method ( com . IDENT_0 . IDENT_1 . IDENT_2 . class , STRING_0 ) ) ; try { IDENT_3 . METHOD_2 ( IDENT_4 , IDENT_5 ) ; } catch ( java . lang . Exception e ) { "<AssertPlaceHolder>" ; } } METHOD_2 ( com . IDENT_0 . IDENT_1 . IDENT_6 , com . IDENT_0 . IDENT_1 . IDENT_7 ) { METHOD_3 ( req , IDENT_8 ) ; }
+org . junit . Assert . assertTrue ( false ) 

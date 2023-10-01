@@ -1,0 +1,2 @@
+run ( ) { IDENT_0 . METHOD_0 ( ) ; IDENT_1 . METHOD_0 ( ) ; final int count = java . lang . Thread . METHOD_1 ( ) ; final java . lang . Thread [ ] IDENT_2 = new java . lang . Thread [ count ] ; java . lang . Thread . METHOD_2 ( IDENT_2 ) ; int IDENT_3 = 0 ; for ( final java . lang . Thread t : IDENT_2 ) { if ( t . getName ( ) . startsWith ( STRING_0 ) ) { IDENT_3 ++ ; } } "<AssertPlaceHolder>" ; } getName ( ) { return name ; }
+org . junit . Assert . assertEquals ( 1 , IDENT_3 ) 

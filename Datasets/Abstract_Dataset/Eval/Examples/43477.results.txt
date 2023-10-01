@@ -1,0 +1,2 @@
+METHOD_0 ( ) { buffer . METHOD_1 ( ) ; buffer . METHOD_2 ( METHOD_3 ( STRING_0 , IDENT_0 . IDENT_1 ) ) ; "<AssertPlaceHolder>" ; } toString ( java . nio . IDENT_2 . IDENT_3 ) { return toString ( IDENT_4 , METHOD_4 ( ) , IDENT_2 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , buffer . toString ( IDENT_0 . IDENT_1 ) ) 

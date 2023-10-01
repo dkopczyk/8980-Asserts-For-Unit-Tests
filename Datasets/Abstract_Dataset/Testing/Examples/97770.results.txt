@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . IDENT_0 . IDENT_1 . solution . IDENT_2 IDENT_3 = problem . METHOD_1 ( ) ; org . IDENT_0 . IDENT_1 . solution . IDENT_2 IDENT_4 = ( ( org . IDENT_0 . IDENT_1 . solution . IDENT_2 ) ( IDENT_3 . METHOD_2 ( ) ) ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return new org . IDENT_0 . IDENT_1 . solution . impl . METHOD_3 ( this ) ; }
+org . junit . Assert . assertEquals ( IDENT_3 , IDENT_4 ) 

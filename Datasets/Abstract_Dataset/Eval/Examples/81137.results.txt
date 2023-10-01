@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final boolean [ ] result = new boolean [ ] { false } ; result [ 0 ] = new edu . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( ) . run ( ) ; "<AssertPlaceHolder>" ; } run ( ) { edu . IDENT_0 . IDENT_1 . IDENT_3 . METHOD_2 ( ( ) -> { final int IDENT_4 = 1 ; METHOD_3 ( ( ) -> { int IDENT_5 = 2 ; METHOD_3 ( ( ) -> { int IDENT_6 = 3 ; METHOD_3 ( ( ) -> { int IDENT_7 = ( IDENT_4 + IDENT_5 ) + IDENT_6 ; res = IDENT_7 == 6 ; } ) ; } ) ; } ) ; } ) ; return res ; }
+org . junit . Assert . assertEquals ( true , result [ 0 ] ) 

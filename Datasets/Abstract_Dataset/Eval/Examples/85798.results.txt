@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String IDENT_0 = STRING_0 ; java . lang . String IDENT_1 = STRING_1 ; int IDENT_2 = METHOD_1 ( IDENT_0 , IDENT_1 ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String , java . lang . String ) { IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 = IDENT_7 . IDENT_8 . getInstance ( ) . METHOD_2 ( ) ; IDENT_7 . common . dto . IDENT_9 [ ] IDENT_10 = IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 . METHOD_3 ( IDENT_0 , IDENT_1 ) ; int IDENT_2 = IDENT_10 . length ; return IDENT_2 ; }
+org . junit . Assert . assertTrue ( ( IDENT_2 == 16 ) ) 

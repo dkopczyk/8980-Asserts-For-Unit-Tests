@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . List < com . querydsl . IDENT_0 . Document > results = query . METHOD_1 ( IDENT_1 . METHOD_2 ( STRING_0 ) ) . METHOD_3 ( IDENT_1 . METHOD_4 ( ) , IDENT_2 . METHOD_5 ( ) ) . METHOD_6 ( ) ; "<AssertPlaceHolder>" ; } size ( ) { query ( store , store . IDENT_3 . size ( ) . METHOD_7 ( 0 ) ) ; }
+org . junit . Assert . assertEquals ( 4 , results . size ( ) ) 

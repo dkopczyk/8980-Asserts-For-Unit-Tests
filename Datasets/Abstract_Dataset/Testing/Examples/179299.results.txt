@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( ) { org . hibernate . IDENT_0 criteria = METHOD_2 ( ) . METHOD_3 ( com . IDENT_1 . IDENT_2 . core . IDENT_3 . class ) ; @ uk . ac . IDENT_4 . IDENT_5 . IDENT_6 . persistence . impl . METHOD_4 ( STRING_0 ) java . util . List < com . IDENT_1 . IDENT_2 . core . IDENT_3 > results = criteria . list ( ) ; return results ; }
+org . junit . Assert . assertEquals ( 1 , dao . METHOD_1 ( ) . size ( ) ) 

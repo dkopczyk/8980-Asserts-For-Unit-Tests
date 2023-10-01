@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String str = null ; java . lang . String regex = null ; java . util . regex . IDENT_0 p = null ; java . util . regex . IDENT_1 m = null ; str = STRING_0 ; regex = STRING_1 ; p = java . util . regex . IDENT_0 . METHOD_1 ( regex ) ; m = p . matcher ( str ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( m . matches ( ) ) 

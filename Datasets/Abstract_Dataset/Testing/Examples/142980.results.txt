@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final com . IDENT_0 . IDENT_1 . concurrent . IDENT_2 < java . lang . Integer > future = com . IDENT_0 . IDENT_1 . concurrent . IDENT_3 . METHOD_1 ( 10 , 0 , ( result ) -> METHOD_2 ( ( result + 1 ) ) ) ; "<AssertPlaceHolder>" ; } get ( ) { return IDENT_4 ; }
+org . junit . Assert . assertEquals ( 10 , ( ( int ) ( future . get ( ) ) ) ) 

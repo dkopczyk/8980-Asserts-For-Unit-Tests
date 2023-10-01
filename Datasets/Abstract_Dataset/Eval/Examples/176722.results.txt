@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . talend . IDENT_0 . IDENT_1 . client . internal . IDENT_2 IDENT_3 = IDENT_4 . child ( org . talend . IDENT_0 . IDENT_1 . client . internal . IDENT_5 . IDENT_6 . IDENT_7 ) ; expect ( backend . METHOD_1 ( IDENT_3 ) ) . andReturn ( false ) ; replay ( backend ) ; "<AssertPlaceHolder>" ; verify ( backend ) ; } METHOD_2 ( ) { return METHOD_2 ; }
+org . junit . Assert . assertFalse ( IDENT_4 . METHOD_2 ( ) ) 

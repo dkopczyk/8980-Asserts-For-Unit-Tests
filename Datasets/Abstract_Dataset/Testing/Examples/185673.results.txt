@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . ArrayList < java . lang . Object > newArrayList = com . IDENT_0 . core . util . IDENT_1 . newArrayList ( ) ; "<AssertPlaceHolder>" ; } newArrayList ( ) { return new java . util . ArrayList ( ) ; }
+org . junit . Assert . assertEquals ( emptyList ( ) , newArrayList ) 

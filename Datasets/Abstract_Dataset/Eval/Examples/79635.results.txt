@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . graphhopper . IDENT_0 . IDENT_1 instance = new com . graphhopper . IDENT_0 . METHOD_1 ( 2 ) ; try { instance . put ( ( - 1 ) , 1 ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . Exception ex ) { } } put ( java . lang . String , java . lang . Object ) { super . put ( key , str ) ; return this ; }
+org . junit . Assert . assertTrue ( false ) 

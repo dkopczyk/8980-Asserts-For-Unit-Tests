@@ -1,0 +1,2 @@
+METHOD_0 ( ) { hudson . plugins . IDENT_0 . IDENT_1 IDENT_2 = j . jenkins . METHOD_1 ( hudson . plugins . IDENT_0 . IDENT_1 . class ) ; hudson . plugins . IDENT_0 . IDENT_3 page = j . METHOD_2 ( ) . METHOD_3 ( STRING_0 ) ; hudson . plugins . IDENT_0 . IDENT_4 IDENT_5 = page . METHOD_4 ( STRING_1 ) ; IDENT_5 . METHOD_5 ( STRING_2 ) ; j . METHOD_6 ( page . METHOD_7 ( STRING_3 ) ) ; "<AssertPlaceHolder>" ; } METHOD_8 ( ) { return IDENT_6 . METHOD_8 ( ) ; }
+org . junit . Assert . assertEquals ( STRING_2 , IDENT_2 . METHOD_8 ( ) ) 

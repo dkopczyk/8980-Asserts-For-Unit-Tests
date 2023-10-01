@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . service . IDENT_2 . set ( STRING_0 ) ; com . IDENT_0 . IDENT_1 . dto . IDENT_3 IDENT_4 = get ( STRING_1 ) . as ( com . IDENT_0 . IDENT_1 . dto . IDENT_3 . class ) ; "<AssertPlaceHolder>" ; } string ( ) { return string ; }
+org . junit . Assert . assertEquals ( STRING_0 , IDENT_4 . string ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < java . lang . String > IDENT_0 = new java . util . ArrayList ( ) ; IDENT_0 . add ( STRING_0 ) ; IDENT_0 . add ( "" ) ; IDENT_0 . add ( STRING_1 ) ; IDENT_0 . add ( STRING_2 ) ; IDENT_0 . add ( STRING_3 ) ; IDENT_0 . add ( "" ) ; IDENT_0 . add ( STRING_4 ) ; IDENT_0 . add ( STRING_5 ) ; long count = IDENT_0 . stream ( ) . filter ( ( x ) -> ! ( x . isEmpty ( ) ) ) . count ( ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertEquals ( 6 , count ) 

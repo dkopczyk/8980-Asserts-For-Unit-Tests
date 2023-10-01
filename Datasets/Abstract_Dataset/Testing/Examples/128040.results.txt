@@ -1,0 +1,2 @@
+METHOD_0 ( ) { long count = session . from ( METHOD_1 ( IDENT_0 ) ) . count ( ) ; session . save ( new com . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 . User ( ) ) ; "<AssertPlaceHolder>" ; } from ( com . IDENT_1 . query . types . IDENT_5 [ ] ) { return IDENT_6 . from ( o ) ; }
+org . junit . Assert . assertEquals ( ( count + 1L ) , session . from ( METHOD_1 ( IDENT_0 ) ) . count ( ) ) 

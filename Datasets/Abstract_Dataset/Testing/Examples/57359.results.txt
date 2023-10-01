@@ -1,0 +1,2 @@
+METHOD_0 ( ) { io . IDENT_0 . api . IDENT_1 request = new io . IDENT_0 . server . expression . METHOD_1 ( null ) ; expression . METHOD_2 ( request , STRING_0 , true ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return sql ; }
+org . junit . Assert . assertEquals ( "" , request . METHOD_3 ( ) ) 

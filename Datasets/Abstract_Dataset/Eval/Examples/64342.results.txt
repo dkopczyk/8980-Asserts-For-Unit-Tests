@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( METHOD_1 ) ; IDENT_0 . start ( ) ; verify ( METHOD_1 ) . METHOD_2 ( eq ( IDENT_1 ) ) ; io . vertx . core . IDENT_2 < io . vertx . core . http . IDENT_3 > IDENT_4 = IDENT_0 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; IDENT_1 . METHOD_4 ( ( request ) -> { } ) ; } METHOD_3 ( ) { return IDENT_5 ; }
+org . junit . Assert . assertNotNull ( METHOD_4 ) 

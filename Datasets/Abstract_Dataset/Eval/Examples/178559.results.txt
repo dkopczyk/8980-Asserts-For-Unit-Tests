@@ -1,0 +1,2 @@
+METHOD_0 ( ) { when ( IDENT_0 . METHOD_1 ( any ( javax . servlet . http . IDENT_1 . class ) , anyString ( ) , anyString ( ) , anyString ( ) ) ) . thenReturn ( "value" ) ; java . lang . String result = IDENT_2 . METHOD_1 ( request , "" , "value" , "" ) ; "<AssertPlaceHolder>" ; } METHOD_1 ( javax . servlet . http . IDENT_1 , java . lang . String , java . lang . String , java . lang . String ) { return value ; }
+org . junit . Assert . assertThat ( result , org . hamcrest . core . Is . is ( "value" ) ) 

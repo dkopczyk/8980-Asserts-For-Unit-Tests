@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( java . lang . String ) { return string . getBytes ( com . IDENT_0 . IDENT_1 . util . IDENT_2 . IDENT_3 ) ; }
+org . junit . Assert . assertArrayEquals ( new byte [ ] { 0 , 0 , 0 , 6 } , com . IDENT_0 . IDENT_1 . util . IDENT_2 . METHOD_1 ( 6 ) ) 

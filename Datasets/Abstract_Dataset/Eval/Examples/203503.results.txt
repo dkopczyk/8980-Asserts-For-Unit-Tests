@@ -1,0 +1,2 @@
+METHOD_0 ( ) { double [ ] size = new double [ ] { INT_0 , INT_0 , INT_0 } ; de . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 s = new de . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_1 ( size , 3 ) ; double [ ] IDENT_4 = new double [ ] { INT_1 , INT_1 , INT_2 } ; de . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_5 IDENT_6 = new de . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_2 ( IDENT_4 , FLOAT_0 , 3 ) ; boolean result = IDENT_6 . METHOD_3 ( s ) ; "<AssertPlaceHolder>" ; }
+org . junit . Assert . assertTrue ( result ) 

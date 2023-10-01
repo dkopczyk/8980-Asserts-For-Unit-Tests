@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . util . List < org . oscm . ui . model . IDENT_0 > list = METHOD_1 ( true , false ) ; org . oscm . json . IDENT_1 IDENT_2 = IDENT_3 . METHOD_2 ( org . oscm . json . IDENT_4 . IDENT_5 , org . oscm . json . IDENT_4 . IDENT_6 , list , org . oscm . json . IDENT_4 . IDENT_7 , true , false ) ; java . util . List < org . oscm . json . IDENT_8 > params = IDENT_2 . METHOD_3 ( ) ; for ( org . oscm . json . IDENT_8 p : params ) { "<AssertPlaceHolder>" ; } } METHOD_4 ( ) { return METHOD_4 ; }
+org . junit . Assert . assertTrue ( p . METHOD_4 ( ) ) 

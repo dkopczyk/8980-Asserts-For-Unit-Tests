@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . talend . components . jdbc . dataset . IDENT_0 dataset = METHOD_1 ( false ) ; org . talend . components . jdbc . runtime . IDENT_1 . IDENT_2 runtime = new org . talend . components . jdbc . runtime . IDENT_1 . METHOD_2 ( ) ; runtime . METHOD_3 ( null , dataset ) ; org . apache . avro . Schema schema = runtime . METHOD_4 ( ) ; "<AssertPlaceHolder>" ; org . talend . components . jdbc . common . IDENT_3 . METHOD_5 ( schema . METHOD_6 ( ) , true ) ; } METHOD_4 ( ) { return schema ; }
+org . junit . Assert . assertNotNull ( schema ) 

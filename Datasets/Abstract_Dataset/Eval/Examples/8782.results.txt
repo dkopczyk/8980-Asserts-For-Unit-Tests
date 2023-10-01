@@ -1,0 +1,2 @@
+METHOD_0 ( ) { builder . setName ( STRING_0 ) ; "<AssertPlaceHolder>" ; } setName ( java . lang . String ) { METHOD_1 ( name ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , builder . name ) 

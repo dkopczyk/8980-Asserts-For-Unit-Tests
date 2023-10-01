@@ -1,0 +1,2 @@
+test ( ) { try { connect ( ) ; "<AssertPlaceHolder>" ; } catch ( java . lang . Exception e ) { org . junit . Assert . fail ( e . METHOD_0 ( ) . toString ( ) ) ; } } connect ( ) { return connect ( "" ) ; }
+org . junit . Assert . assertTrue ( true ) 

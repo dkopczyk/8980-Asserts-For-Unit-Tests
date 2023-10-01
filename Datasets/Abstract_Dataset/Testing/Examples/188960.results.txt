@@ -1,0 +1,2 @@
+METHOD_0 ( ) { System . out . println ( STRING_0 ) ; java . io . File f = new java . io . File ( STRING_1 ) ; org . IDENT_0 . IDENT_1 . bean . IDENT_2 expResult = METHOD_1 ( ) ; org . IDENT_0 . IDENT_1 . bean . IDENT_3 result = IDENT_4 . METHOD_2 ( f ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( java . io . File ) { IDENT_5 . IDENT_6 . Document doc = METHOD_3 ( f ) ; return METHOD_4 ( doc ) ; }
+org . junit . Assert . assertEquals ( expResult , result ) 

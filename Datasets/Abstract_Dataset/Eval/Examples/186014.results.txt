@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String key = STRING_0 ; com . github . IDENT_0 . query . mongodb . sql . converter . IDENT_1 IDENT_2 = new com . github . IDENT_0 . query . mongodb . sql . converter . METHOD_1 ( ( ( STRING_1 + key ) + STRING_2 ) ) ; org . bson . Document document = IDENT_2 . METHOD_2 ( ) . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { return query ; }
+org . junit . Assert . assertEquals ( com . github . IDENT_0 . query . mongodb . sql . converter . Long . class , document . get ( key ) . getClass ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . time . IDENT_0 base = java . time . IDENT_0 . of ( INT_0 , 1 , 1 ) ; java . time . IDENT_0 expected = base ; for ( int i = 1 ; i <= ( org . IDENT_1 . IDENT_2 . IDENT_3 . IDENT_4 ) ; i ++ ) { org . IDENT_1 . IDENT_2 . IDENT_5 test = org . IDENT_1 . IDENT_2 . IDENT_5 . of ( i ) ; "<AssertPlaceHolder>" ; expected = expected . METHOD_1 ( 1 ) ; } } METHOD_2 ( java . time . IDENT_6 . IDENT_7 ) { return IDENT_6 . with ( org . IDENT_1 . IDENT_2 . IDENT_8 , getValue ( ) ) ; }
+org . junit . Assert . assertEquals ( expected , test . METHOD_2 ( base ) ) 

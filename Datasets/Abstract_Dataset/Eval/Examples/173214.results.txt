@@ -1,0 +1,2 @@
+METHOD_0 ( ) { tree . delete ( tree . search ( 2 ) ) ; "<AssertPlaceHolder>" ; METHOD_1 ( tree . METHOD_2 ( ) , 2 ) ; } search ( int ) { IDENT_0 . IDENT_1 . Node result = METHOD_3 ( node , IDENT_2 ) ; if ( result != null ) { return STRING_0 ; } else { return STRING_1 ; } }
+org . junit . Assert . assertNull ( tree . search ( 2 ) ) 

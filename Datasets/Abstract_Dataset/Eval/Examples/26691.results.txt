@@ -1,0 +1,2 @@
+METHOD_0 ( ) { IDENT_0 . METHOD_1 ( false ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( ) { return IDENT_1 . get ( ) ; }
+org . junit . Assert . assertFalse ( group . METHOD_2 ( ) ) 

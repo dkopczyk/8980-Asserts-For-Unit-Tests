@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . reflect . Field field = com . github . IDENT_0 . IDENT_1 . builder . IDENT_2 . IDENT_3 . class . METHOD_1 ( STRING_0 ) ; com . github . IDENT_0 . IDENT_1 . builder . IDENT_4 property = new com . github . IDENT_0 . IDENT_1 . builder . METHOD_2 ( field , IDENT_5 ) ; "<AssertPlaceHolder>" . METHOD_3 ( STRING_1 ) ; } METHOD_4 ( ) { return getType ( ) . getName ( ) ; }
+org . junit . Assert . assertThat ( property . METHOD_4 ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { final java . util . Iterator < java . lang . String > IDENT_0 = new org . apache . tinkerpop . IDENT_1 . util . iterator . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } hasNext ( ) { if ( ! ( this . queue . isEmpty ( ) ) ) return true ; else if ( ! ( this . IDENT_2 . hasNext ( ) ) ) { this . IDENT_3 . METHOD_2 ( IDENT_4 . IDENT_5 . IDENT_6 ) ; return false ; } else { this . METHOD_3 ( ) ; return this . hasNext ( ) ; } }
+org . junit . Assert . assertFalse ( IDENT_0 . hasNext ( ) ) 

@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . apache . jena . atlas . lib . tuple . IDENT_0 < java . lang . Integer > tuple = org . apache . jena . atlas . lib . tuple . IDENT_1 . METHOD_1 ( 9 , 8 , 7 , 6 , 5 , 4 , 3 ) ; "<AssertPlaceHolder>" ; org . apache . jena . atlas . lib . tuple . IDENT_2 . METHOD_2 ( tuple ) ; } len ( ) { return 0 ; }
+org . junit . Assert . assertEquals ( 7 , tuple . len ( ) ) 

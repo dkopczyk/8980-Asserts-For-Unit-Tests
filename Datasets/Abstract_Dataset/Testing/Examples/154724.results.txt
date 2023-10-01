@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_0 ( ) { return false ; }
+org . junit . Assert . assertFalse ( subject . METHOD_0 ( ) ) 

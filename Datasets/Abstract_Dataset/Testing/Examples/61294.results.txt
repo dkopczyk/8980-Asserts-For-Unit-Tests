@@ -1,0 +1,2 @@
+METHOD_0 ( ) { org . eclipse . swt . IDENT_0 . IDENT_1 IDENT_2 = METHOD_1 ( ) ; IDENT_3 . METHOD_2 ( IDENT_2 ) ; "<AssertPlaceHolder>" ; } METHOD_3 ( ) { METHOD_4 ( ) ; METHOD_5 ( ) ; org . eclipse . swt . IDENT_0 . IDENT_1 IDENT_4 = METHOD_6 ( ) . IDENT_4 ; return IDENT_4 == null ? parent . METHOD_3 ( ) : IDENT_4 ; }
+org . junit . Assert . assertEquals ( IDENT_2 , IDENT_3 . METHOD_3 ( ) ) 

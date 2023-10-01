@@ -1,0 +1,2 @@
+METHOD_0 ( ) { for ( org . IDENT_0 . IDENT_1 . Set c : org . IDENT_0 . IDENT_1 . Arrays . asList ( new org . IDENT_0 . IDENT_1 . HashSet ( ) , new org . IDENT_0 . IDENT_1 . METHOD_1 ( ) ) ) { c . add ( c ) ; c = org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_2 ( c ) ; "<AssertPlaceHolder>" ; } } METHOD_2 ( IDENT_3 ) { return org . IDENT_0 . IDENT_1 . IDENT_2 . METHOD_3 ( value ) ; }
+org . junit . Assert . assertTrue ( ( ( c . iterator ( ) . next ( ) ) == c ) ) 

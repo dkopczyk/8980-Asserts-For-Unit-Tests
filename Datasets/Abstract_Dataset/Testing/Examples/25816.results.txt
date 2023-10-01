@@ -1,0 +1,2 @@
+METHOD_0 ( ) { boolean IDENT_0 = container . isValid ( STRING_0 , STRING_1 ) ; "<AssertPlaceHolder>" ; } isValid ( java . lang . String , java . lang . String ) { if ( ( STRING_2 . equals ( IDENT_1 ) ) && ( STRING_2 . equals ( IDENT_2 ) ) ) return true ; org . apache . IDENT_3 . IDENT_2 . IDENT_4 . Entry entry = IDENT_5 . get ( IDENT_1 ) ; return ( entry != null ) && ( entry . IDENT_2 . equals ( IDENT_2 ) ) ; }
+org . junit . Assert . assertFalse ( IDENT_0 ) 

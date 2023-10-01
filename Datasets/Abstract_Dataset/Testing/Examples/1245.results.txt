@@ -1,0 +1,2 @@
+METHOD_0 ( ) { METHOD_1 ( null , null , null , null ) ; IDENT_0 . METHOD_2 ( ) ; final java . util . List < com . IDENT_1 . IDENT_2 . commons . IDENT_3 . IDENT_4 . IDENT_5 . IDENT_6 < com . IDENT_1 . IDENT_2 . commons . IDENT_3 . IDENT_4 . IDENT_7 > > data = IDENT_0 . METHOD_3 ( ) ; "<AssertPlaceHolder>" ; } isEmpty ( ) { return ( values . isEmpty ( ) ) || ( ( getValue ( ) ) == null ) ; }
+org . junit . Assert . assertThat ( data . isEmpty ( ) , org . hamcrest . core . Is . is ( true ) ) 

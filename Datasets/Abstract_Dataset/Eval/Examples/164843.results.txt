@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . io . InputStream is = new java . io . ByteArrayInputStream ( org . oscm . string . IDENT_0 . METHOD_1 ( STRING_0 ) ) ; byte [ ] bytes = org . oscm . stream . IDENT_1 . METHOD_0 ( is ) ; "<AssertPlaceHolder>" ; } toString ( byte [ ] ) { return org . oscm . string . IDENT_0 . METHOD_2 ( value , STRING_1 ) ; }
+org . junit . Assert . assertEquals ( STRING_0 , org . oscm . string . IDENT_0 . toString ( bytes ) ) 

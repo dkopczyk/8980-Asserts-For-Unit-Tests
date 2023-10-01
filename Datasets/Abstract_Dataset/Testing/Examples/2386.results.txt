@@ -1,0 +1,2 @@
+METHOD_0 ( ) { "<AssertPlaceHolder>" ; } METHOD_1 ( T [ ] ) { return ( array == null ) || ( ! ( org . IDENT_0 . util . Arrays . METHOD_2 ( array ) ) ) ; }
+org . junit . Assert . assertTrue ( org . IDENT_0 . util . Arrays . METHOD_1 ( new java . lang . String [ 0 ] ) ) 

@@ -1,0 +1,2 @@
+get ( ) { doReturn ( value ) . when ( client ) . get ( key ) ; byte [ ] IDENT_0 = IDENT_1 . get ( key ) ; "<AssertPlaceHolder>" ; } get ( byte [ ] ) { return METHOD_0 ( ) . get ( key ) ; }
+org . junit . Assert . assertEquals ( value , IDENT_0 ) 

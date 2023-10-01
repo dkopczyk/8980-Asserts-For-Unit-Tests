@@ -1,0 +1,2 @@
+METHOD_0 ( ) { try ( IDENT_0 . IDENT_1 . IDENT_2 f = METHOD_1 ( ) ) { try { long IDENT_3 = INT_0 ; try ( IDENT_0 . IDENT_1 . IDENT_4 IDENT_5 = new IDENT_0 . IDENT_1 . METHOD_2 ( f , STRING_0 ) ) { IDENT_5 . METHOD_3 ( IDENT_3 ) ; } "<AssertPlaceHolder>" ; } finally { f . delete ( ) ; } } } length ( ) { return this . IDENT_6 ; }
+org . junit . Assert . assertEquals ( IDENT_3 , f . length ( ) ) 

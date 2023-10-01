@@ -1,0 +1,2 @@
+METHOD_0 ( ) { com . IDENT_0 . IDENT_1 . IDENT_2 IDENT_3 = new com . IDENT_0 . IDENT_1 . METHOD_1 ( ) ; "<AssertPlaceHolder>" ; } METHOD_2 ( float , float ) { if ( b == FLOAT_0 ) throw new java . lang . METHOD_3 ( STRING_0 ) ; return a / b ; }
+org . junit . Assert . assertEquals ( 10 , IDENT_3 . METHOD_2 ( 1 , 0 ) , ( - 1 ) ) 

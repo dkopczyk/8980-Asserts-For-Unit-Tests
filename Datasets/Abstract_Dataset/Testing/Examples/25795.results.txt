@@ -1,0 +1,2 @@
+METHOD_0 ( ) { java . lang . String buf = STRING_0 ; java . util . List < org . apache . IDENT_0 . IDENT_1 . IDENT_2 . IDENT_3 > IDENT_4 = org . apache . IDENT_0 . spark . IDENT_5 . IDENT_6 . METHOD_1 ( buf , buf . length ( ) , null ) ; "<AssertPlaceHolder>" ; } size ( ) { MOD_0 ( IDENT_7 ) { return IDENT_7 . size ( ) ; } }
+org . junit . Assert . assertTrue ( ( ( IDENT_4 . size ( ) ) > 0 ) ) 
